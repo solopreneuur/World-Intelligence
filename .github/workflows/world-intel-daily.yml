@@ -1,0 +1,94 @@
+name: World Intel Daily
+
+on:
+  schedule:
+    - cron: "15 8 * * *"
+      timezone: "America/New_York"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: world-intel
+  cancel-in-progress: false
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: America/New_York
+      CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+      PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+      GMAIL_USER: ${{ secrets.GMAIL_USER }}
+      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install tools
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          pip install feedparser markdown
+
+      - name: Run daily sweep
+        run: |
+          mkdir -p .claude/logs
+          set +e
+          claude -p "/world-intel-daily" \
+            --permission-mode acceptEdits \
+            --permission-prompts none > .claude/logs/run.log 2>&1
+          echo "CLAUDE_EXIT=$?" >> "$GITHUB_ENV"
+          exit 0
+
+      - name: Commit results to the vault
+        run: |
+          git config user.name "world-intel-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "World Intel daily $(date +%F)"
+          git pull --rebase
+          git push
+
+      - name: Email
+        if: always()
+        run: |
+          mkdir -p .claude/logs
+          if [ -s .claude/logs/last-daily.md ]; then
+            python .claude/scripts/send_email.py "World Intel - $(date '+%a %b %-d')" .claude/logs/last-daily.md
+          else
+            {
+              echo "# Daily sweep did not produce a digest"
+              echo
+              echo "## What failed"
+              echo
+              if [ -n "${CLAUDE_EXIT:-}" ]; then
+                echo "Claude Code ran but wrote no output (exit code $CLAUDE_EXIT)"
+              else
+                echo "Claude Code never started; an earlier step (checkout or install) failed"
+              fi
+              echo
+              echo "## Full run on GitHub"
+              echo
+              echo "$RUN_URL"
+              echo
+              echo "## Last 30 lines of the log"
+              echo
+              if [ -s .claude/logs/run.log ]; then
+                tail -n 30 .claude/logs/run.log | sed 's/^/    /'
+              else
+                echo "(no log was written)"
+              fi
+            } > .claude/logs/failure.md
+            python .claude/scripts/send_email.py "World Intel FAILED - $(date +%F)" .claude/logs/failure.md
+          fi

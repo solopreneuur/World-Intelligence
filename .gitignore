@@ -1,0 +1,5 @@
+.claude/scripts/.env
+.claude/logs/
+.obsidian/workspace*.json
+.venv/
+.DS_Store

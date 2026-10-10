@@ -1,0 +1,39 @@
+# Wire
+Al Jazeera | https://www.aljazeera.com/xml/rss/all.xml
+South China Morning Post | https://www.scmp.com/rss/91/feed
+WSJ World News | https://feeds.content.dowjones.io/public/rss/RSSWorldNews
+WSJ Economy | https://feeds.content.dowjones.io/public/rss/socialeconomyfeed
+# myFT | PASTE_YOUR_PERSONAL_MYFT_RSS_URL_HERE
+Bloomberg Economics | https://feeds.bloomberg.com/economics/news.rss
+
+# Tech & AI
+MIT Technology Review | https://www.technologyreview.com/feed/
+Hacker News | https://news.ycombinator.com/rss
+TechCrunch | https://techcrunch.com/feed/
+The Information | https://www.theinformation.com/feed
+Interconnects AI | https://www.interconnects.ai/feed
+Fabricated Knowledge | https://www.fabricatedknowledge.com/feed
+Andrej Karpathy's blog | https://karpathy.bearblog.dev/feed/
+
+# Finance & Economics
+Net Interest (Marc Rubinstein) | https://www.netinterest.co/feed
+Exponential View (Azeem Azhar) | https://www.exponentialview.co/feed
+BIG by Matt Stoller | https://www.thebignewsletter.com/feed
+
+# Independent Writers
+# Every has no working site-wide feed (every.to/feeds/all.xml is empty), so this is
+# one column. Others: every.to/<column>/feed, e.g. chain-of-thought, source-code, vibe-check
+Every | https://every.to/context-window/feed
+Noahpinion (Noah Smith) | https://www.noahpinion.blog/feed
+Chamath Palihapitiya | https://chamath.substack.com/feed
+Paul Graham Essays | https://paulgrahamessays.val.run/
+Palladium Magazine | https://www.palladiummag.com/feed/
+
+# Startups/VC
+Venture Daily Digest | https://www.venturedailydigest.com/feed
+
+# Creator Economy & Marketing
+ICYMI by Lia Haberman | https://liahaberman.substack.com/feed
+Tubefilter | https://www.tubefilter.com/feed/
+Digiday | https://digiday.com/feed/
+Link in Bio by Rachel Karten | https://www.linkinbio.news/feed
