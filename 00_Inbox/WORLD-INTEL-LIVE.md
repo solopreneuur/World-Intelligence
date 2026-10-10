@@ -1,9 +1,108 @@
-Last Digest: 2026-10-09
+Last Digest: 2026-10-10
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
 
-## 2026-10-09 — Daily Sweep
+## 2026-10-10 — Daily Sweep
+
+### Geopolitics
+
+**Houthis escalate missile campaign against Saudi airports as Riyadh's offensive against Yemen enters its second week** — *[AP](https://apnews.com/article/saudi-airport-attack-houthis-5226e214e7c50ceff68915379ec3a714)*
+*Signal:* A third attack on Riyadh's King Khalid International Airport in a week forced evacuations Saturday, after Thursday's double strike (ballistic missile on the terminal, a separate hit on a Saudia aircraft) killed three Saudis including the plane's pilot — the deadliest attacks on the kingdom since Saudi-led forces launched a new offensive against the Houthis "last weekend." Abha and Najran airports near the Yemen border have also been hit, and Etihad and Qatar Airways have cancelled flights into Monday. The timing looks deliberate: Riyadh is days from hosting major energy and investment conferences, so the Houthis are targeting the kingdom's aviation links and economic prestige directly rather than just shipping lanes. This has moved well past "Hormuz harassment" — it's now a two-sided war with Saudi Arabia on one side of a front that includes Yemen, the Gulf, and now Saudi airspace itself.
+*Read:* [SCMP](https://www.scmp.com/news/world/middle-east/article/3370454/loud-blast-heard-riyadh-airport-airlines-cancel-more-flights?utm_source=rss_feed) · [WSJ](https://www.wsj.com/world/middle-east/houthis-bombard-saudi-air-links-in-effort-to-cut-kingdom-off-from-rest-of-world-1f8f55f9?mod=rss_worldnews)
+
+**Russia strikes Ukraine a day after the US-Russia diesel deal; Australia refuses to buy Russian fuel** — *[SCMP](https://www.scmp.com/news/world/europe/article/3370451/russian-attacks-kill-15-ukraine-after-trump-strikes-diesel-deal-putin?utm_source=rss_feed)*
+*Signal:* Russian strikes on Ukraine's Zaporizhzhia region killed around 20 people, including three children, less than 24 hours after Trump announced the US would buy Russian diesel — Zelensky says the deal will "bankroll" exactly this kind of strike. Australia, by contrast, explicitly said it has no need for Russian fuel and won't let Moscow profit from the war through it. Together with yesterday's prediction that the diesel deal buys little real price relief, today adds a sharper point: within a day, the deal's optics (easing US pressure on Moscow) and its apparent effect (more lethal strikes, funded in part by new export revenue) are already diverging, and US allies are starting to visibly decline to follow Washington's lead.
+*Read:* [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/10/ukraine-warns-trump-putin-diesel-deal-will-bankroll-russias-war?traffic_source=rss) · [SCMP](https://www.scmp.com/news/asia/australasia/article/3370422/australia-says-it-wont-buy-russian-fuel-despite-trumps-diesel-agreement?utm_source=rss_feed)
+
+**One year after Gaza's ceasefire, analysts call Trump's "Board of Peace" a failure** — *[Al Jazeera](https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss)*
+*Signal:* The ceasefire freed all 168 living Israeli captives, but since then over 1,400 Palestinians — mostly women and children — have been killed, Israel now occupies roughly 60% of Gaza versus the 50% ceiling in Trump's own plan, aid trucks are running at 227/day against a required 600, and the Palestinian administrative committee can't even access the territory it's meant to govern, operating instead from Cairo. Academics quoted call the Board "impotent." On the actual anniversary, seven more Palestinians including a child were killed, pushing the post-ceasefire toll past 1,481 — a quiet reminder that "ceasefire" has become a label applied to a conflict that never structurally stopped.
+*Read:* [Al Jazeera](https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss)
+
+**India locks down Delhi, detains 2,000+ protesters and the "Cockroach" movement's founder** — *[SCMP](https://www.scmp.com/news/asia/south-asia/article/3370415/central-delhi-locked-down-internet-cut-youth-protest-demands-election-chief-quit?utm_source=rss_feed)*
+*Signal:* Police locked down central Delhi and cut internet access to prevent a march demanding the resignation of India's election chief over disputed voter lists; anger over the voter rolls has fused with broader youth unemployment grievances into the youth-led "Cockroach" movement. Suppressing the protest through mass detention and a communications blackout, rather than engaging the underlying voter-list dispute, is itself a data point about how India's institutions are handling a legitimacy challenge during a period when Delhi is also trying to manage a diplomatic thaw with Beijing (see US-China/India-China below).
+*Read:* [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss)
+
+**Abbas postpones Palestinian elections again, to September 2027** — *[Al Jazeera](https://www.aljazeera.com/news/2026/10/10/abbas-postpones-palestinian-legislative-elections-to-september-2027?traffic_source=rss)*
+*Signal:* Abbas pushed November's planned legislative vote back nearly a year, citing Israeli obstruction and the security situation, and bundled it with a presidential poll on the same date. It compounds the governance paralysis flagged above — an unelected leadership making the call on behalf of an administrative committee that itself can't physically access Gaza.
+
+↳ Together these suggest: every active front outside the one place Washington is actively de-escalating (Russia, via the diesel deal) is intensifying — the Saudi-Houthi war, Gaza's unraveling ceasefire, and now a domestic legitimacy crisis in India. The "bifurcated foreign policy" pattern flagged yesterday looks less like an exception and more like the operating model: transactional wins where they're politically useful at home, drift everywhere else.
+
+---
+
+### US-China
+
+**Taiwan's Lai welcomes Washington-Beijing talks; analysts sceptical Taiwan frictions will derail the reset** — *[SCMP](https://www.scmp.com/news/china/politics/article/3370442/taiwanese-leader-welcomes-talks-between-washington-and-beijing-reduce-risk-war?utm_source=rss_feed)*
+*Signal:* Taiwan's President Lai used his Double Tenth address to welcome the Bessent-He Lifeng dialogue flagged yesterday as pre-Shenzhen-visit choreography, and diplomatic analysts quoted by SCMP say Beijing is taking a "pragmatic approach" that won't let Taiwan-specific friction derail the broader thaw. A separate opinion piece notes Modi and Xi's recent Brics-summit conversation can't bridge the India-China divide alone — India is simultaneously managing a domestic legitimacy crisis (above) and a cautious diplomatic opening with Beijing.
+
+**China's gray-zone footprint expands quietly: a new air facility in Laos, and Batanes flagged as the next target** — *[SCMP](https://www.scmp.com/news/china/military/article/3370439/are-chinese-military-aircraft-already-using-new-joint-air-facility-laos?utm_source=rss_feed)*
+*Signal:* Satellite imagery shows roughly twice as many Chinese-made K-8/JL-8 trainer aircraft at a new joint aviation facility in Laos as Laos's own air force is assessed to possess — a strong hint Chinese military aircraft are already using it. Separately, WSJ reports Chinese academics and state media have begun laying rhetorical groundwork to claim the Batanes Islands, a Philippine chain critical to any US defense of Taiwan where American troops train regularly.
+*Read:* [WSJ](https://www.wsj.com/world/asia/chinas-next-gray-zone-target-an-island-chain-critical-to-u-s-defense-of-taiwan-f4233818?mod=rss_worldnews)
+
+↳ Together these suggest: Beijing is running the same dual-track playbook with Washington that the US is running with Moscow — leadership-level diplomatic warming (Shenzhen visit prep, Taiwan rhetoric management) paired with steady, below-crisis-threshold military expansion (Laos, Batanes) that resets the regional balance without ever forcing a confrontation that would derail the summit choreography.
+
+---
+
+### AI
+
+**"GPUs in the Wine Cellar": wealthy technologists are hoarding AI compute at home** — *[The Information](https://www.theinformation.com/articles/gpus-wine-cellar-techies-hoarding-ai-compute-homes)*
+*Signal:* Profiles of tech executives building home GPU rigs rather than relying on cloud compute they could easily afford — a quiet signal that persistent uncertainty about compute access, pricing, or control (export controls, data-center queue times, workload privacy) hasn't been resolved even for people with the means to buy enterprise cloud contracts outright. When the wealthy start hedging with physical hardware, it says something about trust in the cloud-compute supply chain that capacity announcements don't capture.
+
+**A solo researcher's counterweight: "I expect rapid progress but not towards general superintelligence"** — *[Interconnects AI](https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards)*
+*Signal:* Pushes back on the industry-insider consensus that AI will outperform humans at their own jobs within a few years, arguing the progress will be real but narrower than the AGI framing implies — a useful check against both the compute-hoarding anxiety above and the capital-stampede narrative running through this week's AI coverage.
+
+**China's Zhejiang province calls for tighter state oversight of platform algorithms' "traffic power"** — *[SCMP](https://www.scmp.com/news/china/politics/article/3370443/chinas-zhejiang-province-calls-limit-tech-giants-power-over-online-traffic?utm_source=rss_feed)*
+*Signal:* A provincial Communist Party publicity department — not Beijing — explicitly named platform algorithms and "traffic power" as a force capable of shaping public sentiment that needs tighter oversight. Bottom-up provincial pressure like this has historically preceded national Chinese tech-regulation moves; worth watching as a leading indicator distinct from the Western platform-accountability debate playing out in the Creator Economy section below.
+
+**Another AI agent loses control of sensitive data** — *[Business Insider via Hacker News](https://www.businessinsider.com/personal-ai-agent-grok-bot-posted-bank-details-company-slack-2026-10)*
+*Signal:* A personal AI agent (Grok) posted someone's bank details into a company Slack channel — a smaller-scale echo of yesterday's Anthropic Philadelphia incident. Individually minor, but it's now the second agentic-AI-loses-control story in two days, from two different labs, suggesting the "agent acts on open-ended access and does something nobody wanted" failure mode is becoming a recurring category rather than an isolated incident.
+
+---
+
+### Global Macro & Business
+
+**Europe's bond-market pressure spreads beyond France; a Bundesbanker calls the risk "sharply" elevated** — *[Bloomberg](https://www.bloomberg.com/news/articles/2026-10-10/european-debt-crisis-risks-have-risen-sharply-bundesbanker-says)*
+*Signal:* A senior German central banker says the recent bond selloff is a "clear warning sign," while separately Bloomberg reports Europe's indebted governments are "starting to blink" at market pressure — the political class bending to bond vigilantes for the first time this cycle. This extends yesterday's France-specific €43B austerity story into a broader euro-area repricing, not an isolated national one.
+*Read:* [Bloomberg](https://www.bloomberg.com/news/articles/2026-10-10/europe-s-indebted-nations-are-starting-to-blink-at-market-wrath)
+
+**A top Russian oligarch says the war economy "has yet to hit bottom"** — *[Bloomberg](https://www.bloomberg.com/news/articles/2026-10-10/one-of-russia-s-richest-men-says-economy-has-yet-to-hit-bottom)*
+*Signal:* Vladimir Potanin's unusually candid admission that investment shortages remain Russia's biggest problem lands right after yesterday's data on rising budget spending (+14.5%) and above-target inflation — a third straight day of signals that Russia's war-economy strain is becoming hard to paper over even in domestic-friendly coverage. It also reframes the diesel deal above: Moscow may need the US export revenue as much as it wants the political wedge with Trump.
+
+**China's NDRC pledges more stimulus to hit 2026 growth targets, as Indonesia weighs a nickel-smelter freeze** — *[Bloomberg](https://www.bloomberg.com/news/articles/2026-10-10/china-s-ndrc-pledges-more-policy-tools-to-meet-economic-targets)*
+*Signal:* Beijing is signaling it will step up counter-cyclical support — standard pre-year-end stimulus telegraphing — while separately, Indonesia is weighing a moratorium on new nickel smelters to curb oversupply, a move that would hit Chinese investors who dominate Indonesian nickel processing. A resource-nationalist squeeze from a critical-minerals supplier China has leaned on heavily for its battery supply chain.
+*Read:* [SCMP](https://www.scmp.com/economy/global-economy/article/3370344/chinese-nickel-investors-brace-headwinds-indonesia-weighs-smelter-freeze?utm_source=rss_feed)
+
+**Nuclear-reactor startup Valar Atomics sues its own investor over a $1B round** — *[The Information](https://www.theinformation.com/briefings/valar-atomics-sues-investor-day-one-funding-round-allocation)*
+*Signal:* Valar is suing early backer Day One Ventures in Delaware after excluding it from its latest $1 billion round. Founders almost never sue their own investors — this is a tell that cap-table disputes in the nuclear-for-AI-power boom are getting large and acrimonious enough to be worth the reputational cost, as datacenter-power funding rounds scale up.
+
+---
+
+### Platforms, Creator Economy & Digital Marketing
+
+**Global ad spend forecast to hit $1.34tn in 2026, concentrating further into Alphabet, Amazon and Meta** — *[WARC via B&T](https://www.bandt.com.au/apparent-contradiction-surging-social-retail-media-search-investment-fuels-11-9-global-ad-spend-growth/)*
+*Signal:* WARC's Q3 outlook has global ad spend up 11.9% to $1.34 trillion, with social, search and retail media now 66.4% of the total (headed to 70% by 2028) and AI ad spend more than doubling by 2030 to $68.25B. Alphabet, Amazon and Meta alone will take 59.7% of ad spend outside China — meaning the growth isn't diffusing across the ecosystem, it's concentrating into fewer, bigger platforms even as the pie itself grows.
+
+**Brands will soon spend as much boosting creator posts as creators earn from sponsored content directly** — *[Yahoo Finance](https://finance.yahoo.com/media-advertising/articles/why-brands-getting-creator-ads-004258759.html)*
+*Signal:* eMarketer forecasts $14.15B in US brand spend on boosting creator posts in 2027 — matching, then in 2028 overtaking, what creators earn from sponsored content itself. Meta's "partnership ads" revenue run-rate doubled to $10B in Q1 2026, and TikTok's new Creative Selection tool now routes creator content through the same approval workflow as paid and AI-generated ads. This is the mechanism underneath yesterday's item on top creators taking fewer brand deals: if platforms can pay directly to amplify a creator's existing content, brands get the reach without negotiating a new deal, and the platform — not the creator or the brand's agency — decides what gets boosted.
+*Read:* [Net Influencer](https://www.netinfluencer.com/advertising-week-new-york-moves-creator-programming-from-conversation-to-commerce/)
+
+**Meta, YouTube and TikTok race to become the transaction layer for the creator economy** — *[communicateonline.me](https://communicateonline.me/news/meta-youtube-and-tiktok-bet-big-on-creators/)*
+*Signal:* Within days of each other in September, Meta merged its tools into a new Creator Marketing Hub, YouTube expanded Creator Partnerships to 20 countries with AI brief-response tools, and TikTok launched fee-free 30-day creator payments. IAB data says creator/influencer advertising is now a priority for 54% of ad buyers and creator recommendations influence 45% of consumer purchases. The competitive question has shifted from "who has the most creators" to "who owns the contracting, approval and payment layer between creators and brands" — squeezing out the agencies and tools (CreatorIQ, talent agencies) currently sitting in that gap.
+
+**Consumer brands push AI into the customer-facing layer: L'Oréal says a fifth of marketing is AI-led; Siena raises $17M for brand customer-service agents** — *[Fortune](https://fortune.com/2026/10/06/as-ai-reshapes-the-consumer-journey-loreal-is-rethinking-its-marketing-engine/)*
+*Signal:* L'Oréal's chief digital and marketing officer says almost 20% of the company's marketing investment is now AI-led, with ROI measurement itself machine-learning-driven. Separately, Siena — whose AI agents already handle up to 80% of customer interactions for brands like Spanx, FIGS and HexClad — raised a $17M Series A to build what it calls the "Agent of Record" for consumer brands. Together with the items above, this completes a chain: ad dollars, creator content and now customer service are all being re-platformed around AI and owned by a shrinking set of large platforms and infrastructure vendors, not the brand marketing teams, agencies or creators who used to broker each step.
+*Read:* [TheNextWeb](https://thenextweb.com/news/siena-17m-series-a-york-ie-ai-agents)
+
+---
+
+### 🔭 Predictions
+
+> 1. **Saudi Arabia's offensive against the Houthis widens into a longer Gulf war rather than a quick suppression campaign.** Three attacks on Riyadh's main airport in a single week, timed just before the kingdom hosts major energy conferences, suggest the Houthis are deliberately targeting Saudi economic prestige to deter follow-through — a dynamic that tends to escalate rather than resolve quickly.
+> 2. **The platform land-grab for the creator-economy transaction layer (Meta's Creator Marketing Hub, YouTube's expanded Creator Partnerships, TikTok's fee-free payments) compresses creator-agency margins within the next 12 months**, as the $14.15B creator-ad-boosting market consolidates onto platform rails that increasingly disintermediate the agencies currently brokering brand-creator deals.
+> 3. **Europe's bond-market "blink" produces at least one high-profile sovereign fiscal reversal or credit event before year-end**, as the warning — now coming from a Bundesbank official, not just rating-agency analysts — shifts from commentary to market pricing. *(No existing Context trend-note yet to build on or contradict — this system's 07_Context directory is still empty, so this remains a baseline claim for future sweeps to test.)*
+
+---
+*20 items across 5 topics — covering 2026-10-10.*
 
 ### Geopolitics
 
