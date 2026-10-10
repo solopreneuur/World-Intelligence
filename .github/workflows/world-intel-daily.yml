@@ -2,9 +2,14 @@ name: World Intel Daily
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "10 6 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if today's digest already exists"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -28,21 +33,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check whether today's digest already exists
+        id: check
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ "$FORCE" != "true" ] && grep -qE "^Last Digest: $(date +%F)[[:space:]]*$" 00_Inbox/WORLD-INTEL-LIVE.md 2>/dev/null; then
+            echo "already_done=true" >> "$GITHUB_OUTPUT"
+            echo "Today's digest already exists. Skipping the rest of this run."
+          else
+            echo "already_done=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
+        if: steps.check.outputs.already_done != 'true'
         with:
           node-version: 20
 
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.already_done != 'true'
         with:
           python-version: "3.12"
 
       - name: Install tools
+        if: steps.check.outputs.already_done != 'true'
         run: |
           npm install -g @anthropic-ai/claude-code
           pip install feedparser markdown
           claude --version
 
       - name: Trust the workspace
+        if: steps.check.outputs.already_done != 'true'
         run: |
           python3 - <<'EOF'
           import json, os
@@ -55,6 +76,7 @@ jobs:
           EOF
 
       - name: Run daily sweep
+        if: steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           set +e
@@ -65,6 +87,7 @@ jobs:
           exit 0
 
       - name: Commit results to the vault
+        if: steps.check.outputs.already_done != 'true'
         run: |
           git config user.name "world-intel-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -74,7 +97,7 @@ jobs:
           git push
 
       - name: Email
-        if: always()
+        if: always() && steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           if [ -s _run/last-daily.md ]; then

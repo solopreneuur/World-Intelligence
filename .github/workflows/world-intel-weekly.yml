@@ -5,6 +5,11 @@ on:
     - cron: "0 14 * * 0"
       timezone: "America/New_York"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if today's briefing already exists"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -29,21 +34,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check whether today's briefing already exists
+        id: check
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ "$FORCE" != "true" ] && ls "02_Areas/World-Intelligence/_Briefings/$(date +%F)"* >/dev/null 2>&1; then
+            echo "already_done=true" >> "$GITHUB_OUTPUT"
+            echo "Today's briefing already exists. Skipping the rest of this run."
+          else
+            echo "already_done=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
+        if: steps.check.outputs.already_done != 'true'
         with:
           node-version: 20
 
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.already_done != 'true'
         with:
           python-version: "3.12"
 
       - name: Install tools
+        if: steps.check.outputs.already_done != 'true'
         run: |
           npm install -g @anthropic-ai/claude-code
           pip install feedparser markdown
           claude --version
 
       - name: Archive live file
+        if: steps.check.outputs.already_done != 'true'
         run: |
           if [ -f 00_Inbox/WORLD-INTEL-LIVE.md ]; then
             cp 00_Inbox/WORLD-INTEL-LIVE.md "02_Areas/World-Intelligence/_Archive/LIVE-$(date +%F).md"
@@ -52,6 +73,7 @@ jobs:
           fi
 
       - name: Trust the workspace
+        if: steps.check.outputs.already_done != 'true'
         run: |
           python3 - <<'EOF'
           import json, os
@@ -64,6 +86,7 @@ jobs:
           EOF
 
       - name: Run weekly compression
+        if: steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           set +e
@@ -74,6 +97,7 @@ jobs:
           exit 0
 
       - name: Commit results to the vault
+        if: steps.check.outputs.already_done != 'true'
         run: |
           git config user.name "world-intel-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -83,7 +107,7 @@ jobs:
           git push
 
       - name: Email
-        if: always()
+        if: always() && steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           if [ -s _run/last-weekly.md ]; then
@@ -116,7 +140,7 @@ jobs:
           fi
 
       - name: Open approval issue
-        if: always()
+        if: always() && steps.check.outputs.already_done != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

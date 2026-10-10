@@ -801,9 +801,14 @@ name: World Intel Daily
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "10 6 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if today's digest already exists"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -827,21 +832,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check whether today's digest already exists
+        id: check
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ "$FORCE" != "true" ] && grep -qE "^Last Digest: $(date +%F)[[:space:]]*$" 00_Inbox/WORLD-INTEL-LIVE.md 2>/dev/null; then
+            echo "already_done=true" >> "$GITHUB_OUTPUT"
+            echo "Today's digest already exists. Skipping the rest of this run."
+          else
+            echo "already_done=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
+        if: steps.check.outputs.already_done != 'true'
         with:
           node-version: 20
 
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.already_done != 'true'
         with:
           python-version: "3.12"
 
       - name: Install tools
+        if: steps.check.outputs.already_done != 'true'
         run: |
           npm install -g @anthropic-ai/claude-code
           pip install feedparser markdown
           claude --version
 
       - name: Trust the workspace
+        if: steps.check.outputs.already_done != 'true'
         run: |
           python3 - <<'EOF'
           import json, os
@@ -854,6 +875,7 @@ jobs:
           EOF
 
       - name: Run daily sweep
+        if: steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           set +e
@@ -864,6 +886,7 @@ jobs:
           exit 0
 
       - name: Commit results to the vault
+        if: steps.check.outputs.already_done != 'true'
         run: |
           git config user.name "world-intel-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -873,7 +896,7 @@ jobs:
           git push
 
       - name: Email
-        if: always()
+        if: always() && steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           if [ -s _run/last-daily.md ]; then
@@ -908,6 +931,8 @@ jobs:
 
 The email script picks up `GMAIL_USER`, `GMAIL_APP_PASSWORD` and `EMAIL_TO` straight from the `env:` block, which is filled from your secrets. No secrets file is written anywhere.
 
+The schedule fires at 6:10, as a backup to an external trigger at 6:00. A check step right after checkout skips everything else, email included, when the live file already says `Last Digest:` with today's date, so a duplicate run finishes in seconds. To re-run on purpose, use Run workflow and tick `force`. The weekly workflow has the same check and `force` input, keyed on a briefing dated today in `_Briefings/`.
+
 If the sweep produces no digest, the Email step writes `_run/failure.md` and sends that instead. It says what failed (Claude Code ran but wrote nothing, with its exit code, or never started because an earlier step failed), links to the full run on GitHub, and includes the last 30 lines of the log.
 
 The `timezone` field on the schedule is a GitHub feature [added in March 2026](https://github.blog/changelog/2026-03-19-github-actions-late-march-2026-updates/), so 6:00 stays 6:00 through daylight saving changes with no UTC math.
@@ -922,6 +947,11 @@ on:
     - cron: "0 14 * * 0"
       timezone: "America/New_York"
   workflow_dispatch:
+    inputs:
+      force:
+        description: "Run even if today's briefing already exists"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -946,21 +976,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Check whether today's briefing already exists
+        id: check
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          if [ "$FORCE" != "true" ] && ls "02_Areas/World-Intelligence/_Briefings/$(date +%F)"* >/dev/null 2>&1; then
+            echo "already_done=true" >> "$GITHUB_OUTPUT"
+            echo "Today's briefing already exists. Skipping the rest of this run."
+          else
+            echo "already_done=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: actions/setup-node@v4
+        if: steps.check.outputs.already_done != 'true'
         with:
           node-version: 20
 
       - uses: actions/setup-python@v5
+        if: steps.check.outputs.already_done != 'true'
         with:
           python-version: "3.12"
 
       - name: Install tools
+        if: steps.check.outputs.already_done != 'true'
         run: |
           npm install -g @anthropic-ai/claude-code
           pip install feedparser markdown
           claude --version
 
       - name: Archive live file
+        if: steps.check.outputs.already_done != 'true'
         run: |
           if [ -f 00_Inbox/WORLD-INTEL-LIVE.md ]; then
             cp 00_Inbox/WORLD-INTEL-LIVE.md "02_Areas/World-Intelligence/_Archive/LIVE-$(date +%F).md"
@@ -969,6 +1015,7 @@ jobs:
           fi
 
       - name: Trust the workspace
+        if: steps.check.outputs.already_done != 'true'
         run: |
           python3 - <<'EOF'
           import json, os
@@ -981,6 +1028,7 @@ jobs:
           EOF
 
       - name: Run weekly compression
+        if: steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           set +e
@@ -991,6 +1039,7 @@ jobs:
           exit 0
 
       - name: Commit results to the vault
+        if: steps.check.outputs.already_done != 'true'
         run: |
           git config user.name "world-intel-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -1000,7 +1049,7 @@ jobs:
           git push
 
       - name: Email
-        if: always()
+        if: always() && steps.check.outputs.already_done != 'true'
         run: |
           mkdir -p _run
           if [ -s _run/last-weekly.md ]; then
@@ -1033,7 +1082,7 @@ jobs:
           fi
 
       - name: Open approval issue
-        if: always()
+        if: always() && steps.check.outputs.already_done != 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
