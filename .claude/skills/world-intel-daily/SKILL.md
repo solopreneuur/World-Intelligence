@@ -39,7 +39,7 @@ Volume control:
 - SCMP: max 4 items. Al Jazeera: max 4 items.
 - Bloomberg: max 6 items. WSJ (World + Economy combined): max 6 items.
 - Creator Economy & Marketing (ICYMI by Lia Haberman, Tubefilter, Digiday,
-  Link in Bio by Rachel Karten): max 3 items each.
+  Link in Bio by Rachel Karten, Modern Retail, Glossy): max 3 items each.
 - Tier 1 sources (MIT Technology Review, Every): uncapped. Include everything
   relevant.
 - Solo writers (Stoller, Noah Smith, Karpathy, Rubinstein, Azhar, Chamath,
@@ -62,10 +62,18 @@ targeted Perplexity searches (perplexity_search).
 
 Topic tiers:
 - Tier 1 (always check): Geopolitics, US Macro, Global Macro, US-China, AI,
-  Business/Finance, Tech, Social Media, Digital Marketing
+  Business/Finance, Tech,
+  Platforms & algorithms (Instagram, TikTok, YouTube: reach, monetization,
+  policy),
+  Creator economy & brand deals (sponsorship budgets, rates, creator programs,
+  agency and deal news),
+  Digital marketing & ad spend,
+  Consumer brands (funding, launches, marketing hires)
 - Tier 2 (check only if the coverage gap N is 2 days or more): EU, Accounting/Tax, Startups/VC, Privacy/Crypto, Climate/Energy,
   Central bank policy, AI ethics/regulation, US housing/credit,
-  Fiscal policy/debt, India-pakistan, India-china
+  Fiscal policy/debt, India-pakistan, India-china,
+  Consumer attention shifts (structural changes in how people spend time
+  online; not pop culture)
 - Tier 3 (only if something exceptional happened): Neurotechnology,
   Fusion/Space, Natural World, Culture, NYC Local
 
@@ -88,9 +96,11 @@ Append a new dated section to 00_Inbox/WORLD-INTEL-LIVE.md, following the layout
 in 02_Areas/World-Intelligence/_Templates/live-file-template.md exactly.
 
 Each surviving item gets:
-- A headline with source and URL
+- A headline that is itself the link, followed by the source name:
+  **[Headline](URL)** — *Source*
 - A Signal annotation: 1 to 2 sentences on significance and second-order effects
-- A Read line with source URLs
+- A Read line only when there is an additional source beyond the headline link.
+  Otherwise leave the Read line out.
 
 Grouping:
 - Group related items under their topic area heading.
@@ -100,7 +110,8 @@ Grouping:
 Manual items: if the live file contains items tagged [MANUAL] with no Signal
 line, annotate them now in the same format.
 
-Close the digest with a Predictions section: 3 bold, speculative claims based on
+Close the digest with a Predictions section, written as a blockquote with
+3 numbered lines: 3 bold, speculative claims based on
 the week's signal so far. They are meant to sharpen thinking, not assert
 certainty. Before writing them, scan 07_Context/World-Intelligence/ and reference
 any existing trend note a prediction builds on or contradicts.
@@ -126,7 +137,17 @@ Finally, update the `Last Digest:` line at the top of the live file to today.
 ## Output (always do this last)
 
 Write today's digest section, and only today's, to _run/last-daily.md,
-overwriting the file. Put a 3-line "If you read nothing else" summary at the
-very top. This file is what gets emailed. If any step failed (script error,
+overwriting the file. Put an "If you read nothing else" summary at the very
+top, as a blockquote with exactly 3 numbered lines, each starting with a bold
+3 to 5 word label, in this exact shape:
+
+> **If you read nothing else**
+>
+> 1. **[3-5 word label]** — [one sentence]
+> 2. **[3-5 word label]** — [one sentence]
+> 3. **[3-5 word label]** — [one sentence]
+
+The first label becomes the email subject, so make it the day's most important
+signal. This file is what gets emailed. If any step failed (script error,
 Perplexity unavailable), still write the file and state plainly at the top what
 failed and what was skipped.

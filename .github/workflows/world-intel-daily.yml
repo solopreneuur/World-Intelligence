@@ -2,7 +2,7 @@ name: World Intel Daily
 
 on:
   schedule:
-    - cron: "15 8 * * *"
+    - cron: "0 6 * * *"
       timezone: "America/New_York"
   workflow_dispatch:
 

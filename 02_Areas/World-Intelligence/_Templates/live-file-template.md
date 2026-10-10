@@ -7,18 +7,19 @@ Last Digest: YYYY-MM-DD
 
 ### [Topic Area]
 
-**[Headline]** — *[Source](URL)*
+**[Headline](URL)** — *[Source]*
 *Signal:* [significance + second-order effects]
-*Read:* [Source](URL)
+*Read:* [Additional source](URL) [only when there is an additional source; otherwise omit this line]
 
 ↳ Together these suggest: [only when two items from different topic areas connect]
 
 ---
 
 ### 🔭 Predictions
-1. **[Bold claim]** — [reasoning]
-2. **[Bold claim]** — [reasoning]
-3. **[Bold claim]** — [reasoning]
+
+> 1. **[Bold claim]** — [reasoning]
+> 2. **[Bold claim]** — [reasoning]
+> 3. **[Bold claim]** — [reasoning]
 
 ---
 *[X] items across [Y] topics — covering [date range]*
