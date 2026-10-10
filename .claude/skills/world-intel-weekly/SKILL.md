@@ -19,7 +19,7 @@ happens only through the two promote skills, never here.
 - Read the last 3 briefings in 02_Areas/World-Intelligence/_Briefings/ so you
   can tell which patterns have appeared across 2 or more weeks.
 - If the live file holds no digests, write a short note saying so to
-  .claude/logs/last-weekly.md and stop. Do not reset anything.
+  _run/last-weekly.md and stop. Do not reset anything.
 
 ## Step 2: Synthesize
 
@@ -66,7 +66,7 @@ reset.
 
 ## Output (always do this last)
 
-Write the full briefing to .claude/logs/last-weekly.md, overwriting the file.
+Write the full briefing to _run/last-weekly.md, overwriting the file.
 At the very top add a section titled "Awaiting your approval" listing each
 proposed promotion in one line, followed by: Reply to the GitHub "Trend promotions" email to approve, or run
 /world-intel-promote in the

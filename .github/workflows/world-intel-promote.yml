@@ -42,13 +42,26 @@ jobs:
         env:
           COMMENT_BODY: ${{ github.event.comment.body }}
         run: |
-          mkdir -p .claude/logs
-          printf '%s' "$COMMENT_BODY" > .claude/logs/approval-reply.txt
+          mkdir -p _run
+          printf '%s' "$COMMENT_BODY" > _run/approval-reply.txt
+
+      - name: Trust the workspace
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          from pathlib import Path
+          p = Path.home() / ".claude.json"
+          text = p.read_text() if p.exists() else ""
+          data = json.loads(text) if text.strip() else {}
+          data.setdefault("projects", {}).setdefault(os.getcwd(), {})["hasTrustDialogAccepted"] = True
+          p.write_text(json.dumps(data, indent=2))
+          EOF
 
       - name: Promote approved trends
         run: |
           claude -p "/world-intel-promote-auto" \
-            --permission-mode acceptEdits > .claude/logs/run.log 2>&1 || true
+            --permission-mode acceptEdits \
+            --allowedTools "Read,Edit,Write,Glob,Grep,WebFetch,WebSearch,Bash(python3 .claude/scripts/rss_ingest.py *),Bash(date *),mcp__perplexity" > _run/run.log 2>&1 || true
 
       - name: Commit trend notes
         run: |
@@ -62,7 +75,7 @@ jobs:
       - name: Report back
         if: always()
         run: |
-          R=".claude/logs/promote-result.md"
+          R="_run/promote-result.md"
           if [ -s "$R" ]; then
             gh issue comment "$ISSUE" --body-file "$R"
             grep -q '^STATUS: done' "$R" && gh issue close "$ISSUE" || true

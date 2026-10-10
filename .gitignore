@@ -3,3 +3,4 @@
 .obsidian/workspace*.json
 .venv/
 .DS_Store
+_run/

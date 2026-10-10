@@ -51,12 +51,25 @@ jobs:
             echo "No live file found, skipping archive"
           fi
 
+      - name: Trust the workspace
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          from pathlib import Path
+          p = Path.home() / ".claude.json"
+          text = p.read_text() if p.exists() else ""
+          data = json.loads(text) if text.strip() else {}
+          data.setdefault("projects", {}).setdefault(os.getcwd(), {})["hasTrustDialogAccepted"] = True
+          p.write_text(json.dumps(data, indent=2))
+          EOF
+
       - name: Run weekly compression
         run: |
-          mkdir -p .claude/logs
+          mkdir -p _run
           set +e
           claude -p "/world-intel-weekly" \
-            --permission-mode acceptEdits > .claude/logs/run.log 2>&1
+            --permission-mode acceptEdits \
+            --allowedTools "Read,Edit,Write,Glob,Grep,WebFetch,WebSearch,Bash(python3 .claude/scripts/rss_ingest.py *),Bash(date *),mcp__perplexity" > _run/run.log 2>&1
           echo "CLAUDE_EXIT=$?" >> "$GITHUB_ENV"
           exit 0
 
@@ -72,9 +85,9 @@ jobs:
       - name: Email
         if: always()
         run: |
-          mkdir -p .claude/logs
-          if [ -s .claude/logs/last-weekly.md ]; then
-            python .claude/scripts/send_email.py "Weekly Briefing - week ending $(date '+%b %-d')" .claude/logs/last-weekly.md
+          mkdir -p _run
+          if [ -s _run/last-weekly.md ]; then
+            python .claude/scripts/send_email.py "Weekly Briefing - week ending $(date '+%b %-d')" _run/last-weekly.md
           else
             {
               echo "# Weekly compression did not produce a briefing"
@@ -93,13 +106,13 @@ jobs:
               echo
               echo "## Last 30 lines of the log"
               echo
-              if [ -s .claude/logs/run.log ]; then
-                tail -n 30 .claude/logs/run.log | sed 's/^/    /'
+              if [ -s _run/run.log ]; then
+                tail -n 30 _run/run.log | sed 's/^/    /'
               else
                 echo "(no log was written)"
               fi
-            } > .claude/logs/failure.md
-            python .claude/scripts/send_email.py "Weekly Briefing FAILED - $(date +%F)" .claude/logs/failure.md
+            } > _run/failure.md
+            python .claude/scripts/send_email.py "Weekly Briefing FAILED - $(date +%F)" _run/failure.md
           fi
 
       - name: Open approval issue

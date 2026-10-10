@@ -125,7 +125,7 @@ Finally, update the `Last Digest:` line at the top of the live file to today.
 
 ## Output (always do this last)
 
-Write today's digest section, and only today's, to .claude/logs/last-daily.md,
+Write today's digest section, and only today's, to _run/last-daily.md,
 overwriting the file. Put a 3-line "If you read nothing else" summary at the
 very top. This file is what gets emailed. If any step failed (script error,
 Perplexity unavailable), still write the file and state plainly at the top what
