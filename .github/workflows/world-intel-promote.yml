@@ -34,7 +34,9 @@ jobs:
           node-version: 20
 
       - name: Install Claude Code
-        run: npm install -g @anthropic-ai/claude-code
+        run: |
+          npm install -g @anthropic-ai/claude-code
+          claude --version
 
       - name: Save the reply
         env:
@@ -46,8 +48,7 @@ jobs:
       - name: Promote approved trends
         run: |
           claude -p "/world-intel-promote-auto" \
-            --permission-mode acceptEdits \
-            --permission-prompts none > .claude/logs/run.log 2>&1 || true
+            --permission-mode acceptEdits > .claude/logs/run.log 2>&1 || true
 
       - name: Commit trend notes
         run: |

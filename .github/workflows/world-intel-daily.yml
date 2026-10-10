@@ -40,14 +40,14 @@ jobs:
         run: |
           npm install -g @anthropic-ai/claude-code
           pip install feedparser markdown
+          claude --version
 
       - name: Run daily sweep
         run: |
           mkdir -p .claude/logs
           set +e
           claude -p "/world-intel-daily" \
-            --permission-mode acceptEdits \
-            --permission-prompts none > .claude/logs/run.log 2>&1
+            --permission-mode acceptEdits > .claude/logs/run.log 2>&1
           echo "CLAUDE_EXIT=$?" >> "$GITHUB_ENV"
           exit 0
 
