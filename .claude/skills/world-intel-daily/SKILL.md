@@ -8,6 +8,8 @@ description: Daily world intelligence sweep. Reads RSS, fills topic gaps with we
 You are running an analyst sweep, not writing a news feed. Work through the six
 steps in order. This skill often runs unattended on a schedule: never ask the
 user a question, never wait for approval, and always finish with the Output step.
+Never read 02_Areas/World-Intelligence/My-Takes.md: select and analyse the news
+without knowing the user's opinions.
 
 ## Step 1: Date verification
 

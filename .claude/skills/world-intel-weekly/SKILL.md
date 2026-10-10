@@ -20,6 +20,8 @@ happens only through the two promote skills, never here.
   can tell which patterns have appeared across 2 or more weeks.
 - If the live file holds no digests, write a short note saying so to
   _run/last-weekly.md and stop. Do not reset anything.
+- Do not read 02_Areas/World-Intelligence/My-Takes.md yet. It is read only in
+  Step 5, after every other section is written.
 
 ## Step 2: Synthesize
 
@@ -56,7 +58,19 @@ Do not write the notes. Instead, append each candidate to
 - The evidence: dated signals with source URLs, and which weeks it appeared in
 - Whether it is a new note or an update to an existing one (name the note)
 
-## Step 5: Reset the live file
+## Step 5: Your takes, tested
+
+Do this only after Steps 2 to 4 are written, and do not go back and change
+anything in them afterwards: the user's takes must not influence any other
+section of the briefing.
+
+Read 02_Areas/World-Intelligence/My-Takes.md. If it is missing or empty, skip
+this step and add no section. Otherwise add a last section to the briefing
+titled "Your takes, tested". For each take dated in the past 30 days, say
+whether this week's evidence supported it, cut against it, or was silent,
+citing the specific items from the live file.
+
+## Step 6: Reset the live file
 
 Only after confirming the briefing file from Step 3 exists and is non-empty:
 overwrite 00_Inbox/WORLD-INTEL-LIVE.md with the clean template from

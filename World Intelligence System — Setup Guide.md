@@ -4,7 +4,7 @@ Oct 3, 2026 · updated Oct 9, 2026 · @Huzaifa Javed
 
 ## Read first: what you are building
 
-You end up with five Claude Code skills in your vault repo (daily, weekly, two for approving trend notes, and trend-note), one Python script that pulls RSS, one that sends email, and three GitHub Actions workflows. Daily sweep starts at 6:00am Eastern, weekly briefing on Sunday at 2:00pm Eastern. GitHub is the source of truth and runs everything; Obsidian is where you read the results.
+You end up with six Claude Code skills in your vault repo (daily, weekly, two for approving trend notes, trend-note, and discuss), one Python script that pulls RSS, one that sends email, and three GitHub Actions workflows. Daily sweep starts at 6:00am Eastern, weekly briefing on Sunday at 2:00pm Eastern. GitHub is the source of truth and runs everything; Obsidian is where you read the results.
 
 The run path for every scheduled job is the same:
 
@@ -285,6 +285,8 @@ description: Daily world intelligence sweep. Reads RSS, fills topic gaps with we
 You are running an analyst sweep, not writing a news feed. Work through the six
 steps in order. This skill often runs unattended on a schedule: never ask the
 user a question, never wait for approval, and always finish with the Output step.
+Never read 02_Areas/World-Intelligence/My-Takes.md: select and analyse the news
+without knowing the user's opinions.
 
 ## Step 1: Date verification
 
@@ -461,6 +463,8 @@ happens only through the two promote skills, never here.
   can tell which patterns have appeared across 2 or more weeks.
 - If the live file holds no digests, write a short note saying so to
   _run/last-weekly.md and stop. Do not reset anything.
+- Do not read 02_Areas/World-Intelligence/My-Takes.md yet. It is read only in
+  Step 5, after every other section is written.
 
 ## Step 2: Synthesize
 
@@ -497,7 +501,19 @@ Do not write the notes. Instead, append each candidate to
 - The evidence: dated signals with source URLs, and which weeks it appeared in
 - Whether it is a new note or an update to an existing one (name the note)
 
-## Step 5: Reset the live file
+## Step 5: Your takes, tested
+
+Do this only after Steps 2 to 4 are written, and do not go back and change
+anything in them afterwards: the user's takes must not influence any other
+section of the briefing.
+
+Read 02_Areas/World-Intelligence/My-Takes.md. If it is missing or empty, skip
+this step and add no section. Otherwise add a last section to the briefing
+titled "Your takes, tested". For each take dated in the past 30 days, say
+whether this week's evidence supported it, cut against it, or was silent,
+citing the specific items from the live file.
+
+## Step 6: Reset the live file
 
 Only after confirming the briefing file from Step 3 exists and is non-empty:
 overwrite 00_Inbox/WORLD-INTEL-LIVE.md with the clean template from
@@ -588,6 +604,63 @@ full frontmatter and every section.
 ```
 
 The `disable-model-invocation` line on this skill and the promote skill keeps a scheduled run from triggering them on its own. They only fire when you type the command.
+
+## Step 8b: The discuss skill
+
+Save this as `$VAULT/.claude/skills/discuss/SKILL.md`. Like `/trend-note`, it is never scheduled. Run `/discuss` in a live session, optionally followed by a topic, to argue through the day's items with a sparring partner and save your conclusion to `02_Areas/World-Intelligence/My-Takes.md`.
+
+```text
+---
+name: discuss
+description: Talk through items from the World Intel digests with the user, challenge their reasoning, and save their conclusion to the takes file. Invoke with /discuss, optionally followed by a topic. Interactive only.
+disable-model-invocation: true
+---
+
+# World Intel: Discuss
+
+Topic: $ARGUMENTS
+
+1. Sync. Run `git pull --rebase --autostash` so you are working from the latest
+   digests. (--autostash keeps Obsidian's local layout changes from blocking
+   the pull.)
+
+2. Load:
+   - Today's section of 00_Inbox/WORLD-INTEL-LIVE.md, or the most recent one if
+     there is none for today
+   - The rest of the week's sections in the same file
+   - The trend notes in 07_Context/World-Intelligence/
+   - The last 10 entries of 02_Areas/World-Intelligence/My-Takes.md, if it
+     exists
+
+3. If a topic is given above, go straight to the matching items. Otherwise list
+   today's items as a numbered list of headlines and ask which to discuss.
+
+4. Discuss as a sparring partner:
+   - Give the strongest counter-argument to the user's view.
+   - Separate what the digests actually show from what the user is inferring.
+   - Cite the specific items you rely on (headline and digest date).
+   - No flattery. Do not drop a point just because the user pushes back, and do
+     say plainly when they are right.
+   - Use perplexity_search only if the user asks to check a fact.
+
+5. Save only when the user says so. Draft the take in the user's own words and
+   show it before writing. On approval, append it to
+   02_Areas/World-Intelligence/My-Takes.md (create the file if it does not
+   exist) in this format:
+
+   ## YYYY-MM-DD — [short title]
+   **Prompted by:** [headline] ([digest date]) — [link]
+   **My take:** [2-4 sentences]
+   **What would change my mind:** [1-2 sentences, optional]
+
+   Never edit the digests, briefings or trend notes.
+
+6. Commit only the takes file and push:
+   `git add 02_Areas/World-Intelligence/My-Takes.md`, then
+   `git commit -m "Take: [short title]"`, then `git push`.
+```
+
+The takes file is kept away from the analysis on purpose. The daily skill never reads it, and the weekly skill reads it only after every other section of the briefing is written, to add a final "Your takes, tested" section.
 
 ## Step 9: Live file and trend note templates
 
