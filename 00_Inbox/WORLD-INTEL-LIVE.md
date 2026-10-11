@@ -1,7 +1,98 @@
-Last Digest: 2026-10-10
+Last Digest: 2026-10-11
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-10-11 — Daily Sweep
+
+### Geopolitics
+
+**World condemns deadly Houthi attack on Riyadh airport as Trump weighs joining Saudi strikes** — *[Al Jazeera](https://www.aljazeera.com/news/2026/10/11/world-condemns-deadly-houthi-attack-on-saudi-arabias-riyadh-airport?traffic_source=rss)*
+*Signal:* Saturday's strike on King Khalid International is now confirmed as the deadliest attack on Saudi soil in over a decade — 12 killed, 300+ wounded — and Trump says the US "may" join Saudi Arabia's offensive against the Houthis directly. That's a real escalation from yesterday's framing of a two-sided Saudi-Houthi war: if Washington steps in militarily, the US moves from backing Riyadh's offensive to co-owning a third active shooting war (alongside Ukraine and Iran-adjacent Hormuz tensions) at the same moment it's trying to visibly de-escalate with Moscow on energy.
+*Read:* [Al Jazeera liveblog](https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss)
+
+**US fighter jet disables cargo vessel in Gulf of Oman "trying to run Iran blockade"** — *[Al Jazeera](https://www.aljazeera.com/news/2026/10/11/us-forces-disable-ship-attempting-to-run-iran-blockade-in-gulf-of-oman?traffic_source=rss)*
+*Signal:* CENTCOM confirms a US jet struck the stern of a commercial cargo ship without harming the crew — the first direct US kinetic action against blockade-running shipping in this conflict, not just interception or sanctions enforcement. Combined with the Riyadh strike above, the Hormuz/Red Sea theater is widening in both participants (US now directly firing) and targets (civilian shipping, not just military assets).
+
+**Taiz hospitals near collapse as Houthis tighten siege: Yemen government** — *[Al Jazeera](https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss)*
+*Signal:* Fuel, medicine and supplies are running out in Taiz under blockade — the humanitarian cost of the wider war showing up away from the airport headlines that dominate coverage.
+
+↳ Together these suggest: the Yemen/Gulf conflict is escalating on every axis at once — lethality (Riyadh deaths), geography (Oman shipping lanes), and humanitarian collapse (Taiz) — while direct US military entry moves from hypothetical to openly discussed within 24 hours of the deadliest single strike.
+
+**Trump calls for Ukraine elections, says Zelenskyy "failed to end the war"** — *[Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/11/trump-calls-for-ukraine-election-says-zelenskyy-failed-to-end-war?traffic_source=rss)*
+*Signal:* Trump is now explicitly calling for Ukraine's leadership to change, having told Kyiv the day before to stop hitting Russian refineries — a US president pressuring an ally's internal politics and battlefield conduct simultaneously, with Washington's energy deal with Moscow as the backdrop.
+*Read:* [WSJ: Starving Ukrainians risk death escaping front-line town](https://www.wsj.com/world/starving-ukrainians-are-risking-death-to-escape-their-front-line-town-69262dbb?mod=rss_worldnews)
+
+**Russia's Yandex says a third data centre hit by drone attack in a week** — *[Al Jazeera](https://www.aljazeera.com/news/2026/10/11/russias-yandex-says-data-centre-in-vladimir-shut-down-after-drone-attack?traffic_source=rss)*
+*Signal:* Ukraine keeps striking Russian tech/energy infrastructure even as Trump publicly demands Kyiv stop hitting Russian refineries and floats replacing Zelenskyy — Ukraine's battlefield behavior and Washington's stated preferences are now visibly diverging, not just rhetorically but in real time.
+
+↳ Together these suggest: Trump's leverage over Kyiv is more rhetorical than operational right now — he's naming terms (stop strikes, change leadership) that Ukraine is not following, which either means the pressure campaign is just opening or that Washington's influence over Ukrainian military decisions is weaker than the diesel-deal-era framing assumed.
+
+**Pakistan imposes emergency rule in Khyber Pakhtunkhwa, the province governed by Imran Khan's party** — *[Al Jazeera](https://www.aljazeera.com/news/2026/10/11/pakistan-imposes-emergency-rule-in-khyber-pakhtunkhwa?traffic_source=rss)*
+*Signal:* Islamabad's cabinet cites the provincial government's "deliberate disengagement" from counter-terrorism as justification — but it's also Pakistan's federal government seizing direct control of the one province run by the opposition, a pattern worth watching alongside India's own crackdown on dissent this week.
+
+**India's "Cockroach" movement leaders freed after Delhi lockdown** — *[South China Morning Post](https://www.scmp.com/news/asia/south-asia/article/3370476/indias-cockroach-party-leaders-freed-election-chief-protests-mount?utm_source=rss_feed)*
+*Signal:* A quick walk-back a day after Saturday's mass detentions and internet blackout — releasing leaders without resolving the underlying voter-list dispute suggests the crackdown was about preventing Saturday's specific march, not suppressing the movement long-term. Protests over the election chief's conduct are likely to resume.
+
+**Global pro-Palestinian protests mark one year since Gaza's "ceasefire"** — *[Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss)*
+*Signal:* Follows directly from yesterday's analysis that the "ceasefire" label masks a conflict that never structurally stopped (1,400+ Palestinians killed since, Israel holding 60% of Gaza). Worldwide demonstrations today are a sign the gap between the ceasefire's official narrative and its lived reality hasn't gone unnoticed internationally, even if it hasn't moved US policy.
+
+---
+
+### AI
+
+**Microsoft's Satya Nadella says AI models need an "emergency brake"** — *[TechCrunch](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)*
+*Signal:* Nadella is calling for AI to be treated as inherently "compromised" from the start — externalized safeguards, tamper-proof action logs, and a guaranteed human kill-switch mid-task — explicitly citing the Anthropic Philadelphia incident flagged yesterday. This is the most senior industry voice yet to publicly concede that alignment-by-training isn't sufficient and that containment architecture, not better-behaved models, is the near-term fix. Watch whether competitors adopt similar language — it would mark a shift from "trust the model" to "assume the model will fail" as the default industry posture.
+
+**11 of 23 "core" open-source projects run on just 1-2 maintainers** *(carried over for context)* and **Sumitomo Bakelite expands China chip-packaging output amid AI boom** — *[South China Morning Post](https://www.scmp.com/tech/tech-trends/article/3370468/japans-sumitomo-bakelite-expands-china-chip-packaging-materials-output-amid-ai-boom?utm_source=rss_feed)*
+*Signal:* A Japanese materials giant is doubling down on advanced packaging capacity in China and Singapore — its second such expansion in four months — which matters because chip packaging, not just fabrication, is an increasingly binding constraint on AI chip supply. Export-control debates focus on fabs and GPUs; packaging capacity is a quieter chokepoint getting less scrutiny.
+
+**Video cameras are everywhere — and now they're being hacked for war** — *[WSJ](https://www.wsj.com/tech/cybersecurity/video-cameras-webcams-hacked-war-b00b8a24?mod=rss_worldnews)*
+*Signal:* Commercial webcams and IP cameras are being compromised by combatants in Ukraine and the Middle East to track, surveil and target enemies — a civilian-tech-turned-battlefield-sensor story structurally similar to this week's Flock-camera/surveillance-backlash thread, just inverted: instead of states losing their surveillance monopoly to citizens, now anyone's camera can become military infrastructure without their consent.
+
+**Cloudflare acquires Deno to improve its Workers programming model** — *[TechCrunch](https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/)*
+*Signal:* Consolidation at the infrastructure layer underneath the AI/agent stack — edge-compute platforms are absorbing the runtimes that agentic applications increasingly depend on, continuing the pattern of infrastructure concentrating into fewer vendors even as the application layer fragments.
+
+---
+
+### Business & Markets
+
+**Musk vows "affordable" Starlink in India as he escalates feud with Ambani, days before Reliance Jio's record IPO** — *[Al Jazeera](https://www.aljazeera.com/economy/2026/10/11/musk-vows-affordable-starlink-in-india-as-he-escalates-feud-with-ambani?traffic_source=rss)*
+*Signal:* Timing is the story — Musk is publicly undercutting Jio's low-cost positioning right as Ambani's telecom arm launches what's billed as India's largest-ever IPO, a direct attempt to dent investor confidence in Jio's moat before the roadshow closes.
+
+**China's tax clampdown on offshore wealth reaches into Hong Kong retirement funds** — *[South China Morning Post](https://www.scmp.com/economy/china-economy/article/3370354/why-are-mainland-chinas-tax-officials-suddenly-so-interested-my-hong-kong-mpf?utm_source=rss_feed)*
+*Signal:* SCMP reports mainland tax officials are now probing Hong Kong MPF (mandatory pension fund) holdings as part of Beijing's broader offshore-trust tax campaign — notable because MPF accounts are mass-market retirement savings, not just super-rich family trusts, suggesting the clampdown's scope is widening beyond its original target population.
+
+**FTC Chair Andrew Ferguson quietly shields pharmacy benefit managers from drug-pricing enforcement** — *[BIG by Matt Stoller](https://www.thebignewsletter.com/p/how-pharma-middlemen-turned-the-federal)*
+*Signal:* Stoller — a high-signal antitrust writer worth weighting heavily — argues Trump's own FTC chair issued PBMs a "corporate pardon" on the very enforcement action that could have lowered drug prices, despite PBMs being one of the few targets with genuine bipartisan hostility. If accurate, it's a concrete data point against the populist-economic-nationalist framing of this administration's antitrust posture: rhetoric against middlemen, but enforcement that protects them when it counts.
+
+---
+
+### Platforms, Creator Economy & Digital Marketing
+
+**Meta bans TikTok/ByteDance ads across Facebook and Instagram in seven countries** — *[Reuters via multiple outlets](https://ground.news/article/meta-bans-tiktok-ads-on-its-platforms-in-us)*
+*Signal:* Effective October 8 in the US, Canada, Egypt, Indonesia, Japan, Thailand and Vietnam (not yet the EU), Meta is blocking not just ByteDance's own ads but any third-party campaign — from brands, agencies or creators — that drives traffic toward TikTok. Meta frames it as standard business practice ("we don't have to run ads from a competitor"), but it's a meaningful escalation: platforms are no longer just competing for attention and creators, they're now actively denying rivals access to their ad-buying infrastructure, which doubles as denying smaller advertisers a cross-platform promotion channel.
+
+**Australia's under-16 social media ban is already cutting creator followings and brand-deal income** — *[Economic Times/Reuters](https://economictimes.indiatimes.com/tech/technology/australian-content-creators-feel-sting-of-losing-young-fans-to-social-media-ban/articleshow/125904595.cms)*
+*Signal:* A day after the ban took effect, Australian creators report measurable drops in followers and engagement (TikTok alone deactivated ~200,000 under-16 accounts), with creators warning this directly threatens brand-deal revenue since advertiser rates are driven by audience metrics. This is the first real-world data point on what a hard age-gating law does to the creator economy's revenue model, not just to teen wellbeing — regulators considering similar bans elsewhere (EU, several US states) now have an early case study.
+
+**AI search becomes the next marketing budget line: "Generative Engine Optimization" emerges as the new SEO** — *[Economic Times](https://economictimes.indiatimes.com/tech/artificial-intelligence/mirror-mirror-whos-the-most-visible-of-them-all/articleshow/131446924.cms)*
+*Signal:* Brands are now budgeting specifically for visibility inside AI Overviews, ChatGPT answers and Perplexity results — OpenAI is already testing ChatGPT ads (forecast $2.5B in 2026, $100B by 2030) and industry estimates put ad pricing inside AI answers at 5-10x traditional search. GEO enterprise spending could hit $10-15B within 2-3 years against a $100-120B SEO market it's partly cannibalizing.
+
+↳ Together these suggest: the platforms' land-grab for ad dollars and attention is expanding onto a third front simultaneously — walling off rivals (Meta/TikTok), restricting whole user segments by law (Australia), and opening an entirely new monetizable surface (AI-answer ad inventory) that early movers (OpenAI, Perplexity, Google) are positioned to dominate before marketers have even built measurement tools for it.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Direct US military action against the Houthis — beyond intelligence-sharing or logistics support for Saudi Arabia — happens within two weeks.** Trump's "may join" statement, delivered hours after the deadliest attack on Saudi soil in a decade and following the first direct US strike on blockade-running shipping, suggests the administration is already moving operationally faster than its public statements suggest; this would mark the US entering a third live front (after the broader Iran-adjacent Hormuz tension and its Ukraine diplomacy) within the same news cycle.
+> 2. **Meta's ByteDance ad ban spreads beyond the current seven countries to the EU within a quarter, and TikTok (or another rival) retaliates with a reciprocal block on Meta-linked promotion.** This builds on yesterday's finding that Alphabet/Amazon/Meta already capture 59.7% of ad spend outside China — large platforms are now also walling off each other's access to that concentrated ad spend, not just smaller competitors, accelerating fragmentation into closed advertising gardens.
+> 3. **Nadella's "emergency brake" containment language becomes the industry's default safety vocabulary within weeks, adopted by competitors mainly for enterprise liability and insurance cover rather than genuine alignment progress.** Consistent with yesterday's observation that the AI capital race (SoftBank's $100B ask, Claude Haiku's 90% price cut) is optimizing for deployment speed, not for closing the gap between what agents can do and what labs can verify — "assume it's compromised" is a cheaper claim to make than a model that's actually reliable. *(07_Context/World-Intelligence/ remains empty — no existing trend note to test this against yet; this is a baseline claim for future sweeps.)*
+
+---
+*18 items across 4 topics — covering 2026-10-11.*
+
+---
 
 ## 2026-10-10 — Daily Sweep
 
