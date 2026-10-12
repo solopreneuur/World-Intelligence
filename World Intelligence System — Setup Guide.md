@@ -1082,6 +1082,7 @@ jobs:
         if: steps.check.outputs.already_done != 'true'
         run: |
           if [ -f 00_Inbox/WORLD-INTEL-LIVE.md ]; then
+            mkdir -p 02_Areas/World-Intelligence/_Archive
             cp 00_Inbox/WORLD-INTEL-LIVE.md "02_Areas/World-Intelligence/_Archive/LIVE-$(date +%F).md"
           else
             echo "No live file found, skipping archive"
