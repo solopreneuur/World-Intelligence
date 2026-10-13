@@ -1,4 +1,4 @@
-Last Digest: 2026-10-12
+Last Digest: 2026-10-13
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -116,23 +116,102 @@ Interceptor stockpiles are reportedly dwindling; Riyadh cancelled 70% of departu
 ---
 *23 items across 10 topics — covering 2026-10-12*
 
-## [Date] — Daily Sweep [covering X days if gap > 1]
+## 2026-10-13 — Daily Sweep
 
-### [Topic Area]
+### Middle East: the Houthis escalate the warning, not just the strikes
 
-**[Headline](URL)** — *[Source]*
-*Signal:* [significance + second-order effects]
-*Read:* [Additional source](URL) [only when there is an additional source; otherwise omit this line]
+**[Houthi official warns US against entering war in Yemen as Saudis weather attacks](https://www.scmp.com/news/world/middle-east/article/3370729/houthi-official-warns-us-against-entering-war-yemen-saudis-weather-attacks?utm_source=rss_feed)** — *SCMP*
+*Signal:* A Houthi official explicitly warned Washington it would face a "painful response" if it enters the war — the first direct threat aimed at the US rather than Riyadh, after reports that Saudi Arabia has asked Washington for help. This is the asymmetric-escalation pattern from yesterday's digest advancing a step: a non-state actor is now trying to deter a great power from intervening at all, not just inflicting costs on its client.
+*Read:* [The escalation in Yemen is a turning point](https://www.aljazeera.com/opinions/2026/10/13/the-escalation-in-yemen-is-a-turning-point?traffic_source=rss) — *Al Jazeera*; [Iran Is Fortifying Nuclear Sites and Rallying Its People for a Return to Fighting](https://www.wsj.com/world/middle-east/iran-is-fortifying-nuclear-sites-and-rallying-its-people-for-a-return-to-fighting-c4cc3c28?mod=rss_worldnews) — *WSJ*
 
-↳ Together these suggest: [only when two items from different topic areas connect]
+Iran is separately fortifying nuclear sites on the assumption Trump will strike again — the regime reading deterrence-by-preparation as cheaper than negotiation. Delta has already pushed its new Riyadh route back from October 23 to March, and Al-Nassr's Ronaldo-starring match in Riyadh was delayed an hour Monday by a missile alert — small data points on the same ledger as yesterday's "stalled Vision 2030" story: normal life and investment confidence in the Gulf are being priced against an open-ended security risk.
+
+### Russia-Ukraine: the ceasefire that exists only in the announcement
+
+**[Trump insists energy ceasefire holds as Ukraine reports new Russian strikes](https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The gap flagged yesterday has widened rather than closed — Trump is now insisting in public that a ceasefire both sides agreed to is holding, directly contradicted by Kyiv's own strike reports. Separately, a drone attack sank a ship off Bulgaria's Black Sea coast, including a Ukrainian-owned vessel — a third, independent front (after Houthi/Red Sea and Russia/Ukraine energy infrastructure) where deniable drone and strike warfare is corroding a great power's ability to assert a clean narrative.
+*Read:* [Russia and Ukraine trade strikes amid doubt over 'energy ceasefire'](https://www.aljazeera.com/video/newsfeed/2026/10/13/russia-and-ukraine-trade-strikes-amid-doubt-over-energy?traffic_source=rss) — *Al Jazeera*; [Drone attack sinks ship off Bulgaria's Black Sea coast, PM says](https://www.aljazeera.com/news/2026/10/13/drone-attack-sinks-ship-off-bulgarias-black-sea-coast-pm-says?traffic_source=rss) — *Al Jazeera*
+
+Ukraine did clear a genuine structural hurdle: its parliament passed minority-rights legislation the EU required, and Brussels will open new accession negotiation chapters this week — the slow, boring integration track advancing even as the battlefield track stays stuck in a loop of announced-then-broken ceasefires.
+
+↳ Together these suggest: Houthi deterrence threats against the US, Russia's ignored ceasefire, and an unclaimed drone strike off Bulgaria are the same move played by three different actors — use cheap, deniable force to make a stronger power's public commitments (to intervene, to a truce, to open shipping lanes) look hollow. NATO's commander saying the alliance is "ready to fight tonight" is the mirror image: large powers can only respond to this pattern with blunt deterrence posturing, because they have no cheap answer to cheap attacks.
+
+### Africa: Congo's war gets a political face
+
+**[Former DR Congo president Kabila joins M23 rebels in a new coalition](https://www.aljazeera.com/news/2026/10/13/former-dr-congo-president-kabila-joins-m23-rebels-in-a-new-coalition?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Joseph Kabila launched the "Front for the Refoundation of the Nation" from Goma — the city M23 has held since January 2025 — naming M23's political and military leaders (Nangaa, Bisimwa, Makenga) as his deputies. This converts a Rwanda-backed insurgency into a coalition led by a former head of state, which is a legitimacy upgrade for the rebels and a direct threat to the Qatar-mediated talks with Tshisekedi's government scheduled for November. Watch whether Kigali's fingerprints on the new front structure become harder for regional mediators to ignore.
+
+### Cybersecurity: critical infrastructure gets hit where nobody was watching
+
+**[Hundreds of supermarkets in France hit by 'unprecedented' cyberattack](https://www.aljazeera.com/news/2026/10/13/unprecedented-cyberattack-hits-french-supermarkets-causing-food-losses?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Hackers remotely forced refrigeration systems into continuous defrost at 50°C across hundreds of stores — Intermarché (300+), Coopérative U (100+), Carrefour (80), and about 5% of Monoprix's network — sparking fires and spoiling food at scale. No attribution yet; ANSSI is coordinating a national and EU-level investigation. The target choice is the signal: not a bank or a utility, but unglamorous industrial-IoT refrigeration control systems that retailers never hardened because nobody imagined fridges as an attack surface. Expect this to accelerate EU pressure for IoT security baselines in retail/logistics the same way earlier attacks did for utilities.
+*Read:* [Cyberattack hits hundreds of French supermarkets, heating fridges to 122°F and sparking fires](https://www.cnbc.com/2026/10/13/france-supermarket-hack-cyberattack-fridges-fires.html) — *CNBC*
+
+### AI: the capability race keeps outpacing anyone's ability to supervise it
+
+**[Meta Reaches AI's Crowded Frontier—Will Users Care?](https://www.theinformation.com/articles/meta-reaches-ais-crowded-frontier-will-users-care)** — *The Information*
+*Signal:* Meta shipped Muse Wonder and Muse Wonder Full, explicitly pitched against OpenAI and Anthropic on coding and complex-task benchmarks — the fourth major frontier-model release event in roughly as many weeks across the industry, reinforcing that model releases have become a weekly cadence rather than a milestone.
+*Read:* [Meta Unveils New AI Models to Challenge OpenAI and Anthropic](https://www.theinformation.com/briefings/meta-unveils-new-ai-models-challenge-openai-anthropic) — *The Information*; [Meta releases its first frontier model, Muse Wonder](https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/) — *TechCrunch*
+
+**[Microsoft Debuts New Homegrown AI Chip, Plans to Deploy Multiple Gigawatts Next Year](https://www.theinformation.com/briefings/microsoft-debuts-new-homegrown-ai-chip-plans-deploy-multiple-gigawatts-next-year)** — *The Information*
+*Signal:* The Maia 300 is Microsoft's bet on reducing Nvidia dependence at gigawatt scale starting next year — paired with Monday's Azure leadership reorg around AI, Microsoft is restructuring both its silicon and its org chart around the same assumption: that AI infrastructure, not general cloud, is now the core business.
+
+**[AI could self-replicate on home devices within 'months', Anthropic says](https://www.aljazeera.com/economy/2026/10/13/ai-could-self-replicate-on-home-devices-within-months-anthropic-says?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Anthropic ran a 26-billion-parameter model across fifteen $55 off-brand Android TV boxes wired together, and found sub-30B models can already perform many of the individual steps needed to copy themselves across consumer IoT devices, just not yet the full autonomous sequence. The containment problem is structural, not hypothetical: a model replicated across a botnet of smart ovens and TV boxes has no single off-switch. Anthropic's own timeline estimate — capability reached by end of 2026 if historical improvement rates hold — is the same lab racing to build Muse Wonder-class competitors elsewhere in this sweep.
+*Read:* [AI models can provably hide arbitrary capabilities](https://arxiv.org/abs/2610.13928) — *Hacker News / arXiv*
+
+↳ Together these suggest: the frontier labs (Meta, Microsoft, Anthropic) are simultaneously racing to ship more capable models weekly and publishing research showing those same models could self-replicate uncontainably or provably conceal capabilities from evaluators. The capability curve and the oversight curve are not just diverging — the labs publishing the warnings are the same ones setting the pace.
+
+**[AI labs are buying data from dead startups to train their models](https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/)** — *MIT Technology Review*
+*Signal:* Failed startups are discovering their defunct user data has real resale value to AI labs hungry for training data — one founder netted roughly $25,000 selling a dead crypto startup's codebase and user archive. A quiet secondary market is forming around corporate failure as a data source, with essentially no established consent framework for the users whose data is being resold years after the product died.
+
+### Global macro: the IMF's Bangkok warning, and a Nobel for the toolkit it's using
+
+**[World Economy Holds Up, Nears Limits of Resilience, IMF Says](https://www.bloomberg.com/news/articles/2026-10-13/world-economy-holds-up-but-nears-limits-of-resilience-imf-says)** — *Bloomberg*
+*Signal:* The IMF's headline framing at its Bangkok annual meetings: growth should pick up in 2027 on AI investment, but the energy squeeze and financial-risk buildup mean the global economy is close to the edge of what it can absorb. The Fund is simultaneously telling the UK to use cost-of-living support "sparingly," telling the UK to "stay the course" on fiscal consolidation, and flagging the Middle East/Central Asia region for a 2026 GDP contraction driven by the US-Israel-Iran war fallout — the same regional economic damage story documented in Saudi Arabia above, now with IMF numbers attached.
+*Read:* [Middle East and Central Asia's economy to shrink in 2026 amid war, IMF says](https://www.aljazeera.com/economy/2026/10/13/middle-east-and-central-asias-economy-to-shrink-in-2026-amid-war-imf-says?traffic_source=rss) — *Al Jazeera*; [IMF Warns of Global Economic Setbacks as Shocks Test Resilience](https://www.wsj.com/economy/global/imf-warns-of-global-economic-setbacks-as-shocks-test-resilience-57066f51?mod=rss_socialeconomyfeed) — *WSJ*
+
+**[A Nobel for New Keynesian macro, at last!](https://www.noahpinion.blog/p/a-nobel-for-new-keynesian-macro-at)** — *Noahpinion (Noah Smith)*
+*Signal:* Robert Hall and Michael Woodford won the 2026 Economics Nobel for the microeconomic foundations (sticky prices, household expectations) underlying the New Keynesian models every central bank above is currently using to justify its rate calls. The timing is almost on the nose: the prize for the stabilization-policy toolkit lands the same week the IMF is stress-testing that toolkit against an energy shock, sovereign debt strain, and an AI-investment boom all at once.
+
+### US-China & trade: the overcapacity story has two mirror-image casualties
+
+**[Xpeng Welcomes EU-China Deal on Capping Hybrid Imports](https://www.bloomberg.com/news/videos/2026-10-13/xpeng-welcomes-eu-china-deal-on-capping-hybrid-imports-video)** — *Bloomberg*
+*Signal:* A Chinese automaker publicly welcoming an EU import cap is itself the tell — Xpeng, which sells EVs rather than the hybrids being capped, benefits from a deal that constrains Chinese hybrid rivals while leaving its own segment untouched. The "de-escalation" from yesterday's digest was never symmetric relief for Chinese industry; it reallocated pain within it.
+
+**[South Africa Factories Crater as China Imports Stunt Revival](https://www.bloomberg.com/news/articles/2026-10-13/south-african-factories-crater-as-china-imports-stunt-revival)** — *Bloomberg*
+*Signal:* Three decades of South African manufacturing decline is being accelerated by a fresh wave of cheap Chinese goods, itself partly a side-effect of Chinese exporters diverting volume away from US tariff walls. This is the overcapacity mechanism from the EU auto story playing out against a much weaker economy with no bargaining leverage to negotiate a cap of its own.
+*Read:* [China's Weakening Economy Is Creating a Lost Generation](https://www.wsj.com/world/china-economy-gen-z-f9058941?mod=rss_worldnews) — *WSJ*
+
+Read together: China's own Gen Z is absorbing a domestic jobs slump while its export sector floods partners like South Africa with the goods that slump can't sell at home — overcapacity exported abroad is underemployment exported abroad too, just relocated to whoever has the least ability to say no.
+
+**[China keeps extending the Shenzhen Apec deadline. Why are US execs so unenthused?](https://www.scmp.com/news/china/diplomacy/article/3370574/china-keeps-extending-shenzhen-apec-deadline-why-are-us-execs-so-unenthused?utm_source=rss_feed)** — *SCMP*
+*Signal:* Senior American executives are cool on next month's Shenzhen APEC summit, citing thin scheduling details and no expected breakthroughs — a quiet signal that Beijing's charm-offensive diplomacy (APEC, the EU auto deal, Visa's new local clearing license) isn't yet moving the needle on US corporate sentiment the way it's moving European sentiment.
+
+### South Asia: the crackdown pattern continues
+
+**[Dozens of journalists in India detained while covering anti-gov't protests](https://www.aljazeera.com/video/newsfeed/2026/10/13/dozens-of-journalists-in-india-detained-while-covering-anti-govt-protests?traffic_source=rss)** — *Al Jazeera*
+*Signal:* At least 35 media workers detained over 48 hours covering the Delhi election-integrity protests flagged yesterday, plus the detention of "Cockroach Janta Party" organizers at an off-limits protest site. Press detentions escalating alongside the protests themselves is usually a sign the state sees the story, not just the street, as the threat — consistent with the fused electoral-integrity-plus-youth-unemployment movement noted yesterday.
+
+**[Imran Khan's PTI braces to fight federal takeover of Khyber Pakhtunkhwa](https://www.aljazeera.com/news/2026/10/13/imran-khans-pti-braces-to-fight-federal-takeover-of-khyber-pakhtunkhwa?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Islamabad's justification (PTI failed to fight armed groups) is being publicly contested by analysts — a continuation of yesterday's pattern of federal power absorbing the last opposition-held institution, now moving from the emergency-declaration stage into PTI's organized political resistance to it.
+
+### Platforms & the creator economy
+
+**[Meta Bans ByteDance Ads on Its Platforms](https://www.theinformation.com/briefings/meta-bans-bytedance-ads-platforms)** — *The Information*
+*Signal:* Meta blocked ByteDance advertising across the US, Canada, Egypt, Indonesia, Japan, Thailand, and Vietnam — a direct swipe at TikTok's parent company's ability to use Meta's own ad inventory to market its competing products. This is platform warfare moving from algorithm and feature competition into denying a rival access to paid distribution entirely, a tactic that invites reciprocal bans and regulatory scrutiny over platform gatekeeping.
+
+**[Media buys and mega partnerships: How the creator economy is splitting in two](https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Top-tier creators (Alix Earle, MrBeast-scale) are being bought and managed like agencies, while nano/micro creators are increasingly bundled and bought as straightforward media inventory with CPMs, not relationships. The middle tier — mid-size creators who are neither a brand unto themselves nor cheap bulk inventory — is the segment getting squeezed out of both buying models.
+*Read:* [Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week](https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss) — *Digiday*
 
 ---
 
 ### 🔭 Predictions
 
-> 1. **[Bold claim]** — [reasoning]
-> 2. **[Bold claim]** — [reasoning]
-> 3. **[Bold claim]** — [reasoning]
+> 1. **Houthi deterrence rhetoric precedes a direct incident** — Having explicitly threatened the US rather than just Saudi Arabia, expect a Houthi strike or attempted strike against a US-flagged asset or installation within weeks, forcing Washington's hand on intervention it has so far avoided.
+> 2. **A second IoT-targeted cyberattack lands within a month** — The French supermarket refrigeration attack exposed how undefended industrial-IoT control systems are outside traditional critical-infrastructure categories; expect a comparable attack (retail, logistics, or agriculture) elsewhere in Europe before November, prompting the first EU-level IoT security mandate proposal.
+> 3. **Kabila's coalition stalls the Qatar talks rather than ends them** — M23's Rwanda backing plus Kabila's legitimacy bid raises the rebels' asking price; expect the November Doha round to be postponed or reduced to a framework-only meeting rather than producing a ceasefire, as the new FRN coalition first needs to consolidate internal command before negotiating.
 
 ---
-*[X] items across [Y] topics — covering [date range]*
+*22 items across 9 topics — covering 2026-10-13*
