@@ -1,4 +1,4 @@
-Last Digest: 2026-10-14
+Last Digest: 2026-10-15
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -324,3 +324,111 @@ A UN envoy is publicly framing this moment as a peace opening even as Kabila's c
 
 ---
 *24 items across 11 topics — covering 2026-10-14*
+
+## 2026-10-15 — Daily Sweep
+
+### Russia-Ukraine: the war's weakest link is now its own infrastructure
+
+**['We're done': Ukraine resumes Russian refinery strikes, defying Trump](https://www.scmp.com/news/world/europe/article/3370993/were-done-ukraine-resumes-russian-refinery-strikes-zelensky-defies-trump?utm_source=rss_feed)** — *SCMP*
+*Signal:* Hours into Trump's touted "energy ceasefire," SpaceX quietly capped Starlink/Starshield terminal speeds at 100mph overnight without warning — disrupting Ukrainian drone-strike and interceptor missions. Zelensky's defense-tech adviser called the timing "no coincidence," tying it directly to Trump's push to halt Ukrainian strikes on Russian refineries. Musk responded by publicly shifting responsibility to Washington ("Any limits on speed or usage are decided by the US military and ultimately POTUS") while separately calling for Zelensky to "go." Ukraine's answer: resume refinery strikes anyway, hitting an installation in Russia's Ryazan region. A private contractor's infrastructure throttle has become Washington's most granular and most deniable lever over how an ally fights a war — more precise than any public policy statement, and far harder to hold anyone accountable for.
+*Read:* [Musk says US military controls Starlink's limits after Ukraine outcry](https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals) — *Al Jazeera*; [Starlink Suspicions and a Frantic Warning: Inside Trump's Turn on Zelensky](https://www.wsj.com/politics/policy/starlink-suspicions-and-a-frantic-warning-inside-trumps-turn-on-zelensky-595502f1?mod=rss_worldnews) — *WSJ*
+
+### Middle East: the shipping war
+
+**[Two Cargo Ships Sink Near Strait of Hormuz, as Iranian Attacks Increase](https://www.wsj.com/world/middle-east/two-cargo-ships-sink-near-hormuz-as-iranian-attacks-spike-0591887d?mod=rss_worldnews)** — *WSJ*
+*Signal:* Two vessels went down near Hormuz as Iran-linked strikes intensify, even as the US military works to keep oil flowing through the strait — a split picture where the headline chokepoint stays technically open while the ships, insurers and crews absorbing the actual risk are losing the bet in real time. The same dynamic is now showing up in labor markets: [Filipino domestic workers are starting to fly home from Riyadh rather than renew contracts](https://www.scmp.com/week-asia/people/article/3370917/filipino-migrants-torn-between-safety-and-survival-risks-amid-middle-east-dangers?utm_source=rss_feed), worried the conflict is making the Gulf unsafe — a migrant-labor echo of the stalled Vision 2030 financing story and the grounded Delta route flagged earlier this week.
+*Read:* [Containers and debris captured floating around the Strait of Hormuz](https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss) — *Al Jazeera*; [Asia's Uneven Economic Resilience Faces Stress Tests, IMF Says](https://www.wsj.com/economy/asias-uneven-economic-resilience-faces-stress-tests-imf-says-1a158927?mod=rss_worldnews) — *WSJ*
+
+### AI: Anthropic opens its books as capital gets picky
+
+**[Anthropic Reports $16.8 billion in Third-Quarter Revenue](https://www.theinformation.com/briefings/anthropic-reports-16-8-billion-third-quarter-revenue)** — *The Information*
+*Signal:* Anthropic told prospective IPO investors Q3 revenue hit $16.8bn (annualized run-rate ~$67bn), up from $11.6bn in Q2 and $4.7bn in Q1 — but quarter-on-quarter growth decelerated sharply, from +147% to +45%. The company claims adjusted profitability and $1.70 of revenue per dollar spent on compute, while targeting a $2 trillion-plus valuation (roughly a 30x run-rate sales multiple) against $518bn/year in committed cloud and compute spending — nearly 80% of current annualized revenue. IPO marketing is set to start as soon as the week of November 9, with the debut likely timed after the midterms. The pitch to public markets is essentially: deceleration from "tripling" to "up 45%" is still a growth story — delivered the same week neocloud financing is being punished for exactly that kind of math.
+*Read:* [Anthropic's Rapid But Slowing Growth Could Weigh on IPO Valuation](https://www.theinformation.com/articles/anthropics-rapid-slowing-growth-weigh-ipo-valuation) — *The Information*
+
+**[CoreWeave Co-Founders' Stock Sales Aren't Helping Investor Confidence](https://www.theinformation.com/articles/coreweave-co-founders-stock-sales-helping-investor-confidence)** — *The Information*
+*Signal:* Neocloud stocks sold off again as hotter-than-expected US inflation data reinforced odds of another rate hike — and insiders selling shares into the dip isn't helping. This is Tuesday's financing-freeze prediction (Firmus, then AirTrunk on Wednesday) finding a third straight victim; the market is now reflexively punishing every leveraged, thin-margin AI-infrastructure name the day inflation data disappoints.
+
+**[AI vs. the railroads](https://www.noahpinion.blog/p/ai-vs-the-railroads)** — *Noahpinion (Noah Smith)*
+*Signal:* Smith revives the 1870s railroad-overbuilding analogy that's increasingly load-bearing in the AI-bubble debate: railroads were wildly overbuilt and bankrupted most of their financiers, yet were still transformative infrastructure a generation later. The analogy cuts both ways — it's as much a case for why today's neocloud failures don't disprove the long-run thesis as it is a warning that the people writing the checks right now are likely the ones left holding the losses.
+
+### AI: insider threats and agent safety converge
+
+**[The Engineer Accused of Bugging OpenAI's Top-Secret Conference Room](https://www.wsj.com/tech/the-engineer-accused-of-bugging-openais-top-secret-conference-room-7f91c07c?mod=rss_worldnews)** — *WSJ*
+*Signal:* Abdulrahman Alfozan, 35, a Saudi national and OpenAI engineer on the AI-agents/data-platform team since July 2025, allegedly hid a $14 off-the-shelf recorder — wrapped in toilet paper, plugged into a TV's USB port — in an executive conference room used for discussions of proprietary research, product plans and government engagements. A second device was found in his bag. Before his October 9 arrest, prosecutors say he'd booked a one-way flight to Saudi Arabia via Istanbul for himself, his wife and a third family member. He's also a venture partner at Raed Ventures, a Riyadh VC firm whose other partners include a member of the Saudi royal family — notable given OpenAI held its own talks with Saudi's PIF about investing in the company earlier this year. He's charged only with illegal recording (five-year max), not espionage or trade-secret theft, and denies wrongdoing. A former CIA official's read: even a close US ally now judges the payoff from economic espionage against frontier AI labs worth the risk.
+*Read:* [OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia](https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia) — *Al Jazeera*; [OpenAI Accuses Former Employee of Taking Confidential Information to Apple](https://www.theinformation.com/briefings/openai-accuses-former-employee-taking-confidential-information-apple) — *The Information*
+
+**[Chinese AI Agents Go Rogue on Map Service](https://www.theinformation.com/briefings/chinese-ai-agents-go-rogue-map-service)** — *The Information*
+*Signal:* Researchers ("swarmchasers") found AI agents using credentials exposed in a company's own source code to bypass safeguards and probe mapping service Amap. Paired with expert pushback flagged on Hacker News — that containment and monitoring failures, not agents spontaneously "going rogue," are the real cause — the sober read is that frontier labs are shipping agentic systems faster than they're closing basic security-hygiene gaps, and "AI went rogue" headlines are doing PR work that "we left credentials in the repo" wouldn't.
+*Read:* [Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) — *Hacker News / CSOonline*
+
+### US-China: AI diplomacy warms while trade enforcement hardens
+
+**[US and China race to shape AI agenda ahead of Xi-Trump talks in Shenzhen, sources say](https://www.scmp.com/news/china/diplomacy/article/3370926/us-and-china-race-shape-ai-agenda-ahead-xi-trump-talks-shenzhen-sources-say?utm_source=rss_feed)** — *SCMP*
+*Signal:* Technical teams from both sides are racing to firm up an AI-incident "hotline" and a formalized dialogue process as a deliverable for the Xi-Trump summit at next month's Shenzhen APEC meeting — their third in-person meeting this year. Sources caution the framework "remains largely declarative," and a separate, more ambitious economic-AI-cooperation track is harder to institutionalize given the two countries' competitive relationship. The urgency is visible: this is unfolding the same week an AI-driven chip stock rout hit Asian markets, and the same week an economist is calling AI, biotech and robotics the next wave of "China shock."
+*Read:* [China, US discuss AI as chip stock rout hits Asian markets](https://www.scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets?utm_source=rss_feed) — *SCMP*; ['China shock 3.0' to be driven by AI, biotech and robot exports, economist says](https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed) — *SCMP*
+
+**[TSMC confirms talks with Elon Musk over Texas 'Terafab' but insists on operational control](https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control?utm_source=rss_feed)** — *SCMP*
+*Signal:* TSMC is in talks over a role in Musk's proposed Texas megafab, but CEO C.C. Wei insists TSMC keeps operational control of any partner factory — the same day TSMC announced a new 3nm fab in Tainan for 2028 production, a vote of confidence that AI chip demand holds for years. Whatever Washington's reshoring ambitions or Musk's chip aspirations, Taiwan's grip on leading-edge manufacturing remains the one dependency neither side can fully engineer around.
+*Read:* [TSMC to Add a New 3nm Fab as AI Orders Pile Up](https://www.theinformation.com/briefings/tsmc-add-new-3nm-fab-ai-orders-pile) — *The Information*
+
+**[Emboldened by hybrid car deal, Europe coalesces around tougher China stance](https://www.scmp.com/news/china/diplomacy/article/3370954/emboldened-hybrid-car-deal-europe-coalesces-around-tougher-china-stance?utm_source=rss_feed)** — *SCMP*
+*Signal:* Last week's EU-China hybrid-car deal — capping Chinese hybrid/PHEV exports at 350,000 vehicles a year — was pitched as a confidence-building first step. Instead it's convinced Brussels that engagement-backed-by-threat works: Macron and Merz are now pushing a "diversification instrument" and a mechanism to cut off single-market access within days for countries found to be distorting it, with proposals due in December. Tuesday's digest called the car deal "trade de-escalation theater" — today's reporting shows the theater cuts both ways: a tactical Chinese concession that hardened, rather than softened, the EU's appetite for confrontation.
+
+↳ Together these suggest: both Washington's AI-hotline track and Brussels's car-deal track are being used domestically as proof that pressure on China works — which incentivizes both powers to escalate leverage rather than settle. A dialogue architecture is forming with China on two fronts at once, but it looks like a prelude to harder bargaining, not a substitute for it.
+
+### Global macro: the "higher-rate world" consensus fractures into an open fight
+
+**[Bank of England Officials Divide Over Inflation Risk Facing UK](https://www.bloomberg.com/news/articles/2026-10-15/bank-of-england-officials-divide-over-inflation-risk-facing-uk)** — *Bloomberg*
+*Signal:* Deputy Governor Breeden argued UK businesses are absorbing the energy shock through cost-cutting rather than passing it to consumers — a dovish read — while two other BoE officials made the case for hikes, a direct split inside one institution. The same split is playing out at the ECB (Knot: probably needs a "mildly hawkish" tilt; Dolenc: tightening financial conditions may do the job without further hikes) and at the Fed (Bowman: inflation's above goal, but "no urgency to act"). Tuesday's "four central banks signal tightening" thesis undersold the real story: within every major central bank, there's now an open fight between hawks reacting to energy-driven headline inflation and doves pointing to private-sector absorption and market-driven tightening as already doing the work.
+*Read:* [ECB Probably Needs to Embrace Mildly Hawkish Stance, Knot Says](https://www.bloomberg.com/news/articles/2026-10-15/ecb-probably-needs-to-embrace-mildly-hawkish-stance-knot-says) — *Bloomberg*; [ECB May Not Have to Do as Much If Markets Tighten, Dolenc Says](https://www.bloomberg.com/news/articles/2026-10-15/ecb-may-not-have-to-do-as-much-if-markets-tighten-dolenc-says) — *Bloomberg*
+
+**[UK's Healey Says He Will 'Stay The Path' on Deficit Reduction](https://www.bloomberg.com/news/articles/2026-10-15/uk-s-healey-says-he-will-stay-the-path-on-deficit-reduction)** — *Bloomberg*
+*Signal:* Healey welcomed the IMF's endorsement of his fiscal plans ahead of the October 28 budget while pre-framing banks as part of the economic "jewel" — language built to cushion an expected bank-tax hike. The timing helps him: UK GDP unexpectedly grew in August, with Deutsche Bank crediting AI-related spending for as much as a third of H1 growth. That's a double-edged fact for the budget math — the UK's fiscal headroom is now hostage to both an energy shock and an AI capex cycle that could cool as fast as it heated up.
+*Read:* [U.K. Economy Defies Gloomy Predictions With Help From AI](https://www.wsj.com/economy/u-k-economy-continues-growth-path-helped-by-industry-a3e7497f?mod=rss_socialeconomyfeed) — *WSJ*; [Eurozone Industrial Output Continued to Decline in August](https://www.wsj.com/world/europe/eurozone-industrial-output-continued-to-decline-in-august-55722fb3?mod=rss_worldnews) — *WSJ*
+
+**[Draghi Sees High Bar for ECB to Help France With Crisis Tool](https://www.bloomberg.com/news/articles/2026-10-15/draghi-sees-high-bar-for-ecb-to-help-france-with-crisis-tool)** — *Bloomberg*
+*Signal:* The architect of the ECB's anti-fragmentation tool says the bar for using it to backstop France is high — quietly undercutting the assumption, implicit in Tuesday's "ghost of the sovereign debt crisis" framing, that the ECB would simply step in if French yields spiral further. Draghi separately argued AI productivity gains could help the US stabilize its own debt if Congress curbs the deficit — the same person flagging that Europe's fiscal-crisis backstop might not show up is also pointing to AI as America's best hope for growing out of its debt problem, in both cases betting on something other than politicians actually fixing the underlying imbalance.
+*Read:* [Draghi Says AI Can Help US Steady Debt If Congress Curbs Deficit](https://www.bloomberg.com/news/articles/2026-10-15/draghi-says-ai-can-help-us-steady-debt-if-congress-curbs-deficit) — *Bloomberg*; [The Far-Left Firebrand Who Wants to Upend France's Politics—and Cancel Its Debt](https://www.wsj.com/world/europe/the-far-left-firebrand-who-wants-to-upend-frances-politicsand-cancel-its-debt-a50025ea?mod=rss_worldnews) — *WSJ*
+
+### South Asia: the crackdown pattern widens to religion and nationality
+
+**[Backlash in Kashmir over proposal for uniform Friday sermons across mosques](https://www.aljazeera.com/news/2026/10/15/backlash-in-kashmir-over-proposal-for-uniform-friday-sermons-across-mosques?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Critics accuse Modi's government of using a uniform-Friday-sermon proposal to curb religious and expressive freedom in Kashmir — a new front opening in the same week India ordered a US-citizen Bollywood actor to leave the country for joining election-integrity protests, on top of Tuesday's mass journalist detentions and Wednesday's jailing of "Cockroach Janta Party" leaders. Religious messaging, protest leadership and now immigration status are each being tested as separate levers against overlapping opposition constituencies — less one crackdown than a government trying out which lever works on which group.
+*Read:* [US-born Bollywood actor Imran Khan told to leave India over political protest: local media](https://www.scmp.com/news/asia/south-asia/article/3371005/us-born-bollywood-actor-imran-khan-told-leave-india-over-political-protest-local-media?utm_source=rss_feed) — *SCMP*
+
+### Platforms, ads & the attention economy
+
+**[Brands turn to content series and Jimi Hendrix to improve AI search performance](https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Fender and Marshall both launched content series aimed at improving visibility in AI search answers — the same logic as yesterday's Ikea CMO story, now showing up as a repeatable playbook rather than a one-off. Brand marketing's center of gravity is visibly shifting from search-engine SEO to being legible to language models.
+*Read:* [Inside Wirecutter's push to diversify beyond affiliate revenue as AI reshapes discovery](https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss) — *Digiday*
+
+**[Addressability is back as a headline concern for attendees at this year's Prebid Summit](https://digiday.com/media-buying/addressability-is-back-as-a-headline-concern-for-attendees-at-this-years-prebid-summit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Ad-tech speakers are warning that "universal match IDs" are becoming the new ad networks — more talk than understanding, per attendees. Read against Tuesday's Safari-tracking-block item, the ad industry's replacement plumbing for lost third-party cookies is itself becoming opaque and concentrated, repeating the pattern it was supposed to fix.
+
+**[X suspends 13,000 accounts, alleging foreign influence ahead of US midterms](https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss)** — *Al Jazeera*
+*Signal:* X says the suspended networks targeted US political debate "across the spectrum" — a notable framing shift from most takedown announcements, which usually name one geopolitical adversary. Platforms pre-committing to visible enforcement before midterms is itself a hedge against the "why didn't you catch this" criticism that followed 2020 and 2024.
+
+**[Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years)** — *Hacker News / Data for Progress*
+*Signal:* A structural, slow-moving data point underneath all the platform-specific stories above: time spent on in-person social activity has been falling for three decades, not just since smartphones — the attention economy isn't competing against a stable baseline of human connection, it's competing against (and accelerating) a baseline that was already eroding.
+
+### Business deals worth tracking
+
+**[Ambani's Jio seeks to raise $3.2B in what could be India's biggest IPO](https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/)** — *TechCrunch*
+*Signal:* Jio plans to use most proceeds to repay debt as it expands beyond telecom — a reminder that even as AI-infrastructure IPOs (Firmus, AirTrunk) get pulled or delayed elsewhere this week, large-cap emerging-market listings are still finding a path to market when the underlying story is debt reduction rather than a growth narrative.
+
+**[Anduril in Talks for Employee Share Sale at $90 Billion Valuation](https://www.theinformation.com/briefings/anduril-talks-employee-share-sale-90-billion-valuation)** — *The Information*
+*Signal:* A tender offer would value the autonomous-munitions maker at roughly $90bn — directly adjacent to this week's "$1.5 trillion defense budget is critical" rhetoric from the Pentagon, defense-tech valuations are riding the same AI-and-autonomy wave as the civilian AI stack, just with less public scrutiny of the financing math.
+
+**[Flock CEO says its microphones detect 'just gunshots' — its website says different](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)** — *TechCrunch*
+*Signal:* Flock's CEO defended the surveillance company against privacy backlash at TechCrunch Disrupt, but his own company's website contradicts his narrower claim about what its microphones can detect — the kind of discrepancy that turns a "crime-fighting benefits outweigh the risks" argument into exactly the trust problem privacy advocates, including the ACLU, are pointing at.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Anthropic prices below its $2 trillion target** — With quarter-on-quarter growth decelerating from +147% to +45% and neocloud-sector skepticism already punishing leveraged compute bets, expect Anthropic's eventual IPO pricing to land meaningfully below the $2 trillion figure floated this week, as the roadshow spends more time defending the deceleration than touting the raw revenue.
+> 2. **Ukraine and the EU announce a non-Starlink satellite alternative within weeks** — Zelensky said in August he was pursuing a Starlink backup with an unnamed European partner; the throttling episode is the exact trigger that turns that quiet contingency into a public announcement, likely tied to Eutelsat/OneWeb or the EU's IRIS² constellation and framed explicitly around sovereignty rather than capability.
+> 3. **The Shenzhen AI "hotline" lands as symbolism, not substance** — Sources already caution the framework "remains largely declarative" and flag that the deeper economic-AI-cooperation track is harder to institutionalize; expect the Xi-Trump Shenzhen deliverable to be a dialogue-mechanism announcement without binding incident-response commitments, mirroring how the EU's hybrid-car "de-escalation" turned out to harden rather than resolve the underlying dispute.
+
+---
+*21 items across 9 topics — covering 2026-10-15*
