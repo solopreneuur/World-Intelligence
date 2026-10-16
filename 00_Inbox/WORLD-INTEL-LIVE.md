@@ -1,4 +1,4 @@
-Last Digest: 2026-10-15
+Last Digest: 2026-10-16
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -432,3 +432,100 @@ A UN envoy is publicly framing this moment as a peace opening even as Kabila's c
 
 ---
 *21 items across 9 topics — covering 2026-10-15*
+
+## 2026-10-16 — Daily Sweep
+
+### Middle East: the Houthis hit the seat of government itself
+
+**[Houthis launch deadly attack on presidential palace in Yemen's Aden](https://www.scmp.com/news/world/middle-east/article/3371065/houthis-launch-deadly-attack-presidential-palace-yemens-aden?utm_source=rss_feed)** — *SCMP*
+*Signal:* Missiles and drones hit the Al-Maashiq presidential compound in Aden, killing five (including two members of the prime minister's security detail) and wounding 16; the PM and other officials were unharmed. The Houthis claim they were targeting a Saudi-led operations center and weapons depots inside the compound; Riyadh blames Iran for arming the escalation. This is a step beyond this week's Aramco and airport strikes — not critical infrastructure now, but the physical seat of the internationally recognized government, which the Houthis have never directly targeted before.
+*Read:* [US sanctions leave Iranians facing flight cancellations and soaring costs](https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss) — *Al Jazeera*
+
+New US aviation sanctions are simultaneously squeezing ordinary Iranians' ability to leave the country — the same regime absorbing Riyadh's accusations of running the Houthi campaign is also watching its own population's exit routes narrow, a pressure point distinct from but parallel to the economic damage Vision 2030 is absorbing in Saudi Arabia.
+
+### Russia-Ukraine: Washington's "disgrace" framing lands on Kyiv, not Moscow
+
+**[Trump rebukes Zelensky, calls Ukraine's strikes on Russian refineries a 'disgrace'](https://www.scmp.com/news/world/europe/article/3371106/trump-rebukes-zelensky-calls-ukraines-strikes-russian-refineries-disgrace?utm_source=rss_feed)** — *SCMP*
+*Signal:* Trump told Newsmax Ukraine's resumed refinery strikes are "a disgrace" that keeps global energy prices elevated — directly after Moscow broke his own "energy ceasefire" first and after Zelensky accused SpaceX of throttling Starlink to stop exactly these strikes. The rhetorical target has now fully inverted from Tuesday's digest: the ceasefire Russia broke is being publicly litigated as Ukraine's bad behavior, not Russia's. This is the clearest evidence yet that Washington's framing is managed around its own diplomatic optics rather than battlefield facts.
+
+### US-China & trade: Brussels readies a kill switch as Beijing's own growth misses its own target
+
+**[EU backs trade 'kill switch', China exports surge, third-quarter GDP](https://www.scmp.com/plus/economy/china-economy/article/3371152/eu-backs-trade-kill-switch-china-exports-surge-third-quarter-gdp?utm_source=rss_feed)** — *SCMP*
+*Signal:* EU leaders backed developing a tool to rapidly shut a country or its companies out of the single market over "economic coercion," with proposals due by year-end — a direct escalation of Tuesday's "de-escalation theater" read on the hybrid-car deal, now Brussels moving from discussing curbs to building the big lever. The same day, China's September exports rose 36.3% year-on-year (trade surplus nearing $1 trillion for the year) while Q3 GDP is tracking around 4.4% — a second straight quarter below the government's 4.5-5% target, with economists noting Beijing's September stimulus (rate cuts, mortgage subsidies) came too late to move Q3 numbers. China's export machine and its domestic economy are now moving in opposite directions at the same time, which is exactly the asymmetry (flood exports, weak domestic demand) that's pushing the EU toward a tool it wouldn't have considered viable a year ago.
+*Read:* [China's AI boom, self-sufficiency push fuel earnings surge for local chip firms](https://www.scmp.com/tech/tech-trends/article/3371159/chinas-ai-boom-self-sufficiency-push-fuel-earnings-surge-local-chip-firms?utm_source=rss_feed) — *SCMP*
+
+The chip-earnings story is the bifurcation in miniature: Chinese chipmakers are flagging up to six-fold profit growth on AI/self-sufficiency demand even as the broader economy misses target — capital and policy support are concentrating in the AI/chip corridor while the rest of the economy absorbs the stimulus lag.
+
+**[South Korea-US alliance losing 'trust' amid widening cracks in ties](https://www.scmp.com/news/asia/east-asia/article/3371082/south-korea-us-alliance-losing-trust-amid-widening-cracks-ties?utm_source=rss_feed)** — *SCMP*
+*Signal:* Seoul's own envoy to Washington publicly acknowledged an "issue" with intelligence-sharing — a rare admission that fuses with Tuesday's Japan survey (younger Japanese now fearing Trump's US nearly as much as China) into a wider pattern: two of the US's core Pacific allies are independently losing confidence in Washington's reliability at the exact moment China is testing both (the Liaoning carrier drills, the "could easily win" remark to Manila below).
+
+**[Envoy says China could 'easily win' conflict as Manila claims it is 'thinly veiled threat'](https://www.scmp.com/news/china/diplomacy/article/3371121/envoy-says-china-could-easily-win-conflict-manila-claims-it-thinly-veiled-threat?utm_source=rss_feed)** — *SCMP*
+*Signal:* China's ambassador to the Philippines said Beijing "could easily win" a military showdown but has chosen peace — explicit coercive signaling dressed as reassurance, over the Scarborough Shoal dispute, the same week Beijing is projecting soft power in Africa and hard trade leverage in Europe. The message varies by audience but the instrument — reminding weaker counterparts what they'd lose in a confrontation — is consistent.
+
+### Global macro: the rate-hold consensus gets a new fault line in Jakarta
+
+**[Indonesian Stocks Dive as MSCI Weighs Downgrade to Standalone Market](https://www.wsj.com/finance/investing/indonesian-stocks-dive-as-msci-weighs-downgrade-to-standalone-market-406133fc?mod=rss_worldnews)** — *WSJ*
+*Signal:* Jakarta's index fell roughly 11% in a single day — its steepest drop since the 1998 Asian financial crisis — after MSCI opened a consultation on downgrading Indonesia from emerging-market to standalone status, citing opaque ownership structures and weak enforcement rather than naming a single trigger. Underneath the market mechanics is a credibility question: a new law expanding Bank Indonesia's mandate toward growth, the president's nephew installed as deputy governor, and the outgoing governor's early resignation have investors doubting whether the central bank can still prioritize the rupiah and prices over President Prabowo's growth agenda. Funds benchmarked to MSCI's EM index would be forced sellers if the downgrade goes through — a mechanical outflow risk layered on top of the trust question.
+*Read:* [Indonesia's central bank insists it is independent. Investors want proof](https://www.scmp.com/week-asia/economics/article/3371114/indonesias-central-bank-insists-it-independent-investors-want-proof?utm_source=rss_feed) — *SCMP*
+
+**[Fed Chairman Kevin Warsh declined to endorse or push back on colleagues' signals on rates](https://www.wsj.com/economy/central-banking/warsh-avoids-signal-on-october-rate-move-a176b0d5?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* Warsh refused to prejudge the October 27-28 meeting even as September's PPI rose 1.3% month-on-month and 6.3% year-on-year — the largest monthly jump since March 2022 and a four-year high on the annual measure. This extends this week's "open fight inside every central bank" thread: the data is now hot enough that a hold, not a hike, needs active justification, yet the Fed chair is visibly avoiding committing to either.
+
+**[UK's Healey Set to Raise Taxes on Banks](https://www.bloomberg.com/news/videos/2026-10-16/uk-s-healey-set-to-raise-taxes-on-banks-video)** — *Bloomberg*
+*Signal:* Healey is set to raise the bank surcharge to fund cost-of-living support ahead of the October 28 budget — the "quietly loosened fiscal rule plus a basket of smaller measures" predicted Tuesday is taking shape, with banks as the chosen target rather than a single headline tax rise.
+
+**[Lescure Says Bond Turmoil Helps France See Need for Discipline](https://www.bloomberg.com/news/articles/2026-10-16/lescure-says-bond-turmoil-helps-france-see-need-for-discipline)** — *Bloomberg*
+*Signal:* France's finance minister is framing market pressure itself as the thing that will discipline parliament into passing a budget — an admission that bond vigilantes, not political consensus, are now doing the governing that Draghi said yesterday the ECB won't backstop.
+
+### AI: the financing math gets harder and the industry's informal rules keep breaking
+
+**[Did Anthropic Miss Its Peak IPO Moment?](https://www.theinformation.com/articles/anthropic-miss-peak-ipo-moment)** — *The Information*
+*Signal:* With Q3 revenue growth decelerating from +147% to +45% confirmed this week, investors are reportedly already discussing an IPO valuation ceiling closer to $1.5 trillion rather than the $2 trillion figure floated days ago — Monday's prediction landing inside the week it was made. The read is that Anthropic's best relative story (triple-digit growth versus skeptical peers) was available months ago and has already decayed; waiting for "more scale" cost it the growth-rate narrative it needed most.
+*Read:* [The Party Is Still Going Strong for Private Tech](https://www.theinformation.com/articles/party-still-going-strong-private-tech) — *The Information*
+
+**[Even Benchmark thinks AI is eroding the venture pact against backing rivals](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)** — *TechCrunch*
+*Signal:* One of Silicon Valley's most conservative firms on this norm now says the unwritten rule against funding direct competitors is breaking down — a quiet structural shift in how AI capital gets allocated, with implications for how much real competitive differentiation VC-backed AI startups can sustain if their own investors are funding the company next door.
+
+**[Cognition's Plan to Limit Tokenmaxxing to the Most Efficient Engineers](https://www.theinformation.com/articles/cognitions-plan-limit-tokenmaxxing-efficient-engineers)** — *The Information*
+*Signal:* Cognition (maker of coding agent Devin) is now measuring individual engineers' token efficiency and routing only the most efficient to the most expensive models — enterprise AI cost discipline moving from "cap usage" to "ration access by proven efficiency," a more granular version of the belt-tightening showing up across the AI capex conversation this week.
+
+**[Who is Nathan Chen, the Chinese teen AI prodigy being courted by Silicon Valley?](https://www.scmp.com/tech/tech-trends/article/3371117/who-nathan-chen-chinese-teen-ai-prodigy-being-courted-silicon-valley?utm_source=rss_feed)** — *SCMP*
+*Signal:* A 17-year-old researcher's departure from Moonshot AI for the US is drawing outsized attention — individual-researcher poaching has become geopolitically legible in a way it wasn't two years ago, the human-capital mirror of the chip and compute fights above.
+
+### Cybersecurity & platforms: the ad network becomes a surveillance delivery system
+
+**[Governments are hacking people with 'zero-click' spyware by showing them online ads](https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/)** — *TechCrunch*
+*Signal:* Citizen Lab found an Israeli company, Discover-Tech, running an ad platform ("Controlium") that bridges mainstream ad exchanges to mercenary spyware makers Candiru and Bindecy — malicious ads served across tens of thousands of ordinary apps and sites silently compromised targeted devices. At least 45 Windows computers at Al Jazeera were hacked this way in 2024-2025. Researcher Bill Marczak called it the first concrete technical evidence of this specific attack chain. The significant part isn't the targeting (state surveillance of journalists is old news) — it's the delivery mechanism: ordinary programmatic ad auctions, the same plumbing every publisher depends on for revenue, is now a documented spyware distribution channel, and Discover-Tech's own exposed records show billions of bid records reaching military, government and critical-infrastructure devices.
+
+**[Meta's new commercial terms will allow the scraping of news sites, experts say](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)** — *Hacker News / Nieman Lab*
+*Signal:* Legal experts flag that Meta's updated terms quietly open the door to scraping publisher content at commercial scale — landing the same week Reach's CEO is using a Google AI-licensing deal as a template while sending OpenAI a cease-and-desist over scraping. Publishers are simultaneously trying to negotiate paid AI-licensing frameworks with some platforms while discovering other platforms have rewritten their terms to not need permission at all.
+*Read:* [Reach CEO touts Google AI deal as a template, steps up pressure on OpenAI over scraping](https://digiday.com/media/reach-ceo-touts-google-ai-deal-as-a-template-steps-up-pressure-on-openai-over-scraping/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss) — *Digiday*; [Social commerce edges past SEO at The Independent for the first time](https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss) — *Digiday*
+
+↳ Together these suggest: publisher revenue is being pulled apart from two directions at once — search/SEO traffic is being displaced by both social commerce (Independent) and AI answer engines, while the content underlying both AI search and chatbot answers is increasingly scraped without the licensing deals publishers are trying to negotiate case-by-case. The leverage publishers have is shrinking faster than the deals are being signed.
+
+**[Ruggable's new ad spend strategy shifts focus to ShopMy creators](https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Ruggable has moved roughly 10% of total spend from Meta performance ads into creator/CTV channels since last year and plans another 15-20% shift next year — a direct-to-consumer brand treating platform ad dependence itself as a risk to diversify away from, not just a channel-mix optimization.
+
+### South Asia: the crackdown pattern holds
+
+**[Indian police launch New Delhi clampdown for Cockroach Party rally](https://www.aljazeera.com/news/2026/10/16/indian-police-launch-new-delhi-clampdown-for-cockroach-party-rally?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The youth-led movement is now explicitly rallying over the jailing of its own leaders (Wednesday's digest) — each round of state suppression is becoming the next round's protest grievance, a self-reinforcing cycle rather than a deterrent.
+
+### Business deals worth tracking
+
+**[SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US](https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/)** — *TechCrunch*
+*Signal:* SK Hynix's Solidigm unit is trading a US NAND factory commitment for continued permission to send chipmaking equipment to its own China plant — a chipmaker explicitly using reshoring as a bargaining chip to keep its China capacity alive, rather than choosing one supply chain over the other.
+
+**[Cursor Staff Investigated Whether Confidential Data Reached SpaceX for AI Training](https://www.theinformation.com/briefings/cursor-staff-investigated-whether-confidential-data-reached-spacex-ai-training)** — *The Information*
+*Signal:* Engineers at Cursor flagged a possible leak of confidential data into SpaceX's Grok Bot training pipeline during SpaceX's acquisition process — another entry in this week's pattern (OpenAI's bugged conference room, North Korean infiltration) of frontier AI's security risk increasingly running through internal data-handling and M&A integration, not external attackers.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Bank Indonesia hikes on credibility, not growth** — With MSCI's consultation now live and the rupiah under pressure, expect Bank Indonesia's new governor to announce an actual rate hike within weeks rather than rely on verbal reassurance about independence — prioritizing index-inclusion credibility over Prabowo's growth agenda, the same market-forces-discipline-the-state pattern seen this week in UK gilts and French bonds.
+> 2. **Anthropic's eventual filing formalizes a sub-$2T valuation, not just investor chatter** — With a ~$1.5 trillion ceiling already circulating among prospective investors this week, expect Anthropic's actual S-1 or price range, whenever it lands, to confirm a valuation materially below the $2 trillion figure floated in September — following the same discipline already applied to AirTrunk and Firmus.
+> 3. **A second ad-exchange-based spyware intermediary gets exposed within the quarter** — Citizen Lab's exposure of Discover-Tech shows mercenary spyware has been riding mainstream programmatic ad auctions undetected for years, with billions of bid records as the trail; expect researchers to identify at least one more ad-tech intermediary serving this market before year-end, prompting the first regulatory proposal aimed specifically at ad-exchange-based surveillance rather than app-store or device-level exploits.
+
+---
+*23 items across 8 topics — covering 2026-10-16*
