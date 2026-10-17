@@ -1,4 +1,4 @@
-Last Digest: 2026-10-16
+Last Digest: 2026-10-17
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -529,3 +529,96 @@ The chip-earnings story is the bifurcation in miniature: Chinese chipmakers are 
 
 ---
 *23 items across 8 topics — covering 2026-10-16*
+
+## 2026-10-17 — Daily Sweep
+
+### Russia-Ukraine: Trump trades away his own leverage
+
+**[Trump pauses Russian sanctions package after striking diesel deal with Putin](https://www.scmp.com/news/world/united-states-canada/article/3371222/trump-pauses-russian-sanctions-package-after-striking-diesel-deal-putin?utm_source=rss_feed)** — *SCMP*
+*Signal:* Trump signed an executive order waiving the Graham Act sanctions — tariffs up to 100% on Russia's top oil/gas buyers (chiefly China and India) plus measures against Putin, Russian banks and the shadow tanker fleet — two days before they were due to take effect, citing "national interest." The waiver follows last week's deal to buy 300,000+ tons of Russian diesel now, rising to millions of tons later, ostensibly to cool US pump prices before the midterms. Bipartisan lawmakers (including the bill's own namesake's sister, now running for his Senate seat) are calling it a gift to Putin with "negligible" price impact — the clearest case yet of domestic political incentives (cheap gas before an election) overriding the sanctions leverage Congress built with near-unanimous support.
+*Read:* [Brazen Russian Attacks Are Testing NATO](https://www.wsj.com/world/europe/brazen-russian-attacks-are-testing-nato-955ff97d?mod=rss_worldnews) — *WSJ*; [Zelensky asks EU for extra $79 billion to sustain Ukraine's war effort](https://www.scmp.com/news/world/europe/article/3371207/zelensky-asks-eu-extra-79-billion-sustain-ukraines-war-effort?utm_source=rss_feed) — *SCMP*
+
+**[Russian attacks in Ukraine kill at least 8, cut power to 1 million](https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Strikes on Kharkiv, Kramatorsk, Volyn and Rivne hit as Moscow keeps targeting the power grid heading into winter — the "energy ceasefire" Trump announced last week was never confirmed by Moscow and has produced zero change in Russian behavior, while Zelensky is now asking the EU for another €70bn ($79bn) just to keep fighting through 2027.
+
+↳ Together these suggest: the diesel deal and the sanctions waiver aren't separate stories from the unconfirmed ceasefire — they're the same pattern. Washington keeps making unilateral concessions (ceasefire framing, diesel purchases, sanctions relief) that Moscow neither reciprocates nor even acknowledges, while Kyiv's funding gap and NATO's "testing" keep widening. The leverage keeps flowing one direction.
+
+### Middle East: Iran's fingerprints show up directly on the Houthi campaign
+
+**[Iran-backed Houthis strike Yemen's Aden: What that means](https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The Houthis hit Aden's presidential palace and airport — the seat of Yemen's internationally recognized government, not just Saudi Arabia — opening a second front at the same time they're squeezing Riyadh (yesterday's digest). WSJ reports Iran is now directly supplying targeting and intelligence for the Saudi strikes, not just weapons, which raises the stakes from "Iran-backed proxy" to "Iran-directed campaign" — a distinction that matters for how Riyadh and Washington calibrate a response.
+*Read:* [Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia](https://www.wsj.com/world/middle-east/iran-houthi-saudi-arabia-attacks-38b82107?mod=rss_worldnews) — *WSJ*
+
+**[Hezbollah Tells the Lebanese Government It Wants Its Explosives Back](https://www.wsj.com/world/middle-east/hezbollah-tells-the-lebanese-government-it-wants-its-explosives-back-45b8902e?mod=rss_worldnews)** — *WSJ*
+*Signal:* A direct, public test of wills against a government that pledged to demilitarize the group — a quiet but structurally important marker of whether Lebanon's state can actually enforce the disarmament it promised, independent of how the Gaza or Houthi fronts play out.
+
+### US-China & AI: Beijing builds its own export-control chokepoint
+
+**[China Proposes Export Controls on AI Technology](https://www.theinformation.com/briefings/china-proposes-export-controls-ai-technology)** — *The Information*
+*Signal:* China's commerce and science ministries published a draft adding 40 technologies — 23 of them AI-related — to its export-restriction catalog: model weights/source code for systems above 2 trillion parameters or ranking in the global top 10, AI agents built for defense/critical-infrastructure use, and chip-design know-how for sub-14nm AI processors and advanced memory. A registration requirement for covered exports took effect immediately (Oct 16), ahead of a Nov 15 comment deadline. Open-source releases are explicitly exempted. This is Beijing building a mirror image of the US-China chip-export regime — treating its own frontier AI as a strategic asset to protect from outflow, not just technology it's racing to acquire. It lands the same week China's R&D spending (+8.2%) is diverging sharply from US research-funding cuts.
+*Read:* [China's R&D spending keeps up steady rise as No 1 US seeks further funding cuts](https://www.scmp.com/news/china/science/article/3371198/chinas-rd-spending-keeps-steady-rise-no-1-us-seeks-further-funding-cuts?utm_source=rss_feed) — *SCMP*
+
+### China-EU & East Asia: trade détente paired with new leverage on both sides
+
+**[China warns EU not to 'fantasise' on trade approach as Brussels confirms new 'kill switch'](https://www.scmp.com/news/china/diplomacy/article/3371217/china-warns-eu-not-fantasise-trade-approach-brussels-confirms-new-kill-switch?utm_source=rss_feed)** — *SCMP*
+*Signal:* A week after the EU-China hybrid-car deal (yesterday's digest) eased tensions, Brussels is confirming a "kill switch" mechanism to immediately expel China from the single market if needed — the same de-escalation-while-rearming pattern on both sides. France and Germany separately struck a deal to water down the EU's 2035 combustion-engine ban, which Chancellor Merz says is now effectively dead — a second, parallel concession to industry that has nothing to do with China but lands in the same week, suggesting Brussels is managing multiple fronts (China competition, domestic auto lobby) with the same toolkit of calibrated retreats.
+*Read:* [France and Germany Reach Deal to Protect Europe's Car Industry](https://www.wsj.com/business/autos/france-and-germany-reach-deal-to-protect-europes-car-industry-f829c51d?mod=rss_worldnews) — *WSJ*; [Merz Says EU Combustion-Car Ban Is History After French Deal](https://www.bloomberg.com/news/articles/2026-10-16/france-germany-reach-deal-on-future-of-european-auto-industry) — *Bloomberg*; [North Korea says it tested new torpedo with AI tech](https://www.scmp.com/news/asia/east-asia/article/3371218/north-korea-says-it-tested-new-torpedo-ai-tech?utm_source=rss_feed) — *SCMP*
+
+### Tech & security: connected hardware as an intelligence-collection risk
+
+**[Security fears in Norway as Chinese smart cars record sensitive military data](https://www.scmp.com/news/world/europe/article/3371243/security-fears-norway-chinese-smart-cars-record-sensitive-military-data?utm_source=rss_feed)** — *SCMP*
+*Signal:* Chinese-made connected cars filmed access codes and personnel movements at a secure Norwegian military site during an exercise in September — a concrete, dated example of the generic "connected-vehicle data risk" warnings becoming an actual documented incident, likely to accelerate EU scrutiny of Chinese EVs beyond the trade-competitiveness angle already in play above.
+
+### South Asia: Modi's protest problem compounds
+
+**[Modi under pressure as India's youth protests rise to highest level in a decade](https://www.scmp.com/news/asia/south-asia/article/3371244/modi-under-pressure-indias-youth-protests-rise-highest-level-decade?utm_source=rss_feed)** — *SCMP*
+*Signal:* Direct continuation of yesterday's Delhi election-chief unrest: security forces deployed en masse, protesters scaling barricades, "Long live the revolution" chants. The movement fuses electoral-integrity grievances with youth unemployment — the same self-reinforcing crackdown-feeds-protest loop flagged in prior digests, now explicitly measured as a decade high rather than an isolated flare-up.
+
+### Global macro: the IMF's Bangkok meetings end with AI-bubble anxiety on the record
+
+**[Key Takeaways From Financial Elite's Big Gathering in Bangkok](https://www.bloomberg.com/news/articles/2026-10-16/key-takeaways-from-financial-elite-s-big-gathering-in-bangkok)** — *Bloomberg*
+*Signal:* The IMF/World Bank annual meetings wrapped with finance ministers and central bankers openly flagging an "unbalanced AI boom," a prolonged energy shock, and record global debt piles — concerns that were analyst-fringe talk a month ago (see yesterday's Firmus IPO pull) are now explicit official-sector agenda items. Separately, with Treasury Secretary Bessent absent, the US and its allies bore the brunt of blame-game dynamics that usually get pinned on China.
+*Read:* [AI Boom-or-Bust Scenarios Loom Large at World Financial Summit](https://www.wsj.com/economy/global/ai-boom-or-bust-scenarios-loom-large-at-world-financial-summit-00edaeff?mod=rss_worldnews) — *WSJ*; [US-China Blame Game Over Global Economy Tilts in Beijing's Favor](https://www.bloomberg.com/news/articles/2026-10-16/us-china-blame-game-over-global-economy-tilts-in-beijing-s-favor) — *Bloomberg*; [Absent Bessent Can't Keep Spotlight Off US at IMF](https://www.bloomberg.com/news/newsletters/2026-10-16/absent-bessent-can-t-keep-spotlight-off-us-at-imf) — *Bloomberg*
+
+↳ Together these suggest: official-sector validation of AI-bubble risk is itself a signal — once the IMF's own meetings are built around "unbalanced AI boom" messaging, the Firmus-style financing failures from this week's earlier digest stop being isolated, analyst-flagged incidents and start being a macro-policy input central banks are pricing against.
+
+**[US Posts $1.99 Trillion Budget Gap for 2026 on Spending Rise](https://www.bloomberg.com/news/articles/2026-10-16/us-posts-1-99-trillion-budget-gap-for-2026-as-spending-climbs)** — *Bloomberg*
+*Signal:* The deficit widens to nearly $2 trillion just as the Fed faces a tougher job stabilizing inflation because an oil shock is filtering through consumer and producer prices — fiscal and monetary policy are being squeezed from opposite directions simultaneously, with the ECB meanwhile leaning toward a third 2026 rate hike of its own.
+*Read:* [Fed's Job to Get Tougher as Oil Shock Filters Through Economy](https://www.bloomberg.com/news/articles/2026-10-16/energy-shock-filtering-through-us-economy-complicates-fed-s-job) — *Bloomberg*; [ECB Leans Toward December Hike as Bangkok Talks Expose Risks](https://www.bloomberg.com/news/articles/2026-10-17/ecb-leans-toward-december-hike-as-bangkok-talks-expose-risks) — *Bloomberg*
+
+### AI ethics & safety: governance keeps lagging deployment
+
+**[The chatbot murder guide: AI's struggle between privacy, reporting violence](https://www.aljazeera.com/news/2026/10/17/the-chatbot-murder-guide-ais-struggle-between-privacy-reporting-violence?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Experts describe balancing AI privacy against public-safety reporting obligations as "extraordinarily difficult" — a concrete instance of a gap regulators haven't closed. The same gap shows up operationally: TechCrunch reports India is now the latest country documenting rogue AI-agent activity that got in through exposed credentials and overly permissive cloud roles, not sophisticated attacks — agents are being deployed faster than the access-control hygiene needed to contain them.
+*Read:* [India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) — *TechCrunch*; [AI fears are being weaponised](https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss) — *Al Jazeera*; [90% of US working hours are spent on tasks not covered well by AI benchmarks](https://www.mercor.com/research/labor-index/benchmark-map/) — *Hacker News*
+
+↳ Together these suggest: three separate data points on the same structural lag — safety/privacy governance, access-control hygiene, and benchmark-to-real-work alignment are all trailing capability and deployment speed, not converging with it.
+
+### AI business & infrastructure
+
+**[Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)** — *TechCrunch*
+*Signal:* Masad cites cost among the reasons, two months after Replit's August OpenAI partnership — a visible instance of a developer-tools customer actively switching away from Anthropic on price, worth watching against Anthropic's compute-commitment and eventual IPO narrative (recurring thread in this week's digests).
+
+**[Singapore's DayOne Pushes Ahead With Data Center IPO Tied to TikTok](https://www.theinformation.com/articles/singapores-dayone-pushes-ahead-data-center-ipo-tied-tiktok)** — *The Information*
+*Signal:* DayOne's IPO is built almost entirely on ByteDance as anchor tenant (~70% of revenue) — another AI-infrastructure listing testing investor appetite for single-customer-concentration risk, directly in the shadow of this week's Firmus IPO withdrawal. Separately, Net Interest's Marc Rubinstein examines what happens when AI agents get turned loose on reading bank earnings — a quieter signal of AI tooling moving into analyst workflows previously considered judgment-heavy.
+*Read:* [Me and My Agents: Unleashing AI Agents on Bank Earnings](https://www.netinterest.co/p/me-and-my-agents) — *Net Interest (Marc Rubinstein)*
+
+### Platforms, creator economy & marketing
+
+**[Here's some advice: LinkedIn has a new monetization product built around consulting sessions](https://www.tubefilter.com/2026/10/16/linkedin-creator-monetization-update-advice-sessions-consulting/)** — *Tubefilter*
+*Signal:* LinkedIn's "Advice Sessions" lets professional influencers schedule paid consultations directly on-platform — a 24-year-old platform adding a creator-monetization layer previously the domain of standalone booking tools, and a structural widening of what counts as "creator economy" beyond video/social platforms.
+*Read:* [Creators are finally getting an official Small Business Association classification](https://www.tubefilter.com/2026/10/16/content-creators-small-business-association-classification-loan-paperwork/) — *Tubefilter*
+
+**[BofA sees ChatGPT taking aim at Google's next ad dollar](https://au.finance.yahoo.com/news/bofa-sees-chatgpt-taking-aim-003700235.html)** — *Perplexity search (gap-fill)*
+*Signal:* A BofA survey of 117 advertisers found ChatGPT is now the platform marketers expect the most ad-spend growth on over the next 12 months (26%, ahead of Google Search at 19%), even though actual current spend is still tiny (11% allocate more than 5% of budget to it) — expectations are running well ahead of allocated dollars. Separately, WARC data shows the biggest tech platforms (Alphabet, Meta, Microsoft, Netflix) have cut their ad-to-sales ratio nearly in half since 2019 even as absolute spend keeps rising, because their own revenue is compounding faster than their ad budgets — a sign these companies increasingly own customer attention rather than needing to buy it.
+
+---
+
+### 🔭 Predictions
+
+> 1. **The Graham Act waiver becomes a bigger midterm liability than the diesel prices it was meant to fix** — bipartisan backlash is already louder than any fuel-price relief Trump can credibly claim before November, especially with his own party's Senate candidate (Graham's sister) unwilling to defend the move.
+> 2. **China's new AI export-control catalog quietly accelerates, not slows, its own frontier-model releases** — by explicitly carving out open-source and sub-threshold models from controls, Beijing gives domestic labs an incentive to keep flagship releases open (as with DeepSeek) to avoid the registration/licensing friction now attached to closed, large-parameter exports.
+> 3. **At least one more AI-infrastructure IPO (beyond DayOne) gets repriced or pulled before year-end** — with the IMF's own meetings now flagging "unbalanced AI boom" risk on the record and Firmus already withdrawn, single-customer-concentration stories like DayOne's ~70% ByteDance dependency are the next obvious target for investor skepticism.
+
+---
+*25 items across 9 topics — covering 2026-10-17*
