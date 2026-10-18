@@ -1,4 +1,4 @@
-Last Digest: 2026-10-17
+Last Digest: 2026-10-18
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -622,3 +622,110 @@ The chip-earnings story is the bifurcation in miniature: Chinese chipmakers are 
 
 ---
 *25 items across 9 topics — covering 2026-10-17*
+
+## 2026-10-18 — Daily Sweep
+
+### Global protest wave: affordability anger crosses borders and ideologies
+
+**[Photos: Protests across France spiral into looting, blazes and clashes](https://www.aljazeera.com/gallery/2026/10/18/photos-protests-across-france-spiral-into-looting-blazes-and-clashes?traffic_source=rss)** — *Al Jazeera*
+*Signal:* 550,000-800,000 people marched nationwide on originally peaceful cost-of-living protests that degenerated into France's worst unrest in years: 1,200 arrested, 150 police injured, Limoges' town hall "largely lost" to fire, Marseille's city hall breached and vandalized, luxury boutiques and supermarkets looted across Paris, Lyon, Nantes, Bordeaux and Lille. The protests began last month over school funding and teacher shortages before fusing into a broader movement against inequality and weak public spending — and they land directly on top of the French budget crisis tracked all week (bond yields at 20-year highs, the ECB's Draghi saying the bar for a rescue is high). A political analyst's framing to Al Jazeera cuts to it: "The French are asking themselves where are we going as a country? How are we going to get out of this budget crisis?" Macron has vowed prosecution for vandalism, but the state has no fiscal room to buy the anger off cheaply.
+*Read:* [Looters smash Paris shops as 'unacceptable' violence rocks France](https://www.scmp.com/news/world/europe/article/3371283/looters-smash-paris-shops-unacceptable-violence-rocks-france?utm_source=rss_feed) — *SCMP*; [Violent Protests Rip Through Cities Across France](https://www.wsj.com/world/europe/violent-protests-rip-through-cities-across-france-b617c585?mod=rss_worldnews) — *WSJ*
+
+**['No Kings' protests spread across the US ahead of midterm elections](https://www.aljazeera.com/video/newsfeed/2026/10/18/no-kings-protests-spread-across-the-us-ahead-of-midterm-elections?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Thousands rallied nationwide against Trump three weeks before the midterms, explicitly organized around voter turnout rather than just venting — "it's great to voice your anger... but the most important thing of all is to go and vote," one organizer told SCMP. Separately, WSJ's own five-chart rundown shows the underlying economic backdrop the protests are channeling: food and gas prices up, 401(k) balances also up — a genuinely mixed economic story that both parties are trying to spin before November.
+*Read:* [Across US, 'No Kings' events seek to boost early voting and thwart Trump](https://www.scmp.com/news/world/united-states-canada/article/3371279/across-us-no-kings-events-seek-boost-early-voting?utm_source=rss_feed) — *SCMP*; [Has the economy gotten better or worse during President Trump's second term?](https://www.wsj.com/economy/the-five-charts-that-show-how-your-wallet-will-shape-the-midterms-7f0c4451?mod=rss_socialeconomyfeed) — *WSJ*; [Why are we ruled by barbarians?](https://www.noahpinion.blog/p/why-are-we-ruled-by-barbarians) — *Noahpinion (Noah Smith)*
+
+↳ Together these suggest: French cost-of-living riots, American "No Kings" marches and (per yesterday's digest) Albanian anti-Rama protests are converging on the same two grievances — affordability and distrust of current leadership — through entirely different political systems, parties and triggers. Noah Smith's essay on the American right's turn toward "savagery as the key to victory" is the ideological mirror of the same phenomenon: when institutions can't deliver, both street movements and elite politics start rewarding whoever looks most willing to break things.
+
+### Middle East: the shipping war pincers the Arabian Peninsula from both sides
+
+**[Fighting intensifies across Yemen as humanitarian crisis deepens](https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Clashes between Yemeni government forces and the Houthis are producing casualties on both sides even as aid agencies warn the humanitarian toll is deepening — the quieter cost sitting underneath this week's Aramco, Aden-palace and missile-production headlines. The asymmetric campaign against Riyadh has a domestic Yemeni casualty ledger that gets far less coverage than the Saudi economic-damage story.
+
+**[Iran says two tankers catch fire after hitting mines in Strait of Hormuz](https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Two tankers, each carrying roughly two million barrels of crude, caught fire after striking mines; Iran's IRGC says both vessels had switched off positioning/radar systems and used an "unauthorised route," with one allegedly operating "with US support." Oil flow through Hormuz has already collapsed from 20.8 million barrels on October 8 to just 2.9 million by October 11, and six vessels were attacked in a single day last week — the highest daily total since hostilities began in February. Between this and the Yemen/Red Sea campaign above, two independent low-cost-mining-and-missile campaigns are now squeezing oil shipping from both sides of the Arabian Peninsula simultaneously.
+
+↳ Together these suggest: the Houthi campaign against Saudi Arabia (Red Sea side) and Iran's mine-and-intercept campaign at Hormuz are structurally the same instrument — deniable, cheap, hard-to-attribute disruption of chokepoints — being run in parallel rather than coordinated, which is exactly why no single diplomatic fix (a Houthi ceasefire, a US-Iran deal) could resolve either one alone.
+
+### Russia-Ukraine: Zelensky breaks 18 months of restraint
+
+**[How Zelensky Decided to Take the Risk and Publicly Confront Trump](https://www.wsj.com/world/how-zelensky-decided-to-take-the-risk-and-publicly-confront-trump-570046ac?mod=rss_worldnews)** — *WSJ*
+*Signal:* Zelensky was on an overnight train, in a "gloomy mood," when he decided to stop courting Trump — 18 months after their disastrous Oval Office meeting — and used scheduled British media interviews to call Putin "a real evil of today" and ask "how can Trump be friends with him?" He appealed directly past the White House to the American public: "I know that the majority of the United States supports Ukraine." Trump hit back on Newsmax: "Zelensky's not a good guy for us to deal with... I'm not a big fan." The break follows Trump's executive order waiving Graham Act sanctions on Russia's oil/gas buyers and banks two days before they took effect, and Zelensky's own count that Russia has hit Ukrainian energy sites 76 times since Trump's unconfirmed "energy ceasefire" announcement. Ukraine is reportedly also now out of US-made Patriot interceptor missiles.
+*Read:* [US-Russia deal, Trump-Zelensky clash could leave Ukraine out in the cold](https://www.scmp.com/news/world/russia-central-asia/article/3371280/us-russia-deal-trump-zelensky-clash-could-leave-ukraine-out-cold?utm_source=rss_feed) — *SCMP*
+
+### Middle East/Europe: Israel's settler-violence problem goes international
+
+**[Masked Israeli Settlers Attack European Diplomats in West Bank](https://www.wsj.com/world/middle-east/masked-israeli-settlers-attack-european-diplomats-in-west-bank-f60dedd1?mod=rss_worldnews)** — *WSJ*
+*Signal:* Settlers attacked a convoy of European diplomats and beat up a visiting French mayor, a day after an American photojournalist was attacked covering the same story — escalating a pattern that's moved from Palestinian to international targets. Rubio is now publicly calling for a "crackdown" on settler violence, a notably sharper tone from Washington than earlier in the year.
+*Read:* [Rubio wants 'crackdown' on settler violence after US journalist attack](https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss) — *Al Jazeera*; [Israel's ties with Europe are fraying. Can its election change that?](https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss) — *Al Jazeera*
+
+### US-China & East Asia: pressure on three fronts at once
+
+**[China slams Japan's Takaichi over Yasukuni ritual offering, warns of 'remilitarisation'](https://www.scmp.com/news/china/diplomacy/article/3371294/china-slams-japans-takaichi-over-yasukuni-ritual-offering-warns-remilitarisation?utm_source=rss_feed)** — *SCMP*
+*Signal:* Beijing condemned PM Takaichi's ritual offering to the war-linked Yasukuni Shrine — a symbolic flashpoint landing the same week Tuesday's digest flagged younger Japanese increasingly fearing Trump's US nearly as much as China. Tokyo is being squeezed from both directions: domestic sentiment souring on its chief ally even as China keeps using historical-memory triggers to apply diplomatic pressure.
+
+**[Southeast Asia's ethnic Chinese traders feel the China squeeze](https://www.scmp.com/week-asia/economics/article/3371179/southeast-asias-ethnic-chinese-traders-feel-china-squeeze?utm_source=rss_feed)** — *SCMP*
+*Signal:* Indonesian traders who've relied for decades on sourcing stock from Chinese factories now find those same factories selling directly to their end customers, often undercutting them — a street-level, human version of the overcapacity-export story tracked all week (Chinese exports +36% YoY, South Africa's factories cratering). The "China shock" isn't just hitting foreign competitors; it's hollowing out its own historic middleman class abroad.
+
+**[How Taiwan's new AI satellite system aims to speed up early warning against PLA moves](https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed)** — *SCMP*
+*Signal:* Taiwan is acquiring an AI-powered satellite-imagery system to rapidly identify PLA ships, aircraft and missile launchers — a small (NT$46.55 million) but structurally significant bet that AI-accelerated early warning, not just more hardware, is the island's most cost-effective deterrence lever against a larger adversary.
+
+### South Asia: Pakistan's federal takeover threatens its own stated goal
+
+**[Pakistan risks deeper instability as political feud threatens counterterrorism efforts](https://www.scmp.com/week-asia/politics/article/3371202/pakistan-risks-deeper-instability-political-feud-threatens-counterterrorism-efforts?utm_source=rss_feed)** — *SCMP*
+*Signal:* Islamabad justified its takeover of PTI-run Khyber Pakhtunkhwa as necessary to fight Taliban insurgents — but the move risks generating exactly the public resentment that undermines counterterrorism cooperation on the ground. The federal government may be trading a short-term political win (neutralizing PTI's last stronghold) for a longer-term security cost in the one province where security cooperation matters most.
+
+### Business & conflict economies: Wagner's mercenary afterlife in Africa
+
+**[The Playboy Who Inherited the World's Most Notorious Mercenary Force](https://www.wsj.com/world/africa/wagner-mercenary-prigozhin-guns-b1f4cdf3?mod=rss_worldnews)** — *WSJ*
+*Signal:* Prigozhin's son has turned his father's Wagner remnants into an African stronghold funded by guns, drugs and gold — a reminder that mercenary economies don't dissolve when their founder dies, they privatize further. The same resource-for-protection logic sits underneath this week's Kabila/M23 coalition story in Congo: wherever state capacity is thin, armed groups with commodity access outlast the politics that created them.
+
+### AI: the frontier race narrows while security cracks widen
+
+**[Meta shakes up the frontiers, open and closed](https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open)** — *Interconnects AI*
+*Signal:* Meta released Muse Spark Open (816B parameters, 1M token context) — the strongest American open-weight model yet, closing roughly half the gap to Chinese open models like GLM-5.3 and Kimi K3 — alongside closed models (Muse Wonder/Wonder Full) competitive with Anthropic's Opus 5.5 and OpenAI's GPT-6-Astra. The analysis argues only five Western labs (Anthropic, OpenAI, Meta, Gemini, xAI) can now sustain billion-dollar frontier development costs — Meta's dual-front bet is as much about staying on that shortlist as about winning any single benchmark.
+*Read:* [Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) — *TechCrunch*; [Anthropic says its workforce has become less junior and is spending more time in meetings](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) — *TechCrunch*
+
+**[How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill](https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly)** — *BIG by Matt Stoller*
+*Signal:* Stoller's argument: Fed rate hikes raise the cost of money across the board — electric bills, property taxes, mortgages, working capital — hitting ordinary borrowers hardest, while cash-rich hyperscalers' AI capex barely slows, because they're funding it from balance sheets, not credit lines. The distributional story this week's neocloud-financing-freeze coverage (Firmus, AirTrunk, CoreWeave) missed: monetary tightening is punishing Main Street far more than it's punishing the AI buildout itself.
+
+**[Your Office Isn't Spy Proof](https://www.theinformation.com/articles/office-spy-proof)** — *The Information*
+*Signal:* A weekend synthesis of the OpenAI conference-room bugging scandal frames 2026 as the year frontier-AI espionage risk went from theoretical to criminal-docket real — not an isolated case but one node in a pattern spanning North Korean infiltration of US firms, a Cursor-to-SpaceX data-leak investigation, and competitive poaching of individual researchers. Corporate security practices at AI labs are visibly behind the value of what they're now protecting.
+
+### Global macro: the US gets its own "interest bill" reckoning
+
+**[US Interest Costs Hit Record $1 Trillion, Risking Debt Snowball](https://www.bloomberg.com/news/articles/2026-10-17/us-interest-costs-hit-record-1-trillion-risking-debt-snowball)** — *Bloomberg*
+*Signal:* Net interest costs hit $1.05 trillion in fiscal 2026 (up 8% from $970bn), now 3.2% of GDP — a record surpassing the 1991 peak — as the average Treasury rate (3.52%) has more than doubled in five years against a debt pile above $32 trillion, with roughly $10 trillion maturing within 12 months and needing refinancing at today's higher rates. Interest is now the third-largest federal outlay, ahead of defense, behind only Social Security and Medicare. CRFB's warned "turbocharger effect" — higher rates raise deficits, which raise rates further — is the same bond-market-discipline mechanism tracked all week in France and the UK, just arriving in Washington a beat later and with less visible political urgency because Treasury yields haven't cracked the way gilts and OATs have.
+*Read:* [UK Inflation Can Seal the Deal on the BOE's November Rate Hike](https://www.bloomberg.com/news/articles/2026-10-17/uk-inflation-can-seal-the-deal-on-the-boe-s-november-rate-hike) — *Bloomberg Economics*
+
+**[Macklem Sees Higher Oil Prices Boosting Growth, Inflation](https://www.bloomberg.com/news/articles/2026-10-17/bank-of-canada-sees-higher-oil-prices-boosting-growth-inflation)** — *Bloomberg*
+*Signal:* The Bank of Canada's Macklem now expects to raise his own inflation forecast at month's end because of oil prices — the "open fight inside every central bank" thread flagged twice this week spreading to a fourth G7 institution via the same energy-shock channel, confirming the Houthi/Hormuz campaigns above are now a direct monetary-policy input well beyond the Middle East.
+
+### Creator economy, marketing & ad spend: budget categories become the real battleground
+
+**[Ulta Beauty Works To Convince Its CFO That Creator Content Counts As Advertising](https://www.netinfluencer.com/ulta-beauty-works-to-convince-its-cfo-that-creator-content-counts-as-advertising/)** — *netinfluencer (gap-fill search)*
+*Signal:* Ulta's CMO is fighting internally to reclassify creator content as "working media" — the same budget bucket as traditional advertising — rather than a discretionary line that gets cut first in a downturn. Glamnetic's founder separately said his $130m brand accepts losing over $1m/year on TikTok Shop as a customer-acquisition cost. The real fight in brand marketing right now isn't creative strategy, it's accounting classification.
+*Read:* [Billion Dollar Boy Group Acquires B2B Creator Marketing Agency Creator Authority](https://www.netinfluencer.com/billion-dollar-boy-group-acquires-b2b-creator-marketing-agency-creator-authority/) — *netinfluencer (gap-fill search)*
+
+**[The Stack: AI, Ad Spend & Agency Shifts](https://www.exchangewire.com/blog/2026/10/16/the-stack-ai-ad-spend-agency-shifts/?amp)** — *ExchangeWire (gap-fill search)*
+*Signal:* OpenAI's advertiser count has roughly tripled to ~60,000 since August, and Sensor Tower projects US ad spend on ChatGPT will rise 40% month-over-month in October — real money starting to move, even though most advertisers are still allocating test budgets (1-5% of annual spend) rather than durable line items. This is Friday's BofA-survey "expectations ahead of dollars" thesis starting to close the gap.
+*Read:* [Big brands spend less sales revenue on advertising](https://cmotech.news/story/big-brands-spend-less-sales-revenue-on-advertising) — *WARC via cmotech.news (gap-fill search)*
+
+### Quiet signals
+
+**[Gold is now the top U.S. export](https://www.numismaticnews.net/gold-now-top-u-s-export)** — *Hacker News*
+*Signal:* The "number one" ranking is contested depending on classification and period, but the underlying trend is real: gold's share of US exports jumped from 4.3% to 12.7% year-over-year, flowing mainly to Switzerland, Hong Kong and the UK. Economist Jason Furman frames it as the US "net settling a portion of its trade deficit in gold," while foreign central banks' gold reserves have now surpassed their Treasury holdings in value — a slow-moving data point on dedollarization that rarely makes a daily headline but says more about where global trust in dollar assets is heading than any single Fed statement.
+
+**[Solar surpasses nuclear power globally for first time](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)** — *Hacker News*
+*Signal:* Per the World Nuclear Industry Status Report 2026, global solar generation overtook nuclear for the first time in 2025 (solar output +30% YoY vs. nuclear +1%), with wind and solar combined now generating roughly double nuclear's output. A structural energy-transition milestone that landed with far less coverage than any single AI-datacenter power deal this year, despite arguably mattering more for the global electricity mix.
+
+---
+
+### 🔭 Predictions
+
+> 1. **France's government buys time with a visible concession, not a budget reversal** — expect Lecornu's government to announce a targeted cost-of-living measure (price caps, a one-off payment, or a delayed tax) within two weeks to defuse the movement before it fuses with campaigning for April's presidential election, without touching the deficit-reduction math investors are already pricing against.
+> 2. **Washington's response to Zelensky's defiance is reduction, not reconciliation** — given Trump's pattern of punishing Ukrainian pushback (the Starlink throttling episode, this week's sanctions waiver) and reports Kyiv has already run out of Patriot interceptors, expect intelligence-sharing or munitions support to visibly tighten within weeks rather than a rapprochement, regardless of any G20-sidelines meeting talk.
+> 3. **US debt-interest costs become an active midterm talking point within two weeks** — with $1.05 trillion in net interest now exceeding defense spending and the data landing three weeks before the vote, expect both parties to weaponize the $1.99 trillion deficit figure in closing-argument ads, mirroring how UK and French bond stress already became domestic political currency this month.
+
+---
+*23 items across 11 topics — covering 2026-10-18*
