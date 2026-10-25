@@ -1,9 +1,137 @@
-Last Digest: 2026-10-24
+Last Digest: 2026-10-25
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
 
-## 2026-10-24 — Daily Sweep
+## 2026-10-25 — Daily Sweep
+
+### Israel's election in 48 hours: lockdown tightens, the campaign goes algorithmic
+
+**[Israel to close occupied West Bank crossings as it locks down Hebron](https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Shutting every West Bank land crossing specifically for election day, on top of the Hebron lockdown, folds occupation-management directly into the voting mechanics of the Israeli election itself — Palestinians under occupation have no ballot, but their freedom of movement is now explicitly subordinated to Israeli voters' freedom to vote undisturbed.
+*Read:* [Israel widens West Bank crackdown, displacing Hebron families after attack](https://www.scmp.com/news/world/middle-east/article/3372058/israel-widens-west-bank-crackdown-displacing-hebron-families-after-attack) — *South China Morning Post*
+
+**[Bots, deepfakes and surveillance: Israel's election goes to war online](https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Both Likud and the opposition are running bots and AI deepfakes, including a Netanyahu-camp AI video that reportedly used imagery of a rival's deceased son — and bots previously built for anti-Iran information operations have reportedly been repurposed for domestic campaigning. A tied race being fought over voter-turnout micro-targeting rather than persuasion is the quiet story: when both blocs believe the election turns on who shows up rather than who's undecided, deepfakes and surveillance apps become turnout tools, not just dirty tricks.
+
+**[Mass rally against Netanyahu ahead of pivotal Israeli election](https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A large anti-Netanyahu rally two days out, set against a security-first campaign he's running on the West Bank operation, is the kind of dueling-crowds dynamic that makes turnout — not persuasion — the deciding factor Tuesday. Triangulating this against the deepfake story above: both sides appear to agree on the theory of the race even as they disagree on everything else.
+
+↳ Together these suggest: an occupation-wide lockdown, an AI-powered turnout war, and competing mass rallies are converging on the same conclusion from different directions — this election will be decided by mobilization engineering, not by voters changing their minds.
+
+### Middle East: the war keeps widening past Israel-Iran
+
+**[Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh](https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A Houthi missile aimed at Riyadh itself, intercepted by the Saudi coalition, is a direct escalation beyond the shipping and Yemen-front attacks flagged in recent days — the Houthis are now testing Saudi Arabia's homeland air defenses, not just its coalition forces in Yemen.
+
+**[Why is Egypt so wary of getting involved in Yemen's conflict?](https://www.aljazeera.com/news-analysis/2026/10/25/why-is-egypt-so-wary-of-getting-involved-in-yemens-conflict?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Egypt is reportedly being asked to help defend Saudi Arabia against the Houthis and is stalling, haunted by its own 1960s Yemen quagmire — a reminder that the region's larger powers remember exactly how expensive this specific war is to enter, which caps how fast any multilateral Saudi defense coalition can actually form.
+
+**[The Saudi Airline That Launched Right in the Middle of a War](https://www.wsj.com/world/middle-east/the-saudi-airline-that-launched-right-in-the-middle-of-a-war-18a5a7cb?mod=rss_worldnews)** — *WSJ*
+*Signal:* A brand-new Saudi carrier, launched as a flagship bet on the kingdom's post-oil diversification ambitions, is now flying into a region where missiles are aimed at its home airport — Vision 2030-style economic diversification and the Iran war are colliding inside a single company's launch timeline.
+
+**[Gulf economies accelerate diversification as recession looms over Iran war](https://www.scmp.com/week-asia/economics/article/3371922/gulf-economies-accelerate-diversification-recession-looms-over-iran-war)** — *South China Morning Post*
+*Signal:* The Gulf monarchies' hydrocarbon-fuelled prosperity, long insulated from Gaza-style regional conflict, is now exposed directly to the Iran war — recession risk is pushing diversification from a long-term strategic goal into a near-term defensive necessity. Read against the Saudi airline story: the hedge and the exposure are happening in the same economies at the same time.
+
+**[U.S. Evacuates Mideast Outposts After Suspected Iranian Plot to Target Americans](https://www.wsj.com/world/middle-east/u-s-evacuates-mideast-outposts-after-suspected-iranian-plot-to-target-americans-4b876fbc?mod=rss_worldnews)** — *WSJ*
+*Signal:* Specific intelligence on a plot against Americans, not just general war-contingency caution, is what's driving the evacuation — this is a harder signal than the carrier-rearming story flagged two days ago, and it lands as Trump's administration reportedly prepares to restart operations against Tehran.
+
+↳ Together these suggest: a missile aimed at Riyadh, Egypt declining to join the fight, a new Saudi airline flying into the war it was meant to help the kingdom outgrow, and a specific US evacuation order are five data points all pointing the same way — the war is diffusing outward across the Gulf faster than any regional actor's willingness to contain it.
+
+### Europe: the debt and the streets are the same story
+
+**[How France Became the Poster Child for Debt Woes](https://www.wsj.com/world/europe/how-france-became-the-poster-child-for-debt-woes-08c64b3d?mod=rss_worldnews)** — *WSJ*
+*Signal:* France's public debt is near 119% of GDP with a deficit above 5%, its 10-year yield has pushed past 5%, and roughly 55% of its government debt is held abroad versus 31% for the US and 13% for Japan — that foreign-ownership gap is the real vulnerability, since foreign holders sell first and ask questions later. Only the US is forecast to run a bigger deficit than France this year, which is a remarkable comparison for a eurozone member with no currency of its own to devalue.
+
+**[Violence breaks out across Europe after another day of protests](https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss)** — *Al Jazeera*
+*Signal:* France's unrest jumping to clashes in Italy and Spain on the same day converts a national cost-of-living story into a eurozone-wide one — the same affordability backlash, now visibly contagious across borders, not just contained within the French political system that's been absorbing it.
+
+↳ Together these suggest: a debt crisis that the market has flagged for weeks and a protest movement that just crossed two borders in a single day are no longer separable storylines — the fiscal fragility piece explains why governments across the currency bloc have so little room to buy social peace with spending right now.
+
+### Elections test democratic resilience: Serbia, Bulgaria, Brazil
+
+**[Serbia votes as ruling party faces student-led anti-corruption list](https://www.scmp.com/news/world/europe/article/3372068/serbia-votes-ruling-party-faces-student-led-anti-corruption-list)** — *South China Morning Post*
+*Signal:* Nearly two years of student-led protest have converted into an actual electoral challenge to Vučić's 14-year rule — the most fiercely contested Serbian parliamentary vote in over a decade. Whether or not the movement wins outright, converting street protest into ballot-box competition is itself the structural shift worth tracking, independent of today's result.
+
+**[Bulgarians vote for president in shadow of Russia's war on Ukraine](https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Both leading candidates condemn Russia's recent Black Sea drone strikes but diverge on the war more broadly — a NATO/EU member's presidential election being fought over how close to stand to Russia is itself evidence of how unsettled the eastern flank's political consensus still is, four years into the war.
+
+**[Brazil 2026 election: Lula and Bolsonaro in tight race](https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-2026-live-lula-and-bolsonaro-in-tight-race?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A tight Lula-Bolsonaro-family race lands the same week Meta is reported to be ignoring a Brazilian court order to end algorithmic favoritism toward the Bolsonaro camp — a platform allegedly tilting the information environment in a knife-edge election is the live version of the "bots and deepfakes" dynamic playing out in Israel above, just with a court order already on the books and apparently unenforced.
+*Read:* [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order) — *via Hacker News*
+
+↳ Together these suggest: Serbia, Bulgaria and Brazil are three unrelated elections converging on the same underlying question — whether incumbents and their allies (a 14-year ruling party, a pro-Russia-leaning bloc, a platform defying a court) can out-engineer genuine anti-incumbent energy rather than out-argue it.
+
+### AI capital and infrastructure: the financing cracks show up before the demand does
+
+**[A Neocloud's Gathering Storm](https://www.theinformation.com/newsletters/the-weekend/neoclouds-gathering-storm)** — *The Information*
+*Signal:* CoreWeave, Nebius and IREN shares are down at least 30% this month, CoreWeave's credit-default-swap spread has climbed above 11%, and some of its bonds now yield over 15% — even as Nvidia's own CEO points to strong demand being choked by a shortage of working capital. Nvidia has also built up large contingent exposure through cloud backstops, leases and project guarantees across these same neoclouds — if one defaults, the risk doesn't stay contained to that company's balance sheet.
+
+**[Anthropic's Margin is OpenAI's Opportunity](https://www.theinformation.com/articles/anthropics-margin-openais-opportunity)** — *The Information*
+*Signal:* OpenAI is winning coding workloads with discounts over 30% — Rippling's coding work reportedly flipped from 57% Anthropic/16% OpenAI in May to 18%/52% now — after Anthropic declined to extend a discount without a bigger spending commitment. OpenAI is reportedly projecting compute spend above revenue to fund this, meaning the price war may be buying market share at a margin cost neither company's public narrative admits to yet.
+
+**[Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)** — *Hacker News*
+*Signal:* A chip challenger successfully serving trillion-parameter models at scale is a direct bet against Nvidia's GPU-cluster orthodoxy — arriving the same week Nvidia's own financing exposure to neoclouds is becoming the story, a credible alternative compute architecture is a release valve the market may not be pricing in yet.
+
+**[FBI Explores Espionage Case Against Saudi OpenAI Suspect](https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe?mod=rss_worldnews)** — *WSJ*
+*Signal:* An engineer accused of bugging a restricted OpenAI conference room is a concrete instance of frontier-lab IP now being treated as a national-security-grade espionage target, not just a corporate-secrets risk — consistent with the pattern of state-linked actors (Chinese hackers via ConnectWise, flagged this week) treating AI labs as high-value intelligence targets from multiple directions at once.
+
+**[Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.](https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/)** — *TechCrunch*
+*Signal:* Two frontier models disagreeing on nearly 500 election races more than 90% of the time, split cleanly along the same partisan lines as their owners' public politics, undercuts any claim that AI political recommendations are neutral outputs rather than a reflection of training and RLHF choices — a quiet, measurable data point in the AI-ethics debate, landing three weeks before the US midterms.
+
+↳ Together these suggest: a chip alternative emerging, a credit-stress story hitting the infrastructure layer, a price war eroding margins at the model layer, and espionage risk hitting the lab layer are four different points of strain showing up simultaneously across the entire AI stack — compute, capital, pricing and security are all being tested in the same month.
+
+### Satellite sovereignty: the Starlink wake-up call outruns the alternatives
+
+**[U.S. Allies Race to Escape SpaceX's Orbit](https://www.wsj.com/world/europe/u-s-allies-race-to-escape-spacexs-orbit-8fd29af8?mod=rss_worldnews)** — *WSJ*
+*Signal:* Musk's Starlink throttling of Ukraine has pushed the EU to commit roughly $17.5B to the 348-satellite IRIS² network (first launch 2029) and Canada's Telesat to target a 288-satellite Lightspeed constellation (first launch this December, service in 2028) — but Starlink already operates over 11,000 satellites versus roughly 650 for Europe's OneWeb, and OneWeb and Telesat both still need SpaceX rockets to get alternatives into orbit. The sovereignty push is real, but the dependency it's trying to escape is the thing enabling the escape.
+
+**[Power Outages Leave Kyiv Dreading Its Worst Winter of the War](https://www.wsj.com/world/power-outages-leave-kyiv-dreading-its-worst-winter-of-the-war-0c713797?mod=rss_worldnews)** — *WSJ*
+*Signal:* Russia's intensified campaign against Ukraine's energy grid, now driving residents to leave Kyiv ahead of winter, is compounding on top of this month's Starlink disruption — communications and power are degrading on the same timeline, which is a harder test of Ukrainian resilience than either problem alone.
+
+↳ Together these suggest: the single-vendor risk flagged repeatedly this week (Starlink) and the single-point-of-failure risk in Ukraine's power grid are the same structural lesson playing out twice — concentrated infrastructure, whether owned by one company or one invading army's target list, is the vulnerability allies are only now moving to diversify away from, years too late to help this winter.
+
+### Platforms and the ad economy: agencies squeezed from both ends, again
+
+**[Q4 Creator Rates Jump 50 Percent as Inventory Shrinks Fast](https://www.influencers-time.com/q4-creator-rates-jump-50-percent-as-inventory-shrinks-fast/)** — *Influencers Time, via Perplexity search*
+*Signal:* Mid-tier creator rates are up 30-50% into Q4 as agency consolidation thins the bookable talent pool, creators self-ration how many brand deals they take, and TikTok Shop/Amazon Influencer commission deals and live-shopping formats compete for the same calendar slots — scarcity is now structural, not seasonal, and brands who didn't lock rates by summer are paying a real premium for it.
+
+**[Runway Campaign Tools Pressure Agencies, Governance Lags](https://www.influencers-time.com/runway-campaign-tools-pressure-agencies-governance-lags/)** — *Influencers Time, via Perplexity search*
+*Signal:* AI tools that storyboard and generate a dozen campaign variants in an afternoon are starting to replace the multi-week agency pitch process itself, not just individual creative assets — the same "flat budgets, rising content demand" squeeze flagged in the creator-rate story above is pushing brands to route performance-marketing testing through AI pipelines and save human agencies for hero campaigns only.
+
+**[Salesforce acquiring Braze for $5.66 billion](https://podcasts.apple.com/dz/podcast/podcast/id1894676323/episodes)** — *The Digital Commerce Daily, via Perplexity search*
+*Signal:* One of 2026's biggest martech deals, aimed at folding Braze's AI into real-time cross-channel personalization, lands the same month Salesforce is separately reported to be building a toll system for outside AI agents (like Claude) operating inside its apps — Salesforce is positioning itself to own both the AI personalization layer and the metering layer for agentic AI at once.
+*Read:* [Walmart bypasses agencies, Meta AI edits ads without advertiser consent](https://podcasts.apple.com/dz/podcast/podcast/id1894676323/episodes) — *The Digital Commerce Daily*
+
+↳ Together these suggest: creators gatekeeping scarce calendar slots, AI tools undercutting agency pitch timelines, and platforms (Meta, Salesforce, Walmart) each restructuring who gets paid for ad and creative work are all symptoms of the same realignment — the money in digital marketing is migrating away from the agency middle layer, toward whoever controls either the audience or the AI tooling directly.
+
+### Quiet signals: press freedom and energy brinkmanship
+
+**[Thousands rally in Turkiye over journalist arrests, media shutdowns](https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A media crackdown large enough to draw thousands of protesters, in a NATO member bordering Syria, Iraq and Iran, is exactly the kind of under-covered domestic story the region's louder wars tend to crowd out — worth flagging now rather than only after it escalates further.
+
+**[Singapore tells suppliers to 'honour commitments' amid Indonesia's gas cut](https://www.scmp.com/news/asia/southeast-asia/article/3372048/singapore-tells-suppliers-honour-commitments-amid-indonesias-gas-cut)** — *South China Morning Post*
+*Signal:* Indonesia cutting gas exports to prioritize its own wildfire-haze-stricken domestic demand, and Singapore publicly insisting contracts still bind, is a small but concrete test of whether regional energy-supply contracts hold up once a supplier has a domestic excuse to renege — a template other gas exporters facing their own domestic pressure may watch closely.
+
+### US macro: tariffs as retail politics, rates on hold
+
+**[Trump hails tariffs for new US$4.2 billion Audi plant in Georgia](https://www.scmp.com/news/world/united-states-canada/article/3372051/trump-hails-tariffs-new-us42-billion-audi-plant-georgia)** — *South China Morning Post*
+*Signal:* Volkswagen committing $4.2B for a Georgia Audi plant lets Trump point to tariffs delivering a concrete factory and 200,000 cars a year three weeks before the midterms — a genuine investment decision being used as the political proof-of-concept for a tariff policy that WSJ reported this week has otherwise become one of the most politically toxic words in the country.
+
+**[Fed Set to Lead G7 Trio in Hawkish Rate Pause](https://www.bloomberg.com/news/articles/2026-10-24/fed-set-to-lead-g7-trio-in-hawkish-rate-pause-eco-week-ahead)** — *Bloomberg Economics*
+*Signal:* The Fed, ECB and Bank of Japan all holding steady rather than cutting, even as growth slows in France and political pressure mounts, confirms central banks are still more worried about inflation re-acceleration than growth — which leaves governments fighting cost-of-living unrest with no near-term help from monetary policy.
+
+---
+
+### 🔭 Predictions
+
+> 1. **A neocloud credit event lands before year-end, not just a stock selloff** — CoreWeave's CDS spread above 11% and bond yields above 15% are default-pricing signals, not valuation jitters; combined with Nvidia's own contingent exposure through backstops and leases, the next headline in this chain is a restructuring, a covenant breach, or an emergency financing round at one of the three named neoclouds — not another round of share-price declines.
+> 2. **Europe and Canada's satellite sovereignty push doesn't change anything before 2028** — IRIS²'s 2029 launch and Lightspeed's 2028 service start both trail the political urgency Starlink's Ukraine throttling created, and both still depend on SpaceX rockets to get built; expect at least one more Starlink-leverage incident (Ukraine or another ally) before either alternative network is operational enough to matter.
+> 3. **OpenAI's discount-driven coding-share gains get partially clawed back within two quarters** — projecting compute spend above revenue to win workloads like Rippling's and Replit's is a share-buying strategy, not a profitable one; once OpenAI needs to show margin discipline ahead of further fundraising, expect walked-back discounts or a repricing that hands some of this quarter's wins back to Anthropic.
+
+---
+*31 items across 9 topics — covering 2026-10-25.*
+
 
 ### Middle East: election countdown, West Bank operation widens, Yemen quietly collapses
 
