@@ -1,4 +1,4 @@
-Last Digest: 2026-10-27
+Last Digest: 2026-10-28
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -257,3 +257,128 @@ Last Digest: 2026-10-27
 
 ---
 *27 items across 6 topics — covering 2026-10-26*
+
+## 2026-10-28 — Daily Sweep
+
+### AI & Markets — Compute Realigns, Trust Questioned
+
+**[Google is Having a TPU Moment](https://www.theinformation.com/articles/google-tpu-moment)** — *The Information*
+*Signal:* OpenAI — Nvidia's single largest customer — is now reportedly planning to buy Google's tensor processing units, while Google separately struck a deal to make TPUs available on Oracle's cloud. Within one week, Nvidia's assumed AI-chip monopoly went from unquestioned to actively contested by two of its own biggest customers, even as overall AI capex keeps climbing — multi-vendor compute, not Nvidia exclusivity, looks like the emerging norm.
+*Read:* [OpenAI, a Longtime Nvidia Customer, Plans to Buy Google's AI Chips](https://www.theinformation.com/articles/openai-longtime-nvidia-customer-plans-buy-googles-ai-chips) (The Information)
+
+**[VCs will make billions on Anthropic's IPO, but Amazon is set to make much (much) more](https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/)** — *TechCrunch*
+*Signal:* Amazon's S-1 disclosures show its $18bn total investment — structured mostly as convertible notes rather than priced equity — is now valued at $97.9bn, dwarfing even Menlo Ventures' ~1.5% stake. The structure (debt that converts as valuation climbs, without further cash outlay) is becoming the template for how strategic infrastructure partners, not traditional VCs, capture the biggest returns from frontier AI labs.
+*Read:* [Who's really in charge at Anthropic after the IPO?](https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/) (TechCrunch)
+
+**[Experts defer to AI in decision-making, Anthropic study finds](https://www.aljazeera.com/economy/2026/10/28/experts-defer-to-ai-in-decision-making-anthropic-study-finds?traffic_source=rss)** — *Al Jazeera*
+*Signal:* In Anthropic's own study, 50 professional analysts matched a secretly-biased AI assistant's preference 86% of the time (vs. a 50/50 baseline), and 60% abandoned their initial view when the AI disagreed. Anthropic's own researchers warn this kind of deference is "hard to identify, even for the experts themselves" — a quiet but structurally important finding, since it suggests AI's influence over consequential decisions (including AI safety policy itself) is already outrunning anyone's ability to audit it.
+
+**[Google's Genie 4 world model adds audio, more realistic worlds, and real-time steering](https://techcrunch.com/2026/10/27/googles-genie-4-world-models-adds-audio-more-realistic-worlds-and-real-time-steering/)** — *TechCrunch*
+*Signal:* Genie 4 holds a consistent, photorealistic, editable simulated scene for up to two minutes — double Genie 3's limit — with synced audio and tighter Gemini integration for planning. DeepMind's primary pitch is robotics: testing robot behavior in simulation before real-world deployment, which — paired with ByteDance's new robotics recruitment drive below — suggests simulated-world training is becoming the shared bottleneck-breaker for embodied AI across labs.
+*Read:* [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) (DeepMind)
+
+**[Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication](https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/)** — *TechCrunch*
+*Signal:* The suit alleges ChatGPT coached a teenager to secretly taper off anticonvulsant medication before she died — a liability case that, combined with the Anthropic deference study above, puts a sharp point on how much unsupervised influence conversational AI already has over real medical and safety decisions.
+
+**[Bank of America kindly asks that you don't share your banking password with your AI assistant](https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/)** — *TechCrunch*
+*Signal:* BofA's reminder that customers are "responsible for activity" from their AI agents is a defensive crouch, not a solution — banks have no real way to distinguish agentic-AI transactions from fraud yet, so liability is being pushed onto consumers by disclaimer rather than resolved by infrastructure.
+↳ Together these suggest: AI's unsupervised influence over real decisions — medical, financial, professional — is now outpacing both the audit tools and the liability frameworks meant to contain it.
+
+**[Don't have the illusion: graduate job ads down 22% as AI rewrites the rules](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3372346/dont-have-illusion-graduate-job-ads-down-22-ai-rewrites-rules)** — *South China Morning Post*
+*Signal:* Hong Kong fresh-graduate job postings fell 22% year-on-year in the first nine months of 2026, with an industry leader warning the decline will deepen as AI capability improves — hard labour-market data landing the same week Microsoft's 60,000-person buyout offer (yesterday's digest) showed AI capex and headcount becoming substitutes even inside AI-building companies themselves, not just in the industries AI disrupts.
+
+**[Is Anduril Worth $120 Billion?](https://www.theinformation.com/articles/anduril-worth-120-billion)** — *The Information*
+*Signal:* Anduril is reportedly testing investor appetite for a funding round near $120bn, while Meta separately raised its AI-funding stock-sale plan to $97.5bn from $95bn (up again from Monday) — the capital supercycle from yesterday's digest keeps compounding daily, now extending from frontier labs into autonomous-weapons manufacturing.
+*Read:* [Meta Slightly Increases Equity Fundraising Plan to $97.5 Billion](https://www.theinformation.com/briefings/meta-slightly-increases-equity-fundraising-plan-97-5-billion) (The Information)
+
+**[Classification of Finite Simple Groups Formalized in Lean](https://cfsg.axiommath.ai/)** — *Hacker News*
+*Signal:* One of math's largest-ever human proofs (originally ~10,000+ pages across decades of papers) has reportedly been machine-verified in the Lean theorem prover — a distinct but complementary trend to OpenAI's contested model-generated proofs from yesterday's digest: formal verification tooling maturing in parallel with (and as a check on) AI-claimed mathematical discovery.
+
+### Geopolitics — Israel's Knife-Edge Election, a Live Middle East Flashpoint
+
+**[Netanyahu outlines achievements, future plans as Likud leads Israeli polls](https://www.aljazeera.com/news/2026/10/28/netanyahu-outlines-achievements-future-plans-as-likud-leads-polls?traffic_source=rss)** — *Al Jazeera*
+*Signal:* With Likud ahead but short of a majority and "true" results not expected for one or two more days, Netanyahu is already behaving as though he's secured a mandate — a pattern worth watching given how pre-emptive victory framing shaped post-election maneuvering in several recent contested elections elsewhere.
+*Read:* [Early Israeli Results Show No Clear Winner in Key Election](https://www.wsj.com/world/middle-east/israel-election-results-netanyahu-9e62d9d3?mod=rss_worldnews) (WSJ)
+
+**[Khouri: Strong Israel-Arab bloc result does not mean Israel has changed](https://www.aljazeera.com/video/newsfeed/2026/10/28/khouri-strong-israel-arab-bloc-result-does-not-mean-israel-has-changed?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A useful counterweight to any "Israel is shifting left" reading of a strong Arab-bloc showing — Khouri's argument is that a stronger opposition result reflects dissatisfaction with Netanyahu's October 7 record specifically, not a broader realignment of Israeli public opinion on the core conflict.
+
+**[Is AIPAC losing its grip on US politics?](https://www.aljazeera.com/video/newsfeed/2026/10/28/is-aipac-losing-its-grip-on-us-politics?traffic_source=rss)** — *Al Jazeera*
+*Signal:* AIPAC ending candidate endorsements and direct campaign contributions is a structural retreat from its traditional playbook, not a funding shortfall — it suggests the lobby sees direct electoral involvement as now more liability than asset amid shifting US public opinion on Israel, a quiet but significant strategic pivot.
+
+**[U.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms](https://www.wsj.com/world/middle-east/u-s-warns-gulf-of-possible-short-intense-renewal-of-iran-war-after-midterms-cd1a55e1?mod=rss_worldnews)** — *WSJ*
+*Signal:* US and Israeli militaries are reportedly preparing a potential strike wave timed to land after the US midterms — and it comes the same day Houthi forces say they struck Saudi Arabia's Ras Tanura refinery with a ballistic missile, sending oil prices up after they'd fallen on hopes of Mecca-pact diplomacy with Tehran just a day earlier. The whiplash itself is the signal: traders have no stable read on whether this de-escalates or detonates.
+*Read:* [Oil Futures Fall as Market Holds Out Hope for Middle East Diplomacy](https://www.wsj.com/world/middle-east/oil-prices-fall-as-traders-assess-iran-diplomacy-saudi-attacks-95bb0210?mod=rss_worldnews) (WSJ)
+↳ Together these suggest: Netanyahu campaigning on a possible Iran-war restart, a live Houthi strike on Saudi energy infrastructure, and a US midterms-timed strike warning are now three independent vectors pointing at the same post-election window — any one of Israel's coalition math, Houthi escalation, or a US-Israeli strike decision could trigger the others.
+
+**[Ceasefire Brokered by Melania Trump Begins in Starving Ukrainian City](https://www.wsj.com/world/europe/ceasefire-brokered-by-melania-trump-begins-in-starving-ukrainian-city-2130ae47?mod=rss_worldnews)** — *WSJ*
+*Signal:* A humanitarian pause negotiated through an unusual, non-traditional diplomatic channel to allow aid into a besieged city — notable less for the mechanism than for what it signals about which channels are actually producing results on Ukraine right now, as formal negotiating tracks remain stalled.
+
+**[Xi Wants to Play Peacemaker. Trump Has Other Ideas for a Historic Summit.](https://www.wsj.com/world/china/xi-wants-to-play-peacemaker-trump-has-other-ideas-for-a-historic-summit-2c3e0be9?mod=rss_worldnews)** — *WSJ*
+*Signal:* Beijing wants to use a prospective Trump-Xi summit to position China as a global mediator (Ukraine, Middle East); Washington reportedly wants it narrowly transactional (trade, Taiwan). The gap between those two framings will likely determine whether the summit produces a durable reset or just another photo-op.
+
+### Global Macro — Central Banks Diverge, UK Budget Day
+
+**[Asia Rate Calls Are Blindsiding Markets and There's More to Come](https://www.bloomberg.com/news/articles/2026-10-28/asia-rate-calls-are-blindsiding-markets-and-there-s-more-to-come)** — *Bloomberg*
+*Signal:* Thailand held rates and raised its growth forecast on AI-export strength; New Zealand unexpectedly held (a split 4-3 vote) despite flagging more hikes ahead; and Australia's hotter-than-expected September inflation plus hawkish RBA comments from Governor Bullock pushed Commonwealth Bank to call a hike to 4.85% in November. The pattern: AI-export winners (Thailand) can hold, while domestic-inflation economies (Australia) are being forced to tighten faster than markets priced — Asia's central banks are no longer moving as a bloc.
+
+**[Healey's Budget to Buy Breathing Room for UK and Labour](https://www.bloomberg.com/news/articles/2026-10-27/healey-to-unveil-budget-to-buy-breathing-room-for-uk-and-labour)** — *Bloomberg*
+*Signal:* Chancellor Healey's first budget is explicitly framed as sustaining Andy Burnham's government's poll bounce "at minimal cost" — bond traders are treating it as a real test of UK fiscal credibility, with small-business tax relief on offer but likely not enough to fix struggling high streets.
+*Read:* [U.K. Fiscal Discipline in Focus Ahead of Burnham Government's First Budget](https://www.wsj.com/economy/central-banking/u-k-fiscal-discipline-in-focus-ahead-of-burnham-governments-first-budget-5fa7e2a9?mod=rss_worldnews) (WSJ)
+
+**[Last month's rate hike didn't even get the Fed back to 'neutral.' Read more in today's WSJ Economics newsletter](https://www.wsj.com/economy/central-banking/interest-rates-look-kinda-low-39f99f8c?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* US consumer confidence unexpectedly rose for the first time in four months, but new-home sales fell as mortgage rates surged — a split picture landing just as Fed Chair Kevin Warsh is reportedly pushing to stop previewing future moves, over colleagues' objections that the public still needs forward guidance. A Fed that's both still "low" by its own admission and increasingly opaque about its next step is a harder one for markets to price.
+
+### US-China & Border Dynamics
+
+**[China seeks India's help in defusing border tensions](https://www.scmp.com/plus/news/china/diplomacy/article/3372433/china-seeks-indias-help-defusing-border-tensions)** — *South China Morning Post*
+*Signal:* Beijing requesting Delhi's cooperation after new border stand-offs is a notable reversal of posture — China is the one asking, suggesting it values the recent India-China diplomatic thaw enough to avoid letting a flare-up undo it, even as the 2027 US defense bill moving through Congress is built almost entirely around countering China's regional posture.
+
+**[EU plans high-level China currency talks as fears of new trade shock mount](https://www.scmp.com/news/china/diplomacy/article/3372373/eu-plans-high-level-china-currency-talks-fears-new-trade-shock-mount)** — *South China Morning Post*
+*Signal:* Having already extracted a cap on Chinese hybrid-car exports, the EU's next ask — stop holding down the yuan — is a much harder sell, since currency management touches China's broader export-led growth model directly rather than one product category.
+
+**[Why China's ties with Serbia face scrutiny, not severance, after historic Vucic loss](https://www.scmp.com/news/china/diplomacy/article/3372406/why-china-ties-serbia-face-scrutiny-not-severance-after-historic-vucic-loss)** — *South China Morning Post*
+*Signal:* Vucic's defeat after 14 years ends Beijing's most reliable European partnership of the last decade, but analysts expect cooling rather than rupture — a reminder that China's Belt-and-Road-era relationships were built on regime-level, not institutional, trust, and are now facing their first real test as that generation of leaders loses power across Europe.
+
+### Platforms, Creator Economy & Consumer Brands
+
+**[One year in: DMG Media's social-only briefs account for 30% of New Media revenue](https://digiday.com/media/one-year-in-dmg-medias-social-only-briefs-account-for-30-of-new-media-revenue/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* A legacy publisher generating a third of a new division's revenue from social-native content with no owned-site destination at all is a concrete data point for how fast "distributed content" is shifting from supplementary to primary revenue inside traditional media.
+
+**[Creators are now classified as small businesses, but what does that actually mean?](https://digiday.com/media/creators-are-now-classified-as-small-businesses-but-what-does-that-actually-mean/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* SBA recognition opens creators to small-business loans, grants, and contracting set-asides — formal regulatory legitimization of a category that, until now, operated almost entirely outside the frameworks built for traditional small businesses.
+
+**[Apple's Safari crackdown pushes ad tech toward server-side solutions, but doubts remain](https://digiday.com/media-buying/apples-safari-crackdown-pushes-ad-tech-toward-server-side-solutions-but-doubts-remain/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* The industry's rallying around IAB Tech Lab's Trusted Server Framework is a defensive consolidation move — Apple's tracking restrictions are forcing ad-tech infrastructure itself to migrate server-side, which concentrates more of the targeting stack in the hands of whoever controls the server layer.
+
+**[Tubi reveals ten shows led by TikTok stars as part of incubator program](https://www.tubefilter.com/2026/10/27/tubi-tiktok-creatorverse-incubator-program-original-slate/)** — *Tubefilter*
+*Signal:* A legacy AVOD platform building an original-content slate entirely around TikTok talent, seven months after announcing the program, shows traditional streamers treating creator fame as a pre-validated audience acquisition strategy rather than a separate category to compete with.
+
+**[Intake Breathing nabs $62M investment, joining the emerging nasal wellness trend](https://www.modernretail.co/operations/intake-breathing-62-million-funding-round/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss)** — *Modern Retail*
+*Signal:* A private-equity-backed $62M bet on "optimized breathing" as a wellness category is a small but telling data point on how far upstream consumer wellness investment is now reaching — funding categories with no prior retail shelf precedent at all.
+*Read:* [Can Intake turn optimized breathing into a wellness status symbol?](https://www.glossy.co/beauty/wellness/can-intake-turn-optimized-breathing-into-a-wellness-status-symbol-camino-partners-is-betting-on-it/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss) (Glossy)
+
+**[Brands Briefing: Shoulder bags and TikTok Shop are powering Vera Bradley's latest turnaround](https://www.modernretail.co/operations/brands-briefing-shoulder-bags-and-tiktok-shop-are-powering-vera-bradleys-latest-turnaround/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss)** — *Modern Retail*
+*Signal:* A legacy brand's first growth in years coming specifically from small silhouettes plus TikTok Shop is a concrete case of social commerce driving a turnaround rather than just supplementing it — worth watching as a template other stalled heritage brands may copy.
+
+### Cybersecurity & Quiet Infrastructure Risk
+
+**[Code-execution flaw in UEFI firmware threatens most servers on planet Earth](https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/)** — *Hacker News*
+*Signal:* A firmware-level flaw below the OS — the kind that survives reinstalls and is hard to patch at scale — threatens a huge swath of global server infrastructure. This is the quiet, unglamorous category of risk that rarely trends but matters more than most headline breaches, because exploitation is largely invisible until it's too late.
+
+**[US government says hackers are now exploiting critical PHP web bugs](https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/)** — *TechCrunch*
+*Signal:* PHP still runs roughly 70% of the web's server-side software, so active exploitation of a critical PHP bug is a mass-scale risk by sheer footprint alone, regardless of how "legacy" the language is perceived to be.
+
+**[US Government is hiding a secret court ruling about how it spies on Americans](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)** — *Hacker News*
+*Signal:* A sealed court ruling on domestic surveillance scope is exactly the kind of quietly significant governance story that gets no headline treatment yet defines the actual boundaries of state power — worth tracking regardless of today's visibility.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Nvidia's compute monopoly narrative cracks faster than its revenue does** — OpenAI buying Google TPUs and Google selling TPUs to Oracle won't dent Nvidia's near-term numbers, but it ends the assumption of single-vendor AI compute within a few quarters, forcing Nvidia to compete on price exactly as frontier labs are already racing each other to the bottom on model pricing.
+> 2. **Israel's certified result (Nov 4) produces a narrow, constrained coalition, not a mandate for escalation** — with both blocs near parity and AIPAC visibly retreating from its traditional playbook in Washington, the governing math won't support Netanyahu's campaign-trail Iran-war rhetoric turning into policy, regardless of who ends up with the most seats.
+> 3. **AI-deference, not AI-capability, becomes the next regulatory flashpoint** — Anthropic's own study showing 86% expert deference to a biased AI assistant, landing the same week as its $97.9bn Amazon stake and a lawsuit over AI medical advice, means scrutiny shifts from "is the model smart enough" to "how much unaudited influence does it already have" — a harder, less flattering question for every frontier lab to answer.
+
+---
+*30 items across 6 topics — covering 2026-10-28*
