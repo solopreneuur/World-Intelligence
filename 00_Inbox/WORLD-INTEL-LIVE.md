@@ -1,7 +1,136 @@
-Last Digest: 2026-10-28
+Last Digest: 2026-10-29
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-10-29 — Daily Sweep
+
+### AI & Markets — Big Tech's Earnings Collide With Capex Doubts
+
+**[Microsoft hits 10 quarters of record-breaking revenue in a row](https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/)** — *TechCrunch*
+*Signal:* $92.3bn in quarterly revenue (+19% YoY), with Azure revenue disclosed in dollars for the first time ($33.2bn, closing in on AWS) and $10bn of that quarter's revenue coming directly from commercial arrangements with OpenAI — more than 10% of total company revenue from one customer that is itself burning cash. The OpenAI dependency is now large enough to show up as a headline number, not a footnote.
+*Read:* [Microsoft Revenue Growth Accelerates Slightly But Data Centers Dampen Cash Flows](https://www.theinformation.com/briefings/microsoft-revenue-growth-accelerates-slightly-data-centers-dampen-cash-flows) (The Information)
+
+**[Google Quarterly Revenue Grows 25% But Falls Short of Expectations](https://www.theinformation.com/briefings/google-quarterly-revenue-grows-25-falls-short-expectations)** — *The Information*
+*Signal:* Alphabet revenue hit $127.6bn, but net profit fell nearly a quarter to $26.2bn and free cash flow went negative for a second straight quarter (-$9bn, widening from -$5.9bn) — AI capex is now visibly eating into the bottom line of even the best-performing hyperscaler. The same day, Google shipped Gemini 4 Carbon, its second flagship model in under a month, while separately striking TPU deals with OpenAI and Oracle. Pichai says most TPU revenue won't land until 2027 — Google is spending now against a payoff it's explicitly telling investors to wait two years for.
+*Read:* [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) (Google)
+
+**[Oracle Surges More Than 10% After It Caps Capex and Projects Positive Cash Flow](https://www.theinformation.com/briefings/oracle-surges-10-caps-capex-projects-positive-cash-flow)** — *The Information*
+*Signal:* Oracle is the first major AI-infrastructure name to publicly commit to a capex ceiling, calling 2028-29 "a period of peak capex" before cash flow turns positive — the opposite signal from Google and Microsoft's "still ramping" stance the same day. Markets rewarded capex discipline over capex growth for the first time this earnings cycle, a tell worth watching into Q4 reports.
+*Read:* [ServiceNow Shares Drop 19% After Earnings As SaaSpocalypse Fears Persist](https://www.theinformation.com/briefings/servicenow-shares-drop-19-earnings-saaspocalypse-fears-persist) (The Information)
+
+**[Marvell in Talks to Buy Lumentum](https://www.theinformation.com/briefings/marvell-talks-buy-lumentum)** — *The Information*
+*Signal:* A deal for the $80bn+ data-center optics maker would be one of the largest semiconductor acquisitions ever — consolidation is moving down the AI supply chain from chips themselves into the optical interconnects that move data between them, the same "physical bottleneck" theme as grid hardware and power.
+
+**[Anthropic just launched tools to show companies what their AI spending is buying](https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/)** — *TechCrunch*
+*Signal:* Spend-transparency tooling landing days before a roadshow is a deliberate pitch to enterprise buyers and IPO investors alike that usage is real, not vapor — directly responsive to Apollo's "zero financial payoff" critique circulating in this week's digests.
+*Read:* [IPO Pipeline Held Back by Anthropic Listing, Says NYSE's Martin](https://www.theinformation.com/briefings/ipo-pipeline-held-back-anthropic-listing-says-nyses-martin) (The Information)
+
+**[Trump DOE loans $5B to nuclear plants that will power data centers](https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/)** — *TechCrunch*
+*Signal:* Constellation Energy's new reactor capacity is already committed to Google, Amazon and Meta — the federal government is now directly underwriting AI's power bottleneck with public loans, socializing the capex risk that private balance sheets (see yesterday's SpaceX/Apollo chip-leasing) are otherwise straining to carry alone.
+
+↳ Together these suggest: the "unlimited AI capex" consensus cracked in one earnings cycle — Oracle and markets now reward capex discipline, Alphabet's negative free cash flow is compounding, and the government is quietly stepping in to fund the power layer. The capital-supercycle story from this week isn't ending, but its financing is visibly straining.
+
+### Cybersecurity & Quiet Infrastructure Risk
+
+**[Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents](https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/)** — *TechCrunch*
+*Signal:* Personally identifiable information on 40,000+ DHS staff, including CBP and ICE agents, is now public — a national-security-grade breach landing the same week as "Nobody's Ready," below, documenting a broader corporate scramble on security spend.
+
+**["Nobody's Ready": AI-Found Bugs Spark a Corporate Security Spending Spree](https://www.theinformation.com/articles/nobodys-ready-ai-found-bugs-spark-corporate-security-spending-spree)** — *The Information*
+*Signal:* A cluster of cybersecurity incidents in a 48-hour window forced a 30-person engineering team to drop everything — AI-assisted vulnerability discovery is now moving faster than most companies' patch cycles, inverting the usual defender's advantage of being the one with more resources.
+*Read:* [Apple's git still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html) (Hacker News)
+
+↳ Together these suggest: AI is now accelerating both sides of the offense/defense cycle simultaneously — bugs are found and exploited faster than patches ship, and the institutions with the most sensitive data (DHS, Apple's supply chain) are not exempt.
+
+### Global Macro — Central Banks Diverge, Fiscal Fault Lines Widen
+
+**[Fed to Phase In New FOMC Meeting Schedule Starting Next Year, Warsh Says](https://www.bloomberg.com/news/articles/2026-10-28/warsh-says-fomc-schedule-will-change-as-of-next-fall)** — *Bloomberg Economics*
+*Signal:* The Fed held rates steady (10-2, with governors Cook and Hammack dissenting in favor of a hike) while Chair Warsh announced the FOMC will cut its annual meeting count from eight to six starting in 2027 — a structural reduction in how often US monetary policy can adjust, landing exactly as Warsh is also refusing to pre-commit to forward guidance. Markets are left pricing a ~90% chance of a December hike with fewer future chances to course-correct if that bet is wrong.
+*Read:* [The Fed's AI Puzzle: Will High Rates Slow the Boom?](https://www.wsj.com/economy/central-banking/the-feds-ai-puzzle-will-high-rates-slow-the-boom-c9c43ce2?mod=rss_socialeconomyfeed) (WSJ)
+
+**[Why Does Japan's Underlying Inflation Guide BOJ Rate Decisions?](https://www.bloomberg.com/news/articles/2026-10-29/why-does-japan-s-underlying-inflation-guide-boj-rate-decisions)** — *Bloomberg Economics*
+*Signal:* The BOJ is expected to declare its 2% inflation target finally reached after 13 years of trying — a genuine milestone that strengthens the case for further hikes just as the Fed is structurally reducing its own ability to respond quickly, widening the policy-cycle gap between the world's two largest economies.
+
+**[Bank of Canada Rate Hike Hurts Housing Market Already in Slump](https://www.bloomberg.com/news/articles/2026-10-28/bank-of-canada-rate-hike-hurts-housing-market-already-in-slump)** — *Bloomberg Economics*
+*Signal:* The BoC hiked specifically on growth confidence even as it acknowledges the hike will deepen a housing slump — a central bank willing to sacrifice its most interest-rate-sensitive sector to stay ahead of inflation. Governor Macklem separately warned that US deficits are "costly and unsustainable" and pressuring global bond yields — a notably blunt assessment from a foreign central banker about the country whose fiscal policy increasingly sets the floor for everyone else's borrowing costs.
+
+**[France Debt Crisis: How Does It Compare With Greece?](https://www.bloomberg.com/news/articles/2026-10-29/france-debt-crisis-how-does-it-compare-with-greece)** — *Bloomberg Economics*
+*Signal:* Investors are now explicitly framing France's bond selloff in Greek-crisis terms — a reputational shift for a core eurozone economy, not a periphery one, that raises the stakes for the ECB's hold decision this week far beyond a routine rate call.
+*Read:* [ECB Set to Hold Rates to Assess France and Energy Risks](https://www.bloomberg.com/news/articles/2026-10-29/ecb-set-to-hold-rates-to-assess-france-and-energy-risks) (Bloomberg Economics)
+
+**[Here Are the Key UK Budget Measures Announced by John Healey](https://www.bloomberg.com/news/articles/2026-10-28/here-are-the-key-uk-budget-measures-announced-by-john-healey)** — *Bloomberg Economics*
+*Signal:* Healey's first budget punts the biggest fiscal decisions facing Andy Burnham's government into the future in favor of modest cost-of-living relief — bond traders are treating the avoidance itself as the real signal, not any individual measure.
+*Read:* [U.K. Budget Ducks Hard Choices Amid Market Concerns Over Debt](https://www.wsj.com/world/uk/u-k-s-budget-ducks-hard-choices-amid-market-concerns-over-debt-5aa7d1d6?mod=rss_worldnews) (WSJ)
+
+**[China's Electric Carmakers Are Running Out of Domestic Buyers](https://www.wsj.com/world/chinas-electric-carmakers-are-running-out-of-domestic-buyers-ce6c581d?mod=rss_worldnews)** — *WSJ World News*
+*Signal:* China's EV overcapacity is now structural, not cyclical — domestic demand has been largely saturated while production keeps scaling, which is exactly the overcapacity-dumping dynamic the EU is building new import curbs to pre-empt (from earlier in the week).
+
+↳ Together these suggest: the Fed is institutionally reducing its own responsiveness right as Japan, Canada and a quietly Greece-adjacent France all show major economies on sharply divergent and in some cases accelerating policy paths — a widening, not narrowing, global rate-cycle gap.
+
+### Geopolitics — Israel's Deadlock, Iran's Fragile Diplomacy, Brazil's Delegitimization Playbook
+
+**[Netanyahu set to remain caretaker PM after inconclusive Israel election](https://www.scmp.com/news/world/middle-east/article/3372487/netanyahu-set-remain-caretaker-pm-after-inconclusive-israel-election)** — *South China Morning Post*
+*Signal:* With ~86% counted, Netanyahu's bloc lost its parliamentary majority but still topped the vote on unexpectedly strong Jewish-voter backing — confirming the "narrow, constrained outcome" scenario flagged in yesterday's predictions rather than a clean win for either bloc. He stays on as caretaker while coalition math plays out, which is itself a source of prolonged uncertainty rather than resolution.
+*Read:* [What Comes Next for Benjamin Netanyahu](https://www.wsj.com/world/middle-east/what-comes-next-for-benjamin-netanyahu-602b04d4?mod=rss_worldnews) (WSJ)
+
+**[Hegseth fires Pentagon's top military planner as Trump weighs new Iran strikes](https://www.scmp.com/news/world/united-states-canada/article/3372530/hegseth-fires-pentagons-top-military-planner-trump-weighs-new-iran-strikes)** — *South China Morning Post*
+*Signal:* Removing the officer who'd be central to planning any Iran strike, in the same week the US is privately warning Gulf states of a possible "short, intense" renewal of the war after the midterms, suggests either a deliberate shake-up to accelerate a strike plan Hegseth doesn't think is moving fast enough, or genuine internal discord over whether to escalate at all.
+
+**[Oil Prices Fall as Traders Weigh U.S.-Iran Diplomacy](https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-u-s-iran-diplomacy-afe80fa9?mod=rss_worldnews)** — *WSJ World News*
+*Signal:* Vance's direct letter to Iran's Supreme National Security Council chief is a genuine diplomatic opening — but oil had also risen just a day earlier on a Houthi strike claim against Saudi Arabia's Ras Tanura refinery. Prices are now swinging on headline-to-headline whiplash between the diplomatic and military tracks, with no stable consensus on which one wins.
+*Read:* [Oil Prices Rise on Worries of Middle East Conflict Escalation](https://www.wsj.com/world/middle-east/oil-prices-rise-as-houthi-militants-target-saudi-energy-45c38fe0?mod=rss_worldnews) (WSJ)
+
+↳ Together these suggest: Israel's unresolved coalition math, a fired Pentagon war planner, a US diplomatic overture to Tehran, and oil markets with no stable read are four signals pointing at the same undecided post-midterms window — the direction any one of them breaks could cascade into the others.
+
+**[How Bolsonaro Fled Brazil: Decoys, a Private Jet and a Friend in the White House](https://www.wsj.com/world/americas/how-bolsonaro-fled-brazil-decoys-a-private-jet-and-a-friend-in-the-white-house-a752b829?mod=rss_worldnews)** — *WSJ World News*
+*Signal:* Flávio Bolsonaro's escape to Miami — after Brazil's Supreme Court seized his passports — was reportedly aided by Trump's inner circle and Argentina's president, turning a domestic election loss into an international incident. Declaring himself Brazil's "rightful leader" from US soil extends the delegitimization playbook flagged in Monday's digest, but now with foreign-government logistical assistance attached, raising the diplomatic stakes well beyond rhetoric.
+*Read:* [Flavio Bolsonaro lands in Miami, declares himself rightful leader of Brazil](https://www.scmp.com/news/world/united-states-canada/article/3372478/defeated-brazilian-presidential-candidate-flavio-bolsonaro-and-his-family-land-miami) (South China Morning Post)
+
+**[Latin America's Right-Wing Surge Suddenly Seems Vulnerable](https://www.wsj.com/world/americas/latin-americas-right-wing-surge-suddenly-seems-vulnerable-8399a911?mod=rss_worldnews)** — *WSJ World News*
+*Signal:* With Brazil and Mexico now both under leftist governments, the Trump administration's project of a conservative Latin American bloc is structurally weaker than it looked a week ago — the Bolsonaro escape drama is a symptom of that broader setback, not an isolated story.
+
+**[North Korea fires missile barrage days after rejecting South's border talks](https://www.scmp.com/news/asia/east-asia/article/3372537/north-korea-fires-missile-barrage-days-after-rejecting-souths-border-talks)** — *South China Morning Post*
+*Signal:* Pyongyang firing roughly a dozen short-range missiles immediately after declining South Korea's talks offer is a deliberate signal that it sees no current value in de-escalation — a reminder that not every regional flashpoint is converging toward diplomacy the way Iran's currently is.
+
+### Hong Kong — Accountability After the Tai Po Fire
+
+**[Housing chief Winnie Ho resigns, government admits 'decades of failure' led to Tai Po fire](https://www.scmp.com/news/hong-kong/society/article/3372542/tai-po-fire-inquiry-hard-hitting-report-tragedy-set-be-released)** — *South China Morning Post*
+*Signal:* An independent committee's report into the deadliest Hong Kong blaze in decades (168 dead) explicitly blames systemic failure across government and the construction sector, triggering a cabinet-level resignation and a "bold, comprehensive" reform package — a rare case of a government accepting structural blame rather than isolating it to a single contractor or official.
+
+### Platforms, Creator Economy & Consumer Attention
+
+**[YouTube's living room TV viewership now brings in one-third of its ad revenue](https://www.tubefilter.com/2026/10/28/youtube-living-room-tv-ad-revenue-q3-2026-earnings/)** — *Tubefilter*
+*Signal:* $11.2bn in Q3 ad revenue (+9% YoY) with living-room TV now a third of that total confirms YouTube has completed its pivot from a mobile-first platform to the dominant TV-screen video service — a structural threat to traditional broadcast ad budgets that's now large enough to show up in Alphabet's segment reporting, even as Alphabet's overall stock fell 10% on other parts of the earnings.
+
+**[YouTube tests reduced payout thresholds to aid creators in developing economies](https://www.tubefilter.com/2026/10/28/youtube-partner-program-lower-payout-threshold-test/)** — *Tubefilter*
+*Signal:* Letting creators in the US, India and Indonesia cash out at $20 instead of $100 is a small mechanical change with outsized reach — lowering the cash-out floor specifically targets the long tail of small creators in high-growth markets, not the established mid-tier.
+
+**[Don't worry, Discord isn't going to put your spicy e-kitten chats on Google Search](https://www.tubefilter.com/2026/10/28/discord-google-search-discoverable-servers-public-results-reddit/)** — *Tubefilter*
+*Signal:* Millions of people now append "Reddit" to search queries specifically to route around AI-generated search slop and find real human discussion — a quiet but significant signal that search-quality degradation is itself reshaping user behavior, independent of any platform's deliberate strategy.
+
+**[Reddit is the latest platform to embrace the 'For You' feed](https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/)** — *TechCrunch*
+*Signal:* Reddit splitting its homepage into algorithmic-recommendation and community-chosen feeds is a direct TikTok-ification of a platform whose entire identity was built on user-curated communities — worth watching whether engagement gains come at the cost of the community trust that made Discord's "Reddit-attached" search behavior above possible in the first place.
+
+**[Shopify Adopts Agentic Payment Tech from Visa, Mastercard](https://www.theinformation.com/briefings/shopify-adopts-agentic-payment-tech-visa-mastercard)** — *The Information*
+*Signal:* Shopify choosing the card-network consortium's agentic-payment standard over Stripe's approach splits the infrastructure for AI-driven shopping into two competing camps before either has proven which one merchants or AI agents will actually prefer.
+*Read:* [Amazon Hedges Against AI Shopping Agents With 250 Million Outside Listings](https://www.theinformation.com/articles/amazon-lists-250-million-products-rival-sites-effort-battle-agents) (The Information)
+
+**[Why the 2026 midterms could mark a turning point for influencers in political campaigns](https://digiday.com/marketing/why-the-2026-midterms-could-mark-a-turning-point-for-influencers-in-political-campaigns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Campaigns are now actively recruiting creators as a paid channel for the midterms, but disclosure rules haven't caught up — a regulatory gap that mirrors the ad-tech "who controls the data" fights elsewhere, except here the externality is voter trust rather than privacy.
+
+**[The Times of London is gearing up to test 'macro payments'](https://digiday.com/media/the-times-of-london-is-gearing-up-to-test-macro-payments/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* A legacy publisher building a non-subscription payment tier for readers who won't commit to a full subscription is a structural bet that attention is fragmenting faster than subscription relationships can be built — a different answer to the same referral-traffic-decline problem that's pushing other publishers toward smaller, more loyal paid audiences.
+
+---
+
+### 🔭 Predictions
+
+> 1. **AI capex discipline becomes the new earnings-season tell** — Oracle's stock reward for capping capex, paired with Alphabet's widening negative free cash flow and ServiceNow's 19% drop, means at least one more major AI-infrastructure name follows Oracle's lead and publicly signals a capex ceiling within the next two quarters, rather than continuing to frame unlimited spend as unambiguously bullish.
+> 2. **The Fed's leaner meeting schedule raises the odds of a policy surprise within a year** — cutting FOMC meetings from eight to six starting 2027, combined with Warsh's refusal to give forward guidance, means the Fed has less room to course-correct quickly; expect this structural change to get blamed for amplifying at least one unexpected market move once it's in effect.
+> 3. **The Iran-strike window opens, and closes, around the US midterms** — the combination of Hegseth firing the Pentagon's top military planner, direct Vance-to-Tehran diplomatic outreach, and oil markets pricing neither outcome confidently means the week after November 3 produces either a concrete US/Israeli strike announcement or a visible, named diplomatic breakthrough — not another quiet extension of the status quo.
+
+---
+*30 items across 6 topics — covering 2026-10-29*
 
 ## 2026-10-27 — Daily Sweep
 
