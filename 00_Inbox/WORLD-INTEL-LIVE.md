@@ -1,7 +1,159 @@
-Last Digest: 2026-10-30
+Last Digest: 2026-10-31
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-10-31 — Daily Sweep
+
+### Geopolitics — Iran's Hidden Bill, a Polish "Coup," and the Midterms' Final Stretch
+
+**[How Iran Battered U.S. Bases and Caused Billions in Damage](https://www.wsj.com/world/middle-east/iran-war-us-bases-damage-88db3224?mod=rss_worldnews)** — *WSJ World News*
+*Read:* [The Methodology Behind the Journal's Investigation](https://www.wsj.com/world/middle-east/how-the-journal-investigated-iran-damage-bases-18cbd9ee?mod=rss_worldnews) (WSJ)
+*Signal:* A satellite-imagery investigation puts the real cost of the "paused" Iran war at 274 damaged structures across 24 installations, with the Pentagon pricing repairs at a minimum of $5bn and other officials briefed on the figures saying it could reach $15bn — on top of the $47.1bn in operational costs already disclosed to Congress. None of this base-reconstruction cost is in the public war-spending tally, and the Pentagon is reportedly weighing withdrawing from some Kuwait and Saudi bases rather than rebuild. A war both sides have called "paused" is still generating a bill that keeps growing in the fine print.
+
+**[Iran says four tankers on fire after striking mines in Hormuz](https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Four tankers ablaze from mines in the strait is a sharp escalation from yesterday's single small-boat attack — whoever laid the mines (Iran blames unnamed actors; sourcing is still unclear) has moved from targeted harassment to indiscriminate shipping-lane hazards, raising the odds of a miscalculation that draws in a US Navy already running a daily, unbudgeted Gulf-protection mission.
+
+**[Are Houthis using Russian satellites as Saudi Arabia fends off strikes?](https://www.aljazeera.com/news/2026/10/31/are-houthis-using-russian-satellites-as-saudi-arabia-faces-hits?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Analysts flag that the precision of recent Houthi strikes on Saudi targets looks too good for a militia with no satellite program of its own — if Russian space-based targeting assistance is confirmed, it reframes the Gulf flashpoint as a proxy venue for Moscow to pressure a US partner while the world's attention is on Ukraine.
+
+**[US greenlights $2.1bn Patriot missile sale to Ukraine](https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss)** — *Al Jazeera*
+*Signal:* One of the largest defensive-weapons packages to Kyiv since Trump took office lands days after Ukraine defied Washington's pressure to pause refinery strikes — Washington keeps funding Ukraine's defense even as it loses leverage over Ukraine's offense, a split worth tracking as a structural feature of the relationship, not a one-off.
+
+**[Poland deploys riot police, as court chief's ousting sparks crisis](https://www.scmp.com/news/world/europe/article/3372802/poland-deploys-riot-police-court-chiefs-ousting-sparks-crisis)** — *South China Morning Post*
+*Signal:* Government-aligned judges suspended the constitutional court's PiS-appointed chief in what the court's own account called a "coup d'état" — President Nawrocki (a Trump ally) physically forced his way past police into the building overnight, while Farage, Truss and Wilders rallied to the ousted judge's side from abroad. Triangulating: Tusk frames it as restoring rule of law after years of PiS court-packing; PiS and allied European far-right figures frame it as a government seizing judicial power by force. Both readings can be true simultaneously — a government using its own questionably-legal methods to undo a predecessor's questionably-legal court-packing is exactly the kind of fight the EU has avoided forcing to a head for a decade, and it just forced itself.
+
+**[US midterms: 3 days to go – What latest polls say as early voting surges](https://www.aljazeera.com/news/2026/10/31/us-midterms-3-days-to-go-what-latest-polls-say-as-early-voting-surges?traffic_source=rss)** — *Al Jazeera*
+*Read:* [US Democrats prepare to counter any Trump claim of foreign meddling in midterms](https://www.scmp.com/news/us/us-elections/article/3372799/us-democrats-prepare-counter-any-trump-claim-foreign-meddling-midterms) (South China Morning Post)
+*Signal:* 43 million early votes cast with Democrats leading in polls, while Trump reinstates the Kansas/Iowa rallies he cancelled Thursday — and Democratic intelligence-committee members are pre-building a public rebuttal file against an anticipated Trump claim of foreign interference, before any evidence of interference exists. The rebuttal-in-advance is itself a signal: both sides are already treating a contested-outcome narrative as the likely post-election story, not the exception.
+
+### US-China Tech & Military Rivalry
+
+**[China and US expand military drone flights near Japan and the South China Sea](https://www.scmp.com/news/china/military/article/3372782/china-and-us-expand-military-drone-flights-near-japan-and-south-china-sea)** — *South China Morning Post*
+*Signal:* Both militaries are normalizing uncrewed aircraft patrols in the same contested waters simultaneously — a quiet form of escalation that doesn't trigger headlines the way a manned intercept would, but structurally increases the number of autonomous systems operating near each other with no established de-escalation protocol.
+
+**[China Scoops Up Data That Could Aid Its Forces in Waters Around Taiwan](https://www.wsj.com/world/china/china-scoops-up-data-that-could-aid-its-forces-in-waters-around-taiwan-7acaf563?mod=rss_worldnews)** — *WSJ*
+*Signal:* Chinese survey ships mapping the Taiwan-strait seabed under a civilian-research label is the kind of "battlespace preparation" that reads as routine until it isn't — the data has an obvious military use (submarine routing, mine-laying, cable-cutting) regardless of the stated purpose.
+
+**[Beijing blasts US ban on device testing in China, warns of supply chain disruptions](https://www.scmp.com/news/china/diplomacy/article/3372816/beijing-blasts-us-ban-device-testing-china-warns-supply-chain-disruptions)** — *South China Morning Post*
+*Signal:* China's Commerce Ministry calling the FCC's new ban "seriously harmful" confirms the testing-lab ban wasn't just paperwork — Beijing is treating it as a real trade-policy escalation three weeks before the Shenzhen Trump-Xi summit, not something to quietly absorb.
+
+**[US jails two Chinese nationals for spying](https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Dead-drop cash payments worth at least $30,000 for routine human-intelligence recruitment — a mundane, almost old-fashioned espionage case that lands the same week as the far more sophisticated Alice Huang/Jensen Huang story, a reminder that China runs espionage efforts at every level of sophistication at once, not just the headline-grabbing ones.
+
+### AI & Markets — The Capex Bill Comes Due
+
+**[Cracks are emerging in the AI spending boom](https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/)** — *TechCrunch*
+*Read:* [Intel's stock crashes, knocking $12B from government's stake](https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/) (TechCrunch)
+*Signal:* The numbers behind Friday's selloff: Alphabet's free cash flow is -$9.1bn for a second straight quarter even as capex hit $51.4bn; Amazon swung from +$14.8bn to -$42.4bn free cash flow over twelve months; Meta posted -$2.1bn FCF while guiding to $145bn in capex. The five hyperscalers raised a combined $326bn in debt this year — triple last year's pace. The specific mechanism is now visible too: Google's own AI Mode chatbot is cannibalizing the Search ad revenue that was supposed to fund the buildout, its weakest growth in five quarters. This is the first earnings cycle where the "unlimited AI capex" bull case and the "where's the revenue" bear case are fighting inside the same balance sheet, not in separate narratives.
+
+**[S&P Lowers Meta's Credit Outlook Amid Soaring AI Spending](https://www.theinformation.com/briefings/s-p-lowers-metas-credit-outlook-amid-soaring-ai-spending)** — *The Information*
+*Signal:* A ratings agency saying Meta's ability to monetize AI investment is "more limited than that of its peers" is the credit-market translation of the same stock-market selloff above — and it lands the same week Anthropic is separately expected to debut with a high-junk rating, suggesting bond markets are pricing AI-infrastructure risk faster than equity markets are.
+
+**[OpenAI Lowers Fundraising Target–After Decreasing Possible Valuation](https://www.theinformation.com/briefings/openai-lowers-fundraising-target-after-decreasing-possible-valuation)** — *The Information*
+*Signal:* OpenAI cutting its raise target by $10bn, after already cutting its target valuation from $1.4tn the week before — two downward revisions in two weeks, during the exact week the market is pricing AI capex risk higher, is not a coincidence. This is the most concrete evidence yet that the private-market AI valuation ceiling investors will actually pay is lower than labs assumed six months ago.
+
+**[Amazon Discloses New Up To $80 Billion Supplier Financing Loan](https://www.theinformation.com/briefings/amazon-discloses-new-80-billion-supplier-financing-loan)** — *The Information*
+*Signal:* An $80bn facility specifically to buy "technology infrastructure assets," borrowable from 2027-2028 — Amazon is pre-arranging financing for a capex wave it hasn't started yet, the same off-balance-sheet logic as SpaceX's Apollo lease and Meta's Nvidia-backed equity raise this week. Follow the money: the debt keeps getting larger and more creatively structured precisely as the equity and credit markets start pricing in doubt.
+
+**[Exclusive: Anthropic expected to receive high 'junk' rating from credit agencies following IPO](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)** — *TechCrunch*
+*Signal:* A Blackstone forecast of a high-junk rating would make it costlier for Anthropic to borrow against future revenue at exactly the moment every other AI-infrastructure name is already straining under debt — Anthropic's IPO is walking into a market mood that's visibly worse than when it filed its S-1 four days ago.
+
+**["Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'"](https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/)** — *TechCrunch*
+*Signal:* A direct line from a man who lived through one hype-cycle fraud to companies burning tens of billions with no profit, now raising capital at trillion-dollar valuations — the warning lands with more weight this week specifically because the market itself just started agreeing, not because the argument changed.
+
+↳ Together these suggest: the "unlimited AI capex" financing machine tracked all week (Nvidia cosigning Nscale, SpaceX/Apollo leases, Meta's equity raise) just met its first real market skepticism — not a crash, but credit agencies, equity investors, and OpenAI's own fundraising target moving in the same direction at once. The security side of that same boom is cracking in parallel, below.
+
+### Cybersecurity — The Breach Wave Doesn't Let Up
+
+**[Azure's Weakest Link – Five Full Cross-Tenant Compromises](https://www.binarysecurity.no/posts/2026/10/one-root-case)** — *Hacker News*
+*Signal:* Researchers document five separate full cross-tenant compromises traced to one root cause in Azure's architecture — multi-tenant cloud isolation, the foundational promise enterprises rely on to share infrastructure safely, failed at scale, not in an isolated incident.
+
+**[Tell HN: Scribd Breached](https://news.ycombinator.com/item?id=50312756)** — *Hacker News*
+**[Northflank Breached](https://status.northflank.com)** — *Hacker News*
+*Signal:* Two more breach disclosures land the same week as the Azure cross-tenant findings and last week's "Black October" vulnerability wave — the pattern from Thursday's "Nobody's Ready" story (AI-assisted bug-hunting outpacing patch cycles) keeps generating fresh confirming data points daily, not weekly.
+
+**[Was I wrong about open models & cyber risks?](https://www.interconnects.ai/p/was-i-wrong-about-open-models-and)** — *Interconnects AI*
+*Signal:* Interconnects revisits its own "Black October" framing — the moment AI-model-assisted vulnerability discovery (PHP2Shell, GitLab) stopped being theoretical — and finds the thesis holding up, not softening. Worth noting as a rare case of an AI analyst actively stress-testing their own prior call rather than restating it.
+
+### Global Macro — China's Factory Contraction Meets Europe's Fiscal Strain
+
+**[China factory activity eases into decline as growth wobbles](https://www.bloomberg.com/news/articles/2026-10-31/china-factory-activity-manufacturing-purchasing-managers-index-services)** — *Bloomberg Economics*
+*Read:* [China Economic Activity Loses Steam Sharply in October](https://www.wsj.com/world/asia/china-economic-activity-loses-steam-sharply-in-october-5990ffe0?mod=rss_worldnews) (WSJ)
+*Signal:* China's official manufacturing PMI fell to 49.3 from 50.1 — its third contraction in four months — with new export orders and production both sliding into contraction as front-loaded holiday-season orders cooled. High-tech manufacturing (51.3) and large firms (50.2) are still expanding while small firms (47.5) are shrinking fastest — the recovery is narrowing to fewer, bigger players exactly as this week's digests tracked Chinese AI-adjacent exporters outperforming on sentiment. Beijing now faces pressure for more stimulus just as its targeted packages from recent weeks were supposed to be working.
+
+**[Fitch Cuts France's Outlook to Negative on Weaker Growth, Widening Deficit](https://www.wsj.com/world/europe/fitch-lowers-frances-outlook-to-negative-from-stable-27de23a3?mod=rss_worldnews)** — *WSJ World News*
+*Signal:* An unscheduled negative-outlook move, not a routine review, confirms the France-as-Greece framing that started circulating this week — Fitch is now moving ahead of its normal calendar specifically because the data (Thursday's GDP contraction, the 70,000-police protest mobilization) deteriorated faster than its last review assumed.
+
+**[Bank of England May Raise High-Risk Mortgage Threshold](https://www.bloomberg.com/news/articles/2026-10-31/bank-of-england-may-raise-high-risk-mortgage-threshold-ft-says)** — *Bloomberg Economics*
+*Signal:* Loosening mortgage-risk rules to support a struggling housing market is the kind of quiet technical change that reverses post-2008 prudential logic — a central bank choosing growth support over the caution that defined its mandate for over a decade.
+
+**[Fed Officials Back More Rate Hikes, Gradual Pace of Tightening](https://www.bloomberg.com/news/articles/2026-10-30/fed-s-logan-sees-two-more-hikes-but-says-pace-can-be-gradual)** — *Bloomberg Economics*
+*Signal:* Dallas Fed's Logan wants at least two more hikes; Richmond's Barkin backs "gradual" increases — both landing the same day markets are pricing the possibility that AI capex itself is now inflationary (via materials, labor, and power demand). A hawkish Fed and a cracking AI-capex market are not obviously compatible policy environments.
+
+**[Housing, Food Costs Make Up Half of Americans' Spending, Most in 15 Years](https://www.bloomberg.com/news/articles/2026-10-30/housing-food-costs-make-up-half-of-americans-spending-most-in-15-years)** — *Bloomberg Economics*
+*Signal:* The clearest structural data point behind the affordability-driven midterm anxiety tracked all week — not a narrative, an actual spending-share statistic at a 15-year high.
+
+**[Just about every part of building a house is getting more expensive](https://www.wsj.com/economy/housing/just-about-every-part-of-building-a-house-is-getting-more-expensive-d0f5ebcb?mod=rss_socialeconomyfeed)** — *WSJ Economy*
+*Signal:* The Iran war, tariffs, and the AI buildout are named as the three specific cost drivers pushing up materials, labor, and borrowing for home builders — a direct, traceable link between this week's $5-15bn Iran-base damage bill and the AI capex race above, and the housing-affordability numbers right above this one. Three separate "crises" tracked all week are quietly converging on the same line item.
+
+**[EU, Canada Leaders Set Out Path to 'Associate Membership' Arrangement](https://www.wsj.com/world/europe/eu-canada-leaders-set-out-path-to-associate-membership-arrangement-c3ae806c?mod=rss_worldnews)** — *WSJ World News*
+*Read:* [Carney eyes June deal on making Canada the EU's first associate member](https://www.scmp.com/news/world/united-states-canada/article/3372794/carney-expects-conclude-talks-making-canada-eus-first-associate-member-june) (South China Morning Post)
+*Signal:* Canada angling to become the EU's first-ever "associate member" is a quiet hedge against US trade unpredictability — Carney is explicitly building an alternative to Washington without formally joining the bloc, a middle path other US-adjacent economies may watch closely.
+
+↳ Together these suggest: three separate cost pressures this week — Iran war reconstruction, AI-era materials/power demand, and tariffs — are now explicitly named together in a single WSJ housing-cost story, confirming they aren't parallel crises but one compounding inflation source hitting ordinary households at the worst possible time, four days before midterms.
+
+### Platforms & the AI Labor Squeeze
+
+**[DoorDash said it's only received 'several hundred' orders from AI agents](https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/)** — *TechCrunch*
+*Signal:* A hard reality check against this week's agentic-commerce hype (Shopify's Visa/Mastercard deal, Amazon's agentic ad bet) — the actual order volume from AI agents remains a rounding error months into the supposed shift, a useful reminder to separate infrastructure announcements from adoption data.
+
+**["I'm terrified": AI comes for Southeast Asia's graduate jobs](https://www.scmp.com/week-asia/economics/article/3372752/im-terrified-ai-comes-southeast-asias-graduate-jobs)** — *South China Morning Post*
+*Signal:* Malaysian and Thai graduates describe hundreds of rejected applications for entry-level marketing and media-arts roles — the AI-driven headcount story tracked all week in US/European white-collar contexts is landing identically in emerging-market graduate labor markets, just with far less of a safety net underneath it.
+
+**[AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal](https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/)** — *TechCrunch*
+*Signal:* An AI-native legal startup bidding to absorb a 100-year-old white-shoe firm's collapse is a concrete, named instance of AI disruption eating the legal industry from the bottom rather than threatening it abstractly from the top.
+
+**[Cisco gives engineer unlimited AI tokens to rewrite legacy code](https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/)** — *Hacker News*
+*Signal:* Handing one 27-year-old engineer unlimited AI compute to do work that used to require a team is Cisco's quiet answer to "what do entry-level engineering jobs look like now" — the headcount-substitution pattern tracked all week in white-collar AI stories, demonstrated as a single, specific hiring decision rather than a policy statement.
+
+**[Michael Kors finds a new audience on TikTok Shop ahead of Black Friday](https://www.glossy.co/fashion/michael-kors-tiktok-shop-sales-gen-z/)** — *Glossy*
+*Signal:* A legacy brand running nearly 4x its TikTok Shop sales expectations by reaching Gen Z shoppers who "barely knew the brand" is a clean data point for platform-native commerce actually working for heritage brands, not just native D2C labels.
+
+**["Short-form audiences are rented attention," brands turn to long-form](https://www.glossy.co/pop/ouai-launches-cinematic-web-series-as-long-form-content-trends-people-are-craving-a-new-version-of-authenticity/)** — *Glossy*
+*Signal:* P&G-owned Ouai launching a cinematic web series as "the new foil to AI slop," explicitly following Meta's 90-minute Reels push from earlier this week — brands are now treating long-form, clearly-authored content as a premium differentiator precisely because it's harder for AI to fake cheaply, the inverse of the "invisible ads for AI agents" story tracked Friday.
+
+### Quiet Signals
+
+**[Russia's top independent newspaper Novaya Gazeta shuts under Kremlin pressure](https://www.scmp.com/news/world/russia-central-asia/article/3372798/russias-top-independent-newspaper-novaya-gazeta-shuts-under-kremlin-pressure)** — *South China Morning Post*
+*Signal:* The closure of Russia's last major investigative outlet — after years of murders, arrests and pressure targeting its journalists — removes one of the few remaining domestic checks on the Kremlin's war narrative right as Russia stays defiant at G20 talks and Ukraine keeps escalating refinery strikes. A quiet story with no immediate market or military effect, but a real one: an information environment getting structurally darker as the war grinds on.
+
+**[Russia-Ukraine truce for Oleshky allows aid mission to help starving residents](https://www.scmp.com/news/world/europe/article/3372778/russia-ukraine-truce-oleshky-allows-aid-mission-help-starving-residents)** — *South China Morning Post*
+*Read:* [Russia-occupied Oleshky evacuees arrive in Belarus, Ukraine next](https://www.scmp.com/news/world/russia-central-asia/article/3372828/russia-occupied-oleshky-evacuees-arrive-belarus-ukraine-next) (South China Morning Post)
+*Signal:* The first local ceasefire of its kind in nearly five years of war, brokered by Melania Trump, let starving residents of a Russian-held town evacuate via Belarus — a narrow, humanitarian-only exception to an otherwise escalating war (see Hormuz, refinery strikes above), proof that targeted diplomacy can still work even when the broader conflict is intensifying.
+
+**[Ebola death toll in DR Congo passes 5,000](https://www.aljazeera.com/news/2026/10/31/ebola-death-toll-in-dr-congo-passes-5000?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Five thousand deaths with no approved treatment or vaccine reaching patients fast enough is a death toll on the scale of a major war, compounding directly on yesterday's 3,500-death Indonesia wildfire-smoke story — two separate mass-casualty health crises in two days, both under-covered relative to markets and politics.
+
+**[China joins global race to reawaken brain-injury patients through ultrasound therapy](https://www.scmp.com/tech/tech-trends/article/3372779/china-joins-global-race-reawaken-brain-injury-patients-through-ultrasound-therapy)** — *South China Morning Post*
+*Signal:* A coma patient regaining speech and mobility after targeted ultrasound "wakes" damaged brain tissue — early and anecdotal, but a genuine neurotechnology frontier opening in parallel with (and mostly overshadowed by) this year's AI headlines.
+
+**[Google's first data center satellite is online and writing poetry](https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/)** — *TechCrunch*
+*Signal:* The first operational TPU in orbit, running a Gemma model, lands the same week as Satlyt's own satellite-datacenter test and an Al Jazeera piece on why the US, Russia and China are all racing to put nuclear reactors on the Moon — space is quietly becoming the next frontier in the AI-power-bottleneck story tracked all week, once terrestrial grid capacity hit its ceiling.
+
+**[The Limits of AI as an Economic Weapon](https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon/)** — *Palladium Magazine*
+*Signal:* A structural argument worth sitting with: a market split between premium US models and cheap, open-weight Chinese alternatives (DeepSeek, Qwen) may deny the US one of its best coercive tools — if everyone can access capable-enough AI for free, model access stops being the leverage point export controls assumed it would be.
+
+---
+
+### 🔭 Predictions
+
+> 1. **The AI-capex bear case gets its first real earnings-season test** — with Alphabet, Amazon and Meta all posting negative free cash flow in the same quarter, $326bn in combined new hyperscaler debt, and OpenAI cutting its fundraise target twice in two weeks, expect at least one more hyperscaler to follow Oracle's capped-capex signal, or for Anthropic's actual IPO pricing (once it lands) to come in meaningfully below the levels implied by its S-1, as the first hard data point that the market's AI-capex patience has a limit.
+> 2. **Poland's court crisis becomes the EU's next full Article 7-style showdown, not a contained domestic fight** — with Nawrocki physically forcing entry into the tribunal, European far-right figures (Farage, Wilders, Truss) rallying to PiS's side, and legal experts openly split on the suspension's legality, expect this to escalate into a formal EU rule-of-law proceeding within weeks rather than resolve quietly through Polish courts — a mirror of the ECB-succession Le Pen-proofing story from earlier this week, but reactive instead of pre-emptive.
+> 3. **The Iran war's hidden reconstruction bill becomes a named line item in the final midterm stretch** — now that WSJ has quantified $5-15bn in base damage on top of $47.1bn in operational costs, and tied rising US home-building costs explicitly to the Iran war, expect at least one competitive House or Senate race to feature this specific figure in attack ads or debate moments before November 3, converting an abstract "forever war" critique into a concrete, citable number.
+
+---
+*39 items across 7 topics — covering 2026-10-31*
 
 ## 2026-10-30 — Daily Sweep
 
