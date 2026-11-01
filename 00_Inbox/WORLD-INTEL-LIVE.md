@@ -1,7 +1,101 @@
-Last Digest: 2026-10-31
+Last Digest: 2026-11-01
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-11-01 — Daily Sweep
+
+### Geopolitics — Gulf Attacks Keep Climbing Even as Washington Signals a Diplomatic Opening
+
+**[Qatar LNG carrier struck by 'unidentified objects' in Gulf](https://www.aljazeera.com/news/2026/11/1/qatar-lng-carrier-struck-by-unidentified-objects-in-gulf?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The Al Mayeda was hit Friday night with no injuries or claimed responsibility — the 120th-plus commercial vessel attack since the US-Israel war with Iran began in February, and October was the single worst month of the war for shipping with 29 ships targeted. The war is "paused" on land but the sea lanes keep getting more dangerous, not less, and an LNG carrier (rather than a crude tanker) getting hit raises the stakes on global gas supply specifically.
+
+**[Iran security chief says US letter signals 'positive' shift](https://www.aljazeera.com/video/newsfeed/2026/11/1/iran-security-chief-says-us-letter-signals-positive-shift?traffic_source=rss)** — *Al Jazeera*
+*Read:* [Trump at Halloween party 'as himself' says he's 'in no hurry' with Iran](https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss) (Al Jazeera)
+*Signal:* JD Vance sending a direct letter to Iran's security chief, read by Tehran as "positive," lands the same 48 hours as Trump saying publicly he's "in no hurry" to strike — a genuine, if fragile, diplomatic channel opening at exactly the moment the shipping-lane violence (above) is at its worst of the war. Two tracks moving in opposite directions simultaneously is the actual story, not a contradiction to resolve.
+
+**[A Gulf non-aggression pact could be the path forward](https://www.aljazeera.com/opinions/2026/11/1/a-gulf-non-aggression-pact-could-be-the-path-forward?traffic_source=rss)** — *Al Jazeera*
+*Signal:* An opinion piece arguing Oman is uniquely positioned to broker a regional security arrangement — notable mainly for timing: it's circulating the same weekend as the Vance letter and the LNG attack, suggesting third-party mediation is gaining real traction as an alternative to the current drift.
+
+↳ Together these suggest: the Gulf war has split into two parallel tracks — a worsening shipping war that keeps generating fresh, unclaimed attacks, and a quiet US-Iran diplomatic channel that just produced its first "positive" signal from Tehran's side. Historically these de-escalate together or not at all; watch whether the diplomatic track can move fast enough to outrun the next tanker attack.
+
+### US-China Tech Rivalry — Taiwan's Grey-Zone Pressure Intensifies as DeepSeek Goes After Claude Code
+
+**[Beijing ramps up maritime patrols around Taiwan, prompting Taipei to shadow ships](https://www.scmp.com/news/china/politics/article/3372875/beijing-ramps-maritime-patrols-around-taiwan-prompting-taipei-shadow-ships)** — *South China Morning Post*
+*Read:* [Taiwan says China harassing shipping with east coast patrol](https://www.reuters.com/world/china/taiwan-says-china-harassing-shipping-with-east-coast-patrol-2026-11-01/) (Reuters)
+*Signal:* This is the 13th Chinese coast-guard incursion into Dongsha's restricted waters this year, with one ship running "dark vessel" mode (transponder off) to mask its approach to within 1.85km of a Taiwanese patrol ship. Taiwanese officials frame this explicitly as rehearsal for a maritime blockade using coast guard, research, and fishing-militia vessels together rather than a single military strike — the same "boiling the frog" pattern tracked in this week's drone-patrol items, just with a harder edge (dark-vessel tactics are a deliberate concealment choice, not routine patrolling).
+
+**[Could Taipei's unexpectedly tight mayoral race add to cross-strait tensions?](https://www.scmp.com/news/china/politics/article/3372865/could-taipeis-unexpectedly-tight-mayoral-race-add-cross-strait-tensions)** — *South China Morning Post*
+*Signal:* A tight race to unseat the KMT's Taipei mayor would weaken the party Beijing prefers to deal with — domestic Taiwanese politics and cross-strait pressure are never fully separable, and this race is a concrete near-term test of whether grey-zone pressure (above) is helping or hurting Beijing's preferred outcome.
+
+**[DeepSeek unveils AI 'super agent' in coding race with OpenAI, Anthropic](https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic)** — *South China Morning Post*
+*Signal:* DeepSeek's open-sourced prototype splits work between a "router" that talks to humans and isolated "worker" agents that execute tasks and report back — explicitly aimed at Claude Code, and released by the dedicated Harness team DeepSeek built this year specifically to compete with US coding agents. It's unfinished research code (DeepSeek's own numbers show real coordination overhead), but the strategic signal is clear: China's open-weight ecosystem is now targeting agentic coding, not just raw model benchmarks, as the next competitive front.
+
+**[Anthropic blocks users for anything touching training larger models](https://news.ycombinator.com/item?id=50319358)** — *Hacker News*
+*Signal:* A Claude user says routine ML research work got flagged as "training a competitor" and throttled — unverified as an individual claim, but it lands next to on-record Anthropic platform-engineering commentary that a "previously unpublicized share" of the recent Opus 5.5 launch went into making the API harder to distill from, explicitly citing Chinese open-model catch-up as the backdrop. Read against the DeepSeek release above, Anthropic is defending against exactly the distillation pathway that lets open-weight labs close the gap cheaply — a real tension between an API business trying to stay open for developers and a lab trying not to train its own replacement.
+
+↳ Together these suggest: the US-China AI rivalry's center of gravity is shifting from chip export controls to agent-layer competition and distillation defense — DeepSeek is building the open-source tooling to compete with Claude Code while Anthropic is simultaneously locking down the outputs that make such catch-up cheap, a direct contest playing out in weeks, not years. It sits alongside a Taiwan Strait track doing the same "slow squeeze, deny it's escalation" thing as Beijing's push.
+
+### AI & Markets — The Capex Skepticism Compounds, and Political Backlash Catches Up
+
+**[S&P turns negative on Meta as 2027 AI spending forecast tops $225bn](https://ppc.land/s-p-turns-negative-on-meta-as-2027-ai-spending-forecast-tops-225bn/)** — *PPC Land*
+*Signal:* New detail behind yesterday's Meta credit-outlook downgrade: S&P now forecasts Meta capex at $140bn in 2026, $225bn+ in 2027, and $252bn in 2028 — roughly $132bn above its own forecasts from just two years ago. The number keeps re-pricing upward even as the market's patience (tracked all week) is visibly shrinking, a gap that has to close one direction or the other.
+
+**[Data centers are now a midterm issue, even in Brooklyn](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)** — *TechCrunch*
+*Read:* Political campaigns have spent nearly $200 million on ads targeting AI data centers ahead of the midterms, per a Kalshi data point circulating alongside this story.
+*Signal:* Nearly $200bn in US data-center projects were delayed, stalled, or blocked in just the first half of 2026 by local political resistance — and now candidates are spending real ad money attacking data centers directly, two days before midterms. The capex-skepticism story that's lived in earnings calls and bond markets all week just became retail politics, in Brooklyn of all places, where the complaint isn't jobs lost but "who profits and who decides."
+
+**[Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)** — *Hacker News*
+*Signal:* Lawyers reportedly embedded a prompt-injection attempt inside a court filing, targeting whatever AI tool might process it — a small case, but the first instance in this sweep of a real institution formally sanctioning someone for weaponizing AI-adjacent text against the system meant to read it, a precedent other courts and regulators will likely cite.
+
+↳ Together these suggest: AI's "who pays" question is no longer confined to balance sheets — it's now showing up as midterm ad spend, local zoning fights, and courtroom sanctions, three different institutions pushing back on different parts of the same buildout in the same week.
+
+### Cybersecurity — A Critical, Unpatched Linux Kernel Flaw Hiding in Plain Sight
+
+**[TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)** — *Hacker News*
+*Signal:* A use-after-free in the Linux IPv4 TCP handshake lets an unauthenticated remote attacker read freed kernel memory before any application-level auth even runs — rated CVSS 9.8, with multipath TCP listeners (enabled by default in Go 1.24+) as the primary vector. Anthropic's Claude built a working remote-code-execution exploit for it. Debian, Oracle Linux, Amazon Linux and SUSE have shipped fixes; as of today, **Ubuntu and RHEL have not** — meaning a huge share of internet-facing Linux servers are sitting exposed to a near-zero-interaction kernel RCE while patches exist upstream. This is the "Black October" AI-assisted vulnerability-discovery pattern tracked all week, but now with the exploit built by an AI lab itself rather than a researcher using one.
+
+### Global Macro — Chip Exports Keep Compounding While Gulf and European Stress Spreads
+
+**[S. Korea Exports Extend Robust Growth as Chip Boom Continues](https://www.bloomberg.com/news/articles/2026-11-01/south-korea-exports-extend-robust-growth-as-chip-boom-continues)** — *Bloomberg Economics*
+*Read:* [South Korea's Chip-Led Exports Accelerate, Bringing $1 Trln Annual Target Closer](https://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?mod=rss_worldnews) (WSJ)
+*Signal:* October exports kept accelerating even as last week's hyperscaler selloff raised questions about AI-trade durability — one of the clearest real-economy counterpoints yet to the credit-market skepticism tracked all week, from an economy with no equity story to spin, just customs data.
+
+**[Saudi Economy Shrank at Slower Pace Before Houthi War Escalation](https://www.bloomberg.com/news/articles/2026-11-01/saudi-economy-shrank-at-slower-pace-before-houthi-war-escalation)** — *Bloomberg Economics*
+*Signal:* Riyadh was already on track for one of its worst economic years in a while — before the Houthi conflict intensified. The Gulf-attack numbers tracked above (120+ vessels hit, worst month yet) are landing on an economy that had no cushion left to absorb a new shock.
+
+**[G20 foreign ministers end Atlanta meeting without consensus on key issues](https://www.scmp.com/news/china/diplomacy/article/3372855/g20-foreign-ministers-end-atlanta-meeting-without-consensus-key-issues)** — *South China Morning Post*
+*Read:* [Quad not 'anti-China', says Rubio as first summit in two years set before Trump-Xi talks](https://www.scmp.com/news/china/diplomacy/article/3372852/quad-diplomats-finalise-first-leaders-summit-two-years-trump-xi-meeting) (South China Morning Post)
+*Signal:* Rubio pushed G20 members to secure critical-mineral supply chains away from China with no agreement reached, while simultaneously insisting the Quad summit (its first in two years, deliberately timed before Trump-Xi) isn't "anti-China" — two statements that are hard to hold together at once. Both land three weeks before the Shenzhen summit, part of the same pre-negotiation positioning tracked in this week's electronics-testing-ban and chip-export stories.
+
+### Platforms, Ad Spend & the AI Political Economy
+
+**[Marketers still spend 10 hours a week on manual optimization, DV finds](https://ppc.land/marketers-still-spend-10-hours-a-week-on-manual-optimization-dv-finds/)** — *PPC Land*
+*Signal:* DoubleVerify's survey of 2,020 marketers found third-party AI bidding adoption jumped from 42% to 50% year-on-year, yet manual optimization time fell only 14 minutes a week (from 10h12m to 9h58m) — a useful corrective to "AI replaces ad-ops work" narratives. Adoption is real; labor savings, so far, are not.
+
+**[France votes for a tax on every gigabyte](https://ppc.land/s-p-turns-negative-on-meta-as-2027-ai-spending-forecast-tops-225bn/)** — *PPC Land*
+*Signal:* France's National Assembly narrowly passed (11-10, 14 abstentions) a €0.055-per-gigabyte tax on content providers in its 2027 finance bill — streaming and ad-tech executives immediately warned the cost gets passed to advertisers. A thin-margin vote with outsized downstream effects on digital ad economics, arriving the same week Fitch cut France's sovereign outlook to negative over a widening deficit — the state is reaching for new revenue levers wherever it can find them.
+
+↳ Together these suggest: the AI-infrastructure capex story and the digital-advertising economy are converging from two directions — France taxing the pipes that carry AI-era content traffic, and marketers discovering that AI tools are being adopted faster than they're actually saving labor, both quiet corrections to the "AI pays for itself" assumption running through this week's hyperscaler earnings.
+
+### Quiet Signals
+
+**[Indian opposition unites to demand Modi electoral chief's resignation](https://www.scmp.com/news/asia/south-asia/article/3372886/indian-opposition-unites-demand-modi-electoral-chiefs-resignation)** — *South China Morning Post*
+*Signal:* Over 130 million names have been purged from India's voter rolls since last year under a "Special Intensive Revision" the opposition INDIA bloc says disproportionately hits Muslims and other minorities who lean against Modi's BJP; Human Rights Watch has now said the process raises "serious questions about the fairness of future Indian elections." Tens of thousands rallied in Delhi today, two days after a purely symbolic "public impeachment" of the election chief — a structural fight over who gets to vote, running in parallel with (and far less covered than) the US midterm closing stretch.
+
+**[Russia surpasses France in African youth appeal, still trails China: survey](https://www.scmp.com/news/china/diplomacy/article/3372843/russia-surpasses-france-african-youth-appeal-still-trails-china-survey)** — *South China Morning Post*
+*Signal:* A quiet soft-power data point that reinforces this week's "from rifles to radar" story on China upgrading its African arms sales — former colonial powers are losing ground to both China and Russia among African youth simultaneously, a structural realignment visible mostly in survey data rather than headlines.
+
+---
+
+### 🔭 Predictions
+
+> 1. **The Gulf's two tracks collide before they converge** — with 29 vessels hit in October (the war's worst month) and an LNG carrier now struck directly, expect either a major insurance/shipping-market disruption (Lloyd's-style war-risk premium spike) or a concrete attack-attribution breakthrough within two weeks, before the Vance-letter diplomatic channel has time to produce a visible de-escalation — the shipping war is moving faster than the talks.
+> 2. **DeepSeek's Super-agent forces Anthropic's distillation defenses into a public policy, not just an enforcement pattern** — with the HN "blocks users" story unresolved and Anthropic's own platform engineers already on record citing Chinese distillation as a motivating "backdrop," expect Anthropic to publish a clearer, more specific usage-policy clarification (not just the current broad ban) within a month, timed to pre-empt IPO-related scrutiny of how it handles legitimate ML researchers.
+> 3. **Taiwan's Dongsha "dark vessel" tactic becomes the Trump-Xi summit's quiet flashpoint** — with 13 incursions this year and the first confirmed transponder-off approach, expect the US State Department or Japan's government to issue a specific condemnation of the dark-vessel tactic (not just general patrol activity) before the Shenzhen summit, elevating grey-zone naval conduct into the same conversation as chip-export terms.
+
+---
+*23 items across 6 topics — covering 2026-11-01*
 
 ## 2026-10-31 — Daily Sweep
 
