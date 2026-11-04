@@ -1,4 +1,4 @@
-Last Digest: 2026-11-03
+Last Digest: 2026-11-04
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -301,3 +301,147 @@ Last Digest: 2026-11-03
 
 ---
 *41 items across 10 topics — covering 2026-11-03.*
+
+## 2026-11-04 — Daily Sweep
+
+### US Midterms: Democrats Retake Congress in a Historic Blue Wave
+
+**[Democrats Ride Blue Wave to Retake House and Senate](https://www.theinformation.com/briefings/early-election-results-point-blue-wave)** — *The Information*
+*Signal:* Democrats flipped seven Senate seats (Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina, Texas) and are projected to hold 245+ House seats — their largest majority in nearly two decades — delivering the check on Trump's final two years that last year's digest framing anticipated. Kansas and South Carolina haven't elected a Democratic senator since 1932 and the Strom Thurmond era, respectively; this isn't a narrow correction, it's a realignment of previously safe Republican territory.
+*Read:* [5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans](https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html)
+
+**[Stunning Democratic Victories in Texas Bring Uncertainty for Data Centers, Musk](https://www.theinformation.com/briefings/stunning-democrat-victories-texas-bring-uncertainty-data-centers-musk)** — *The Information*
+*Signal:* James Talarico beat Ken Paxton for Senate and Gina Hinojosa beat three-term Gov. Greg Abbott — both wins coming despite $212M of Musk spending to stop Talarico, and despite Texas being on track to overtake Virginia as the world's largest data-center market by 2030. Hinojosa explicitly campaigned on pausing new construction and blaming Abbott for putting "Big Tech interests ahead of local communities." CNBC's exit poll found 56% of voters called data centers a crucial or major factor — Democrats rated it higher than Republicans, but it crossed party lines everywhere.
+*Read:* [5 midterm election takeaways: Tech billionaires suffer as Democrats drub Republicans](https://www.cnbc.com/2026/11/04/midterm-election-blue-wave-trump-billionaires.html) — also notes non-binding local referenda rejecting data centers passed 29-to-1 nationwide.
+
+**['Rejecting hate': Abdul El-Sayed wins Senate seat despite racist attacks](https://www.aljazeera.com/news/2026/11/4/rejecting-hate-abdul-el-sayed-wins-senate-seat-despite-racist-attacks?traffic_source=rss)** — *Al Jazeera*
+*Signal:* El-Sayed's win over Mike Rogers — becoming the first Muslim senator in US history — closes the loop on the Stevens/El-Sayed intra-party split flagged in Monday's and Tuesday's digests. Trump's invitation for Stevens to cross party lines didn't stop the seat from going to the progressive Democrat the party establishment had tried to sideline.
+
+**[California Billionaire Tax Losing After Polls Closed](https://www.theinformation.com/briefings/california-billionaire-tax-losing-polls-closed)** — *The Information*
+*Signal:* Proposition 40 — a one-time 5% wealth tax on California's ~200 billionaires meant to backfill federal healthcare cuts — was losing 56.5% to 43.5% as of Tuesday night, after Sergey Brin alone put in $100M+ to defeat it. A companion measure, Prop 42 (banning future wealth taxes outright), was leading comfortably, which would nullify Prop 40 even if final counting narrows the gap. The tax's own backer, SEIU's Dave Regan, is already signaling a 2028 retry.
+*Read:* [Billionaire tax ballot measure trails; California voters reject voter ID](https://www.latimes.com/california/story/2026-11-03/california-prop-40-billionaire-trails-tax-prop-39-voter-id)
+
+↳ Together these suggest: 2026's populism isn't one-directional. The same electorate that punished top-down wealth redistribution (Prop 40) rewarded bottom-up infrastructure backlash (Texas data centers) and cross-party corruption fatigue (the broader wave) — voters are angrier at visible, local disruption than at abstract inequality, which is a different political opportunity than the one Stoller and the DSA (whose membership has more than doubled since 2024) are positioned to exploit.
+
+### China Policy After the Wave, and Taiwan's Military Signals
+
+**[Democratic-led US Congress to turn up heat on Beijing over AI, Taiwan: analyst](https://www.scmp.com/news/china/diplomacy/article/3373232/democratic-led-us-congress-turn-heat-beijing-over-ai-taiwan-analyst)** — *SCMP*
+*Signal:* A Chinese analyst's read that a Democratic Congress ramps up pressure on Beijing over AI and Taiwan even without a change in the administration's overall strategy — a reminder that the US-China hawkishness consensus in Washington is one of the few things the blue wave doesn't touch.
+
+**[Taiwan flags massive PLA naval mobilisation, spike in air sorties](https://www.scmp.com/news/china/military/article/3373249/taiwan-flags-massive-pla-naval-mobilisation-spike-air-sorties)** — *SCMP*
+*Signal:* Over 100 PLA naval and coastguard vessels, including the Liaoning carrier strike group, conducted Philippine Sea drills that overlapped with a sharp rise in air sorties — another capability-and-readiness signal following this week's Type 071 amphibious ship buildup, not yet a timeline signal but a steady accumulation of exactly the capacities a Taiwan contingency would require.
+
+**[Tencent unveils Hy4 as open-weight AI race with DeepSeek, Z.ai, Alibaba heats up](https://www.scmp.com/tech/big-tech/article/3373227/tencent-unveils-hy4-open-weight-ai-race-deepseek-zai-alibaba-heats)** — *SCMP*
+*Signal:* Tencent's new flagship open-weight model with "enhanced agentic capabilities" is the fourth major Chinese lab release in as many weeks (after DeepSeek's coding agent and others) — direct evidence for Tuesday's prediction that Nvidia's 51%-non-China sales rule and distillation-threat rhetoric would push more of the world toward Chinese open-weight compute, except here it's China's own labs racing each other, not just foreign adopters.
+
+### Middle East: Trump's Unilateral Israel Aid Surprise
+
+**[Trump axes US$3.8b annual military aid for Israel: 'they no longer need it'](https://www.scmp.com/news/world/united-states-canada/article/3373183/trump-axes-us38b-annual-military-aid-israel-they-no-longer-need-it)** — *SCMP*
+*Signal:* Trump announced on Fox News, mid-Election Day, that the decade-long $3.8bn/year MOU (which legally runs through 2028) would end "by the end of this year" — a claim Israel's own Finance Ministry says it wasn't told about and the memorandum's text doesn't support. Netanyahu's own version, given separately, describes a gradual ten-year phase-out starting now, not an abrupt stop — a live example of the two leaders describing the same "deal" in incompatible terms.
+*Read:* [Trump says US will stop $4 billion in funding to Israel at end of 2026](https://www.reuters.com/world/middle-east/trump-says-us-will-stop-paying-israel-after-year-end-2026-11-03/) — Congress, not the White House, actually controls the annual appropriation.
+
+**[Iran Turns to Guerrilla Tactics in Bid to Reassert Grip on Strait of Hormuz](https://www.wsj.com/world/middle-east/iran-turns-to-guerrilla-tactics-in-bid-to-reassert-grip-on-strait-of-hormuz-f10da428?mod=rss_worldnews)** — *WSJ*
+*Signal:* Rocket-propelled grenades and limpet mines against tankers is a low-cost, hard-to-attribute way for Tehran to contest a waterway it can no longer control conventionally — consistent with this week's pattern of talking peace publicly while escalating tactically, just from the Iranian side this time rather than the American one.
+
+**[Once a Haven for Guerrillas, Venezuela Now Helps U.S. Attack Them](https://www.wsj.com/world/americas/once-a-haven-for-guerrillas-venezuela-now-helps-u-s-attack-them-0552b1b7?mod=rss_worldnews)** — *WSJ*
+*Signal:* Caracas cooperating in a deadly drone strike on groups it sheltered for decades is a significant realignment — a sign the Maduro government is now trading intelligence cooperation for improved relations with Washington, a transactional shift worth watching alongside any further Venezuela sanctions moves.
+
+### AI Industry: The Margin Squeeze Goes Universal
+
+**[Anthropic is still grappling with the economics of compute](https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/)** — *TechCrunch*
+*Signal:* Compute costs hit 58% of Q3 revenue (up from 48% in Q2) as Anthropic leaned on pricier short-term "neocloud" contracts — $5bn of the $10bn compute bill — to meet demand it couldn't otherwise serve; revenue-per-compute-dollar fell from above 2x to 1.72x. This is the same IPO-timing problem flagged Tuesday (decelerating growth, swinging to an operating loss) but from the cost side rather than the revenue side.
+
+**[Synopsys, Cadence Shares Drop 4% on The Information Report](https://www.theinformation.com/briefings/synopsys-cadence-shares-drop-4-information-report)** — *The Information*
+*Signal:* Chip-design software incumbents sold off after Anthropic told IPO investors Claude is cutting the time needed for its own custom-chip design work — markets reading an AI lab's internal tool use as a threat to the EDA software industry itself, a different and more direct channel for AI disruption than the usual "AI writes code" framing.
+
+**[Canva Lays Off Workers After AI Rollout Problems](https://www.theinformation.com/briefings/canva-lays-workers-ai-rollout-problems)** — *The Information*
+*Signal:* 1,271 people (22% of staff) are losing jobs, changing roles, or relocating after Canva's growth slowed for the first time in its 13-year history. The squeeze is double-sided: AI compute costs have driven Canva's own per-user cost from "cents per month to many, many more cents," while rival AI chatbots are simultaneously eating the low-end, non-designer use case that was Canva's original value proposition — the same technology is raising its costs and stealing its customers at once.
+*Read:* ['Sad and devastated': Canva cuts hit staff and Australian tech overall](https://www.theage.com.au/technology/sad-and-devastated-canva-s-cuts-hit-its-staff-and-australian-tech-overall-20261104-p61b7k.html)
+
+**[Shopify Stock Falls 7.6% After Company Discloses Profit Margin Drop Due to AI](https://www.theinformation.com/briefings/shopify-stock-falls-7-6-company-discloses-profit-margin-drop-due-ai)** — *The Information*
+*Signal:* Subscription gross margin fell despite 32% revenue growth to $3.7bn — investors punished the margin story even though the top line beat, echoing Apple's memory-cost hit flagged Tuesday. AI infrastructure spending is now a visible drag on quarterly numbers across completely unrelated business models.
+
+**[LinkedIn Swapped Out Some OpenAI Models to Keep Its Server Costs Flat](https://www.theinformation.com/articles/linkedin-swapped-openai-models-keep-server-costs-flat)** — *The Information*
+*Signal:* The opposite response to the same pressure: rather than eat rising inference costs, LinkedIn is actively downgrading or substituting models to hold spending steady — a quiet signal that "use the best available model regardless of cost" is already giving way to active cost management at large-scale AI deployers, which cuts against the token-pricing-keeps-rising assumption baked into every AI lab's revenue model.
+
+↳ Together these suggest: four unrelated companies — an AI lab, a design startup, an e-commerce platform, and an enterprise network — all hit the same wall in the same 48 hours. The AI capex story has moved from "how much is being spent" to "who actually profits once it's spent," and so far the answer is uneven even among AI's biggest beneficiaries.
+
+### Dealmaking: Consumer and Tech Both Consolidate
+
+**[What DoorDash's Instacart acquisition says about the modern delivery platform pitch](https://digiday.com/media/what-doordashs-instacart-acquisition-says-about-the-modern-delivery-platform-pitch/)** — *Digiday*
+*Signal:* DoorDash's $17bn purchase of Instacart — its fourth acquisition in recent memory after Deliveroo, SevenRooms and Symbiosys — brings Walmart and Sam's Club into its marketplace and consolidates grocery-and-restaurant purchase data into one advertising asset. The strategic bet is that delivery platforms now compete as retail-media and logistics infrastructure providers, not as delivery apps.
+*Read:* [Here are the questions on advertisers' minds after the DoorDash-Instacart deal](https://digiday.com/marketing/here-are-the-questions-on-advertisers-minds-after-the-doordash-instacart-deal/) — measuring incremental lift versus attributed purchases gets harder as the data pool consolidates.
+
+**[Kimberly-Clark closes its acquisition of Tylenol maker Kenvue](https://www.cnbc.com/investingclub/2026/11/02/kimberly-clark-closes-its-acquisition-of-kenvue-what-to-expect-next.html)** — *CNBC*
+*Signal:* The $48.7bn deal unites Huggies, Kleenex and Cottonelle with Tylenol, Neutrogena and Listerine under one roof, funded partly by selling a 51% stake in Kimberly-Clark's own paper business to Brazil's Suzano. Kimberly-Clark now also inherits Tylenol's ongoing pregnancy-related litigation — a liability transfer buried inside an otherwise straightforward consumer-staples consolidation play.
+
+**[Salesforce's M&A Blitz Reflects Broader Deal Rush](https://www.theinformation.com/articles/salesforces-m-a-blitz-reflects-broader-deal-rush)** — *The Information*
+*Signal:* Salesforce's second and third disclosed acquisitions in two weeks (Rune Technologies for defense, Cresta for $2.7bn) land in the same week as Marvell-Lumentum and DoorDash-Instacart — a dealmaking wave that's as much about labs and platforms buying capability faster than they can build it organically as it is about any specific sector logic.
+
+### North Korea: Escalation and Denial, Running in Parallel
+
+**[North Korea, on Busiest Missile-Testing Spree in Years, Rebuffs Trump Diplomacy](https://www.wsj.com/world/asia/north-korea-on-busiest-missile-testing-spree-in-years-rebuffs-trump-diplomacy-3f4e99f4?mod=rss_worldnews)** — *WSJ*
+*Signal:* Pyongyang is testing missiles at its fastest pace in years while piling on new demands rather than engaging Trump's overtures — the same week Kim Yo-jong is publicly denying any role in the Binance hack (flagged Tuesday). North Korea appears more willing to escalate militarily than to risk the reputational cost of being tied to crypto theft, because the theft funds the weapons program it won't stop testing.
+
+**[Binance Says Hackers Used Bogus Job Interview and AI Tool](https://www.theinformation.com/briefings/binance-says-hackers-used-bogus-job-interview-ai-tool)** — *The Information*
+*Signal:* The $6.3bn heist traces back to a Binance engineer downloading malicious code while completing a fake job-interview "assignment" — the same social-engineering playbook security researchers had warned about for years (also flagged Tuesday), now confirmed as the actual attack vector at the largest exchange in the world.
+
+### Global Macro: A Synchronized Hiking Cycle, Running Into Politics
+
+**Central banks tightening into war-driven inflation, in brief:** *Bloomberg Economics* reports [euro-area inflation accelerated to double the ECB's target](https://www.bloomberg.com/news/articles/2026-11-04/euro-zone-inflation-accelerates-to-double-the-ecb-s-target) on energy costs, reinforcing Nagel's December-hike signal from Tuesday's digest; [Sweden's Riksbank hiked for the first time since 2023](https://www.bloomberg.com/news/articles/2026-11-04/riksbank-hikes-for-first-time-since-2023-to-counter-price-risks); [Poland's constitutional standoff has central bank chief Adam Glapinski on the ropes](https://www.bloomberg.com/news/articles/2026-11-04/poland-constitutional-crisis-has-central-bank-chief-adam-glapinski) just as he's meant to be setting rates; new research finds [UK rates aren't high enough to curb inflation](https://www.bloomberg.com/news/articles/2026-11-04/uk-rates-are-not-high-enough-to-curb-inflation-research-finds) ahead of Thursday's BOE decision; and [Brazil's central bank faces a rockier path](https://www.bloomberg.com/news/articles/2026-11-04/shock-lula-win-puts-brazil-s-central-bank-on-rocky-interest-rate-path) after Lula's shock reelection sent rate and inflation forecasts higher through 2029. The one upside exception: [Thailand's growth forecasts were raised](https://www.bloomberg.com/news/articles/2026-11-04/thailand-growth-forecasts-raised-on-factory-data-revamp) on revised factory data showing a bigger AI-boom contribution than previously measured.
+
+**[The sleeper inflation issue in the midterms: health insurance](https://www.wsj.com/finance/investing/health-insurance-is-the-sleeper-inflation-issue-fea899df?mod=rss_socialeconomyfeed)** — *WSJ Economy*
+*Signal:* Healthcare costs, not headline CPI, may be the specific inflation line item that actually moved midterm votes — which lines up directly with California's billionaire-tax fight (explicitly pitched as a healthcare-funding backstop) and suggests the 2026 "cost of living" story has a more specific driver than gas or grocery prices.
+
+### Security
+
+**[Postman silently auto-installs AI plugins and attempts to share all API data](https://github.com/postmanlabs/postman-app-support/issues/14370)** — *Hacker News*
+*Signal:* A widely-used developer tool reportedly pushing AI integrations that request broad API-data access without clear consent is a trust problem for a category (API testing tools) that routinely handles production credentials and sensitive payloads — a smaller-scale version of the same "AI features quietly expanding data access" pattern now showing up across consumer software too.
+
+**[Tell HN: Gemini trains on chat history, even for subscribers](https://news.ycombinator.com/item?id=50363461)** — *Hacker News*
+*Signal:* A user report that paid-tier Gemini conversations are still used for training contradicts the usual "subscribers are opted out" assumption consumers carry from ChatGPT and Claude's own policies — worth watching for an official Google response, since the gap between stated and actual data policy is exactly the kind of thing that draws regulatory attention.
+
+**[Hackers Crank the Heat on Europe's Supermarket Freezers to Above 120 Degrees](https://www.wsj.com/tech/cybersecurity/hackers-crank-the-heat-on-europes-supermarket-freezers-to-above-120-degrees-73597a8a?mod=rss_worldnews)** — *WSJ*
+*Signal:* Internet-connected industrial refrigeration is now a live attack surface with a physical-destruction payoff (spoiled inventory, food-safety risk) — a reminder that IoT security debates aren't abstract once the "thing" being hacked is cold storage for a continent's grocery supply.
+
+### Platforms & Creator Economy
+
+**[X, like YouTube, is offering bonuses to creators who consistently upload new videos](https://www.tubefilter.com/2026/11/03/x-video-kickstart-program-creator-bonus-monetization/)** — *Tubefilter*
+*Signal:* X's "Video Kickstart Bonus" is a direct copy of YouTube's consistency-based payout structure — further evidence platforms are converging on cash incentives rather than algorithmic reach as the lever to grow video libraries, continuing the "Closed Garden Platforms" pattern flagged in recent digests.
+
+**[YouTube is giving some creators a 30-day fix-it period before terminating their channels](https://www.tubefilter.com/2026/11/03/youtube-spam-policy-content-violation-grace-period-appeals/)** — *Tubefilter*
+*Signal:* A policy softening for spam-flagged creators suggests YouTube's enforcement has been generating enough false positives or appeals volume that a grace period is cheaper than the backlash — a small governance tweak, but one that shows platform moderation at YouTube's scale increasingly gets negotiated case-by-case rather than applied as written.
+
+**[Future of TV Briefing: What it costs brands to fund long-form creator series](https://digiday.com/future-of-tv/future-of-tv-briefing-what-it-costs-brands-to-fund-long-form-creator-series/)** — *Digiday*
+*Signal:* Brands are now budgeting for creator-led long-form series the way they would a TV sponsorship — a structural shift in where marketing dollars go as creator content format converges with traditional television economics.
+
+**[How Stitch Fix is using AI and customer feedback to build its private brands](https://www.modernretail.co/operations/how-stitch-fix-is-using-ai-and-customer-feedback-to-build-its-private-brands/)** — *Modern Retail*
+*Signal:* Stitch Fix going narrower and deeper into AI-informed private-label product, rather than broader, is a specific counter-example to the usual AI-retail story of personalization-at-scale — here AI is being used to concentrate bets, not diversify them.
+
+**[Reddit tests ads in search results as traffic declines and growth concerns mount](https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/)** — *TechCrunch*
+*Signal:* Reddit monetizing its own search results as Google's AI Mode reshapes referral traffic is the same squeeze flagged Tuesday in the "Google search loses its free pass" item — every platform downstream of Google search is now hedging against the same traffic risk simultaneously.
+
+### Quiet But Important
+
+**[Indonesian president's chief of staff dismissed over alleged wiretapping](https://www.aljazeera.com/news/2026/11/4/indonesian-presidents-chief-of-staff-dismissed-over-alleged?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Listyo Sigit Prabowo — a former national police chief — was arrested and accused of wiretapping President Prabowo himself, cabinet ministers and journalists, with officials floating a possible "treason" charge. A president's own inner circle allegedly surveilling him is a serious governance-stability signal for Southeast Asia's largest economy that will barely register outside the region.
+
+**[Palestinians return to ruined Hebron homes after Israel's 10-day siege](https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Follow-up to Tuesday's withdrawal: returning families face the kind of structural and economic devastation that outlasts the military operation itself by months or years — the de-escalation data point from two days ago comes with a much longer, quieter recovery cost attached.
+
+**[Who determines Iran's fighting and negotiating position amid US threats?](https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A useful corrective to Western coverage that treats Tehran as a unitary actor — internal factional competition between the IRGC and the diplomatic track is itself a variable in how the "secret strikes versus public de-escalation" pattern flagged Tuesday actually plays out.
+
+**[Britain Set to Apologize for Role in Trans-Atlantic Slave Trade](https://www.wsj.com/world/uk/britain-set-to-apologize-for-role-in-trans-atlantic-slave-trade-a7afc8dc?mod=rss_worldnews)** — *WSJ*
+*Signal:* King Charles calling the slave trade a "monstrous injustice" at the Commonwealth summit, with PM Andy Burnham weighing a formal apology but explicitly ruling out reparations, is a calculated middle path — acknowledging historical harm while avoiding the fiscal and legal exposure a reparations commitment would create.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Texas's data-center backlash becomes binding policy within one legislative session, not just a campaign promise.** Governor-elect Hinojosa explicitly campaigned on pausing construction, and CNBC's reporting of 29-to-1 local referendum results against data centers nationwide gives her cover. Expect at least one hyperscaler or Stargate-adjacent developer to publicly cite "Texas regulatory uncertainty" in 2027 guidance — resolving Sunday's prediction about capex-language changes, now with an actual electoral mandate behind it rather than just a bellwether-state scare.
+> 2. **Trump's Israel aid "cut" gets quietly redefined as a multi-year phase-out, not an abrupt Dec 31 stop.** Israel's own Finance Ministry says it was blindsided, Netanyahu's version describes a decade-long wind-down, and Congress — not the White House — actually appropriates the money each year. Expect the "end of year" framing to soften into "beginning of a phase-out" within the next few weeks once the appropriations mechanics catch up with the Fox News soundbite.
+> 3. **A fifth major company discloses an AI-cost-driven margin hit or AI-linked layoffs within the next earnings cycle.** Anthropic, Canva, Shopify and LinkedIn all hit some version of this wall within 48 hours of each other — three paying the AI tax, one actively working around it. Expect the pattern to widen before Q4 earnings season ends, turning "AI margin pressure" from an occasional disclosure into a standard line item companies address pre-emptively.
+
+---
+*40 items across 10 topics — covering 2026-11-04.*
