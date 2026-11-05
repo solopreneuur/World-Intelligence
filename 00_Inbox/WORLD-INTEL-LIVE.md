@@ -1,4 +1,4 @@
-Last Digest: 2026-11-04
+Last Digest: 2026-11-05
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -445,3 +445,157 @@ Last Digest: 2026-11-04
 
 ---
 *40 items across 10 topics — covering 2026-11-04.*
+
+## 2026-11-05 — Daily Sweep
+
+### Hong Kong: Joshua Wong's Second National-Security Sentence
+
+**[Joshua Wong jailed for 10 years over bid to instigate sanctions on Beijing, Hong Kong](https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong)** — *SCMP*
+*Signal:* Judge William Tam set a 13-year starting point (reduced to 10 for Wong's guilty plea) for "foreign collusion," ruling Wong and exiled activist Nathan Law were the conspiracy's "ringleaders." Wong had been due for release in January 2027 after his first NSL sentence; he now stays in custody until late 2036, when he turns 40 — the second time Hong Kong has filed a new NSL charge against him just as an earlier sentence was about to expire. Amnesty called the timing "perhaps deliberate."
+*Read:* [Hong Kong: Joshua Wong Gets 10 More Years in Prison](https://www.hrw.org/news/2026/11/05/hong-kong-joshua-wong-gets-10-more-years-in-prison) — HRW notes the charge covered lobbying conduct from 2016–2020, before the NSL itself existed, and that a guilty plea cannot reduce a sentence below the law's 10-year statutory floor for "grave" offenses.
+
+### Post-Midterm Fallout: Foreign Policy and Israel
+
+**[Congress defeat: How Trump's allies are distancing themselves from Iran war](https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss)** — *Al Jazeera*
+*Signal:* VP Vance publicly blaming the Iran war for the GOP's rout is a rare on-the-record admission from inside the administration that a war it chose is now a political liability — and a signal Democrats, who control oversight starting in January, plan to use Congress's purse and subpoena power against it.
+
+**[Israel's opposition slams 'toxic Netanyahu' after Democrats win US Congress](https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Netanyahu's domestic rivals are now explicitly using a foreign election result as a domestic weapon — arguing Israel "cannot afford" a prime minister whose closest international ally just lost control of Congress. Expect this to sharpen debate ahead of Israel's own next election cycle.
+
+**[It's Gaza, stupid](https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss)** — *Al Jazeera* (opinion)
+*Signal:* The argument that Gaza-driven voter anger, not economics, decided competitive races is contestable, but it converges with two other data points this week: El-Sayed's Muslim-vote-driven Senate win (Tuesday's digest) and Trump's own Election-Day Israel-aid announcement. If true, it reframes "it's the economy, stupid" 2026-style as a foreign-policy referendum — unusual for a midterm.
+
+**[The Billions of Dollars in Orders Complicating an End to U.S. Aid to Israel](https://www.wsj.com/world/middle-east/the-billions-of-dollars-in-orders-complicating-an-end-to-u-s-aid-to-israel-7e0b5fba?mod=rss_worldnews)** — *WSJ*
+*Signal:* Outstanding weapons orders placed under the existing MOU create a paper trail that outlasts any Fox News soundbite — concrete mechanical evidence for yesterday's prediction that Trump's "end of year" aid-cut claim would soften into a slower phase-out once appropriations and existing contracts are accounted for.
+
+**[What a Democratic Congress Means for Trump's Foreign-Policy Agenda](https://www.wsj.com/world/what-a-democratic-congress-means-for-trumps-foreign-policy-agenda-19b05b61?mod=rss_worldnews)** — *WSJ*
+*Signal:* Congress can't revoke the presidency's core foreign-policy authority, but it can starve specific line items — Israel aid, Iran-war funding, tariff-adjacent trade authority — which is exactly the lever both the Vance and Netanyahu stories above describe being readied.
+
+↳ Together these suggest: the blue wave's foreign-policy effects are arriving faster than its domestic ones. Congress doesn't convene until January, but Trump's own allies, Netanyahu's rivals, and markets are already repricing Iran and Israel policy off the election result alone — expectations are moving before any vote is cast in the new Congress.
+
+### AI Capex: Political Backlash Meets Physical Bottlenecks
+
+**[Exclusive: Microsoft Lowered Data Center Spending Following Delays By Cloud Firm Iren](https://www.theinformation.com/briefings/exclusive-microsoft-lowered-data-center-spending-following-delays-cloud-firm-iren)** — *The Information*
+*Signal:* Microsoft spent $5bn less than planned last quarter — not from caution, but because neocloud Iren's Childress, Texas site (part of a $9.7bn, five-year GPU-leasing deal) wasn't ready. Satellite imagery reported separately shows Iren's "Horizon 4" building still missing backup generators and cooling equipment, and a second Microsoft neocloud partner, Nebius's New Jersey site, facing its own permitting delays after a fuel-cell switch. One research firm estimates 30–50% of this year's planned US data-center capacity could slip into 2027 or later — a physical-construction constraint operating independently of, and arguably more binding than, this week's political backlash.
+*Read:* [Blue Wave Could Engulf Data Center Industry](https://www.theinformation.com/articles/blue-wave-engulf-data-center-industry) — 12 governors-elect have now called for a construction pause, compounding the supply problem with a demand-side one.
+
+**[Bank of England Questions Lenders About Risky Data Center Loans](https://www.bloomberg.com/news/articles/2026-11-05/bank-of-england-questions-lenders-about-risky-data-center-loans)** — *Bloomberg*
+*Signal:* The BOE is asking market participants about data-center projects financed without a signed tenant lined up to pay rent — speculative construction debt stacked on top of the Microsoft/Iren delivery risk above. A central bank asking this question in public is usually an early-stage financial-stability flag, not a resolved one.
+
+**[Yardeni Sees No Free Fall in AI Capital Spending](https://www.bloomberg.com/news/videos/2026-11-05/yardeni-sees-no-free-fall-in-ai-capital-spending-video)** — *Bloomberg*
+*Signal:* The explicit bull counter-case: Yardeni argues political resistance is geographically uneven — some states will keep welcoming data centers for the jobs and tax base — so aggregate capex won't collapse even if specific projects (Texas, Michigan, Ohio) stall. Worth tracking against the Microsoft/BOE items above as the more cautious read.
+
+**[Texas was the new epicenter of the AI data center buildout. That might be kaput.](https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/)** — *MIT Technology Review*
+*Signal:* Texas was on track to overtake Virginia as the world's largest data-center market by 2030 before Tuesday; Talarico and Hinojosa's wins now put that trajectory in genuine doubt, not just rhetorically — a direct resolution of the electoral story into an infrastructure-siting one.
+
+**[Voters' Gift to Big Tech](https://www.theinformation.com/articles/voters-gift-big-tech)** — *The Information*
+*Signal:* The counter-intuitive market read: Amazon, Microsoft, Apple, and Alphabet rallied the day after the vote. The Information's theory is investors see less antitrust and tax risk for Big Tech specifically under this configuration, even as newer neoclouds (CoreWeave, Nebius) sold off — the backlash is being priced as a threat to data-center pure-plays, not to the hyperscalers who can absorb delays with their balance sheets.
+
+↳ Together these suggest: the AI capex story has split into three independent constraints running at once — political (voter-driven construction pauses), financial (BOE flagging unlet-tenant debt), and physical (Iren and Nebius site delays). Each alone would slow the buildout; together they compound, and the market is already discriminating between hyperscalers (insulated) and neoclouds (exposed).
+
+### AI Coding Tools: Meta and OpenAI Buy the Stack, Same Day
+
+**[Meta acquires AI coding startup Conductor](https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/)** — *TechCrunch*
+*Signal:* Conductor's 100,000+ users run parallel coding-agent workspaces across Anthropic's Claude Code, OpenAI's Codex, and Cursor — meaning Meta just bought a tool whose entire value was routing developer traffic to its two biggest AI-lab rivals. CEO Charlie Holtz and the team join Meta Superintelligence Labs under Nat Friedman and Alexandr Wang; Conductor Cloud shuts down November 20. The open question is whether Meta keeps the multi-provider support (a developer-trust play) or walls it off to favor its own models.
+
+**[OpenAI Agrees to Buy Software Startup Pierre to Bolster Codex](https://www.theinformation.com/briefings/openai-agrees-buy-software-startup-pierre-bolster-codex)** — *The Information*
+*Signal:* Pierre's Code Storage, Trees, and Diffs tools are already embedded inside Codex; OpenAI is now buying the company outright, explicitly aiming to "set the standard for modern software development" from first agent-created branch to deployment — direct competition with GitHub, the Microsoft-owned incumbent, announced the same day Meta made its own developer-tooling move.
+
+**[Palo Alto Networks in Talks to Pay $500 Million for AI Security Startup](https://www.theinformation.com/articles/palo-alto-networks-talks-pay-500-million-ai-security-startup)** — *The Information*
+*Signal:* Clutch Security would be Palo Alto's fifth acquisition this year under CEO Nikesh Arora — a securing-the-agents play that pairs with the AI-agent-access stories below (banks, security firms) as evidence the "who controls AI agents' credentials and permissions" market is consolidating fast, in parallel with the coding-tools land grab above.
+
+↳ Together these suggest: three unrelated acquirers (Meta, OpenAI, Palo Alto) are all buying infrastructure *around* AI agents — not the models themselves — on the same news day. The contested layer in the AI race has shifted from model quality to who owns the pipes agents run through.
+
+### China: Discipline Over Growth, and the Eastward Pivot
+
+**[China's fifth plenum resolution](https://www.scmp.com/plus/news/china/politics/article/3373366/chinas-fifth-plenum-resolution)** — *SCMP*
+*Signal:* The newly released English translation of the Resolution on Party Self-Governance — adopted October 29 — is the first Fifth Plenum since 1980 whose principal business is internal Party discipline rather than economic planning (that was unbundled to last year's Fourth Plenum). Analysts at RSIS note the communiqué doesn't mention the US, export controls, or "struggle" against external forces at all — Beijing is signaling that internal cadre discipline, not managing Washington, is this year's top-line priority.
+
+**[Russia's 'eastward pivot' gains steam as Putin confirms new China border railway](https://www.scmp.com/economy/china-economy/article/3373339/russias-eastward-pivot-gains-steam-putin-confirms-new-china-border-railway)** — *SCMP*
+*Signal:* A second standard-gauge rail line at a key crossing is infrastructure, not rhetoric — it's the kind of multi-year capital commitment that only makes sense if Moscow expects its trade reorientation toward China to be durable rather than a temporary sanctions workaround.
+
+**[How Trump's weakened grip on Congress complicates talks with China](https://www.scmp.com/opinion/world-opinion/article/3373340/how-trumps-weakened-grip-congress-complicates-talks-china)** — *SCMP* (opinion)
+*Signal:* The piece's core point: Democrats taking both chambers doesn't transfer foreign-policy control from the White House, but it does mean any China deal Trump strikes now needs to survive a hostile Congress's appropriations and oversight power — raising Beijing's incentive to wait out 2027 rather than negotiate hard now.
+
+**[China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech](https://www.wsj.com/business/deals/abb-confirms-china-blocked-softbank-deal-for-robotics-unit-cf1d44bf?mod=rss_worldnews)** — *WSJ*
+*Signal:* Beijing blocking ABB's robotics-unit sale to SoftBank specifically to keep AI data and expertise developed domestically from leaving the country is the same instinct as Nvidia's China export restrictions, just running in the opposite direction — both superpowers are now independently walling off AI capability transfer, converging on the same protectionist logic from opposite sides.
+
+↳ Together these suggest: while Washington's foreign-policy bandwidth goes into post-election recalibration, Beijing is doing the opposite — tightening internal discipline, locking in Russia-facing infrastructure, and blocking outbound tech transfer. Continuity of execution, not gridlock, is China's near-term advantage.
+
+### Global Macro: The Bank of England's First Hike in Three Years
+
+**[BOE Poised for First Rate Hike in Three Years: Decision Guide](https://www.bloomberg.com/news/articles/2026-11-05/boe-poised-for-first-rate-hike-in-three-years-decision-guide)** — *Bloomberg*
+*Signal:* Markets price the quarter-point hike to 4% as a "done deal" (94% probability), the first since August 2023 — driven by Iran-war-linked fuel costs pushing September inflation to an 11-month high of 3.5%. The pound hit its strongest level since the 2016 Brexit vote on the expectation. This makes the UK the last of the major central banks (after the Fed and ECB) to resume tightening specifically because of the Strait of Hormuz disruption — the same war now showing up as a line item in a British mortgage-rate decision three oceans away.
+*Read:* [Interest rates live: Pound rises ahead of Bank of England decision](https://www.telegraph.co.uk/business/2026/11/05/interest-rates-bank-of-england-pound-dollar-bailey-ftse-100/) — a Deutsche Bank analyst notes the UK's own hung-Parliament-style gridlock risk is easing fiscal-expansion fears, an ironic contrast to the US, where divided government this week was read as a tech-friendly outcome.
+
+**Central banks moving in smaller steps, in brief:** *Bloomberg* and *WSJ* report [Norway held rates steady but kept the door open to another hike](https://www.bloomberg.com/news/articles/2026-11-05/norway-keeps-rate-steady-with-option-of-another-hike-if-needed); the [Czech Republic looks set for its second hike this year](https://www.bloomberg.com/news/articles/2026-11-05/czechs-set-for-second-rate-hike-this-year-as-price-risks-persist); [Malaysia held rates while vowing vigilance as price pressures grow](https://www.bloomberg.com/news/articles/2026-11-05/malaysia-holds-rates-vows-vigilance-as-inflation-pressures-grow) even as its [GDP growth outlook stays resilient above 5%](https://www.wsj.com/economy/central-banking/malaysias-central-bank-holds-rate-steady-cites-resilient-growth-affcfd09?mod=rss_socialeconomyfeed); and [Sweden's unexpectedly weak core inflation reading dents the case for further Riksbank hikes](https://www.bloomberg.com/news/articles/2026-11-05/sweden-s-slowing-inflation-weakens-riksbank-rate-hike-case) just one month after it resumed tightening. The pattern: most of the world is still fighting energy-driven inflation, but the strength of the response is starting to diverge by how exposed each economy is to growth risk.
+
+**[ArcelorMittal Says Europe's Steel Tariffs Are Boosting Profits](https://www.wsj.com/business/earnings/arcelormittal-says-europes-higher-steel-tariffs-are-boosting-profits-e1be8987?mod=rss_worldnews)** — *WSJ*
+*Signal:* A 34% EBITDA surge is a rare, concrete example of a tariff regime's intended beneficiary actually benefiting — useful friction against the usual "tariffs just raise costs" framing, at least for the protected incumbent itself.
+
+**[Australia's Surplus Heads for Decade-Low on Chip, Energy Imports](https://www.bloomberg.com/news/articles/2026-11-05/australia-s-surplus-heads-for-decade-low-on-chip-energy-imports)** — *Bloomberg*
+*Signal:* AI-driven chip and server imports are now large enough to visibly move a G20 country's trade balance — the capex boom showing up in a national account statistic, not just in hyperscaler earnings calls.
+
+**[Chinese LGFV Seeks to Reassure Creditors After Huafa Selloff](https://www.bloomberg.com/news/articles/2026-11-05/chinese-lgfv-seeks-to-reassure-creditors-after-huafa-selloff)** — *Bloomberg*
+*Signal:* A Zhuhai local-government financing vehicle moving to calm investors after a neighboring issuer's missed payments is a small, local tremor — but LGFV contagion fears are exactly the kind of quiet local-debt stress that tends to matter more in aggregate than any single headline suggests.
+
+### Middle East: Houthi War of Attrition and Saudi's Impossible Math
+
+**[A month after Yemen government offensive began, war of attrition takes hold](https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Neither side is winning decisively a month in — the Houthis are absorbing losses but still inflicting real damage on government and Saudi-backed forces, which is the classic signature of a conflict settling into a long, grinding stalemate rather than resolving.
+
+**[Saudi Arabia Has No Easy Choices as It Weighs How to Combat Houthi Threat](https://www.wsj.com/world/middle-east/saudi-arabia-has-no-easy-choices-as-it-weighs-how-to-combat-houthi-threat-a4adc358?mod=rss_worldnews)** — *WSJ*
+*Signal:* Riyadh reportedly asked the Houthis what peace would cost and got a $51bn answer — a number clearly designed to be rejected, which tells Saudi Arabia (and everyone watching) that the Houthis see more value in continued leverage than in an actual settlement right now.
+
+### Platforms & Creator Economy
+
+**[Netflix might want its new AI search to drum up more "quality" viewership](https://www.tubefilter.com/2026/11/05/netflix-ai-discovery-search-algorithm/)** — *Tubefilter*
+*Signal:* Netflix reframing its competitive answer to YouTube around viewing "quality" rather than volume — using an AI recommendation layer to make that argument empirically rather than just rhetorically — is a tacit admission it can't win a pure attention-minutes contest with YouTube.
+
+**[In graphic detail: Six thousand brands later, ChatGPT ads still have a conversion problem](https://digiday.com/marketing/in-graphic-detail-chatgpt-s-ad-growth-is-outrunning-the-proof-that-it-works/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* OpenAI has signed up thousands of advertisers for ChatGPT ads faster than it's produced evidence those ads convert — a demand-outrunning-proof pattern that echoes the AI-capex-ahead-of-returns story running through the rest of this digest, just on the revenue side of an AI lab's business instead of the cost side.
+
+**[Agencies find AI overuse is leading to brief bloat](https://digiday.com/marketing/a-little-bit-ridiculous-agencies-find-ai-overuse-is-leading-to-brief-bloat/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Marketers using AI to generate longer, more exhaustive creative briefs is a small but telling instance of AI increasing the volume of work product without increasing its usefulness — a micro-scale version of the broader "AI makes more stuff, not necessarily better stuff" problem.
+
+**[Modern Retail+ Research: Brands' focus on owned channels wavers for the 2026 holiday season](https://www.modernretail.co/marketing/modern-retail-reseach-brands-focus-on-owned-channels-wavers-for-the-2026-holiday-season/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss)** — *Modern Retail*
+*Signal:* Brands pulling back from building their own direct channels in favor of marketplaces and retail media this holiday season is a reversal of the post-2020 "own your customer relationship" push — a structural shift back toward platform dependency, driven by near-term holiday performance pressure over long-term data ownership.
+
+### AI Security & Agent Trust
+
+**[The Security Companies Trying to Get AI Agents Under Control](https://www.theinformation.com/articles/security-companies-trying-get-ai-agents-control)** — *The Information*
+*Signal:* Buried in this column: new OpenAI models — reportedly including next-gen Astra, Sol, and a cyber-focused model — could ship as soon as Friday. A dedicated "securing AI agents" vendor category forming right as frontier labs are about to ship more autonomous, cyber-capable models is the market pricing in the risk before the models even land.
+
+**[How Smaller Banks Are Giving Agents Access to Accounts](https://www.theinformation.com/articles/smaller-banks-giving-agents-access-accounts)** — *The Information*
+*Signal:* JPMorgan and other large banks are restricting AI-agent access to customer accounts while smaller banks compete for AI-agent business by opening up — meaning which bank you use is starting to determine whether your AI agent can actually act on your finances, a genuinely new axis of bank competition.
+
+**[Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)** — *Hacker News*
+*Signal:* Residential-proxy traffic on a network that sensitive is a red flag for either compromised devices or deliberate traffic obfuscation — worth tracking for official confirmation given how routinely residential proxy networks show up in state-linked intrusion campaigns.
+
+**[Exclusive: Researcher Finds Vulnerability in Software Used for Data Centers](https://www.theinformation.com/briefings/exclusive-researcher-finds-vulnerability-software-used-data-centers)** — *The Information*
+*Signal:* An AI model reportedly helped a researcher find a hackable flaw in widely used open-source data-center software (maintained by Canonical) — a small, concrete data point for the "AI now finds vulnerabilities as fast as it creates them" dynamic that cybersecurity researchers have warned about for years, landing the same week data-center infrastructure is under financial and political scrutiny from every other direction.
+
+### Quiet But Important
+
+**[Cerebras' Lockups Hold a Lesson for Anthropic Employees](https://www.theinformation.com/articles/cerebras-lockups-hold-lesson-anthropic-employees)** — *The Information*
+*Signal:* Cerebras shares have fallen sharply since its IPO six months ago, leaving employees who held onto newly public stock worse off than if they'd sold immediately — a quiet cautionary data point for Anthropic staff as their own company's IPO timing (flagged as a live concern in yesterday's digest) approaches.
+
+**[Star mathematician Ma Xiao leaves the US for China — and a career pivot to AI](https://www.scmp.com/news/china/science/article/3373211/star-mathematician-ma-xiao-leaves-us-china-and-career-pivot-ai)** — *SCMP*
+*Signal:* A researcher who helped crack Hilbert's sixth problem relocating from the US to China specifically to work on AI is a small, individual data point in the broader story of where elite technical talent is choosing to go — worth watching as a repeatable pattern rather than a one-off.
+
+**[DOJ Seeks Documents in Rippling, Deel Spy Case](https://www.theinformation.com/briefings/doj-seeks-documents-rippling-deel-spy-case)** — *The Information*
+*Signal:* A federal subpoena into an alleged corporate-espionage case between two payroll-tech rivals signals the dispute has moved from civil litigation into territory serious enough to draw DOJ interest — a reminder that the "AI talent war" has a mundane, old-fashioned corporate-espionage cousin playing out in HR tech.
+
+**[How big is the open model economy today?](https://www.interconnects.ai/p/how-well-can-we-measure-open-model)** — *Interconnects AI*
+*Signal:* A first attempt to actually size the open-weight AI model economy rather than assume its scale — a useful corrective given how much of this week's China coverage (Tencent's Hy4, DeepSeek, Alibaba) assumes open models are reshaping competitive dynamics without much hard measurement behind that claim.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Microsoft's $5bn capex miss becomes the template excuse for at least one more hyperscaler's Q4 guidance cut.** Iren's Texas delays and Nebius's New Jersey permitting problems are specific, named, physical failures — not abstract caution — and research estimates put 30–50% of this year's planned US data-center capacity at risk of slipping into 2027. Expect "third-party capacity delays" to become the standard disclosure language other hyperscalers reach for before year-end, separating the physical-bottleneck story from the political-backlash one even though markets are currently conflating them.
+> 2. **At least one of Meta's Conductor or OpenAI's Pierre integration quietly narrows multi-model support within six months.** Conductor's whole value proposition was neutral routing across Claude Code, Codex, and Cursor; once it's inside Meta Superintelligence Labs, the commercial incentive to favor Meta's own models — or at minimum deprioritize Anthropic's and OpenAI's — is strong. Watch the "next interface" Holtz has teased for early 2027 for the tell.
+> 3. **Trump's Israel aid "cut" survives in name only by Q1 2027.** Outstanding weapons orders, Congress's appropriations power starting in January, and Netanyahu's own ten-year phase-out framing are three independent brakes on the Election-Day soundbite becoming real policy. Expect the eventual outcome to resemble a slow wind-down timed to existing contracts rather than anything resembling an abrupt December 31 stop.
+
+---
+*40 items across 10 topics — covering 2026-11-05.*
