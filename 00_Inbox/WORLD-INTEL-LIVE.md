@@ -1,4 +1,4 @@
-Last Digest: 2026-11-05
+Last Digest: 2026-11-06
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -599,3 +599,111 @@ Last Digest: 2026-11-05
 
 ---
 *40 items across 10 topics — covering 2026-11-05.*
+
+## 2026-11-06 — Daily Sweep
+
+### Wall Street's AI Reckoning Reaches Asia
+
+**[Does the Democratic midterm victory spell the end of US AI data centre boom?](https://www.scmp.com/tech/big-tech/article/3373506/does-democratic-midterm-victory-spell-end-us-ai-data-centre-boom)** — *SCMP*
+*Signal:* The Nasdaq fell 5.5% Thursday — its deepest one-day drop since April 2025's "Liberation Day" — wiping out roughly $2.5tn as chip and neocloud stocks (CoreWeave, Nebius) led the rout. The driver is specific, not diffuse: Democrats won governorships in Texas, Ohio, Georgia, Nevada and Michigan, all data-center hubs, and incoming Texas Governor Gina Hinojosa campaigned explicitly on a construction pause. Goldman Sachs calls the implications "significant"; UBS puts ~30% of expected 2028 US capacity additions at risk; Jefferies cut its decade-end capacity estimate to 112.8GW from 122.4GW and labeled the sweep a "worst-case near-term scenario." But JPMorgan is the outlier, expecting "no material changes" to 2027 capex and only "some impact" in 2028+ — the gap between those two views is now the thing to watch into Q4 earnings, not the selloff itself.
+*Read:* [Post-midterms AI worries pummel shares in Japan, South Korea](https://www.scmp.com/news/asia/east-asia/article/3373478/post-us-midterms-ai-worries-pummel-shares-japan-south-korea) — Tokyo's Nikkei fell 5.1% and Seoul followed, showing the repricing is already global, not a US-only phenomenon. Separately, [China's pure-play AI chipmakers swung into profit for the first time this quarter](https://www.scmp.com/tech/big-tech/article/3373532/chinas-ai-chipmakers-report-first-profits-will-trend-continue) despite soaring memory costs — "the AI boom is cooling" and "China's AI chip sector is maturing" can both be true the same week, for different reasons.
+
+### Nvidia's China Shadow: Huang Summoned to Congress
+
+**[Jensen Huang Asked to Brief Congress Over Alleged Chinese Spy Plot](https://www.theinformation.com/briefings/jensen-huang-asked-brief-congress-alleged-chinese-spy-plot)** — *The Information*
+*Signal:* Three House GOP chairs (Foreign Affairs' Mast, the China Select Committee's Moolenaar, and Intelligence's Crawford) have asked Huang to brief them behind closed doors on November 18 — the day after Nvidia's Q3 earnings — about his "close relationship" with Alice Huang, a Megaspeed (Singapore) executive the NYT and WSJ report US and allied intelligence services identified as funneling Nvidia-chip information to Beijing. Nvidia calls the contact ordinary customer business and says it shared no trade secrets; Trump was reportedly briefed on the matter last year and chose not to act, wary of disrupting chip sales to China. Whatever Huang says on the 18th lands directly inside the same week investors are already repricing AI-infrastructure risk — a reputational shock to the industry's most important supplier would compound, not exist alongside, the data-center selloff above.
+*Read:* [US military expands Pacific cyber hub to counter risks to undersea cable networks](https://www.scmp.com/news/china/military/article/3373508/us-military-expands-pacific-cyber-hub-counter-risks-undersea-cable-networks) — a parallel hardening move against Chinese infiltration, this time of physical infrastructure rather than personal networks.
+
+### Unity Software's Potential Take-Private
+
+**[Silver Lake, Saudi Arabia's PIF Made Takeover Approach for Unity Software](https://www.theinformation.com/briefings/silver-lake-saudi-arabias-pif-made-takeover-approach-unity-software)** — *The Information*
+*Signal:* The same consortium (plus Affinity Partners) that took Electronic Arts private for $55bn in August has approached Unity, discussing a ~$25bn valuation before Unity's latest earnings — its first GAAP-profitable quarter, on 32% revenue growth — lifted its market cap to ~$21.5bn. Silver Lake already owns 8% of Unity from a 2017 investment. No deal is close, but it's the second major gaming-software consolidation move by the same Saudi-backed buyer group in three months, continuing PIF's pattern of using gaming infrastructure (not just games) as a diversification vehicle.
+
+↳ Together these suggest: three unrelated forms of scrutiny — market (the Nasdaq selloff), political (Huang's Nov 18 briefing), and capital (PIF circling Unity while AI-adjacent valuations wobble) — are converging on the AI/tech-infrastructure stack in the same 48 hours, from completely different directions.
+
+### Israel: A New PM Takes Shape as Washington Rewires the Relationship
+
+**[Israel's President Herzog to name candidate to form government on Sunday](https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Herzog's consultations closed with 67 of 120 MKs recommending opposition leader (and former military chief) Gadi Eisenkot versus 46 for Netanyahu — a majority built on Naftali Bennett's B'Yachad crossing over and the ultra-Orthodox UTJ abstaining rather than backing Netanyahu for the first time in five elections. The two Arab-majority lists (19 seats combined) also back Eisenkot but have ruled out formally joining his cabinet, leaving a kingmaker bloc that can swing the vote without taking a seat at the table. Herzog names his pick Sunday; whoever gets it has 28 days (plus a possible 14-day extension) to build a coalition or hand the mandate back.
+
+**[Trump's Israel aid cut reveals push to trade grants for tech cooperation](https://www.scmp.com/week-asia/politics/article/3373487/trumps-israel-aid-cut-reveals-push-trade-grants-tech-cooperation)** — *SCMP*
+*Signal:* The mechanics behind Tuesday's Election-Day soundbite are now visible: Washington and Jerusalem are restructuring the relationship over two years, phasing out the ~$3.8bn/year direct grant (which legally runs through 2028) in favor of joint weapons-technology programs funded through the Pentagon — a channel with far less public scrutiny than annual appropriations. This is close to exactly what last Thursday's digest predicted ("Trump's Israel aid 'cut' survives in name only") — the soundbite is becoming a slow-motion restructuring, not an abrupt stop, timed to existing contracts and a pending NDAA provision (Section 219) expanding US-Israel cooperation on AI, quantum, cyber and counter-drone tech.
+*Read:* [Israel's Most Important Alliance Is Confronting Its Biggest Test in Decades](https://www.wsj.com/world/middle-east/israels-most-important-alliance-is-confronting-its-biggest-test-in-decades-a7c019ae?mod=rss_worldnews) — framing the aid shift and the blue wave together as a single inflection point in the US-Israel relationship.
+
+↳ Together these suggest: whoever Herzog names Sunday inherits a US relationship already being redrawn by Washington, not negotiated by Jerusalem — Eisenkot, if he gets the mandate, would be the first Israeli PM in decades to start office with the terms of the alliance's core financial mechanism already decided by the other side.
+
+### China Tightens Its Legal and Military Reach
+
+**[The new anti-corruption law arming Beijing with wide global enforcement powers](https://www.scmp.com/news/china/politics/article/3373519/new-anti-corruption-law-arms-beijing-expansive-global-enforcement-powers)** — *SCMP*
+*Signal:* China's new Anti-Cross-Border Corruption Law, passed Friday with immediate effect, applies extraterritorially to Chinese citizens, enterprises, and their overseas subsidiaries regardless of where the conduct occurred. Two provisions stand out: Article 26 bars Chinese companies from providing evidence to or cooperating with foreign regulators without Beijing's explicit permission, while Article 18 requires those same companies to cooperate with Chinese investigators — a one-way information valve. The law also formalizes a legal basis for exit bans on foreign executives once a probe begins, and for retaliatory measures against foreign law-enforcement actions Beijing deems pretextual. It's less an anti-corruption tool than a sovereignty shield: it gives Beijing a statutory basis to block the kind of foreign discovery requests that, for instance, the Brave/NYT lawsuit (flagged in last Monday's digest) could eventually generate against Chinese entities.
+
+**[China puts DF missiles on display as flight bans fuel speculation about ICBM test](https://www.scmp.com/news/china/military/article/3373567/china-puts-df-missiles-display-flight-bans-fuel-speculation-about-icbm-test)** — *SCMP*
+*Signal:* State media showcased the nuclear-capable DF-61 ICBM and DF-100 cruise missile Thursday, timed to an anniversary, while unrelated flight-ban reports fueled test speculation — another data point in the same week's run of military-modernization signals (following this week's Type 071 amphibious buildup and the PLA's new theatre commanders emerging from the anti-corruption purge). None of these individually signals a timeline, but the clustering — legal sovereignty tools, leadership reshuffle, and hardware signaling — all landing the same week reads as coordinated institutional consolidation, not coincidence.
+
+### Platforms: California's Teen-Safety Law Draws Big Tech's Lawsuit
+
+**[Meta, Google, and TikTok sue California AG over teen social media law](https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/)** — *TechCrunch*
+*Signal:* California's AB 1709, signed in September and set to take effect in 2027, bans autoplay and personalized feeds for under-16 users and forces account deletion if minors won't disable them, with fines up to $50,000 per affected minor. All three platforms are suing on First Amendment and Section 230 grounds, arguing the law overrides their editorial judgment and would require privacy-invasive age verification. This is the most direct legal test yet of whether states can regulate algorithmic curation itself — rather than just data collection or screen time — and a loss for the platforms here would be a template other states copy quickly.
+
+### Middle East: Oil Above $100 as Hormuz Risk Persists
+
+**[Brent Crude Climbs Above $100 as Middle East Oil Supply Risks Persist](https://www.wsj.com/business/energy-oil/brent-crude-climbs-above-100-as-middle-east-oil-supply-risks-persist-caaf64bb?mod=rss_worldnews)** — *WSJ*
+*Signal:* Oil's back above $100 on renewed shipping-security threats, not a new escalation — the same whipsaw pattern (talks-ease-prices, strikes-spike-them) that's defined the past week continues, with traders now pricing risk on rumor rather than confirmed events.
+
+**[Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Tehran is selectively guaranteeing safe passage for four countries' shipping through the strait it's otherwise contesting — a calculated attempt to keep its biggest oil customers and regional mediators onside while maintaining leverage against the US and its Gulf allies specifically.
+
+**[Gulf Airports Built to Connect the World Are Now in the Crosshairs](https://www.wsj.com/world/middle-east/gulf-airports-built-to-connect-the-world-are-now-in-the-crosshairs-9213d66a?mod=rss_worldnews)** — *WSJ*
+*Signal:* The aviation hubs built to be a few hours from most of the world's population are, by the same geography, a few minutes from Iranian missile range — an infrastructure vulnerability that was a feature of the Gulf's logistics strategy until it became a liability this year.
+
+**[To Cross the Red Sea, Shippers Email Houthi Rebels. Read Their Inbox.](https://www.wsj.com/world/middle-east/to-cross-the-red-sea-shippers-email-houthi-rebels-read-their-inbox-5ecace40?mod=rss_worldnews)** — *WSJ*
+*Signal:* A little-known Houthi "clearance office" now functions as a de facto maritime customs authority for a chokepoint it doesn't own — quiet evidence that armed non-state actors can institutionalize control over global shipping lanes through bureaucracy as much as through force.
+
+**[Lebanese pack bags and stock up amid fears of new Israeli escalation](https://www.aljazeera.com/news/2026/11/6/lebanese-pack-bags-and-stock-up-amid-fears-of-new-israeli-escalation?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Civilians stockpiling ahead of a third possible Israeli escalation (after two prior rounds) is a leading indicator markets and governments don't price until it's too late — lived experience telling Lebanese households something official channels haven't confirmed yet.
+
+↳ Together these suggest: every actor in the region — Iran, the Gulf states, Houthi administrators, Lebanese civilians — is now pricing in risk based on patterns rather than announcements, a sign the war's unpredictability has itself become the dominant variable everyone plans around.
+
+### Global Macro: Central Banks in Watch-and-Wait Mode
+
+**[ECB Deadline Will Show If Lagarde Succession Is a Two-Horse Race](https://www.bloomberg.com/news/articles/2026-11-06/ecb-deadline-will-show-if-lagarde-succession-is-a-two-horse-race)** — *Bloomberg*
+*Signal:* Friday's nomination deadline (flagged in Tuesday's digest as a compressed three-day window) is about to reveal whether consensus already exists behind the scenes on Lagarde's successor — a fast resolution would suggest European finance ministers pre-negotiated this before going public.
+
+**[French Salary Squeeze Intensifies Ahead of Minimum Wage Talks](https://www.bloomberg.com/news/articles/2026-11-06/french-salary-squeeze-intensifies-ahead-of-minimum-wage-talks)** — *Bloomberg*
+*Signal:* New wage data lands just as France's minimum-wage negotiations begin — adding fresh fuel to the pension-covenant unraveling flagged in Sunday's digest, where fiscal headroom and worker patience are both running out at the same time.
+
+**[Thailand's Inflation Accelerates Past Central Bank's Target](https://www.wsj.com/economy/central-banking/thailands-inflation-accelerates-past-central-banks-target-cb096249?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* Thai inflation breached the central bank's ceiling for the first time in three years on oil and flood-related food costs — another economy where the Iran war's energy effects are now showing up in domestic price data, officials call it temporary.
+
+**[Japan's Takaichi Eyes BOJ's ETF Sales to Fund Economic Security](https://www.bloomberg.com/news/articles/2026-11-06/japan-s-takaichi-eyes-boj-s-etf-sales-to-fund-economic-security)** — *Bloomberg*
+*Signal:* Using central-bank asset-sale proceeds to fund "economic security" investment is a novel fiscal workaround that blurs the line between monetary policy and industrial policy — worth watching as a template other governments facing their own fiscal constraints might copy.
+
+**[India's Diwali Sweet Box Comes With a Bitter Dose of Inflation](https://www.bloomberg.com/news/articles/2026-11-06/india-diwali-deepavali-hindu-festival-sweet-box-comes-bitter-dose-inflation-sugar)** — *Bloomberg*
+*Signal:* Sugar and ingredient costs pushing up the price of a culturally universal purchase is the kind of inflation signal that registers with ordinary households well before it shows up in a CPI print — a quieter, more immediate gauge of price pressure than the official statistics.
+
+**Central banks gathering data, in brief:** *Bloomberg* reports both the [Fed's Williams](https://www.bloomberg.com/news/articles/2026-11-06/williams-says-fed-should-gather-information-to-judge-price-risks) and the [ECB's Lane](https://www.bloomberg.com/news/articles/2026-11-06/ecb-is-gathering-data-for-rate-decision-in-december-lane-says) are explicitly in wait-and-see mode ahead of December decisions — a synchronized pause across the world's two largest central banks after a year of asynchronous tightening.
+
+### Quiet But Important
+
+**[UK jailing of Indian sailor over Russia sanctions sets off 'perfect storm'](https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Britain jailing an Indian captain caught in international waters on a "shadow fleet" tanker is a sharp escalation in sanctions enforcement that risks becoming a diplomatic flashpoint with India specifically, a country the UK and the West are otherwise courting as a China counterweight.
+
+**[At least 10 local governments have moved to drop Flock's surveillance cameras since summer](https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/)** — *TechCrunch*
+*Signal:* A slow-building municipal backlash against automated license-plate surveillance — on privacy, data-sharing and procurement grounds — that's accumulating city by city without a single dramatic triggering event, the kind of quiet reversal that's easy to miss until it's a national pattern.
+
+**[US accuses trio of using AI to impersonate CEOs and lawyers to steal US$129 million](https://www.scmp.com/news/world/united-states-canada/article/3373511/us-accuses-trio-using-ai-impersonate-ceos-and-lawyers-steal-us129-million)** — *SCMP*
+*Signal:* An 18-month fraud scheme using AI-generated impersonation of executives and attorneys is one of the largest AI-enabled fraud cases prosecuted to date — a sign enforcement is catching up to a crime category that's scaled much faster than the legal response to it.
+
+**[Moscow Seizes Japan Tobacco's Russia Factories](https://www.wsj.com/business/japan-urges-russia-to-return-control-of-japan-tobacco-assets-cfe0723e?mod=rss_worldnews)** — *WSJ*
+*Signal:* Russia expropriating a Japanese company's domestic assets continues a pattern of retaliating against Western-aligned firms over Ukraine — this time directed at Tokyo specifically, likely linked to Japan's own sanctions alignment.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Eisenkot gets the mandate Sunday but can't close a coalition within the initial 28 days.** The Arab parties' refusal to formally join a cabinet, combined with Yisrael Beiteinu's stated refusal to sit in any government backed by them, leaves Eisenkot short of a workable governing majority even with 67 recommendations — expect the 14-day extension to be invoked, with real risk of a second Israeli election in 2027 if it still fails.
+> 2. **Huang's November 18 Congressional briefing becomes a market event, not a formality.** Landing the day after Nvidia's Q3 earnings and in the same month as the data-center selloff, any ambiguity in Huang's answers — rather than an outright admission — will be read by already-nervous markets as confirmation of the worst-case interpretation, compounding rather than resolving this week's AI-stock volatility.
+> 3. **JPMorgan's "no material change to 2027 capex" view gets tested, not vindicated, by Q4 earnings.** The gap between Jefferies' and Goldman's capacity-cut estimates and JPMorgan's steady-as-she-goes read is currently just a forecasting disagreement; expect at least one hyperscaler's Q4 call to explicitly address the political-risk discount markets are now pricing, forcing the divergence into the open rather than letting it stay theoretical.
+
+---
+*23 items across 9 topics — covering 2026-11-06.*
