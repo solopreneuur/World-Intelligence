@@ -1,4 +1,4 @@
-Last Digest: 2026-11-06
+Last Digest: 2026-11-07
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -707,3 +707,101 @@ Last Digest: 2026-11-06
 
 ---
 *23 items across 9 topics — covering 2026-11-06.*
+
+## 2026-11-07 — Daily Sweep
+
+### Iran: Three Camps Fight Over Trump's Next Move
+
+**[Trump's Clashing Advisers Press Him to Make Iran War Decision](https://www.wsj.com/world/middle-east/trumps-clashing-advisers-press-him-to-make-iran-war-decision-758c1e55)** — *WSJ*
+*Signal:* With the midterms over, Trump's circle has split into three distinct camps rather than two: Vance, Witkoff and most Gulf states want a negotiated end; Hegseth and CENTCOM's Adm. Brad Cooper are pushing a return to major combat; and Rubio/Bessent want to hold the naval blockade and sanctions rather than choose either extreme. Vance has also started publicly blaming the war for the midterm loss before Trump even confirmed that read — a VP positioning against his own administration's policy in real time, not just advising on it privately.
+*Read:* [After midterm defeat, Trump faces mostly bad options in Iran](https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options) — Trump told Axios he's "in no rush," but the military is simultaneously finishing preparations for a resumption of major combat operations, the same public-restraint/private-escalation pattern flagged all week.
+
+**[Trump confirms fresh Iran strikes days after voters punish war at polls](https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls)** — *SCMP*
+*Signal:* A third round of Qeshm Island strikes landed the same week Trump is publicly weighing de-escalation — reinforcing that "no rush to decide" means continued low-grade strikes continue by default while the decision is deliberated, not that strikes have paused pending it.
+
+**[Iran's nuclear programme: US offers US$20 million reward for information](https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information)** — *SCMP*
+*Signal:* A State Department bounty for intelligence on the nuclear program is a maximum-pressure tool that only makes sense if Washington expects the standoff to run for months, not weeks — quietly undercutting the "decision imminent" framing dominating the headlines.
+
+**[How the Iran war helped Democrats win the midterms](https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss)** — *Al Jazeera, opinion*
+*Signal:* Argues the war's domestic cost (gas prices, casualties, no clear resolution) reached American households in a way that abstract foreign-policy arguments usually don't — the same dynamic Vance is now exploiting publicly to pull Trump toward a deal.
+
+↳ Together these suggest: the war's political cost has now outrun its military logic for every faction except Hegseth's — but Trump himself is the only one who hasn't signaled which camp wins, which is exactly why Iran is hedging with a reward offer rather than betting on imminent resolution.
+
+### Anthropic's Valuation Cut Confirms Last Week's Prediction
+
+**[Ramp data shows AI spending stalling just as Anthropic nears its IPO](https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/)** — *TechCrunch*
+*Signal:* Ramp's corporate-card data shows AI token spend grew just 1.5% in August-September after 42% monthly growth in July, with the heaviest-spending top 1% of firms dipping slightly below their summer peak — a genuine usage-plateau, not just a pricing artifact, since Ramp's economist notes nearly all current AI spend sits inside venture-backed firms that move in lockstep. Bloomberg reports this directly cut Anthropic's floated IPO valuation from $2tn to $1.2-1.3tn and OpenAI's from $1.4tn to $1.25tn — confirming last Monday's digest prediction that Anthropic would price below the circulating $1.5-2tn range, before the roadshow has even formally started.
+*Read:* [OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/) — OpenAI's own fresh raise lands at the same lowered number, suggesting the market, not any one company's narrative, is now setting the AI-valuation ceiling.
+
+**[Anthropic to Proceed With IPO Roadshow Next Week](https://www.theinformation.com/briefings/anthropic-proceed-ipo-roadshow-next-week)** — *The Information*
+*Signal:* The roadshow proceeds despite two weeks of tech-stock volatility and the valuation cut above — Anthropic appears to be choosing to price into the storm rather than wait it out, a bet that a lower number now beats an uncertain number later.
+
+**[Microsoft Ends Deal to Rent Cloud Servers from Oracle](https://www.theinformation.com/briefings/microsoft-ends-deal-rent-cloud-servers-oracle)** — *The Information*
+*Signal:* Microsoft is winding down a 2023-era arrangement because the Oracle-rented servers no longer meet its specs — a small but concrete data point that hyperscalers are actively pruning AI-infrastructure commitments, not just slowing new ones, right as credit markets scrutinize Oracle's own debt-funded capex.
+
+**[Crusoe sells troubled Wyoming data center project to Google](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)** — *TechCrunch*
+*Signal:* A neocloud offloading a stalled project to a hyperscaler with deeper balance-sheet capacity is the capex-discipline story playing out at the asset level — consolidation from smaller, leveraged builders toward the handful of companies that can absorb cost overruns.
+
+↳ Together these suggest: the AI-infrastructure financing cycle is now visibly reversing in small, unglamorous ways — contract cancellations, asset sales, spend plateaus — well before any single dramatic failure, which is exactly the "quiet but important" pattern this digest has been tracking since the Nasdaq selloff.
+
+### Data-Center Backlash Goes Global, Big Tech Scrambles to Adapt
+
+**[How the US midterm elections reflected resistance to data centres](https://www.aljazeera.com/economy/2026/11/7/how-the-us-midterm-elections-reflected-resistance-to-data-centres?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Voters rejected data-center development in 40 of 41 ballot measures addressing the issue Tuesday — a landslide, not a close call, confirming this week's read that the backlash crosses party lines almost everywhere it appears on a ballot.
+
+**[Protesters storm site of Microsoft's planned Amsterdam data centre](https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The same anti-data-center energy that reshaped Tuesday's US races has now produced direct action in Europe within days — a sign this is becoming a transnational movement rather than a US electoral quirk tied to one midterm cycle.
+
+**[Don't waste a good backlash](https://www.exponentialview.co/p/dont-waste-a-good-backlash)** — *Exponential View (Azeem Azhar)*
+*Signal:* Azhar argues Democrats, having won on data-center opposition, should convert the backlash into concrete policy wins (community benefit agreements, energy-cost protections) rather than let it curdle into blanket obstruction — a solo-writer framing of the "what do the winners do with this mandate" question raised in Tuesday's digest.
+
+**[After the midterms, is the AI industry in for a rough two years?](https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/)** — *TechCrunch*
+*Signal:* Frames the 40-of-41 ballot sweep as a structural signal for siting decisions well beyond this cycle — every future data-center proposal now has to budget for local-referendum risk as a standard line item, not a tail risk.
+
+### Washington After the Wave
+
+**[Trump names Stephen Miller chief of staff, replacing Susie Wiles after midterm losses](https://www.scmp.com/news/us/politics/article/3373617/trump-names-stephen-miller-chief-staff-replacing-susie-wiles-after-midterm-losses)** — *SCMP*
+*Signal:* Replacing a pragmatic operator (Wiles) with the administration's most ideologically rigid immigration hardliner, immediately after a historic loss, reads as doubling down rather than course-correcting — a signal the White House's post-wave instinct is to tighten its core coalition rather than broaden it.
+
+**[Hassett Says No Economic Policy Shift Even After Election Rout](https://www.bloomberg.com/news/articles/2026-11-06/hassett-says-no-economic-policy-shift-even-after-election-rout)** — *Bloomberg*
+*Signal:* The same no-pivot instinct shows up on economic policy — Trump's chief economic adviser explicitly ruling out a response to the rout, consistent with Miller's appointment, suggesting the administration reads Tuesday as a messaging failure rather than a policy-substance one.
+
+↳ Together these suggest: the administration is responding to its worst electoral defeat in a generation by hardening rather than adjusting — the opposite move from the one Azhar's piece above argues Democrats should make with their new mandate.
+
+### US Macro: A Strong Jobs Report Muddies the Fed's December Call
+
+**[US Adds 165,000 Jobs, Topping All Forecasts in Broad Advance](https://www.bloomberg.com/news/articles/2026-11-06/us-adds-165-000-jobs-above-all-forecasts-as-unemployment-falls)** — *Bloomberg Economics*
+*Signal:* October payrolls beat every forecast and unemployment fell to 4.1%, with 70,000 of the gains in professional/business services — Bloomberg separately reports some of that white-collar growth is now coming from AI-implementation consulting rather than just data-center construction, meaning the AI boom's job-creation story may be broadening even as the capex story (above) is visibly cooling.
+*Read:* [US Consumer Credit Surges by Most in Nearly Four Years](https://www.bloomberg.com/news/articles/2026-11-06/us-consumer-credit-surges-by-most-in-nearly-four-years) — credit-card and non-revolving debt both jumped in September, meaning households are still spending but increasingly on borrowed money, a detail that complicates the "strong jobs = healthy consumer" read.
+
+**[Fed's Daly Says More Rate Hikes Likely Needed to Tame Prices](https://www.bloomberg.com/news/articles/2026-11-06/fed-s-daly-says-more-rate-increases-likely-needed-to-tame-prices)** — *Bloomberg Economics*
+*Signal:* Daly's hawkish line, landing the same day as the strong jobs print, cuts directly against Williams' and Lane's wait-and-see framing flagged in Friday's digest — a genuine split inside the Fed on whether a hot labor market means inflation risk or just a resilient economy, with the December decision now a real toss-up rather than a formality.
+*Read:* [U.S. Consumer Mood Improved but Remained Gloomy This Month](https://www.wsj.com/economy/consumers/u-s-consumer-mood-improved-but-remained-gloomy-this-month-568256a3) — UMich sentiment rose from 48 to 51, still deeply depressed by historical standards even as the hard data (jobs, credit) runs hotter than the sentiment data.
+
+### Europe: ECB Succession Narrows to Two
+
+**[Dutchman and Spaniard in Two-Horse Race for ECB Presidency](https://www.bloomberg.com/news/articles/2026-11-06/knot-and-de-cos-are-the-only-two-candidates-for-ecb-president)** — *Bloomberg Economics*
+*Signal:* The compressed three-day nomination window flagged in Tuesday's digest has resolved exactly as expected — Klaas Knot and Pablo Hernández de Cos are the only two candidates to succeed Lagarde, confirming that consensus existed behind the scenes before the deadline was even announced.
+*Read:* [ECB Candidate de Cos Says Vigilance Needed on Inflation Risks](https://www.bloomberg.com/news/articles/2026-11-07/ecb-candidate-de-cos-says-vigilance-needed-on-inflation-risks) — de Cos is already positioning as the inflation hawk of the two, a early tell on how the race will be fought.
+
+### Quiet But Important
+
+**[Bangladesh garment unrest eases as workers return but tensions persist](https://www.scmp.com/week-asia/economics/article/3373569/there-could-be-anarchy-bangladeshs-garment-unrest-threatens-economic-disaster)** — *SCMP*
+*Signal:* A wage board has agreed to a new pay structure effective December, easing the worst of the unrest flagged in last Monday's digest, but the actual wage number — workers want 30,000 taka against the current 12,500 — is still unresolved, and the government's "outside instigators" framing (rather than engaging the wage demand directly) is the same deflection pattern seen in the Hong Kong and French street-protest stories this week. 1,863 factories across Savar and Ashulia employ roughly 4 million people and generate 80%+ of Bangladesh's export earnings; H&M, Zara and Walmart all source there.
+
+**[Lululemon names Ben Hallam chief brand officer, continuing executive shakeup](https://ca.investing.com/news/stock-market-news/lululemon-names-ben-hallam-chief-brand-officer-93CH-4940148)** — *Investing.com*
+*Signal:* New CEO Heidi O'Neill's fourth C-suite hire in two months (after president/chief product, COO, and now chief brand officer, all from outside retail) is an unusually fast executive reset for a company still searching for a CTO and chief communications officer — a sign Lululemon's board sees its competitive slippage as a leadership problem to be solved quickly, not a cyclical one to be managed.
+
+**[Tesla will stop making the Cybertruck in 2027](https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/)** — *TechCrunch*
+*Signal:* Winding down a flagship model after selling only ~70,000 units in total, to free the same factory for Cybercab robotaxi production, is Musk formally abandoning the "halo consumer product" strategy in favor of the robotaxi bet he's pushing simultaneously in the Tesla-SpaceX merger discussions — worth watching alongside [a longtime SpaceX board member's resignation](https://www.theinformation.com/briefings/longtime-spacex-board-member-resigns) the same week, which lands right as Musk is advocating for that merger.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Trump picks "strangle," not "strike" or "deal," within the next two weeks.** With Vance/Gulf allies and Hegseth/Netanyahu deadlocked and Trump publicly non-committal, the Bessent/Rubio/Ratcliffe path of maintaining the blockade and sanctions requires no public reversal of either faction and matches the reward-offer and continued low-grade-strikes pattern already visible — expect Trump to avoid a binary choice altogether rather than hand either camp a clean win.
+> 2. **At least one more hyperscaler quietly cancels or resells a data-center commitment within a month.** Microsoft's Oracle-rental exit and Crusoe's Wyoming sale to Google are now two data points in three days; following the Nasdaq selloff and the 40-of-41 ballot results, expect the pattern to repeat at least once more before Q4 earnings season closes out, continuing the "capex-discipline quietly outpacing capex-growth headlines" theme from this week.
+> 3. **The Fed holds in December rather than cuts or hikes.** Daly's hawkish line and the strong jobs/credit data give the committee cover to do nothing, while Williams' and Lane's wait-and-see framing (and depressed consumer sentiment) make an outright hike politically awkward — expect the FOMC statement to emphasize "further data" language over committing either direction, extending the global synchronized-pause pattern flagged in Friday's digest.
+
+---
+*22 items across 6 topics — covering 2026-11-07.*
