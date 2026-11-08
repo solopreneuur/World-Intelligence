@@ -1,7 +1,133 @@
-Last Digest: 2026-11-07
+Last Digest: 2026-11-08
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-11-08 — Daily Sweep
+
+### Israel: Netanyahu's Record Tenure Nears Its End
+
+**[The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?](https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel)** — *Al Jazeera*
+*Signal:* President Herzog has given Eisenkot 28 days (extendable by 14) to build a coalition — a retired IDF chief whose son and nephews were killed in Gaza, offering "normalcy" against Netanyahu's record-length, inflammatory tenure. His obstacles are the same ones that have broken every recent Israeli coalition: ultra-Orthodox draft-exemption demands and whether to lean on Arab-party support he's reportedly reluctant to take. If he fails, the mandate likely reverts toward Netanyahu.
+*Read:* [Israel's president taps Eisenkot to form government, in setback for Netanyahu](https://www.scmp.com/news/world/middle-east/article/3373671/israels-president-taps-eisenkot-form-government-setback-netanyahu) — *SCMP*; [Is unconditional support for Israel becoming a liability for Republicans?](https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans) — *Al Jazeera* — JD Vance's post-midterm hedging suggests the once-untouchable GOP-Israel consensus is cracking in the same week Netanyahu's own coalition is.
+
+### Yemen-Saudi Escalation Tests the "No Rush" Iran Strategy
+
+**[Iconic Saudi Tower Hit as Yemen's Houthis Target Riyadh](https://www.wsj.com/world/middle-east/iconic-saudi-tower-hit-as-yemens-houthis-target-riyadh-889ae71f)** — *WSJ*
+*Signal:* A direct hit on a landmark Riyadh tower marks a real escalation in the Houthi campaign against Saudi Arabia — happening independent of, but simultaneous with, the Trump administration's publicly deliberate pace on Iran itself (flagged in yesterday's digest). The Yemen theater is heating up on its own clock.
+*Read:* [Saudi Aramco building in Riyadh damaged in 'attempted' attack](https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province) — *Al Jazeera*
+
+**[US military attacks cargo ship in the Gulf of Oman](https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman)** — *Al Jazeera*
+*Signal:* The US fired on and disabled a St. Kitts-flagged cargo vessel the same day it launched a new task force to disrupt Iran's land-based supply routes — confirming yesterday's read that "no rush to decide" leaves plenty of room for continued low-grade military pressure on Iran's logistics and proxies while the big decision stays frozen.
+*Read:* [US launches task force to disrupt Iran's land-based supply routes](https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes) — *Al Jazeera*
+
+### Europe: Terrorism, Hybrid Threats, and a Protest Wave That Won't Stop
+
+**[Six Dead in Shooting at Market Square in Poland](https://www.wsj.com/world/europe/six-dead-in-shooting-at-market-square-in-poland-7ba72f7b)** — *WSJ*
+*Signal:* Poland's deadliest shooting in decades — the gunman, "fascinated by far-right" ideology, also left three bodies at his own home. Prime Minister Tusk is calling it terrorism outright, a lone-actor radicalization case rather than an organized cell, but it lands in the same week as unexplained disruptions elsewhere in Europe (below).
+*Read:* [Gunman 'fascinated by far-right' kills 6 in Krakow, Poland](https://www.scmp.com/news/world/europe/article/3373667/5-killed-shooting-tourist-heart-krakow-poland) — *SCMP*
+
+**[Someone Is Causing Chaos Across Europe. The Question Is: Who?](https://www.wsj.com/world/europe/someone-is-causing-chaos-across-europe-the-question-is-who-ba3749a6)** — *WSJ*
+*Signal:* A separate, unattributed wave of bomb threats and hacks has diverted aircraft and forced evacuations of media outlets across the continent — a hybrid-disruption pattern authorities can't yet pin on a state or group, running in parallel to, not the same thread as, the Krakow shooting.
+
+**[Mapping how France's protest wave spread across Europe](https://www.aljazeera.com/news/2026/11/8/mapping-how-frances-protest-wave-spread-across-europe)** — *Al Jazeera*
+*Signal:* More than 1,700 cost-of-living demonstrations have hit 31 European countries since mid-September, led by France — the same populist economic-anxiety current Stoller flagged driving US midterm data-center and wealth-tax politics (Monday's digest), showing up on this side of the Atlantic as sustained street protest rather than ballot measures.
+*Read:* [Clashes in Paris after new French protests](https://www.scmp.com/news/world/europe/article/3373669/clashes-paris-after-new-french-protests) — *SCMP*
+
+↳ Together these suggest: Europe is absorbing three distinct shocks at once — lone-actor far-right violence, unattributed hybrid disruption, and a genuinely cross-border economic protest movement — and only the third has an identifiable, structural cause.
+
+### US Politics: Institutional Checks Arrive, Data-Center Backlash Gets a Reality Check
+
+**[A Democratic Senate majority would be the broadest check yet on the president's efforts to control the central bank](https://www.wsj.com/economy/central-banking/the-democratic-surge-will-cap-trumps-reach-at-the-fed-6b706e11)** — *WSJ*
+*Signal:* The incoming Democratic Senate majority, seated in January, would be the first real institutional check on Trump's Fed-pressure campaign since it began — a direct follow-on to this week's running thread on Fed independence and the December rate decision.
+
+**[Democrats' congressional win could strengthen Ukraine's hand against Russia](https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia)** — *Al Jazeera*
+*Signal:* Kyiv is reading the midterm result as leverage for more US support, though Trump's own peace-process intentions remain the wildcard — the same logic running through the Iran file: a weakened president facing a hostile Congress has less room to set foreign policy unilaterally.
+*Read:* [Will Democrats sway 'unshackled' Trump's Russia-Ukraine stance after midterm rout?](https://www.scmp.com/news/world/russia-central-asia/article/3373681/will-democrats-sway-unshackled-trumps-russia-ukraine-stance-after-midterm-rout) — *SCMP*
+
+**[Will Democrats Really Crush Data Centers?](https://www.theinformation.com/articles/will-democrats-crush-data-centers)** — *The Information*
+*Signal:* A useful corrective to Monday's dominant narrative: anxiety is running high in Silicon Valley over the 40-of-41 anti-data-center ballot sweep, but most siting and permitting authority sits with local and state bodies that didn't all flip — the "data centers lost at the ballot box" read may be overstating how many actual projects get cancelled.
+*Read:* [The Blue Wave May Not Stop Musk's Texas Data Center Ambitions](https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions) — *The Information* — even where Democrat Gina Hinojosa's surprise win was read as a direct rebuke, Texas's permitting and incentive structure may insulate Musk's SpaceX/xAI data-center plans regardless; [After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) — *TechCrunch*
+
+### AI Industry: A Security Debt Comes Due, and a Research Retreat
+
+**[Claude Code's "Don't Ask Again" File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)** — *Hacker News*
+*Signal:* Apiiro found that approving a shell command in Claude Code with "don't ask again" can save the exact command — secret included, in plaintext — into a project settings file Anthropic never gitignores by default. Of 104,185 public copies on GitHub, 1,122 hold at least one secret (2,539 total counting history and forks: 379 database passwords, 23 AWS keys, 42 Git/npm tokens), one confirmed still live, and earlier bug reports were bot-closed without a vendor reply. This is a concrete, quantified security-debt story about the exact product category every lab is racing to ship, landing the same week Anthropic is on its IPO roadshow.
+*Read:* [Claude Code's 'Don't Ask Again' File Exposes Passwords and Keys](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html) — *The Hacker News*
+
+**[The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)** — *Hacker News*
+*Signal:* Founding leader John Langford says the roughly 50-person group behind Autogen and other projects is dissolving because a September reorg folded it into Microsoft AI under ex-Inflection leadership, whose "scale over research" philosophy he calls incompatible — a second data point, after this week's hyperscaler capex-discipline stories, that "AI investment" and "AI research investment" are starting to diverge inside the same companies.
+
+**[AI will soon master biology, unleashing new safety risks, Tencent AI chief warns](https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns)** — *SCMP*
+*Signal:* Tencent's chief AI scientist — a former OpenAI researcher — frames dual-use biosecurity risk as near-term rather than speculative, notably from a Chinese lab leader rather than a Western safety advocate.
+
+**[Plugged in, not locked in: middle powers navigate US-China AI rivalry](https://www.scmp.com/news/china/diplomacy/article/3373682/plugged-not-locked-middle-powers-navigate-us-china-ai-rivalry)** — *SCMP*
+*Signal:* Smaller states are explicitly resisting pressure to pick a US or China AI bloc, demanding interoperable, swappable partnerships instead — structural pushback against both superpowers' attempts to build exclusive AI alliance networks.
+
+**[Is AI a white-collar job killer? Strong hiring at law offices and consulting firms in the October jobs report is staving off fears of a job apocalypse](https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115)** — *WSJ*
+*Signal:* Follows directly from yesterday's jobs report, where some white-collar growth was traced to AI-implementation consulting rather than AI replacing roles outright — for now, the data reads as AI creating adjacent service work faster than it's eliminating jobs, though one jobs report is a data point, not a trend.
+
+### Platforms & Ad Economics: AI Is Quietly Eating Both Search and Social
+
+**[ChatGPT reaches a fifth of Google search volume as Taboola blames AI](https://ppc.land/chatgpt-reaches-a-fifth-of-google-search-volume-as-taboola-blames-ai/)** — *gap-fill search*
+*Signal:* OpenAI says ChatGPT's search-like query volume is now roughly 20% of Google's; Taboola blamed a 6.9% revenue drop partly on AI-generated answers cutting ad impressions, while Criteo calls ChatGPT its fastest-growing referral channel — the AI-search shift is now showing up in ad-tech earnings, not just traffic charts. The same week, Anthropic signed its first publisher-licensing deal (with the Associated Press, for election coverage) — the compute side of the industry starting to pay for the content it's accused of displacing.
+
+**[EU says TikTok's "rabbit hole" video feeds violate its digital rules](https://geekout.mattnavarra.com/p/tiktok-shop-app-meta-robot-snap-settlement-ofcom)** — *gap-fill search*
+*Signal:* A rare direct regulatory finding against a specific recommendation-algorithm pattern, rather than a data-privacy complaint — a template other regulators could reuse against any platform tuned for compulsive engagement.
+
+**[Instagram offers $50,000–$500,000 to YouTubers to cross-post to its new long-form "Features" product — with no revenue-share model yet](https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/)** — *gap-fill search*
+*Signal:* Meta is explicitly buying exposure and competitive pressure on YouTube before building a sustainable creator-payment structure — "exposure as a form of payment," as one creator put it — betting scale now forces monetization later, echoing the early-Reels playbook.
+
+**[YouTube's ad revenue growth is slowing (9% in Q3) despite capturing a growing share of TV viewing](https://tldr.tech/marketing/2026-11-06)** — *gap-fill search*
+*Signal:* Advertisers are diversifying CTV budgets instead of concentrating on YouTube, and YouTube missed out on this cycle's political ad spending — platform dominance in attention isn't automatically converting to ad-dollar share.
+
+### US-China: A Bear Case Builds, and an Espionage Memo Surfaces
+
+**[Why I'm becoming a China bear](https://www.noahpinion.blog/p/why-im-becoming-a-china-bear)** — *Noahpinion (Noah Smith)*
+*Signal:* A notably bearish turn from a previously-bullish writer: Smith argues China's manufacturing-and-export formula (4% of GDP in industrial subsidies) is hitting demand-saturation limits worsened by the property bust, infrastructure overinvestment has exhausted its returns, and — the decisive factor — AI is disrupting exactly the techno-economic landscape China optimized for, while Xi's "spiraling paranoia" makes the system less able to adapt.
+
+**[Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/)** — *TechCrunch*
+*Signal:* A US intelligence memo reportedly describes China's Ministry of State Security recruiting a tech executive specifically to surveil Jensen Huang — Beijing targeting individual AI-industry leaders directly, not just chip-export policy, as an information channel.
+
+**[History repeats in Shenzhen? China hosts another lame-duck US president](https://www.scmp.com/news/china/diplomacy/article/3373654/history-repeats-shenzhen-china-hosts-another-lame-duck-us-president)** — *SCMP*
+*Signal:* China is preparing to host Trump at a multilateral gathering in Shenzhen, a decade after hosting a similarly weakened Obama post-midterms in Hangzhou — Beijing's playbook for a domestically diminished US president looks well-rehearsed.
+
+**[Xi's Tightening China Grip Risks Less Innovation: New Economy](https://www.bloomberg.com/news/newsletters/2026-11-07/xi-s-tightening-china-grip-risks-less-innovation-new-economy)** — *Bloomberg Economics*
+*Signal:* Fourteen years into his tenure, Xi's continued focus on loyalty over technocratic latitude is the same structural critique Noah Smith makes above — two independent sources converging on the same diagnosis within 24 hours.
+
+### Global Macro
+
+**[US Inflation Set to Simmer Down Some After Recent Pickup](https://www.bloomberg.com/news/articles/2026-11-07/us-inflation-set-to-simmer-down-some-after-recent-pickup)** — *Bloomberg Economics*
+*Signal:* October prices probably rose more slowly after two uncomfortable months — modest relief that still leaves the Fed's December call (flagged all week) a genuine toss-up rather than resolved by this one print.
+
+**[ECB's Lagarde Says Inflation Likely to Stay High in Near Future](https://www.bloomberg.com/news/articles/2026-11-07/ecb-s-lagarde-says-inflation-likely-to-stay-high-in-near-future)** — *Bloomberg Economics*
+*Signal:* Lagarde's own framing lines up with incoming ECB-president candidate de Cos's inflation-hawk positioning (flagged yesterday) — the whole European monetary leadership is converging on "inflation persists" as the baseline, not a risk case.
+
+**[New Zealand's Conservatives Narrowly Lead in Election](https://www.wsj.com/world/oceania/new-zealands-conservatives-narrowly-lead-in-election-4a4fddd2)** — *WSJ*
+*Signal:* PM Luxon's coalition faces weeks of uncertainty on late ballots, with voters punishing the cost-of-living and rate environment even without a clean opposition win — the same incumbent-penalizing dynamic showing up in the US midterms and France's protests, just inconclusive here rather than decisive.
+
+↳ Together these suggest: from Paris to Wellington, "cost of living" is functioning as a single global political variable right now — it just resolves differently depending on how concentrated local anger is and how exposed the sitting government is.
+
+### Quiet But Important
+
+**[Indonesians furious as Batam data centres drain taps: 'we cannot cook without water'](https://www.scmp.com/news/asia/southeast-asia/article/3373676/indonesians-furious-batam-data-centres-drain-taps-we-cannot-cook-without-water)** — *SCMP*
+*Signal:* The data-center water/resource backlash that drove US midterm ballot measures and hit Amsterdam this week (protesters storming a Microsoft site, flagged yesterday) has now reached Indonesia — a genuinely global pattern, not a US- or EU-specific political moment.
+
+**[Binance CFO is leaving to 'pursue a new venture' after $6.3 billion hack](https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/)** — *TechCrunch*
+*Signal:* An executive exit just over a week after the hack is the kind of quiet accountability move that often precedes a larger story about how the breach actually happened.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Eisenkot's 28-day clock runs out without a coalition.** The same ultra-Orthodox draft-exemption and Arab-party dependency problems that have broken every Israeli government since 2019 are flagged in his own profile as unresolved — expect the mandate to drift back toward Netanyahu or a fresh election rather than a clean Eisenkot government.
+> 2. **The Yemen theater keeps escalating without Washington or Tehran formally reopening talks.** Today's cargo-ship strike and new anti-supply-route task force show the "no rush to decide" posture (Friday's prediction) absorbs continued low-grade military action by default — expect Yemen, not direct US-Iran contact, to be where the visible escalation keeps happening.
+> 3. **At least one more AI lab or platform announces a publisher-licensing or content-payment deal within two weeks**, following Anthropic-AP. Taboola's revenue hit and ChatGPT's rising search-share make paying for content access a defensive necessity rather than a goodwill gesture — watch OpenAI and Google first.
+
+---
+*27 items across 9 topics — covering 2026-11-08.*
+
+---
 
 ## 2026-11-02 — Daily Sweep
 
