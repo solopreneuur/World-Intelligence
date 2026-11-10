@@ -1,9 +1,112 @@
-Last Digest: 2026-11-09
+Last Digest: 2026-11-10
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
 
-## 2026-11-09 — Daily Sweep
+## 2026-11-10 — Daily Sweep
+
+### AI Industry: The Nvidia Scandal Enters Its Legislative Phase
+
+**[How Jensen Huang's Affair Spiraled Into a National Security Nightmare](https://www.wsj.com/tech/ai/how-jensen-huangs-affair-spiraled-into-a-national-security-nightmare-d9b43304)** — *WSJ*
+*Signal:* Trump confirmed Monday the FBI is actively investigating Huang's relationship with Alice Huang, and reporting now shows Huang engaged a crisis-PR firm with a history of handling sex scandals roughly a year ago — a full year before this became public, which undercuts the "I had no idea" defense Trump is publicly endorsing. The gap between what Huang's camp knew privately and what the company said publicly ("normal," per earlier statements) is exactly the kind of discrepancy securities lawyers build cases around.
+*Read:* [Meet the Nvidia Board Members Who Will Decide Jensen Huang's Fate](https://www.theinformation.com/articles/meet-nvidia-board-members-will-decide-jensen-huangs-fate) and [Who Could Succeed Jensen Huang at Nvidia?](https://www.theinformation.com/articles/succeed-jensen-huang-nvidia) — *The Information* — succession speculation this concrete, this fast, is itself a signal the board is hedging.
+
+**[Nvidia spy scandal fuels debate over chip exports to China](https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china)** — *Al Jazeera*
+*Signal:* This has moved from scandal to legislation: Senators Elizabeth Warren (D) and Jim Banks (R) are jointly pushing to attach the AI Overwatch Act to the NDAA, explicitly citing the scandal as the reason Congress must "cut off pathways through which China accesses advanced chips." Bipartisan, NDAA-vehicle legislation is a far more durable threat to Nvidia's China revenue than any single investigation — it survives even if Huang himself survives.
+
+**[Nvidia scandal may test fragile US-China truce, experts say](https://www.scmp.com/news/china/diplomacy/article/3373859/nvidia-scandal-may-test-fragile-us-china-truce-experts-say)** — *SCMP*
+*Signal:* The timing could not be worse for Beijing: the export-control push is accelerating just as Elon Musk and Mastercard's Michael Miebach are confirmed for Trump's APEC delegation to Shenzhen next week — while Huang's own attendance is reportedly in doubt. A US-China summit meant to deepen the trade truce now has to happen in the shadow of a story that's pushing Washington toward tighter chip controls, not looser ones.
+
+**[There Are Likely More Spies at AI Companies, Says Security Executive Lisa Thiergart](https://www.theinformation.com/articles/likely-spies-ai-companies-says-security-executive-lisa-thiergart)** — *The Information*
+*Signal:* A security executive who works directly with AI labs and the intelligence community says other nations likely haven't stolen frontier models yet "only for a lack of trying" — a quiet admission that AI-lab security is lagging the geopolitical stakes of what's inside the labs, independent of the Huang story.
+
+### AI Industry: Anthropic's IPO Push and the Capital-Intensity Question
+
+**[Anthropic reportedly plans to move forward with IPO plans](https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/)** — *TechCrunch*
+*Signal:* Reported valuation talk has fallen fast — from roughly $2T in early October to a $1.1T–$1.75T range this week, with a Nasdaq debut targeted for Nov 19–20. The compression tracks the same capital-discipline story as OpenAI's lowball raise (flagged in yesterday's digest): investor appetite for AI-lab equity is cooling in real time, even as the labs themselves keep spending at 2025 pace.
+*Read:* [Anthropic's Outside Counsel Sent Banks Wrong Documents Before Launching IPO](https://www.theinformation.com/briefings/anthropic-sent-banks-wrong-documents-launching-ipo) — *The Information* — a botched prospectus filing days before a trillion-dollar debut is a small operational error, but it's the kind of thing that erodes banker confidence at exactly the wrong moment.
+
+**[Anthropic joins AI's natural gas frenzy, buys $3.4B worth of turbines](https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/)** — *TechCrunch*
+*Signal:* Locking in $3.4B of gas turbines days before pricing an IPO signals Anthropic is betting its post-IPO capital straight into power infrastructure — the same structural question MIT Tech Review raised in yesterday's digest (does AI's energy footprint net out positive) is now literally on Anthropic's own balance sheet.
+*Read:* [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) — *Hacker News* — new frontier models shipped the same week, keeping the product narrative ("we're still the leader") running alongside the financial one.
+
+↳ Together these suggest: the AI industry's capital-discipline story (Anthropic's valuation compression, the turbine bet, OpenAI's below-target raise) and its trust-and-security story (Nvidia's scandal, Fireworks' breach below, "more spies" warning) are compounding in the same week — investors are being asked to price both financial and security risk upward simultaneously.
+
+**[New Fireworks Hack Threatens $1 Billion Business](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)** — *Hacker News / Notion*
+*Signal:* Fireworks, an AI infra vendor used by enterprise customers including Harvey, disclosed a serious breach exposing customer data — directly impacting Notion, which had to publish its own incident notice. This is the third enterprise-AI-trust story in two days (after Goldman pulling Claude Code and the ChatGPT SSH-forwarding flaw), each hitting a different layer: governance, security engineering, and now vendor supply chain.
+
+**[CoreWeave bond yield tops 16% as AI credit stress rises](https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html)** — *Hacker News*
+*Signal:* A 16%+ yield on an AI-infrastructure bond is the credit market pricing real default risk, not just equity-market jitters — a harder, more concrete signal than any stock selloff that the capital markets are starting to discount AI-buildout debt.
+
+**[Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)** — *Hacker News*
+*Signal:* A concrete, documented privacy failure — personal files flowing to human reviewers without clear consent — lands the same week Australia (below) is tightening AI oversight rules. Regulators now have a steady drip of specific incidents, not abstract risk, to point to.
+
+**[Australia tightens AI oversight rules after OpenAI government breach](https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The trigger was an OpenAI agent breaching an Australian government website back in June — a reminder that agentic-AI regulation is being written reactively, incident by incident, rather than proactively, country by country.
+
+### Global Macro: Central Banks Pivot Toward Hikes, Together
+
+**[BOJ Summary Suggests Good Chance of December Interest Rate Hike](https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike)** — *Bloomberg Economics*
+*Signal:* Japan joins a widening group of central banks leaning hawkish at the same moment: the ECB's Philip Lane says a December hike is "prudent" if data don't shift, Sweden's Riksbank sees hikes needed "over months ahead," and Fed officials Barkin and Goolsbee are both flagging inflation risk from AI-driven demand. This is a synchronized tightening signal across four major central banks in a single week — a sharp reversal from the rate-cut narrative that dominated most of 2025–26.
+*Read:* [Treasury Yields Turn Higher on Fed's Waller Comments](https://www.wsj.com/economy/central-banking/treasury-yields-edge-up-ahead-of-u-s-inflation-data-7a55db79) — *WSJ* — markets are already pricing a December Fed hike, not just debating one.
+
+**[BLS Will Not Publish 12-Month CPI, Core CPI Figures For October](https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october)** — *Bloomberg Economics*
+*Signal:* This isn't a new disruption — it's the 2025 government shutdown's data hole finally landing: BLS never collected October 2025 price data, so it can't compute a year-over-year comparison for October 2026, only month-over-month. A hawkish-leaning Fed is about to make a December decision partly blind on the headline number markets care most about.
+
+**[A New Generation of Traders Is Trapped in Asia's Market Meltdown](https://www.wsj.com/finance/stocks/a-new-generation-of-traders-is-trapped-in-asias-market-meltdown-636d5da4)** — *WSJ*
+*Signal:* Retail traders who piled into Asian equities via social-media-driven enthusiasm are now underwater — a structural story about how influencer-driven retail investing amplifies drawdowns, not just a one-off market dip.
+
+### US-China: Trade Truce Deepens Even as Chip Fight Sharpens
+
+**[Chinese Trade Surplus Tops $1 Trillion for Second Time Ever](https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever)** — *Bloomberg Economics*
+*Signal:* China's exports keep surging despite tariff friction, with the EU now accounting for nearly a third of the imbalance — a reminder that the US-China tariff truce (extended through Jan 2027, per yesterday's digest) hasn't stopped China's trade dominance from widening against everyone else, Europe especially.
+
+**[FedEx adds new US-China cargo flights ahead of Xi-Trump meeting](https://www.scmp.com/business/companies/article/3373903/fedex-adds-new-us-china-cargo-flights-ahead-xi-trump-meeting)** — *SCMP*
+*Signal:* A logistics giant adding capacity days before a Xi-Trump summit is a vote of confidence that the trade relationship is deepening operationally, not just diplomatically — the kind of quiet corporate signal that often predicts policy direction better than the rhetoric around it.
+
+**[Chinese biotech giant WuXi AppTec's shares gain after Pentagon blacklist reversal](https://www.scmp.com/business/companies/article/3373875/chinese-biotech-giant-wuxi-apptecs-shares-jump-after-pentagon-blacklist-reversal)** — *SCMP*
+*Signal:* The Pentagon reversing a military-linked blacklisting is a small but concrete data point that Washington's China-decoupling posture has exceptions when economic stakes (biotech supply chains) are high enough — worth watching whether chipmakers get similar case-by-case relief even as the Nvidia-driven export push hardens.
+
+**[Could US Marines sustain a war with China? Officers warn of Pacific weaknesses](https://www.scmp.com/news/china/military/article/3373938/could-us-marines-sustain-war-china-officers-warn-pacific-weaknesses)** — *SCMP*
+*Signal:* Marine Corps officers and independent analysts are publicly flagging sustainment gaps — missile-battery mobility, basing permissions from allies — that go beyond the usual "PLA is rehearsing A2/AD" framing (see yesterday's digest). Quiet capability-gap admissions from active officers carry more weight than think-tank warnings.
+
+↳ Together these suggest: the US-China economic relationship (trade surplus, FedEx capacity, WuXi reprieve) is deepening even as the security relationship (chip export pressure from the Nvidia scandal, Marine sustainment gaps) is hardening — the two tracks are diverging rather than moving together, which is historically unstable.
+
+### US Politics: Midterm Fallout Keeps Compounding
+
+**[California billionaire tax measure defeated in contentious vote](https://www.scmp.com/news/world/united-states-canada/article/3373896/california-billionaire-tax-defeated-contentious-vote)** — *SCMP*
+*Signal:* Tech leaders outspent Prop 40 backers roughly 10 to 1 to kill a one-time 5% billionaire tax that would have raised an estimated $100B for healthcare — a reminder that even in a deep-blue state fresh off a Democratic midterm sweep, organized capital still wins ballot-measure fights decisively when it mobilizes early and spends hard.
+
+**[Pentagon chief Hegseth faces impeachment test over Iran war](https://www.scmp.com/news/world/united-states-canada/article/3373848/hegseth-calls-iran-war-necessary-and-waves-noise-expected-impeachment-push)** — *SCMP*
+*Signal:* Rep. Thomas Massie's eight articles of impeachment use a privileged procedure forcing a House floor vote as early as Wednesday — and GOP leadership is reportedly bracing for enough Republican defections to pass it, since members who lost seats last Tuesday "have little left to lose." This is the midterm's most direct institutional consequence yet: a sitting Republican-controlled House plausibly impeaching a Republican cabinet secretary over an unpopular war.
+
+**[US withdraws military aircraft from second UK airbase after Iran threat: reports](https://www.scmp.com/news/world/europe/article/3373947/us-withdraws-9-military-aircraft-second-uk-airbase-after-iran-threat-reports)** — *SCMP*
+*Signal:* Refueling tankers evacuated from RAF Mildenhall on top of the earlier Lakenheath withdrawal — two UK bases emptied of US assets now, a tangible escalation in how seriously Washington is treating Iranian retaliation threats even as Trump publicly downplays new strikes (per yesterday's digest).
+
+### Platforms & Creator Economy
+
+**[As brands dive into ChatGPT, OpenAI will let them track their mentions](https://www.tubefilter.com/2026/11/09/brand-mention-chatbot-chatgpt-openai-mentions/)** — *Tubefilter*
+*Signal:* Confirms yesterday's Digiday report with more detail: this is OpenAI building an ad-adjacent analytics product, not a one-off feature — "answer engine optimization" is being productized fast enough that agencies are already asking for parity with existing campaign analytics.
+
+**[Exclusive: TikTok Shop launches a paid premium tier for 1M of its top US shoppers](https://www.modernretail.co/operations/exclusive-tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-us-shoppers/)** — *Modern Retail*
+*Signal:* Converting top shoppers into a paid membership ahead of the holiday season is TikTok Shop testing subscription economics on top of commerce — a structural monetization shift, not a seasonal promotion.
+
+**[Ogilvy and CAA launch partnership to clone celebrity talent for AI ads](https://digiday.com/marketing/ogilvy-and-caa-launch-partnership-to-clone-celebrity-talent-for-ai-ads/)** — *Digiday*
+*Signal:* A major agency and a major talent agency formalizing AI-likeness licensing (with disclosure labeling built in) is the clearest sign yet that celebrity AI clones are moving from legal gray zone to structured commercial product.
+
+**[Ad Tech Briefing: Amazon's auction trial puts agentic advertising's trust problem in focus](https://digiday.com/media-buying/ad-tech-briefing-amazons-auction-trial-puts-agentic-advertisings-trust-problem-in-focus/)** — *Digiday*
+*Signal:* Unsealed FTC allegations about Amazon's ad auction are landing just as "agentic advertising" (AI agents bidding and buying on brands' behalf) is being pitched as the next big thing — a black-box auction scandal is bad timing for an industry asking advertisers to trust black-box AI agents even more.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Huang does not attend APEC, and that's the real signal.** With Musk and Miebach already confirmed for Trump's Shenzhen delegation and Huang's attendance "in doubt," his absence from a summit this central to AI-chip diplomacy would be a quieter but more concrete marker of his weakened position than any Congressional hearing — boards and White Houses manage optics around travel long before they manage titles.
+> 2. **The AI Overwatch Act (or equivalent chip-export language) gets attached to the NDAA this cycle.** Bipartisan co-sponsorship (Warren-Banks) riding a live scandal narrative, inside a must-pass defense bill, is close to the easiest path for durable legislation to move in Washington — this is more likely to stick than any single Huang-focused investigation outcome.
+> 3. **December brings a surprise hawkish surprise, not a dovish one.** BOJ, ECB, Riksbank, and vocal Fed regional presidents are now aligned on hike bias in the same week the Fed is flying partially blind on CPI — a market still priced for easing into year-end is more likely to be wrong-footed by a hike than a cut.
+
+---
+*24 items across 6 topics — covering 2026-11-10*
 
 ### Geopolitics: US-Israel War on Iran
 
