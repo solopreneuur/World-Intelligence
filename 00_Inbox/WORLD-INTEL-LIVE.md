@@ -1,4 +1,4 @@
-Last Digest: 2026-11-10
+Last Digest: 2026-11-11
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -224,3 +224,131 @@ Last Digest: 2026-11-10
 
 ---
 *24 items across 8 topics — covering 2026-11-09*
+
+## 2026-11-11 — Daily Sweep
+
+### AI Industry: Huang Scandal Exposes a Real Enforcement Gap
+
+**[Chinese university buys Nvidia AI H200 chips despite US ban, records show](https://www.aljazeera.com/news/2026/11/11/chinese-university-buys-nvidia-ai-h200-chips-despite-us-ban-records-show?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Northwestern Polytechnical University — a defense-linked Xi'an school on the Entity List since 2001 — bought two H200 chips for roughly $123,000 via intermediary reseller Shaanshi Bosuan, and separately secured restricted-chip access through five cloud-rental contracts with Chinese firms. Reuters reviewed 26 similar procurement records showing a systematic pattern of bypassing export controls through resellers and rental schemes rather than direct import. This lands the same week Congress is using the Huang scandal to push new export-control legislation — now there's documented proof the existing licensing regime is already leaking, which strengthens the case for a crackdown regardless of what happens to Huang personally.
+
+**[Nvidia's crisis has corporate governance experts reaching for the popcorn](https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/)** — *TechCrunch*
+*Signal:* Legal scholars say this is genuinely unprecedented: Ann Lipton (University of Colorado) notes no precedent combines personal misconduct with national-security exposure, while Todd Henderson (University of Chicago) says that if Huang knew Alice Huang was a suspected Chinese intelligence asset and didn't disclose it to the board, that alone is "a fireable offense" — he separately flags Huang installing family members in succession-track roles as a governance red flag. Neither predicts a clean outcome; both frame Huang's fate as genuinely undetermined, a contrast to yesterday's headline-grabbing "50-50" odds.
+*Read:* Booz Allen switches to Nvidia's Nemotron — *The Information* — a reminder that enterprise buying decisions are, so far, mostly unaffected by the governance drama.
+
+↳ Together these suggest: three House GOP committee chairs (Foreign Affairs, China Select Committee, Intelligence) have requested a closed-door Huang briefing for November 18 — the day after Nvidia's Q3 earnings — with a response deadline of today; Trump says he'd "certainly" still take Huang to APEC in Shenzhen despite the scandal, while Musk and Mastercard's Miebach are already locked in as alternates. The personal drama and the structural policy response are now moving on separate, parallel tracks.
+
+### AI Industry: Anthropic's IPO Machine Keeps Creating Winners — and Direct Collateral Damage
+
+**[Amazon and Google Win Big From Anthropic IPO](https://www.theinformation.com/articles/amazon-google-win-big-anthropic-ipo)** — *The Information*
+*Signal:* Amazon's roughly $18.6B all-in Anthropic position (direct shares, committed capacity, and convertible notes) and Google's $10B+ direct stake (plus up to $30B more committed through 2030) could together be worth roughly $411B at the top of Anthropic's new $1.26T–$1.4T IPO range — a roughly 20x markup that makes both companies' "customer" relationship with Anthropic look more like a venture bet than a vendor contract.
+*Read:* [The Anthropic-OpenAI Valuation Gap](https://www.theinformation.com/articles/anthropic-openai-valuation-gap) — *The Information* — Anthropic's last private round priced it $113B above OpenAI's, the first time it has overtaken its rival privately; OpenAI separately cut its own IPO target to $1.25T after investor pushback, confirming yesterday's compression story is now symmetric across both labs, not just Anthropic.
+
+**[Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks](https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/)** — *TechCrunch*
+*Signal:* Anthropic shipped Claude Meetings, Whiteboards, and Sheets — direct Office/Excel competitors — and Microsoft shares fell over 3% intraday on the news, despite Microsoft being one of Anthropic's largest investors and an anchor IPO backer. The anchor-investor-turned-competitor dynamic is now explicit and immediately priced by the market, not theoretical.
+*Read:* [Anthropic Discloses Over $10 Billion in New Deals with Microsoft, Google; Says Lambda Deal May Be Cancelled](https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled) — *The Information* — total compute commitments now stand at $900.9B, while the $34.9B Lambda lease deal is in jeopardy after Lambda missed a Texas facility deadline, deepening and destabilizing the same vendor relationships Claude's new apps now compete against.
+
+↳ Together these suggest: OpenAI separately disclosed Q3 revenue up nearly 50% to $10B even as losses grow, and New York's AI safety law took effect this week requiring both OpenAI and Anthropic to register and disclose safety practices — growth, governance scrutiny, and competitive collateral damage are arriving in the same week for both labs, not sequentially.
+
+### AI Industry: The Capital-Stress Signal Gets Harder to Ignore
+
+**[CoreWeave Reports Revenue Surge But Huge Increase in Cash Burn](https://www.theinformation.com/briefings/coreweave-reports-revenue-surge-huge-increase-cash-burn)** — *The Information*
+*Signal:* Revenue more than doubled to $3.66B, but net loss hit $709M (from $110M a year ago) as interest expense ballooned to $846M against $46.9B in total debt at a roughly 7.9% weighted average cost. Interest expense now exceeds operating income — directly corroborating yesterday's 16%+ bond-yield story with the underlying financials: this is a company racing to turn a $132.5B backlog into cash before its GPU-collateralized debt matures and before the chips depreciate.
+
+**[SoftBank Writes Off $3.7 Billion on Advance Payments for Data Center Projects](https://www.theinformation.com/briefings/softbank-writes-3-7-billion-advance-payments-data-center-projects)** — *The Information*
+*Signal:* SoftBank wrote off non-refundable advance payments for power-generation equipment tied to its Ohio data-center buildout — 39% of its total committed advances — driving a roughly $7B quarterly net loss. Power-turbine stocks dipped on the news, since it's the same equipment class Anthropic bet $3.4B on this week (yesterday's digest): one AI financial backer is writing down turbine bets just as another is making a new one.
+
+**[Google Grapples With AI's Hit to Its Ads Juggernaut](https://www.theinformation.com/articles/google-grapples-ais-hit-ads-juggernaut)** — *The Information*
+*Signal:* Google advertisers report unspent budgets because AI Overviews and chat-style search are sending fewer clicks to pay-per-click ads — the clearest evidence yet that generative AI is cannibalizing the ad-auction model that funds Google's core business, not just the hypothetical disruption risk analysts have flagged for two years.
+
+↳ Together these suggest: Fed Governor Bowman said this week that AI-related price pressure now accounts for roughly a quarter of above-target core inflation — the same week CoreWeave's interest costs exceeded its operating income and SoftBank wrote off turbine bets. The AI buildout's macro footprint is now visible on the monetary-policy side and the private-credit side simultaneously, in the same data cycle.
+
+### Global Macro: The Hawkish Pivot Is No Longer Just Talk
+
+**[Prices rose by 0.4% in October from the previous month, the Labor Department said, higher than expected](https://www.wsj.com/economy/cpi-inflation-report-october-2026-369f8032?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* October CPI's hot print flipped CME FedWatch odds on a December hike from 84% to 100% in a single day (and from near-zero as recently as early fall). Fed's Goolsbee called the report "borderline disturbing," Dallas Fed's Logan said at least two more quarter-point hikes are needed with the pace possibly quickening, and Waller said he'd back a jumbo 50bp move if inflation stays hot. The 10-year Treasury broke above 5% on the data.
+*Read:* [Officials From Major Central Banks Signal More Rate Increases](https://www.bloomberg.com/news/articles/2026-11-11/officials-from-major-central-banks-signal-more-rate-increases) — *Bloomberg* — UK, US, and eurozone policymakers gathered in London and all leaned hawkish, while a UK think tank is now calling for the BOE to hit 5% — this is a globally synchronized pivot, not a US-only story.
+
+**[Fed's Bowman Warns of Stock Correction If AI Bets Don't Pan Out](https://www.bloomberg.com/news/articles/2026-11-10/fed-s-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out)** — *Bloomberg Economics*
+*Signal:* Bowman estimates AI-related demand accounts for roughly a quarter of above-target core PCE inflation, with core PCE likely rising to 3.3% in October from 3.1% — a sitting Fed governor is now treating the AI buildout as a monetary-policy variable, not just a market-valuation one, while warning of a stock correction if AI returns disappoint.
+
+**[Australia's Home Loans Fall by Record After Rapid RBA Rate Hikes](https://www.bloomberg.com/news/articles/2026-11-11/australia-s-home-loans-fall-by-record-after-rapid-rba-rate-hikes)** — *Bloomberg Economics*
+*Signal:* Australian home loans posted a record quarterly drop after the RBA's aggressive hikes — a preview of what the US, UK, and eurozone can expect as they follow the same hawkish path; the lag between hiking and the credit crunch showing up looks shorter than markets seem to be pricing.
+
+### Global Economy: Quiet Structural Signals
+
+**[An 800 Million Jobs Gap in the Developing World Fans New Risks](https://www.bloomberg.com/news/articles/2026-11-11/an-800-million-jobs-gap-in-the-developing-world-fans-new-risks)** — *Bloomberg Economics*
+*Signal:* The World Bank estimates developing economies face an 800-million-job shortfall over the next 15 years as youth populations peak just as AI-driven productivity gains reduce the labor-intensity of growth in advanced economies — a structural mismatch between where jobs are needed and where automation's gains are concentrating.
+
+**[Russian Push to Escape Dollar for Yuan Collapses Under Sanctions](https://www.bloomberg.com/news/articles/2026-11-11/russian-push-to-escape-dollar-for-yuan-collapses-under-sanctions)** — *Bloomberg Economics*
+*Signal:* Russia has effectively abandoned its push to replace the dollar with the yuan under the weight of US secondary sanctions — concrete evidence that Washington's sanctions reach extends deep into third-country financial relationships, a capability relevant to both the Iran sanctions campaign (below) and any future China-related sanctions threat.
+*Read:* [Trump's Plan to Import Russian Diesel Stalls on the High Seas](https://www.wsj.com/business/energy-oil/trumps-plan-to-import-russian-diesel-stalls-on-the-high-seas-a5b26b66?mod=rss_worldnews) — *WSJ* — tankers carrying Russian diesel bound for the US are rerouting because buyers won't touch the cargo; even Washington's own attempt to source Russian energy is running into the sanctions-chilling effect it built.
+
+**[Canada PM Carney Calls Stellantis Factory Sale 'Unacceptable'](https://www.wsj.com/business/autos/canada-pm-carney-calls-stellantis-factory-sale-unacceptable-f18e0afc?mod=rss_worldnews)** — *WSJ*
+*Signal:* Carney's vow to use "whatever legal and policy levers" are available to protect roughly 2,000 affected workers is a live test of how much industrial-policy leverage a G7 government actually has over a multinational automaker's restructuring decisions.
+
+**[EU Lays Out Plan to Tighten Online Consumer Protection Rules](https://www.wsj.com/world/europe/eu-lays-out-plan-to-tighten-online-consumer-protection-rules-33d59db5?mod=rss_worldnews)** — *WSJ*
+*Signal:* Brussels' new rules specifically target deceptive design, influencer marketing, and AI — the EU continuing its pattern of regulating platform and creator-economy practices well ahead of the US, which given the "Brussels effect" track record will likely become the de facto global standard for brand-influencer disclosure.
+
+**[India is quietly doing great](https://www.noahpinion.blog/p/india-is-quietly-doing-great)** — *Noahpinion (Noah Smith)*
+*Signal:* Smith argues India's growth story keeps outperforming skeptics even without becoming "the next China" — a useful counterweight to how much Western coverage fixates on US-China rivalry while a demographically massive third pole quietly compounds growth.
+
+### Geopolitics: US-Iran War Over Hormuz Escalates
+
+**[U.S., Iran Exchange Strikes on Islands as They Fight for Control of Strait](https://www.wsj.com/world/middle-east/u-s-iran-exchange-strikes-on-islands-as-they-fight-for-control-of-strait-895801e5?mod=rss_worldnews)** — *WSJ*
+*Signal:* US forces struck Iran's Qeshm Island, hitting a missile launcher, in retaliation for an Iranian surface-to-air missile downing a US drone — part of a deliberately low-profile campaign of undeclared strikes meant to degrade Iran's shipping-interdiction capability without officially escalating to full war. Maritime monitors logged 37 ship attacks in November alone, the highest monthly total since the war began in February.
+
+**[Iran denies talks with US, says Hormuz will stay shut until demands are met](https://www.aljazeera.com/news/2026/11/11/iran-denies-talks-with-us-says-hormuz-will-stay-shut-until-demands-are-met?traffic_source=rss)** — *Al Jazeera*
+*Signal:* IRGC-linked official Mohsen Rezaei called reports of a Qatar-brokered meeting "a pure lie" and said Hormuz won't reopen until Washington meets Tehran's seven demands, including sanctions relief and ending the naval blockade — though Foreign Minister Araghchi separately said the strait could reopen "within two days" if demands are met, a gap between hardline public rhetoric and a real, if narrow, diplomatic opening. The IRGC says three tankers caught fire Tuesday after hitting mines on an "unauthorized route."
+
+**[US Treasury chief Bessent moved to military base after 'Iranian threats'](https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Treasury Secretary Bessent moved to an undisclosed military base after a published aerial photo let Iran geo-locate his Georgetown mansion; a US intelligence memo said Iranian plots against US citizens had reached "an advanced stage." Treasury says Bessent "will not be deterred" from Operation Economic Outcast, the sanctions campaign he's run since August — the war is now reaching named US officials personally, not just shipping lanes.
+*Read:* US charges three men for allegedly plotting attack on UK base — *Al Jazeera* — a parallel case shows the same expanding pattern of alleged Iran-linked plots against Western targets beyond the Gulf.
+
+↳ Together these suggest: the war is broadening along two axes at once — geographically (UK bases, a US Cabinet secretary's home) and in intensity (a record monthly ship-attack count) — even as both sides keep gesturing toward an off-ramp that neither seems ready to actually take.
+
+### Geopolitics: China's Two-Track Diplomacy — Cooperate on AI Governance, Pressure on Taiwan
+
+**[China, Russia and US try to nail down AI nuclear agenda in time for Apec talks](https://www.scmp.com/news/china/diplomacy/article/3374003/china-russia-and-us-try-nail-down-ai-nuclear-agenda-time-apec-talks)** — *South China Morning Post*
+*Signal:* China, the US, and Russia have spent weeks negotiating a commitment to control AI's role in nuclear arsenals as part of a broader global-governance agenda, aiming to land it in time for APEC — a sign that even amid the Huang scandal and chip-export fight, the three powers see enough shared risk in AI-nuclear integration to negotiate jointly. Worth watching whether this becomes one of the few durable multilateral AI-safety commitments to actually land, given how adversarial almost everything else between these three is right now.
+
+**[How China's 2-for-1 diplomatic threat forced Japan's Takaichi to back down](https://www.scmp.com/news/china/diplomacy/article/3374025/how-chinas-two-one-diplomatic-threat-forced-japans-takaichi-back-down)** — *South China Morning Post*
+*Signal:* A Yomiuri report reveals the specific coercive mechanism Beijing used in a November 18 Beijing meeting to force PM Takaichi's climbdown on her Taiwan-contingency remarks — a rare, sourced account of how Beijing's coercive diplomacy actually works in practice, not just its outcomes.
+
+**[Malaysia moves to calm Taiwan chip investors after China remarks freeze talks](https://www.scmp.com/week-asia/politics/article/3374042/taiwan-pauses-malaysia-investment-talks-after-anwar-remarks-spark-fury-taipei)** — *South China Morning Post*
+*Signal:* Taiwan suspended investment talks with Malaysia after PM Anwar's China remarks, prompting Malaysia to scramble to reassure Taiwanese semiconductor investors — a small but real example of Taiwan using its chip-investment leverage as a diplomatic tool against third countries perceived as leaning toward Beijing.
+
+**[Jim Jordan elected US House Republican leader after crushing midterm defeat](https://www.scmp.com/news/us/politics/article/3373998/jim-jordan-elected-house-republican-leader-after-crushing-midterm-defeat)** — *South China Morning Post*
+*Signal:* House Republicans chose Jordan, an outspoken conservative, over outgoing Majority Leader Scalise to lead the party after the midterm wipeout — a sign the GOP conference is answering electoral defeat by consolidating around its base-energizing wing rather than moderating.
+
+↳ Together these suggest: Beijing is running cooperative diplomacy on the venue where it needs US/Russian buy-in (AI-nuclear governance) while running coercive diplomacy on the venues where it holds leverage alone (Japan, Malaysia) — three different postures, three different leverage calculations, in the same week.
+
+### US Politics: Midterm Fallout, Round Two
+
+**[Did Democrats save Pete Hegseth from impeachment?](https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Eleven Democrats were absent from the procedural vote, narrowly shelving the House impeachment push against Hegseth that looked plausible just yesterday — a reminder that even a Democratic-controlled House isn't unified on using impeachment against a war seen as politically costly to prosecute into an open-ended fight; Massie's privileged-resolution gambit from yesterday's digest didn't have the votes it looked like it might.
+
+### Platforms & Creator Economy: AI Agents Enter Commerce and Content
+
+**[X launches its own clipping feature to spur influencer engagement](https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/)** — *TechCrunch*
+*Signal:* X building native clip-generation tools is a direct play for the same influencer-engagement mechanic TikTok and YouTube Shorts already monetized — platform feature convergence continuing as X tries to rebuild a creator ecosystem from a much smaller base.
+
+**[Mars wants to future proof impulse buys as AI is poised to take over more grocery runs](https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Mars is restructuring its marketing around the assumption that AI shopping agents will increasingly handle grocery runs, which threatens the impulse-buy mechanic (checkout-aisle placement, packaging) core to confectionery marketing — a CPG giant treating agentic commerce as a near-term structural threat, not a future hypothetical.
+
+**[How the DNC won the FYP](https://www.linkinbio.news/p/the-dnc-social-media-strategy)** — *Link in Bio by Rachel Karten*
+*Signal:* The DNC's Deputy Chief Mobilization Officer describes a deliberate algorithm-targeting social strategy behind the midterm wins — political parties are now running the same platform-optimization playbook creators and brands use, which should reset expectations for how "organic" any party's viral political content really is going forward.
+
+**[To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)** — *Hacker News*
+*Signal:* New US rules tighten oversight of synthetic DNA ordering specifically to prevent AI-assisted bioweapon design from being operationalized through commercial gene-synthesis services — a concrete, proactive piece of AI-biosecurity regulation that's easy to miss next to the Huang/Nvidia noise this week, but is exactly the kind of quiet-but-important structural move worth flagging.
+
+---
+
+### 🔭 Predictions
+
+> 1. **The Fed hikes in December, and markets haven't priced how far Logan and Waller want to go.** CME FedWatch flipped from 84% to 100% odds on a single CPI print, but the "two-plus hikes, possibly a 50bp jumbo" language from Logan and Waller suggests this cycle could run through Q1 2027 rather than stopping at one hike — a repricing that will hit AI-infrastructure debt (CoreWeave-style) harder than AI equities, since credit markets are already flagging distress at current rates.
+> 2. **The H200-smuggling disclosure, not Huang's personal fate, becomes Congress's actual lever.** With documented proof that export controls are already leaking via resellers and cloud-rental schemes, the November 18 congressional briefing is more likely to produce enforcement-mechanism legislation closing that loophole than any resolution of Huang's job status — boards move slowly on CEOs, but Congress moves fast on a demonstrated loophole.
+> 3. **Hormuz de-escalates rhetorically before it de-escalates in practice.** Araghchi's "two days" reopening offer and the Qatar-shuttle diplomacy suggest both sides want an off-ramp, but a record 37 ship attacks this month and an expanding target list (Bessent's home, UK bases) mean the physical conflict likely continues for weeks after any announced ceasefire framework — similar to how the chip-export fight kept escalating even as the broader US-China trade truce deepened.
+
+---
+*28 items across 9 topics — covering 2026-11-11*
