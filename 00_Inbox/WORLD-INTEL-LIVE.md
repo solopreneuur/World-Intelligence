@@ -1,9 +1,123 @@
-Last Digest: 2026-11-11
+Last Digest: 2026-11-12
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
 
-## 2026-11-10 — Daily Sweep
+## 2026-11-12 — Daily Sweep
+
+### AI Industry: Nvidia's Board Moves From Investigation to Endgame
+
+**[Nvidia's stock drops as board reportedly preps to oust CEO Jensen Huang](https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/)** — *TechCrunch*
+*Signal:* The board met Wednesday night to decide Huang's fate, and Nvidia is already working with an outside firm to line up CEO candidates — a step that signals the board sees this as a live succession event, not a wait-and-see posture. The stock fell ~8% after-hours and is down ~11% over five days, and the market reaction has a specific cause: Huang reportedly has ~60 direct reports and delegates minimal authority, so his removal isn't just a personnel change, it's an operating-model shock with no tested backup.
+*Read:* [The Information: Nvidia CEO's Exit Looms](https://www.theinformation.com/articles/nvidia-ceos-exit-looms) and [Who could replace Jensen Huang?](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/) — *TechCrunch* — succession speculation this detailed, this fast, confirms the board itself is treating an exit as the base case.
+
+**[Jensen Huang accused of having another affair — with an Nvidia exec](https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/)** — *TechCrunch*
+*Signal:* A second, unrelated affair allegation — this one with a direct subordinate, per the New York Times — lands the same night as the ouster-prep reporting. It removes the "sympathetic victim of an espionage honeypot" framing Huang's camp has been using, and converts this from a national-security story the board might have survived into a garden-variety workplace-conduct story that boards reliably do not survive.
+*Read:* [SCMP: Nvidia's Jensen Huang affair revives China Initiative concerns in Silicon Valley](https://www.scmp.com/news/china/science/article/3374151/nvidias-jensen-huang-affair-revives-china-initiative-concerns-silicon-valley) — Chinese professionals in the Valley are watching the espionage angle revive a Trump-era prosecution program many saw as racial profiling — a second-order chilling effect on Chinese-American scientists that has nothing to do with whether Huang himself is guilty.
+
+**[Commerce Department Finalizing Long-Awaited AI Remote Access Rule](https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule)** — *The Information*
+*Signal:* This rule — closing the loophole that let Chinese firms rent remote access to advanced chips sitting in third-country data centers — predates the Huang scandal but is landing in the same week as yesterday's disclosure that Chinese buyers were already using reseller and cloud-rental schemes to route around export bans. Policy that was "long-awaited" is suddenly politically easy to finalize; the scandal didn't create the enforcement gap, but it removed whatever was slowing the fix.
+*Read:* [Using voltage glitching to unlock the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/) — *Hacker News* — a hobbyist hardware bypass of Nvidia's datacenter-chip feature locks is a small example of the same enforcement-gap problem Commerce is trying to close at the policy level: locked-down compute is only as secure as the weakest physical safeguard.
+
+### Geopolitics: Trump Eyes a Three-Way Summit While Two Wars Send Mixed Signals
+
+**[Trump-Xi-Putin summit under discussion as US allies watch on](https://www.scmp.com/plus/news/china/diplomacy/article/3374199/trump-xi-putin-summit-under-discussion-us-allies-watch)** — *SCMP*
+*Signal:* Rubio raised the idea with Wang Yi by phone ahead of Trump's Asia tour and the APEC Shenzhen summit (Nov 18-19) — an unprecedented three-way sitdown would be a big step beyond the bilateral Xi-Trump meetings already scheduled, and allies watching from outside the room (Japan, Taiwan, the Gulf states already bracing for congressional subpoenas, below) have reason to worry about what gets traded away in a room they're not in.
+
+**[US envoys arrive in Moscow for Russia-Ukraine talks with Putin](https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Kushner and Witkoff are going straight to Moscow after two days of trilateral talks in the UAE produced no breakthrough — escalating from indirect, third-country shuttle diplomacy to a direct Washington-Moscow channel. That's usually what happens either right before a deal or right before both sides conclude shuttle diplomacy has run its course.
+
+**[Iran warns of expanded retaliation as Israel reportedly readies to attack](https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack?traffic_source=rss)** — *Al Jazeera*
+*Signal:* This lands the same day Iran's chief negotiator Ghalibaf told Al Jazeera that Tehran is "open to a deal if the US refrains from excessive demands" — the same good-cop/bad-cop split between hardline threat and open diplomatic door that's defined Iran's posture since the Hormuz war began. Yesterday's prediction that Hormuz "de-escalates rhetorically before it de-escalates in practice" looks on track: rhetoric is softening in one channel while Israel's own military track hardens in parallel.
+
+**[From the UK to the Gulf, are US overseas bases becoming liabilities?](https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The argument: Iran has shown it can threaten forward US bases directly, changing a decades-old calculation that overseas basing was a cost-free power-projection tool.
+*Read:* [WSJ: The Spread of Cheaper Ballistic Missiles Rips Up Decades of Military Thinking](https://www.wsj.com/world/the-spread-of-cheaper-ballistic-missiles-rips-up-decades-of-military-thinking-e6ef7fac?mod=rss_worldnews) — cheap ballistic missiles plus thinning US interceptor stockpiles are the mechanism behind the liability argument, not just Iran-specific bravado.
+↳ Together these suggest: the basing-liability debate and the missile-proliferation story are the same structural shift described from two angles — forward-deployed power projection is getting more expensive just as Washington is trying to open three separate diplomatic fronts (Iran, Russia, and a prospective Xi-Putin summit) from a position that increasingly requires defending the venues themselves.
+
+**[Xi Jinping says Taiwan 'reunification' with China must happen](https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A blunt restatement of the maximalist position, timed just before Taiwan sends Acer founder Stan Shih to the Shenzhen APEC summit with instructions to demand "equal footing" for the "Chinese Taipei" delegation — Beijing is hardening rhetoric on sovereignty exactly as it's hosting the venue where Taiwan has to show up anyway.
+
+### US Politics: A Senate Upset and a Subpoena Pipeline Aimed at Trump's Gulf Allies
+
+**[Democrat pulls off upset to become Mississippi's first Black US senator since 1874](https://www.scmp.com/news/world/united-states-canada/article/3374129/democrat-colom-defeats-hyde-smith-mississippi-win-historic-senate-seat)** — *SCMP*
+*Signal:* Scott Colom's win over incumbent Republican Cindy Hyde-Smith in a special election is the kind of result that doesn't happen in a genuinely safe-Republican Southern seat — it's the clearest single data point yet that the midterm wipeout referenced in yesterday's digest (which cost House GOP leadership and triggered the Jim Jordan ascension) wasn't a one-cycle protest vote but a trend still running weeks later.
+
+**[Gulf allies' Trump ties hand a hostile US Congress subpoena targets](https://www.scmp.com/week-asia/politics/article/3374150/gulf-allies-trump-ties-hand-hostile-congress-subpoena-targets)** — *SCMP*
+*Signal:* Saudi Arabia, the UAE, and Qatar are all expected to be pulled into Democratic-controlled Congress's investigations of Trump-family business dealings — the same new House majority that is already shaping the Huang briefing calendar (Nov 18) is now building out a second, parallel investigative track that could complicate Gulf diplomacy right as Trump needs those same allies' cooperation on Iran.
+
+### US-China Tech War: Decoupling Keeps Compounding on Both Sides
+
+**[Nexperia's China unit claims supply chain 'localisation' as rift with Dutch parent deepens](https://www.scmp.com/tech/tech-war/article/3374170/nexperias-china-unit-claims-supply-chain-localisation-rift-dutch-parent-deepens)** — *SCMP*
+*Signal:* More than a year after the Dutch parent halted direct European wafer shipments, Nexperia's Chinese unit says its domestic 12-inch wafer platform now covers every product category it makes — this is forced decoupling working as a proof of concept: a mid-tier chipmaker cut off from its own parent company's supply chain has rebuilt a parallel one domestically rather than collapsing, which undercuts the assumption that export controls simply strangle the target.
+*Read:* [China signals focus shift to policy delivery as PBOC drops stimulus language](https://www.scmp.com/economy/china-economy/article/3374160/china-signals-focus-shift-policy-delivery-pboc-drops-stimulus-language) — Beijing dropping stimulus language from its quarterly report, pointing instead to December's policy meeting, is consistent with a leadership that's betting on exactly this kind of domestic-substitution resilience rather than fresh demand-side support.
+
+**[Huawei releases MACaQ, its internal quantizer for local inference](https://github.com/huawei-csl/MACaQ)** — *Hacker News*
+*Signal:* A Chinese chipmaker open-sourcing its own inference-quantization tooling is a small but concrete data point in the same decoupling story as Nexperia: China's AI stack is building out its own tooling layer, not just its own silicon, which matters because tooling lock-in is often stickier than hardware lock-in.
+
+### Global Macro: A Hawkish Dollar Meets an AI-Powered UK, While Japan and Turkey Strain
+
+**[Dollar Rises to 19-Month High on Fed Rate-Hike Bets](https://www.wsj.com/economy/central-banking/euro-falls-to-18-month-low-against-dollar-on-fed-rate-hike-bets-02d386c5?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* The dollar's rise and Treasury yields climbing further (even as European bond yields fall) is the next leg of yesterday's CPI-driven hawkish-pivot story — the repricing from an 84% to 100% December-hike probability is now visibly showing up in currency and rates markets, not just Fed-speak.
+
+**[Yen Hovers Near Key 160 Level, Fueling Intervention Concerns](https://www.bloomberg.com/news/articles/2026-11-12/yen-hovers-near-key-160-level-fueling-intervention-concerns)** — *Bloomberg*
+*Signal:* Japan's currency chief is explicitly invoking this summer's intervention as precedent, and a Bank of Japan board member separately called accelerating producer-price inflation a reason for "another hike" — Tokyo is being squeezed from both directions at once: a weakening yen that argues for hiking, and hiking's own growth risk that argues for caution. The dovish board member's "open to hikes but cautious on pace" framing is the sound of a central bank trying to thread a needle with no good exit.
+
+**[AI Helps UK Economy Post Strongest Growth Since Early 2024](https://www.bloomberg.com/news/articles/2026-11-12/uk-economy-defies-headwinds-with-strongest-growth-since-2024)** — *Bloomberg*
+*Signal:* UK GDP grew 0.7% in Q3, the fastest since Q1 2024, with AI investment cited as a direct driver of business and consumer spending even as the economy absorbs an energy shock from the Iran war — a data point for the bulls in today's AI-bust debate (below): at least one G7 economy is getting measurable growth lift from AI capex right now, not just hypothetical future productivity gains.
+
+**[Germany's Economic Advisers More Than Double 2026 Growth Forecast](https://www.bloomberg.com/news/articles/2026-11-11/german-economic-advisers-more-than-double-2026-growth-forecast)** — *Bloomberg*
+*Signal:* Vast government spending and surprisingly robust exports are driving the revision — a reminder that fiscal expansion, not AI capex, is still doing the heavy lifting for the Eurozone's largest economy, a different growth mechanism than the UK's AI-driven story right above it.
+
+**[Turkey Raises Inflation Forecasts on War, Fund-Rout Effects](https://www.bloomberg.com/news/articles/2026-11-12/turkey-central-bank-raises-end-2027-inflation-forecast-to-21)** — *Bloomberg*
+*Signal:* Turkey's central bank is citing both the Iran war's regional spillover and a domestic fund scandal as inflation drivers — a reminder that the Hormuz conflict's economic damage isn't confined to shipping routes; it's already showing up in a NATO member's monetary-policy forecasts two tiers removed from the Gulf.
+
+**[A Quarter of Key Goods Vulnerable to Supply Disruptions, Study Finds](https://www.wsj.com/economy/global/a-quarter-of-key-goods-vulnerable-to-supply-disruptions-study-finds-9de58410?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* McKinsey's finding that a quarter of traded goods are concentrated in supply chains vulnerable to disruption is the structural backdrop against which the Hormuz war, the Nexperia rift, and Black Sea shipping risk are all playing out — three separate acute crises hitting an already-fragile baseline, not three isolated events.
+
+### AI Industry: The Capital-Intensity Debate Spreads From Credit Markets to Equity Forecasts
+
+**[The Global Economy Looks Vulnerable to an AI Bust](https://www.wsj.com/economy/the-global-economy-looks-vulnerable-to-an-ai-bust-a04bb0f1?mod=rss_worldnews)** — *WSJ*
+*Signal:* Asian economies tied to the US data-center build-out — chipmakers, memory suppliers, construction and power-equipment exporters — are flagged as the most exposed if AI capex slows, which converts "AI bust" from a US equity-valuation question into a global trade-flow question.
+
+**[AI Malaise, Midterms Cloud 2027 Profits After Blowout Quarter](https://www.bloomberg.com/news/articles/2026-11-11/ai-malaise-midterms-cloud-2027-profits-after-blowout-quarter)** — *Bloomberg*
+*Signal:* Analysts are cutting 2027 S&P 500 profit forecasts even after a blowout Q3 — the disconnect itself is the signal: current-quarter results are strong, but forward estimates are being marked down on AI-spending durability doubts and midterm-driven policy uncertainty, meaning the market is pricing a slowdown that hasn't shown up in the numbers yet.
+
+**[CoreWeave turns to customer prepayments, shorter contracts to fund AI growth](https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/)** — *TechCrunch*
+*Signal:* This is the financing-side sequel to yesterday's CoreWeave disclosure (revenue doubled to $3.66B, but interest expense now exceeds operating income against $46.9B in GPU-collateralized debt): asking customers to pay up front and accepting shorter, possibly pricier contracts is what a capital-constrained company does when the debt markets get more expensive than the customer relationship.
+
+**[Meta's Infrastructure Chief Is Leaving Amid Massive AI Buildout](https://www.theinformation.com/briefings/metas-infrastructure-chief-leaving-amid-massive-ai-buildout)** — *The Information*
+*Signal:* Santosh Janardhan departing as head of global infrastructure, replaced by an AWS veteran, is a leadership change at exactly the moment the capital-intensity story (CoreWeave, SoftBank's turbine write-off from yesterday) is becoming a live risk — bringing in outside cloud-infrastructure discipline suggests Meta's own board sees the AI-buildout execution risk as real enough to need a specialist, not just a believer.
+
+**[AI Inference Startups Are Quietly Buying Their Own Chips](https://www.theinformation.com/articles/ai-inference-startups-quietly-buying-chips)** — *The Information*
+*Signal:* Startups that built their entire model on reselling leased cloud GPU capacity — avoiding capex entirely — are starting to buy chips directly because they can no longer reliably lease enough capacity. The capital-light inference-arbitrage business model is quietly becoming capital-heavy, one of the clearest tells yet that GPU capacity, not GPU demand, is the actual constraint right now.
+
+**[Top Economists Clash Over AI Threat to Junior Research Jobs](https://www.bloomberg.com/news/newsletters/2026-11-11/top-economists-clash-over-ai-threat-to-junior-research-jobs)** — *Bloomberg*
+*Signal:* The economics profession arguing over whether AI guts its own entry-level pipeline is notable because former White House economist Jason Furman is separately asking a related question this week — what happens to the discipline's authority once AI can do the junior analytical work economists have always used to train judgment — and neither side has an answer, which is itself telling about how fast this moved from hypothetical to live personnel question inside one specific, AI-literate profession.
+
+### Platforms & AI Agents: Commerce Starts Pushing Back on Autonomous Agents
+
+**[United Airlines blocks AI agents like Muse and Instinct from booking flights](https://www.theinformation.com/briefings/united-airlines-blocks-ai-agents-like-muse-instinct-booking-flights)** — *The Information*
+*Signal:* United's ban — covering direct bookings and travel agencies/aggregators alike — follows similar moves by banks and retailers citing privacy and fraud concerns, and lands the same week as yesterday's digest item on X's influencer-clipping feature and Mars's AI-shopping-agent bet: platforms and brands are simultaneously racing to build for agentic commerce and racing to lock agents out of specific high-fraud-risk transaction types. The two trends aren't contradictory — they're both about who controls the interface, and airlines have decided the answer is "not yet, not us."
+
+### Creator Economy & Marketing: Budgets Shift From Posts to Formats Platforms Don't Yet Monetize Well
+
+**[Why brands like Anthropologie are commissioning creator-created shows instead of posts](https://digiday.com/marketing/why-brands-like-anthropologie-are-commissioning-creator-created-shows-instead-of-posts/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Brands moving from booking one-off creator posts to green-lighting recurring creator-led shows is a budget-structure shift, not a format trend — it converts a transactional ad-hoc spend line into something closer to a production commitment, which changes how agencies price creator relationships and gives bigger creators more predictable revenue than the sponsorship-by-post model ever did.
+
+**[LinkedIn brings its B2B ad targeting to U.K. connected TVs](https://digiday.com/marketing/linkedin-brings-its-b2b-ad-targeting-to-u-k-connected-tvs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* LinkedIn extending its professional-targeting data to CTV inventory is a platform trying to monetize its one genuinely differentiated asset (verified professional/firmographic data) on a screen format it has never owned — worth watching whether B2B advertisers actually follow onto CTV or whether this stays a niche test.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Huang is out before Nvidia's Q3 earnings, not after.** The board is already sourcing external CEO candidates and a second, unrelated affair allegation has eliminated the "espionage victim" narrative his defenders were building — boards move slowly on ambiguous cases but fast once the sympathetic framing collapses, and earnings (just after the Nov 18 congressional briefing) is the natural forcing event.
+> 2. **A Trump-Xi-Putin summit gets announced in principle but doesn't happen at Shenzhen.** Rubio floating it to Wang Yi this early, combined with Taiwan's "equal footing" demand and Xi's blunt reunification language landing the same week, suggests the logistics and optics of a three-way sitdown at a venue Taiwan also attends are harder to resolve than the diplomatic appetite for one.
+> 3. **The AI-bust debate splits along a UK/US fault line before it resolves either way.** The UK posting AI-driven growth while US forecasters cut 2027 profit estimates on AI-spending durability doubts is the same technology producing opposite-signed macro readings in two economies in the same week — expect this divergence, not a consensus verdict, to be the next few weeks' actual AI-economy story.
+
+---
+*30 items across 8 topics, covering 2026-11-12*
 
 ### AI Industry: The Nvidia Scandal Enters Its Legislative Phase
 
