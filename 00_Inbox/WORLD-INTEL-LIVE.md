@@ -1,7 +1,126 @@
-Last Digest: 2026-11-12
+Last Digest: 2026-11-13
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-11-13 — Daily Sweep
+
+### AI Industry: Huang's Exit Becomes a Legislative and Geopolitical Earthquake
+
+**[Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?](https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/)** — *TechCrunch*
+*Signal:* Nvidia's board accepted Huang's resignation Thursday after a week of affair disclosures, naming CFO Colette Kress interim CEO and former Synopsys CEO Harvey Jones as the company's first-ever independent board chair — a new governance layer, not just a leadership swap, for a 33-year-old company that has never had anyone but Huang at the top. The stock fell further, pushing Nvidia's market value below $4 trillion.
+*Read:* [Jensen Huang's abrupt exit stuns Nvidia's China staff, clouding the outlook in a key market](https://www.scmp.com/tech/big-tech/article/3374316/jensen-huangs-abrupt-exit-stuns-nvidias-china-staff-clouding-outlook-key-market) — *SCMP* — staff in a market Huang personally cultivated for decades say they don't understand the decision, a reminder that the resignation reads very differently inside China than inside Washington.
+
+**[Nvidia's Huang, Lutnick summoned to testify to US Senate](https://www.aljazeera.com/news/2026/11/13/nvidias-huang-lutnick-summoned-to-testify-to-us-senate?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Senate Banking Chairman Tim Scott has set a December 3 public hearing and threatened subpoenas if Huang and Commerce Secretary Howard Lutnick don't appear; House committees want them even sooner, December 1–2. Pulling Lutnick into the same hearing as Huang converts this from a personal-conduct story into a formal inquiry into whether Commerce adequately vetted chip exports and blacklist decisions — a far more durable threat to the China chip-trade regime than any single CEO's fate.
+
+**[Nvidia employees petition to bring back Jensen Huang](https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/)** — *Hacker News / Wired*
+*Signal:* Rank-and-file loyalty splitting from the board's decision is a retention and culture risk for whoever becomes permanent CEO, and complicates the board's ability to present Huang's exit as a clean break.
+*Read:* [Trump floats Apple chairman Tim Cook as Jensen Huang's successor](https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/) — *TechCrunch* — a sitting president publicly naming a rival company's CEO as successor, without any apparent coordination with Nvidia's board, shows how much the search itself has become a White House-managed political story.
+
+**[Could Nvidia scandal put Malaysia's AI boom in US crosshairs?](https://www.scmp.com/week-asia/economics/article/3374351/could-nvidia-scandal-put-malaysias-ai-boom-us-crosshairs)** — *SCMP*
+*Signal:* Southeast Asia's data-center buildout — built on the premise of being a safe, allied alternative to Chinese chip access — now risks getting caught by export rules tightened in response to a scandal the region had nothing to do with. Policy collateral damage, not punishment for wrongdoing.
+*Read:* [China's SMIC sees AI computing crunch until 2028 as Nvidia heat risks tighter chip curbs](https://www.scmp.com/tech/big-tech/article/3374305/chinas-smic-sees-ai-computing-crunch-until-2028-nvidia-heat-risks-tighter-chip-curbs) — *SCMP* — the mirror image: Chinese chipmakers are betting the scandal makes compute scarce for everyone, for years, not just this news cycle.
+
+**[Companies Linked to Alice Huang Invested in DeepSeek](https://info-reader-production.herokuapp.com/briefings/companies-linked-alice-huang-invested-deepseek)** — *The Information*
+*Signal:* A network of companies tied to Alice Huang — the alleged Chinese spy at the center of the affair — directly financed China's most prominent open-source AI lab while allegedly courting access to Nvidia chips. This is the clearest documented link yet between the personal scandal and an actual national-security pathway, not just reputational damage.
+*Read:* [Alice Huang Barred from Re-Entering Singapore After Lying to Authorities](https://info-reader-production.herokuapp.com/briefings/alice-huang-barred-re-entering-singapore-lying-authorities) — *The Information* — a second government, unconnected to the US investigation, has independently concluded she misrepresented facts, corroborating the spying allegations from an unrelated jurisdiction.
+
+**[Nscale, Firmus Deals Hinge on Nvidia Extending Investment Sprint](https://info-reader-production.herokuapp.com/articles/nvidias-dealmaking-binge-faces-reckoning-jensen-huangs-exit)** — *The Information*
+*Signal:* Huang personally drove Nvidia's three-year binge of backing AI startups and neoclouds to manufacture chip demand. Kress has a known track record of reining in Nvidia's riskiest bets — if she slows that investment pace as CEO, the startups and clouds that depend on Nvidia's capital, not just its chips, are exposed.
+
+**[Cyberattack on Fireworks AI allowed hackers to access Notion customers' chat transcripts](https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/)** — *TechCrunch*
+*Signal:* Fireworks' second breach in two months, landing the same week as the SMIC chip-crunch and TSMC vendor-data stories below — enterprise AI's trust problem is compounding on the infrastructure side even as the governance story dominates headlines on the leadership side.
+
+### AI Industry: Capital Intensity Keeps Compounding
+
+**[SpaceX and Tesla Could Announce Merger as Soon as December](https://info-reader-production.herokuapp.com/briefings/spacex-tesla-announce-merger-soon-december)** — *The Information*
+*Signal:* Combining the $1.9 trillion rocket-and-satellite maker with the $1.5 trillion automaker would be the largest acquisition on record. Folding Tesla's slower growth into SpaceX/Starlink's stronger one, under one Musk-controlled balance sheet, is a different kind of capital-structure move than the AI-buildout financing stress (CoreWeave, Nebius, SoftBank) dominating the rest of this week's digests — but it's the same underlying instinct: consolidate balance sheets before capital gets more expensive.
+
+**[ByteDance to Buy Back Shares at $400 Billion Valuation](https://info-reader-production.herokuapp.com/articles/bytedance-buy-back-shares-400-billion-valuation)** — *The Information*
+*Signal:* A 20% valuation bump from last year's buyback, offered directly to existing investors rather than through a public listing. ByteDance keeps choosing managed liquidity over an IPO — avoiding the disclosure requirements a Western-listed TikTok parent would face amid ongoing US political scrutiny of the platform.
+
+### Tech: A Day of Global Infrastructure Failures
+
+**[Microsoft hit by global outages: What happened and why?](https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Outlook, Teams, and Copilot were disrupted across 74 countries for more than 24 hours, hitting government systems in Singapore, Japan, and Australia along with Hong Kong's financial sector. Microsoft ruled out a cyberattack; the likely cause — a bad internal update cascading into server overload — is structurally identical to last year's CrowdStrike incident, which is already fueling European "digital sovereignty" arguments for moving off US cloud providers.
+*Read:* [Microsoft Outlook outage puts Hong Kong's financial sector on hold](https://www.scmp.com/business/banking-finance/article/3374291/microsoft-outlook-outage-disrupts-workers-hong-kongs-financial-sector) — *SCMP* — Goldman Sachs and Nomura staff among those disrupted, showing the outage reached deep into trading-critical workflows, not just consumer email.
+
+**[TSMC Hacked](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm)** — *Hacker News / SEC filing*
+*Signal:* TSMC's own filing narrows the "hacked" headline considerably: employee personal data was exposed via a third-party cloud vendor's systems, with no evidence chip operations or customer data were touched. Narrower than it sounds, but it's the second AI/chip-supply-chain vendor security incident disclosed this week after Fireworks/Notion.
+
+**[Brave Search API now accepts agentic payments via the x402 protocol](https://brave.com/blog/search-api-agentic-payments/)** — *Hacker News*
+*Signal:* A search provider building native machine-to-machine payment rails is the infrastructure layer underneath this week's story about brands and platforms simultaneously building for, and locking out, autonomous AI agents (United's agent-booking ban, yesterday's digest). Someone has to build the plumbing that lets agents actually transact, and search providers are moving first.
+
+### Geopolitics: Escalation Fronts Widen
+
+**[Iran says it targeted US radar site in Bahrain](https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The IRGC's claimed strike on a US early-warning radar — the first claimed Iranian attack on a US asset in a Gulf country since early September — is retaliation for an alleged strike on an Iranian telecom tower, with Tehran warning it will "engage without limits" if provocations continue. This is a direct test of this week's basing-liability thesis: a forward US radar getting targeted is exactly the scenario that argument warned about.
+*Read:* [Iran's New Cyber Playbook: Create Real-World Havoc](https://www.wsj.com/world/middle-east/irans-new-cyber-playbook-create-real-world-havoc-8ea2dffc?mod=rss_worldnews) — *WSJ* — Tehran is pairing the kinetic escalation with intensified cyberattacks on tankers and infrastructure, a two-track pressure campaign rather than a single-domain response.
+
+**[US envoys shuttle between Putin and Zelenskyy](https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Putin is holding firm on hardline demands even as Washington pulls Europe into the next round of talks — a sign the US may be broadening the table because the bilateral channel alone isn't moving him.
+*Read:* [Putin Had Four Plans to Defeat Ukraine. He Only Has Two Left.](https://www.wsj.com/world/russia/putin-had-four-plans-to-defeat-ukraine-he-only-has-two-left-7875e5a6?mod=rss_worldnews) — *WSJ* — the Kremlin's hopes for an outright military win or a Trump-brokered deal have faded; its remaining bets are on Ukraine's economic collapse and eroding European support, a slower theory of victory than either side has publicly admitted.
+
+**[Israeli strike on Gaza hospital deadliest since election](https://www.scmp.com/news/world/middle-east/article/3374264/israeli-strike-gaza-hospital-kills-11-deadliest-attack-election)** — *SCMP*
+*Signal:* Eleven killed, six in a strike on Nasser hospital — the deadliest single strike since last month's Israeli elections, a reminder that political change at home hasn't yet translated into a change in operational tempo in Gaza.
+
+**[Why midterms are set to push Middle East powers to relook US ties](https://www.scmp.com/week-asia/politics/article/3374340/why-midterms-are-set-push-middle-east-powers-relook-us-ties)** — *SCMP*
+*Signal:* Israel, the UAE, Saudi Arabia, Turkey, and Pakistan are all reportedly accelerating moves toward more independent foreign and defense policies after the Democratic midterm sweep — US regional allies hedging against policy volatility before Washington even changes hands is itself a vote of no-confidence in the durability of current US commitments.
+↳ Together these suggest: the Bahrain radar strike and the allied hedging story are the same dynamic from two angles — forward US posture in the Gulf is getting more contested militarily and more questioned diplomatically in the same week.
+
+### Global Macro: Hawkish Alignment Keeps Building
+
+**[Euro-Zone Shows Solid Growth as ECB Weighs Another Rate Hike](https://www.bloomberg.com/news/articles/2026-11-13/euro-zone-shows-solid-growth-as-ecb-weighs-another-rate-hike)** — *Bloomberg Economics*
+*Signal:* Confirmed eurozone resilience to the Iran war's headwinds gives the ECB room to hike further — another data point in the synchronized hawkish-pivot story spanning the BOJ, ECB, Riksbank, and the Fed flagged across this week's digests.
+
+**[Japan's Katayama Warns of FX Steps as Yen Stays Near 160](https://www.bloomberg.com/news/articles/2026-11-13/japan-s-katayama-warns-of-fx-steps-after-one-sided-rapid-moves)** — *Bloomberg Economics*
+*Signal:* Tokyo is repeating its summer intervention rhetoric (when it spent a record $50B, coordinated with Washington). That verbal warnings alone haven't moved the yen off 160 suggests markets are testing how serious Japan is this time before another costly intervention becomes necessary.
+
+**[Fed's Williams Says Inflation 'Far Too High,' Work to Do](https://www.bloomberg.com/news/articles/2026-11-13/fed-s-williams-says-inflation-far-too-high-still-work-to-do)** — *Bloomberg Economics*
+*Signal:* Another regional Fed president, after Daly, Barkin, and Goolsbee, reinforcing the hawkish chorus — the hike-bias consensus inside the Fed looks broader than just a few outspoken voices.
+
+**[Sales of Existing US Homes Tumble to Lowest Level Since 2010](https://www.bloomberg.com/news/articles/2026-11-12/sales-of-existing-us-homes-tumble-to-lowest-level-since-2010)** — *Bloomberg Economics*
+*Signal:* A 16-year low, down 5.5% month-on-month — a structural, multi-year deterioration rather than a single bad print, landing in the same week the Fed is leaning harder hawkish, meaning housing gets no relief from the direction policy is heading.
+
+**[Bessent Sees Ending 'Tax Gimmicks' as Option to Trim US Deficit](https://www.bloomberg.com/news/articles/2026-11-13/bessent-sees-ending-tax-gimmicks-as-option-to-trim-us-deficit)** — *Bloomberg Economics*
+*Signal:* Treasury signaling openness to closing loopholes only if Democrats show they're "serious" about debt reduction — conditional bipartisanship on fiscal policy from an administration that has otherwise shown little appetite for deficit discipline.
+
+### US-China: Trade Ties Deepen as Tech Rift Hardens
+
+**[Court-appointed administrators to sound out investors for Nexperia stake amid Wingtech feud](https://www.scmp.com/tech/tech-war/article/3374320/court-appointed-administrators-sound-out-investors-nexperia-stake-amid-wingtech-feud)** — *SCMP*
+*Signal:* Administrators are now shopping a majority or minority stake to outside investors after Wingtech rejected handing over non-China operations — the forced-decoupling story from yesterday's digest (China's unit building a parallel domestic supply chain) now has a parallel ownership-structure fight playing out over the rest of the company.
+
+**[Destroy raided documents, Dutch court tells Jaguar Land Rover in IP fight with BYD](https://www.scmp.com/business/china-business/article/3374319/destroy-raided-documents-dutch-court-tells-jaguar-land-rover-ip-fight-byd)** — *SCMP*
+*Signal:* A European court siding with a Chinese EV maker against a legacy Western carmaker in an IP dispute is a small but concrete data point that Chinese companies are starting to win, not just survive, fights on Western legal turf.
+
+**[Yuan May Double Global Payment Share as Usage Climbs, HSBC Says](https://www.bloomberg.com/news/articles/2026-11-13/yuan-may-double-global-payment-share-as-usage-climbs-hsbc-says)** — *Bloomberg Economics*
+*Signal:* A bank executive projecting the yuan's 6–7% global payment share could double is aggressive even by yuan-internationalization-booster standards — worth checking against actual SWIFT data rather than taking as given, but it signals where China's financial diplomacy ambitions are heading as trade ties deepen.
+
+### Creator Economy & Marketing: Measurement and Consolidation
+
+**[The IAB has had enough: It's calling on platforms to standardize the definition of a "view"](https://www.tubefilter.com/2026/11/12/iab-creator-economy-view-measurement-standard/)** — *Tubefilter*
+*Signal:* YouTube's August change to view-counting — framed as helping creators get better brand-deal data — is now facing industry pushback for making cross-platform measurement harder, not easier. A structural fight over who controls the metrics that set ad and sponsorship pricing.
+
+**[Playfly's CEO explains why leagues are looking to consolidate local sports rights](https://digiday.com/media-buying/playflys-ceo-explains-why-leagues-are-looking-to-consolidate-local-sports-rights/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Regional sports network collapse is pushing leagues toward consolidated rights deals — a structural shift in how live sports, one of the last reliably valuable TV ad formats, gets packaged and sold.
+
+**[Mattel brings Barbie, Hot Wheels to TikTok Shop](https://digiday.com/marketing/mattel-brings-barbie-hot-wheels-to-tiktok-shop/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* A major legacy toy brand committing roughly 20 products across four franchises to TikTok Shop is a bet that social commerce is now reliable enough for brands with decades of existing retail relationships, not just DTC-native sellers.
+
+**[AI is turning ad tech into a fight for the brain behind the buy](https://digiday.com/media-buying/ai-is-turning-ad-tech-into-a-fight-for-the-brain-behind-the-buy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* As AI automates the mechanical steps of ad buying, the competitive battleground shifts to who controls the decisioning layer — the structural fight digital marketing has been heading toward since programmatic automation began, now accelerated by AI agents making the actual bid decisions.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Nvidia's permanent CEO search runs months, not weeks.** Kress's track record reining in Nvidia's riskiest bets, paired with Tim Cook's public floating looking more like a markets-reassurance gesture than a live candidacy, suggests the board wants to evaluate capital discipline before committing to a permanent successor — a deliberate process, not a fast coronation.
+> 2. **The December 3 Senate hearing becomes the launchpad for new chip-export legislation, not just Huang's personal testimony.** Summoning Lutnick alongside Huang structurally frames the hearing around export-control failure, and legislative vehicles historically move fastest in the days right after a hearing generates fresh public outrage.
+> 3. **Iran's Bahrain radar strike draws a deniable, not overt, response.** With Washington juggling Moscow shuttle diplomacy and a prospective Trump-Xi-Putin summit in parallel, open military retaliation against Iran risks blowing up three diplomatic fronts at once — expect a proportionate answer (cyber, proxy, or symbolic) instead.
+
+---
+*28 items across 7 topics, covering 2026-11-13*
 
 ## 2026-11-12 — Daily Sweep
 
