@@ -1,7 +1,102 @@
-Last Digest: 2026-11-13
+Last Digest: 2026-11-14
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-11-14 — Daily Sweep
+
+*Note: Perplexity gap-fill was unavailable today (API quota exceeded, 401 error). Gap-fill for Tier 1 topics without RSS coverage (notably digital marketing/ad spend) was done via a plain web search instead of Perplexity; no topic area was left completely unchecked, but cross-source triangulation was lighter than usual.*
+
+### Geopolitics: An Unprecedented Trilateral Summit Gets Confirmed Mid-Escalation
+
+**[Trump, Xi and Putin to hold first three-way summit in China](https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The White House has now officially confirmed what was speculation two days ago: Trump will hold a first-ever three-way sitdown with Xi and Putin on the APEC sidelines in Shenzhen next week, with nuclear arms (the New START treaty lapsed in February with no replacement) and the Iran war on the agenda — but pointedly not Ukraine. A senior administration official is already managing expectations downward ("we do not expect to get to any kind of agreement"), which suggests this is being staged as a historic photo-op and opening dialogue rather than a deal-closing summit; Zelenskyy's camp is right to worry Ukraine's fate gets discussed in a room it isn't in.
+*Read:* [White House confirms US-China-Russia trilateral talks on Apec sidelines](https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines) — *SCMP* — confirms Musk is traveling with Trump's delegation but won't be in the room, underlining how personally Trump is driving this versus delegating it to his usual envoys.
+
+**[UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran](https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The UN's own count — plus Iran reporting three more vessels hitting mines this week — is the clearest humanitarian/shipping-cost tally yet of a conflict that has mostly been covered through military and diplomatic moves. "Situation cannot become the new normal," per the UN's Khaled Khiari, is a direct rebuttal to the drift toward treating Hormuz disruption as a durable feature of global shipping rather than a crisis to resolve.
+
+**[Qatar and Turkiye sign a mutual defence pact: What do we know?](https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A Gulf state and a NATO member formalizing mutual defense obligations, explicitly framed by analysts as deterrence rather than offense, lands squarely inside this week's running thread (flagged in yesterday's digest) of Gulf and Middle East powers hedging their security bets independent of Washington. Doha doesn't need a US green light to lock in a second security guarantor.
+↳ Together these suggest: the Hormuz death toll, the Qatar-Turkiye pact, and the Trump-Xi-Putin summit explicitly skipping Ukraine are the same story from three angles — US-centered security architecture in two theaters (Gulf, Eastern Europe) is visibly fraying exactly as Washington tries to open a historic three-way dialogue that requires everyone else to trust it's still the indispensable broker.
+
+### AI Industry: The Nvidia Scandal's Deeper Roots and Its Business-Model Echo
+
+**[Behind the Nvidia Affair Sits a Vast Chinese Spying Machine](https://www.wsj.com/world/nvidia-china-espionage-spy-hacking-ai-174c366b?mod=rss_worldnews)** — *WSJ*
+*Signal:* WSJ frames the Alice Huang relationship as one data point inside a much larger, systematic Chinese intelligence effort aimed at the US tech industry broadly — not a one-off honeypot targeting Nvidia specifically. If accurate, it reframes the scandal's legislative stakes (the Dec 3 Senate hearing, the AI Overwatch Act push flagged in prior digests) from "fix one company's export compliance" to "assume the entire frontier-AI sector is already a target," which is a much harder policy problem to legislate against.
+
+**[Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)** — *Hacker News*
+*Signal:* This allegation lands directly on top of two threads already running in this week's digests: Huang personally drove a three-year investment binge into neoclouds and startups to manufacture chip demand (flagged Nov 13), and those same startups' "capital-light" business models are quietly becoming capital-heavy because leased capacity isn't reliably available (flagged Nov 12). If Nvidia's own capital was partly responsible for the scarcity its customers are now straining under, that's a circularity regulators and antitrust lawyers will find far more interesting than the espionage angle.
+
+**[Export-banned Nvidia chips are behind China's most powerful AI models — uh-oh, Jensen!](https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/)** — *TechCrunch*
+*Signal:* New research confirming that China's frontier models were trained on banned chips lands the same week Congress is building a case that export enforcement failed — concrete technical evidence, not just circumstantial trading patterns, for the legislative push already underway.
+*Read:* [China could tighten rare earths exports if US escalates chip curbs over Nvidia: analysts](https://www.scmp.com/economy/global-economy/article/3374328/china-could-tighten-rare-earths-exports-if-us-escalates-chip-curbs-over-nvidia-analysts) — *SCMP* — Beijing's retaliation lever is already identified and ready, even as both sides keep trade talks (below) nominally on track ahead of the Shenzhen summit.
+
+### US-China: Talks Continue on Trade Even as the AI Fight Hardens
+
+**[China, US Discuss Tariffs in First Meeting of Trade Council](https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council)** — *Bloomberg Economics*
+*Signal:* The inaugural video meeting of a new bilateral trade-consultation mechanism, days ahead of the Shenzhen trilateral, is the institutional plumbing being built underneath the diplomatic spectacle — a working-level channel that will outlast whatever gets photographed next week.
+*Read:* [US-China AI safety talks face hurdle over how to define 'serious' incidents](https://www.scmp.com/news/china/diplomacy/article/3374381/us-china-ai-safety-talks-face-hurdle-over-how-define-serious-incidents-analysts) — *SCMP* — a parallel, AI-specific channel exists too, but analysts note the two sides can't yet agree on what counts as a reportable AI incident, a basic definitional gap that undercuts any near-term bilateral AI-safety mechanism.
+
+### Tech: A Second Cascading US Infrastructure Failure in Two Days
+
+**[US air travel thrown into chaos after nationwide ground stop halts flights](https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The FAA grounded nearly 10,000 flights nationwide Friday over "communication issues impacting multiple Air Route Traffic Control Centers," with US officials now saying there's no evidence of hacking. Coming two days after Microsoft's 74-country, 24-hour-plus outage (also cleared of cyberattack), this is the second major US-system cascading failure this week attributed to an internal fault rather than an adversary — a pattern that strengthens the "aging, brittle critical infrastructure" argument regardless of whether any single incident is malicious.
+*Read:* [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026) — *Hacker News* — a second, unrelated transport-booking system degraded the same day, suggesting either coincidence or a shared brittle dependency (e.g., a common telecom or cloud provider) worth watching for in post-mortems.
+
+**[Security Agencies Worldwide Found to Use Ad-Based Surveillance System](https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/)** — *Hacker News / Citizen Lab*
+*Signal:* Citizen Lab documenting government security agencies piggybacking on commercial ad-tracking infrastructure to conduct surveillance is a quiet-but-important story: it means privacy regulation aimed at advertisers (cookie consent, ad-ID restrictions) is also, inadvertently, state-surveillance policy — closing one doesn't happen without touching the other.
+
+**[Hong Kong police to activate AI facial recognition across surveillance network](https://www.scmp.com/news/hong-kong/law-and-crime/article/3374436/hong-kong-police-activate-ai-facial-recognition-across-surveillance-network)** — *South China Morning Post*
+*Signal:* A concrete, dated rollout (Monday) of AI facial recognition across an "expanding smart surveillance network" in one of Asia's most-watched jurisdictions for civil-liberties scrutiny — a real-world deployment data point in the same week Citizen Lab (above) and Australia's tightened AI oversight (flagged Nov 12) are both pushing the opposite direction globally.
+
+### Platforms & AI Agents: Agentic Commerce Keeps Expanding Even as Trust Questions Pile Up
+
+**[ChatGPT's new Wallet lets AI agents shop and check out for you](https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/)** — *TechCrunch*
+*Signal:* OpenAI partnering with Visa, Mastercard, and Amex to let its "dot" assistant buy things directly, starting with US Pro subscribers, is the clearest commitment yet to agentic commerce from the largest consumer AI company — landing the same week United Airlines explicitly banned AI agents from booking its flights (flagged Nov 12). The infrastructure for agents to transact and the institutional resistance to letting them transact are both accelerating in parallel, and neither side is winning outright yet.
+
+**[AI agent startup LangChain hits $3B valuation](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)** — *TechCrunch*
+*Signal:* 7,000 customers on its agent-management tooling is a real adoption number, not just hype — a sign that whatever the trust and booking-ban friction above, enterprises are still paying to build and manage their own agents at scale.
+
+### Global Macro: Hawkish Fed Consensus Gets Harder Data to Lean On
+
+**[World Economy Latest: US Inflation Report Supports Fed Rate Hike](https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike)** — *Bloomberg Economics*
+*Signal:* October producer prices rose at the fastest annual pace since 2022, giving the hawkish chorus (Williams, Daly, Barkin, Goolsbee across this week's digests) an actual data point rather than just rhetoric — markets are now pricing a December hike as close to certain, with the debate shifting to January.
+*Read:* [Fed's Jefferson Says Inflation Will Determine Rate Decisions](https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions) — *Bloomberg Economics* — the Fed Vice Chair's explicit framing confirms inflation has displaced employment as the Committee's primary reaction variable right now.
+
+**[Blackstone's AirTrunk Advances $11 Billion India Data Center Bet](https://www.bloomberg.com/news/articles/2026-11-14/blackstone-s-airtrunk-advances-11-billion-india-data-center-bet)** — *Bloomberg Economics*
+*Signal:* Detailed filings for two hyperscale campuses in southern India show the AI capex buildout's geography keeps expanding beyond the US/Gulf/Southeast Asia axis this week's digests have mostly tracked — India is positioning itself as a fourth major node in the same global data-center investment wave now facing capital-intensity scrutiny everywhere else.
+
+### Business/Finance: Capital Discipline and Antitrust Enforcement Both Resurface
+
+**[A Banker's Guide to Anthropic](https://www.netinterest.co/p/a-bankers-guide-to-anthropic)** — *Net Interest (Marc Rubinstein)*
+*Signal:* Rubinstein's framing — that Anthropic's upcoming IPO is best read as a credit event, not an equity story — adds financial-analyst rigor to the valuation-compression narrative already running this week (Anthropic's reported range falling from ~$2T to $1.1–1.75T). If the IPO is really about de-risking Anthropic's compute-financing obligations, that changes what investors should actually be pricing.
+
+**[BLOCKED! Emboldened State Regulators Just Scuttled a Major Money Merger](https://www.thebignewsletter.com/p/blocked-emboldened-state-regulators)** — *BIG by Matt Stoller*
+*Signal:* Stoller's account of California regulators (led by ex-CFPB chief Rohit Chopra) killing a merger that also drew NYC Mayor Mamdani's opposition is a concrete data point that state-level antitrust enforcement is filling a gap left by federal inaction — worth watching as a template other blue states copy post-midterms.
+
+**[Elon Musk's AI Group Guts Grok Video Generation Team](https://www.theinformation.com/articles/elon-musks-ai-group-guts-grok-video-generation-team)** — *The Information*
+*Signal:* ~60 layoffs from SpaceX's Super Intelligence group's Grok Imagine team is a concrete retrenchment signal inside the same company reportedly discussing a trillion-dollar-plus SpaceX-Tesla merger (flagged Nov 13) — cutting a product line and consolidating a balance sheet in the same week points to the same underlying capital-discipline pressure hitting even Musk's ventures.
+
+### Creator Economy & Marketing: Platform Monetization Keeps Shifting
+
+**[New report claims TikTok Live is fastest-growing platform for game streaming](https://www.tubefilter.com/2026/11/13/tiktok-live-video-game-streaming-growth-hatchet/)** — *Tubefilter*
+*Signal:* If TikTok Live is genuinely outgrowing Twitch and YouTube in game streaming, that's a meaningful shift in where gaming's sponsorship and ad dollars will follow — an audience migration story, not just a vanity-metric press release.
+*Read:* ['We're not trying to be TwitchTok': Twitch adds new short-form video feature](https://digiday.com/media/were-not-trying-to-be-twitchtok-twitch-adds-new-short-form-video-feature/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss) — *Digiday* — Twitch's defensive short-form push, denial in the headline notwithstanding, is a direct reaction to exactly the TikTok Live growth story above.
+
+**[Big Box Briefing: How Target's and Walmart's beauty department makeovers are reshaping brand strategies](https://www.modernretail.co/operations/big-box-briefing-how-targets-and-walmarts-beauty-department-makeovers-are-reshaping-brand-strategies/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss)** — *Modern Retail*
+*Signal:* Mass retailers restructuring beauty aisles to compete directly with specialty chains is a budget and shelf-space reallocation that consumer brands have to react to regardless of their own marketing plans — a distribution-side structural shift, not a seasonal merchandising refresh.
+
+---
+
+### 🔭 Predictions
+
+> 1. **The Shenzhen trilateral produces a nuclear-dialogue framework, not a deal.** The administration's own expectations-setting ("we do not expect to get to any kind of agreement") combined with the deliberate exclusion of Ukraine from the agenda suggests this is being staged as a historic first-meeting photo op to bank politically, with any substantive nuclear-arms framework pushed to a follow-on meeting in 2027.
+> 2. **The FAA ground stop becomes a legislative vehicle for infrastructure-modernization funding, following the same pattern as the Nvidia scandal and chip-export legislation.** Two cleared-of-cyberattack cascading failures (Microsoft, FAA) in one week, both traced to aging internal systems, gives appropriators a concrete, bipartisan-friendly story to attach ATC modernization funding to — expect this to surface in December spending bills.
+> 3. **Nvidia's "engineered scarcity" allegation becomes a second regulatory front independent of the espionage story.** If antitrust or securities regulators pick up the circular-financing thread (Nvidia funding buyers of its own chips) seriously, Nvidia faces a market-structure investigation that survives even if the China-espionage angle fades — a structurally different, harder-to-resolve liability than Huang's personal conduct.
+
+---
+*24 items across 7 topics, covering 2026-11-14*
 
 ## 2026-11-13 — Daily Sweep
 
