@@ -1,7 +1,112 @@
-Last Digest: 2026-11-14
+Last Digest: 2026-11-15
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
+
+## 2026-11-15 — Daily Sweep
+
+*Note: Perplexity gap-fill was unavailable again today (401/quota-exceeded error). Tier 1 gap-fill for creator economy, platform monetization, and digital ad spend was done via plain web search instead; triangulation on those items is lighter than usual.*
+
+### Geopolitics: Three Diplomatic Fronts Strain at Once, Days Before Shenzhen
+
+**[Zelensky says US floated idea of Ukraine ceding Donbas for Nato membership](https://www.scmp.com/news/world/europe/article/3374450/zelensky-says-us-floated-idea-ukraine-ceding-donbas-nato-membership)** — *SCMP*
+*Signal:* For the first time since the Abu Dhabi talks concluded, Zelensky says US negotiators explicitly asked whether Kyiv would withdraw from Donbas in exchange for NATO membership — a land-for-security-guarantee swap that previous rounds kept carefully unlinked. Zelensky's own conditioning (he'd only put it to a national referendum if paired with a full security-guarantee, reconstruction, and military-funding package) reads less like a concession already made and more like a negotiating position being tested in public, likely to pressure both Moscow and skeptical European allies to show their hands this week.
+*Read:* [US suggested Ukraine cede parts of Donbas to Russia to become part of NATO](https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato) — *Al Jazeera* — confirms the Abu Dhabi talks also produced a 1,000-plus prisoner exchange agreement, the one concrete deliverable from two days that otherwise produced no breakthrough.
+
+**[Iran says it targets US radar in Bahrain. What do we know?](https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The IRGC's second claimed drone strike on Bahrain's Riffa radar site in three days, plus two tankers hitting mines in Hormuz over the weekend, undercuts any read of last week's radar strike as a one-off; Tehran is treating the base as a recurring pressure point while warning any US retaliation "would draw a more severe response." Bahrain says its air defenses intercepted the drones each time, meaning the escalation is currently measured in attempted strikes, not casualties — but the pattern itself is the story.
+*Read:* [U.S. Figures Iran Still Has up to 2,500 Missiles, Countering Trump Assertions](https://www.wsj.com/world/middle-east/u-s-figures-iran-still-has-up-to-2-500-missiles-countering-trump-assertions-4c6f4d67?mod=rss_worldnews) — *WSJ* — a direct triangulation point: the administration's own intelligence estimate undercuts Trump's public claims that Iran's missile stockpile has been degraded, which matters for judging how much deterrence value the US actually holds heading into any further strike decision.
+
+**[How Iran used US troops' digital footprints to hit Mideast bases for billions in damage](https://www.scmp.com/news/world/middle-east/article/3374473/how-iran-used-us-troops-digital-footprints-hit-mideast-bases-billions-damage)** — *SCMP*
+*Signal:* Iranian military planners reportedly harvested targeting intelligence from US service members' social media accounts, fitness-app location data, and ad-tracking identifiers to estimate base layouts before strikes — the same ad-tech-as-surveillance-infrastructure problem Citizen Lab flagged yesterday (state agencies piggybacking on commercial ad data), now shown causing US casualties and billions in damage rather than just privacy exposure. OPSEC failures that were abstract risk a year ago are now a documented combat multiplier for Iran.
+
+**[Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather](https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss)** — *Al Jazeera*
+*Signal:* ASEAN-China negotiators have reportedly reached roughly 80% agreement on text, but the Philippines' year as bloc chair ends this week without the binding code of conduct it set as its signature goal — a near-miss that will likely get framed as "substantial progress" rather than acknowledged as a failure, pushing the real deal into 2027 under a different chair with different priorities.
+*Read:* [Asean's neutrality set to be tested as Philippines welcomes world leaders](https://www.scmp.com/week-asia/politics/article/3374395/aseans-neutrality-set-be-tested-philippines-welcomes-world-leaders) — *SCMP* — Trump and China's Li Qiang both arriving in Manila the same week puts the bloc's "don't pick sides" posture under direct, simultaneous pressure from both great powers.
+
+↳ Together these suggest: a Donbas-for-NATO trial balloon, a second Bahrain radar strike, and ASEAN's South China Sea pact falling just short are three separate diplomatic fronts straining in the same week Washington is trying to stage a historic Shenzhen trilateral — the common thread is Washington (and its negotiating partners) running more simultaneous high-stakes tracks than any one of them is getting fully resolved.
+
+### AI Industry: Nvidia's China Backdoor Becomes the Scandal's Most Damaging Reporting Yet
+
+**[How Jensen Huang Built the Backdoor Route That Keeps Beijing in the AI Race](https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?mod=rss_worldnews)** — *WSJ*
+*Signal:* This is a different order of allegation than the affair story: WSJ reports Huang personally cultivated Southeast Asian data-center partners — including MegaSpeed, which allegedly arranged roughly $12 billion in Nvidia chip shipments to Chinese customers between March 2024 and June 2025 — while lobbying Washington to keep the loophole that lets chips sit in "allied" overseas data centers and get rented out to Chinese firms open. The US and Singapore are now actively investigating MegaSpeed for export-control violations, which gives Congress something concrete and dollar-denominated to build a case on, unlike the harder-to-prosecute personal-conduct allegations that dominated last week's coverage.
+
+**[Where was Nvidia's security team?](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)** — *TechCrunch*
+*Signal:* Nvidia's security chief left quietly in August, before any of this became public — a former intelligence officer flags the departure timing itself as the kind of signal that "runs through everyday conversations" in the security world well before it reaches press, meaning people inside the industry may have suspected trouble months before the affair reporting broke.
+
+**[Thousands of Nvidia Staff Sign Petition to Bring Back Huang](https://www.theinformation.com/briefings/thousands-nvidia-staff-sign-petition-bring-back-huang)** — *The Information*
+*Signal:* The reinstatement petition passed 100,000 signatures over the weekend, including Elon Musk, Epic's Tim Sweeney, and Y Combinator's Garry Tan — rank-and-file and industry-elite support converging the same week WSJ's backdoor-route reporting gives the board its strongest justification yet for not bringing him back; the louder the petition gets, the more it may actually box the board into holding the line, since reinstating Huang now would look like capitulation to pressure rather than a considered governance decision.
+
+**[Can Chinese AI companies curb cyber risks from open-weight models without losing their edge?](https://www.scmp.com/tech/tech-trends/article/3374332/can-chinese-ai-companies-curb-cyber-risks-open-weight-models-without-losing-their-edge)** — *SCMP*
+*Signal:* Chinese labs, including Tencent, are reportedly starting to deliberately throttle the cybersecurity/hacking capability of their most advanced open-weight releases after a string of AI-enabled hacking incidents hit both US and Chinese firms — a quiet admission that open-weighting frontier capability has real offensive-security costs, from the side (China) that has had the most to gain from maximizing open-weight competitiveness against US closed models.
+
+**[China calls for AI cooperation with the US ahead of Shenzhen Apec summit](https://www.scmp.com/news/china/diplomacy/article/3374484/china-calls-ai-cooperation-us-ahead-shenzhen-apec-summit)** — *SCMP*
+*Signal:* China's ambassador to Washington is publicly pitching a "China-led AI alliance for regional prosperity" days before APEC — official rhetoric about cooperation landing in the same week WSJ shows Huang already built a real, if improvised and now-investigated, compute-sharing channel between the two AI ecosystems. The gap between the public cooperation pitch and the backdoor-route reality is the story: Beijing wants the cooperation framing without giving up the leverage the backdoor already provided.
+
+### Global Macro: A Hawkish Fed Gets a Genuinely Mixed Labor Signal
+
+**[Inflation Expectations Stable; Labor Market Expectations Mixed](https://www.newyorkfed.org/newsevents/news/research/2026/20261109)** — *New York Fed*
+*Signal:* The NY Fed's latest consumer survey shows unemployment-expectation deterioration at its highest level since April 2020, even as job-finding expectations improve to their best level since November 2025 — a genuinely mixed signal that complicates the clean hawkish narrative running through this week's digests (Jefferson, Williams, Bowman all citing inflation as the dominant variable); if households are simultaneously more worried about losing a job and more confident about finding a new one, that's consistent with a labor market reshuffling rather than either tightening or loosening cleanly.
+*Read:* [PPI report: Inflation shows signs of broadening in red-hot wholesale prices, keeping pressure on Fed to hike rates](https://finance.yahoo.com/economy/article/ppi-report-inflation-shows-signs-of-broadening-in-red-hot-wholesale-prices-keeping-pressure-on-fed-to-hike-rates-162115609.html) — *Yahoo Finance* — Fed Governor Bowman separately said broadening inflation pressure may itself justify further hikes, reinforcing the chorus from yesterday's PPI print.
+
+**[Firms Drive UK Growth Spurt With Little Help From Government](https://www.bloomberg.com/news/articles/2026-11-15/firms-drive-uk-growth-spurt-with-little-help-from-government)** — *Bloomberg Economics*
+*Signal:* The UK private sector is absorbing an energy shock and over £80 billion in tax rises since 2024 and still growing — Bloomberg's framing that "the government can claim little credit" is itself notable, crediting AI-driven business investment (flagged Nov 12) rather than fiscal policy, which cuts against Westminster's preferred narrative either way.
+
+**[ECB Can't Substitute Sound Fiscal Policy, Knot Tells Corriere](https://www.bloomberg.com/news/articles/2026-11-15/ecb-can-t-substitute-sound-fiscal-policy-knot-tells-corriere)** — *Bloomberg Economics*
+*Signal:* Klaas Knot — a contender for the ECB presidency — publicly drawing a hard line that monetary tools can't paper over irresponsible fiscal management is as much a campaign position as a policy statement, ahead of a succession race that will shape how aggressively the ECB leans into further hikes.
+
+**[High mortgage rates have crushed homeowners' budgets. Some lucky Americans haven't felt any of it.](https://www.wsj.com/economy/housing/theyre-lucky-enough-to-have-a-3-mortgageand-feel-like-they-can-never-move-76c8d15a?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* Roughly one in five US mortgage holders are locked into sub-3% rates, creating a structural "golden handcuffs" effect that's part of why existing-home sales hit a 16-year low (flagged Nov 13) — this isn't a temporary affordability problem, it's a multi-year supply constraint baked into who owns what debt, and it won't resolve until rates fall far enough to make moving economically rational again.
+
+### US-China: Decoupling and Brain Drain Compound Quietly
+
+**[Novelis Cuts China Exposure With $265 Million Sale](https://www.bloomberg.com/news/articles/2026-11-15/novelis-cuts-china-exposure-with-265-million-sale)** — *Bloomberg Economics*
+*Signal:* An Indian-owned, US-based aluminum producer selling off its wholly-owned Chinese subsidiaries is a small, unglamorous data point in the same decoupling trend as Nexperia's forced domestic-substitution story (flagged this week) — industrial supply chains are quietly reorganizing around China exposure as a risk to manage down, not just a market to grow into.
+
+**[China Poached This Top Harvard Professor. Now He Wants Others to Join Him.](https://www.wsj.com/world/china/china-poached-this-top-harvard-professor-now-he-wants-others-to-join-him-1e03222d?mod=rss_worldnews)** — *WSJ*
+*Signal:* Liu Jun's Beijing-to-Boston-and-back path, and his active recruiting of other Chinese scholars to follow him home, is the talent-flow mirror image of the chip-export fight: Washington is tightening controls on hardware leaving the country while simultaneously losing some of the human capital that makes advanced research possible in the first place — a slower-moving but potentially more durable competitive cost than any single export rule.
+
+### Tech: Infrastructure Brittleness and Chip Antitrust Both Resurface
+
+**[What forced the US to ground all planes? A router switch, we now know](https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss)** — *Al Jazeera*
+*Signal:* US officials now attribute Friday's nationwide ground stop to a routine router/copper-wire upgrade gone wrong, not an attack — closing the loop on this week's second cascading infrastructure failure (after Microsoft's outage) with the same "aging system, human error" root cause rather than anything more dramatic, which is exactly the kind of unglamorous finding that's easy for appropriators to build modernization-funding legislation around precisely because it isn't a scandal.
+
+**[Russia Struggles to Restore Key Statistics Two Weeks After Hack](https://www.bloomberg.com/news/articles/2026-11-14/russia-struggles-to-restore-key-statistics-two-weeks-after-hack)** — *Bloomberg Economics*
+*Signal:* Russia's statistics service still can't fully publish core economic data two weeks post-breach — a reminder that the FAA/Microsoft brittleness story (above) isn't unique to the US; state capacity for basic data infrastructure is fragile everywhere, and a prolonged statistics blackout leaves Russian policymakers making decisions on incomplete information during an already-stressed economy.
+
+**[Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)** — *Hacker News*
+*Signal:* Independent security research found apps built on the no-code "vibe coding" platform Lovable leaking passport scans and hundreds of thousands of private messages — a concrete, large-scale demonstration of the risk regulators and enterprise security teams (Goldman pulling Claude Code access, flagged this week) have been warning about: AI-generated code shipping without the security review that traditional development pipelines enforce.
+
+**[Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)** — *Hacker News*
+*Signal:* A price-fixing suit against Samsung, SK Hynix, and Micron over DRAM survives dismissal just as AI-driven memory demand is already straining chip supply chains (the GPU-scarcity story running all week) — if the allegations hold up, it suggests at least part of the current memory-price spike has a coordination component on top of genuine AI-driven demand, which is a very different story for regulators than pure scarcity economics.
+
+### Platforms & Creator Economy: Measurement Gaps Get an Institutional Response
+
+**[Creators see promise in Instagram's long-form push, but question whether exposure is enough](https://digiday.com/media/creators-see-promise-in-instagrams-long-form-push-but-question-whether-exposure-is-enough/)** — *Digiday*
+*Signal:* Instagram is pushing creators toward long-form content with promises of outsized reach, but creators quoted are skeptical that algorithmic exposure alone translates into the kind of durable monetization that short-form and Reels already struggle to deliver — a credibility gap that lands directly on top of yesterday's IAB finding that measurement, not reach, is creator marketing's core unresolved problem.
+
+**[IAB launches Trusted Creator Brand Deal Initiative](https://www.iab.com/news/iab-launches-trusted-creator-brand-deal-initiative/)** — *IAB*
+*Signal:* The IAB's first research report under this new initiative puts a number on yesterday's "standardize the definition of a view" complaint: 67% of surveyed creator-economy leaders name measurement and attribution as what's broken, nearly double any other complaint, against a $44B creator-budget backdrop that the industry's plumbing hasn't kept pace with. This moves the measurement fight from platform-level grumbling (Digiday, yesterday) to a formal cross-industry standards push with its own advisory body.
+*Read:* [IAB moves to define creator 'views' as 66% ask for a common standard](https://ppc.land/iab-moves-to-define-creator-views-as-66-ask-for-a-common-standard/) — *ppc.land*
+
+**[Bidding strategies and how pricing works in ChatGPT Ads](https://help.openai.com/en/articles/20001634-bidding-strategies-and-how-pricing-works-in-chatgpt-ads)** — *OpenAI*
+*Signal:* OpenAI quietly retired Max Bid/Max CPC in favor of Target CPA/CPC for new ChatGPT Ads campaigns as of Nov 9 — a small technical change, but it's the sign of a nascent ad product maturing fast enough to need the same average-cost bidding sophistication Google and Meta took years to build, compressing the normal ad-platform maturation timeline considerably.
+
+### Tier 3 — Space: A Genuine Reusability Milestone
+
+**[SpaceX Catches Starship's Upper Stage for the First Time](https://www.theinformation.com/briefings/spacex-catches-starships-upper-stage-first-time)** — *The Information*
+*Signal:* SpaceX had already caught Super Heavy boosters before, but never the ship itself — catching both stages mid-air on the same flight closes the loop on full reusability for Starship, the economic premise the entire program (and SpaceX's reported trillion-dollar-plus valuation ahead of the rumored Tesla merger, flagged this week) depends on.
+
+---
+
+### 🔭 Predictions
+
+> 1. **The Donbas-for-NATO trial balloon gets publicly disowned by European allies within days, not quietly absorbed.** Zelensky's conditioning it on a referendum plus a full guarantee package reads as a negotiating disclosure meant to be seen, not an agreed framework — expect European capitals, who weren't in the room, to object loudly precisely because the swap implicitly commits NATO to a membership decision they haven't signed off on.
+> 2. **WSJ's backdoor-route reporting, not the affair allegations, becomes the centerpiece of the December 3 Senate hearing.** A documented $12B dollar figure and an active US-Singapore investigation give Congress a prosecutable, legislatable target in a way personal-conduct allegations never could — expect export-control language aimed specifically at closing the overseas-data-center loophole, not further scrutiny of Huang's personal life.
+> 3. **ASEAN's South China Sea code of conduct gets announced as "near-final" rather than acknowledged as missed.** With talks at roughly 80% text agreement and the Philippines' chairmanship ending without its signature deliverable, expect face-saving language from Manila and Beijing alike this week, while the actual binding text slides into 2027 under Brunei's incoming chairmanship with a different set of priorities.
+
+---
+*23 items across 6 topics, covering 2026-11-15*
 
 ## 2026-11-14 — Daily Sweep
 
