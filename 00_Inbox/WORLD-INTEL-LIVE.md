@@ -1,4 +1,4 @@
-Last Digest: 2026-11-17
+Last Digest: 2026-11-18
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -248,3 +248,145 @@ Last Digest: 2026-11-17
 
 ---
 *30 items across 9 topics — covering 2026-11-17.*
+
+## 2026-11-18 — Daily Sweep
+
+### Geopolitics: Shenzhen Trilateral & the "Piecemeal World War"
+
+**[Xi Jinping personally greets Trump as he arrives in Shenzhen for Apec, 3-way talks](https://www.scmp.com/news/china/diplomacy/article/3374886/trump-arrives-apec-xi-talks-3-way-putin-summit-and-likely-kim-jong-un-meeting)** — *South China Morning Post*
+*Signal:* Trump's second China visit this year lands in Shenzhen — China's answer to Silicon Valley — hours after Washington tightened chip export rules; the venue is itself a message about Chinese tech self-sufficiency. The actual Trump-Xi-Putin trilateral is still ahead of this item, with Beijing lukewarm on any nuclear-arms framing that would lock in its smaller arsenal relative to the US and Russia.
+*Read:* [In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions](https://www.wsj.com/world/china/in-choosing-shenzhen-for-trump-putin-summit-xi-shows-off-his-tech-ambitions-8bafa9a7?mod=rss_worldnews) — *WSJ*
+
+**[Russia, China should 'lead' push to multipolar world, Xi tells APEC summit](https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Ahead of meeting Trump, Xi and Putin pre-aligned on "fairer, multipolar" language and pledged stable bilateral ties, with Putin calling Western powers "former hegemons" in "humiliating decline" — rhetoric designed to box Trump into a three-way dynamic he doesn't control rather than a US-brokered one. Xi's own CEO Summit remarks pitched free trade as a direct rebuttal to Trump's tariff disruptions, positioning China as the stability option for global business.
+*Read:* [Key takeaways from speeches at Apec CEO Summit, including Xi and Putin addresses](https://www.scmp.com/economy/global-economy/article/3374876/key-takeaways-speeches-apec-ceo-summit-including-xi-and-putin-addresses) — *SCMP*
+
+**[As Trump arrives in China, low expectations for breakthroughs in rivalry](https://www.aljazeera.com/economy/2026/11/18/as-trump-arrives-in-china-low-expectations-for-breakthroughs-in-rivalry?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Analysts expect no concrete deal — Trump wants nuclear-reduction language and plans to raise Iran but is reportedly skipping Ukraine, while Beijing resists any cap that locks in its disadvantage. The gap between summit optics and achievable substance keeps widening the closer the actual trilateral gets.
+
+**[U.S. Enters Unprecedented Three-Way Nuclear Rivalry With China and Russia](https://www.wsj.com/world/u-s-enters-unprecedented-three-way-nuclear-rivalry-with-china-and-russia-2f2385c3?mod=rss_worldnews)** — *WSJ*
+*Signal:* Beijing's rapid weapons buildup means Washington, for the first time, must plan deterrence against two major nuclear powers simultaneously rather than one — a structural shift in arms-control math that outlasts whatever symbolic language comes out of Shenzhen. Arms control built for a bipolar Cold War doesn't map cleanly onto three roughly comparable nuclear states.
+
+**[Piecemeal wars: A new kind of world war is already under way](https://www.aljazeera.com/opinions/2026/11/18/piecemeal-wars-a-new-kind-of-world-war-is-already-under-way?traffic_source=rss)** — *Al Jazeera (Opinion)*
+*Signal:* Frames Ukraine, Iran, Taiwan tensions and Korean Peninsula friction as a de facto distributed world war between a China-Russia-Iran-North Korea bloc and the US/Europe, with nuclear deterrence the only thing preventing direct confrontation — and a hollowed-out UN Security Council unable to arbitrate any of it. It's a useful meta-lens for the summit above: this framing explains why Trump's team reportedly wants Ukraine off the Shenzhen agenda — it's the clearest active flashpoint in exactly the bloc confrontation the summit's optics are trying to paper over.
+
+↳ Together these suggest: the WSJ's three-way nuclear framing and Al Jazeera's piecemeal-wars thesis describe the same shift from two angles — arms control and regional conflict are both outgrowing the bipolar toolkit used to manage them, and Shenzhen's symbolism is outrunning any mechanism built for the world it's actually meeting in.
+
+**[Carney hails 'real progress' in China-Canada ties but suggests US has no need to worry](https://www.scmp.com/news/china/diplomacy/article/3374907/carney-hails-real-progress-china-canada-ties-suggests-us-has-no-need-worry)** — *South China Morning Post*
+*Signal:* Carney doubling down on tariff relief with Beijing while publicly insisting it isn't a threat to Washington is a tell either way. China's Canada opening — a continuation of yesterday's tariff-relief story — tests whether Beijing's charm offensive on individual US allies can fragment a unified Western negotiating position even as its direct relationship with Washington stays adversarial on chips and espionage.
+
+**[Huawei calls US prosecution's case 'fictionalised portrait' in closing arguments](https://www.scmp.com/news/us/diplomacy/article/3374835/huawei-calls-us-prosecutions-case-fictionalised-portrait-closing-arguments)** — *South China Morning Post*
+*Signal:* Closing arguments wrapped nearly eight years after a case that once nearly derailed US-China relations (the Meng Wanzhou arrest and extradition fight) — a reminder that legal infrastructure moves on its own clock, long after the underlying political relationship has already cycled through several different postures.
+
+### Iran War: Escalation Widens, Costs Show Up in Prices
+
+**[Iran, US trade threats over dirty bombs and first strikes as new war wave looms](https://www.scmp.com/week-asia/politics/article/3374868/iran-us-trade-threats-over-dirty-bombs-and-first-strikes-new-war-wave-looms)** — *South China Morning Post*
+*Signal:* Iran's warning that it may strike the US first if it judges further escalation "unavoidable" raises the stakes beyond the tanker-and-drone skirmishes of past months. The attacks on Kuwait and Bahrain that followed show the war crossing into third-party Gulf states that aren't combatants but host US assets — the conflict is widening geographically even as neither side can force resolution.
+*Read:* [Bahrain and Kuwait repel drone attacks after US strikes Iranian island](https://www.scmp.com/news/world/middle-east/article/3374869/bahrain-and-kuwait-repel-drone-attacks-after-us-strikes-iranian-island) — *SCMP*
+
+**[Ships risk Hormuz Strait due to limited US protection](https://www.aljazeera.com/video/newsfeed/2026/11/18/ships-risk-hormuz-strait-due-to-limited-us-protection?traffic_source=rss)** — *Al Jazeera*
+*Signal:* With a third US carrier now in the region (per yesterday's digest) and the Navy still unable to protect every transit, insurers and shippers are absorbing risk the military can't fully backstop — the economic cost of the war is shifting from direct military spend to insurance and shipping premiums priced into everything moving through the strait.
+
+**[UK inflation hits 12-month high of 3.6% on soaring fuel, tobacco costs](https://www.scmp.com/news/world/europe/article/3374912/uk-inflation-hits-12-month-high-36-soaring-fuel-tobacco-costs)** — *South China Morning Post*
+*Signal:* Inflation and energy bills are both breaking a year-plus high, with Bloomberg explicitly tying the gas/electricity spike to the Iran war's effect on wholesale prices — UK households are now paying a direct, measurable price for a war that hasn't touched Europe militarily. WSJ's "cost pressures already in pipeline" piece makes the same point for the US: even in a ceasefire scenario, Middle East supply disruption has already loaded cost increases into next year's inflation prints.
+*Read:* [UK Energy Bills Could Rise 26%, The Biggest Hike Since 2022](https://www.bloomberg.com/news/articles/2026-11-18/uk-energy-bills-seen-rising-26-biggest-hike-since-2022) — *Bloomberg*
+
+↳ Together these suggest: the Iran war's economic transmission channel is now clearer than its military one — inflation, energy bills and shipping insurance are moving measurably in the US and UK even as the battlefield itself stays contained to regional Gulf actors.
+
+### Nvidia-Huang Fallout: From Personal Scandal to Institutional Liability
+
+**[Nvidia's Board Rebuffs Jensen](https://www.theinformation.com/articles/nvidias-board-rebuffs-jensen)** — *The Information*
+*Signal:* Huang publicly said he'd be "honored" to return as CEO; hours later board chair Harvey Jones told the earnings call there's no chance. The board also confirmed no plans to reappoint him, on top of forming the national-security committee flagged in yesterday's digest — in 24 hours, the industry's most prominent individual face went from indispensable to formally, publicly discarded. Nvidia is betting its $65B startup portfolio and China strategy don't actually need him personally; that bet is about to be tested.
+*Read:* [Jensen Huang says he would be 'honored' if allowed to return as Nvidia CEO](https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/) — *TechCrunch*
+
+**[Nvidia Introduced Alibaba to Alice Huang for Workaround on U.S. Export Controls](https://www.theinformation.com/articles/nvidia-introduced-alibaba-alice-huang-workaround-u-s-export-controls)** — *The Information*
+*Signal:* Nvidia's own sales team reportedly connected Alibaba with Alice Huang — the woman now described as an alleged Chinese intelligence operative — months before 2022 export controls took effect, specifically to find a workaround. Paired with reporting that former sales chief Jay Puri personally managed her as a chip customer for years, this moves the scandal from "the CEO's affair with a security risk" to "the sales organization institutionally built the relationship that became the security risk" — a materially worse liability picture for the board and for the SEC probe now underway.
+*Read:* [Jensen Huang's Right-Hand Man Oversaw Chip Customers—Including Alice Huang](https://www.theinformation.com/articles/jensen-huangs-right-hand-man-oversaw-chip-customers-including-alice-huang) — *The Information*
+
+**[Nvidia's startup stakes ballooned to $65B, but Huang's exit puts future deals in doubt](https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/)** — *TechCrunch*
+*Signal:* The stakes nearly tripled from $22B in January as Nvidia spent $58B on equity over nine months (versus $5B a year earlier), but interim CEO Colette Kress is reportedly viewed internally as wary of Huang's dealmaking and expected to favor shareholder returns over aggressive startup investing. VCs are already bracing for a pullback in Nvidia's venture checks — a chunk of the AI funding ecosystem built partly on Nvidia-as-LP is about to find out how dependent it was on one executive's risk appetite.
+
+**[US panel proposes tougher AI chip export rules ahead of Trump-Xi talks](https://www.scmp.com/news/us/article/3374802/us-panel-proposes-tougher-ai-chip-export-rules-ahead-trump-xi-talks)** — *South China Morning Post*
+*Signal:* A bipartisan commission pushing exporters to certify chips won't divert US manufacturing capacity lands the same week Nvidia effectively abandons China sales post-Huang and Xi tours Shenzhen's tech showcase. Export-control hawks in Washington are moving on their own timeline, regardless of what Trump and Xi say to each other this week.
+
+↳ Together these suggest: the Nvidia scandal and the Shenzhen summit are the same story told from two capitals — Washington tightening chip rules and distancing itself from the executive who was its most effective industry advocate for China engagement, while Beijing uses the summit stage to show it doesn't need those chips anyway.
+
+### AI Frontier: Safety Warnings, Ownership Concentration, Agentic Arms Race
+
+**[OpenAI Director Says 'Reasonable' Chance of an AI Disaster Within a Year](https://www.theinformation.com/briefings/openai-director-says-reasonable-chance-ai-disaster-within-year)** — *The Information*
+*Signal:* Per the RSS summary, veteran AI-safety researcher Paul Christiano — described as a member of the board that oversees OpenAI — put real odds on humans "completely losing control of AI" within a year, reportedly in a mainstream podcast interview rather than an internal memo. *Caveat: the full piece is paywalled and Perplexity verification was unavailable today (API quota exceeded), so the exact quote and Christiano's precise board role are unconfirmed.* If accurate as reported, a safety figure with genuine institutional standing saying this on the record — rather than through hedged internal channels — suggests the gap between what frontier labs tell regulators privately and what they say publicly is narrowing.
+
+**[Anthropic Expected to Price Above $1.4 Trillion Valuation](https://www.theinformation.com/briefings/anthropic-expected-price-1-4-trillion-valuation)** — *The Information*
+*Signal:* Advisers are reportedly guiding toward a ~$1.5T valuation on demand "six times" the available float, with Amazon and Google together set to hold almost 30% of the company post-IPO and early VCs — who came in late and reluctantly — already sitting on 10x returns. The ownership concentration is the real story: two hyperscaler-cloud providers owning nearly a third of the leading "independent" frontier lab undercuts the idea that any major AI lab is meaningfully independent of the infrastructure providers it depends on.
+*Read:* [Amazon and Google will together own nearly 30% of Anthropic after its IPO](https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/) — *TechCrunch*
+
+**[Google Unveils More Agentic Tools Within Gemini](https://www.theinformation.com/briefings/google-unveils-agentic-tools-within-gemini)** — *The Information*
+*Signal:* Google's free "Tasks" feature lets Gemini call businesses, make purchases and send email autonomously — matching OpenAI's Dots and Meta's Muse — the same week Microsoft said it will license out model weights so enterprise customers can fine-tune Copilot's underlying behavior, not just its outputs. Both moves point the same direction as yesterday's "Artisanal AI" item: once baseline capability commoditizes, labs race to own either the action-taking layer or the customization layer rather than compete purely on benchmark scores.
+*Read:* [Microsoft to Let Customers Customize Its AI Models' 'Weights'](https://www.theinformation.com/briefings/microsoft-let-customers-customize-ai-models-weights) — *The Information*
+
+**[Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)** — *Hacker News*
+*Signal:* A research project claiming a 385x inference-efficiency gain through an alternative reasoning architecture (energy-based models rather than autoregressive token generation) is the kind of result that, if it holds up outside a narrow benchmark, would matter more to AI economics than any single model release — inference cost is the binding constraint behind much of the capex anxiety surrounding Nvidia and the hyperscalers this week.
+
+**[Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)** — *Hacker News*
+*Signal:* Confirms what yesterday's "Artisanal AI" item gestured at: once agents generate code faster than humans can meaningfully review it, the scarce resource in software engineering becomes judgment and verification capacity, not code production — a quiet but structural shift in where value accrues inside engineering organizations.
+
+**[Waymo suspends driverless freeway rides across US after California ban](https://www.aljazeera.com/news/2026/11/18/waymo-suspends-driverless-freeway-rides-across-us-after-california-ban?traffic_source=rss)** — *Al Jazeera*
+*Signal:* California's DMV calling self-driving cars an "imminent hazard to public safety," and Waymo immediately suspending nationwide (not just in-state) freeway operations, shows one state regulator can still set de facto national policy for an AV operator unwilling to run a patchwork of state-specific rules — a reminder that state regulators remain the operative check on deployment speed, federal AI/AV framework talk notwithstanding.
+
+### US Politics & Global Macro
+
+**[Democrats flip Alaska seat to seal 56-44 US Senate majority](https://www.scmp.com/news/world/united-states-canada/article/3374832/peltola-flips-alaska-seat-seal-56-44-us-senate-majority-democrats)** — *South China Morning Post*
+*Signal:* Peltola's win is the ninth Democratic flip of this year's midterms, in a historically red state — the swing is structurally broader than the "midterm setback" framing (per WSJ's own headline on Trump's Asia trip) suggests. A 56-44 majority changes what Trump can get confirmed or passed for the rest of his term, including anything tied to the chip-export and Fed-governance fights playing out this same week.
+
+**[Fed's Musalem Says Several Rate Hikes Likely Needed Before Spring 2027](https://www.wsj.com/economy/central-banking/feds-musalem-says-several-rate-hikes-likely-needed-before-spring-2027-ffb3a9fc?mod=rss_socialeconomyfeed)** — *WSJ Economy*
+*Signal:* A sitting Fed president now talking about hiking, not cutting, through spring 2027 is a sharp break from the easing-cycle narrative markets priced in earlier this year — and it lands the same week Fed governor Lisa Cook's lawyer refused to even participate in the White House's hearing on firing her, calling the panel biased. The Fed is fighting a two-front battle: inflation serious enough to require more hikes, and a governance fight over whether the administration can remove a sitting governor through a process her own lawyer calls unfair.
+*Read:* [A lawyer for Fed governor Lisa Cook said she won't participate in a White House hearing on whether to fire her](https://www.wsj.com/politics/policy/feds-lisa-cook-rebuffs-white-house-hearing-citing-biased-panel-e6eac42b?mod=rss_socialeconomyfeed) — *WSJ Economy*
+
+**[Korea Think Tank Sharply Raises 2027 Growth Outlook on AI Boom](https://www.bloomberg.com/news/articles/2026-11-18/korea-think-tank-sharply-raises-2027-growth-outlook-on-ai-boom)** — *Bloomberg*
+*Signal:* Two adjacent Asian economies placed opposite bets on the same AI boom within hours of each other: Korea's state think tank raised its 2027 outlook on semiconductor-export strength, while Malaysia's own growth beat came with an explicit warning that AI demand is itself a risk to the outlook. Export-dependent Asian economies are increasingly aware that the capex cycle lifting them now is the same cycle that could reverse hard if it cools.
+*Read:* [Malaysia Warns of Risks to AI Demand as Quarterly Growth Beats Initial Estimates](https://www.bloomberg.com/news/articles/2026-11-18/malaysia-warns-of-risks-to-ai-demand-as-quarterly-growth-beats-initial-estimates) — *Bloomberg*
+
+**[Indonesia Hikes Key Rate After Rupiah Slide, Surprising Most Economists](https://www.bloomberg.com/news/articles/2026-11-18/indonesia-hikes-key-rate-after-rupiah-slide-surprising-most-economists)** — *Bloomberg*
+*Signal:* Indonesia hiking against most economists' expectations, on top of a currency at a record low, shows an emerging-market central bank losing room to track any Fed easing bias because currency defense is taking priority over growth support — a squeeze that tends to compound if the Fed keeps hiking per Musalem's comments above.
+
+**[German Investor Confidence Rises to Highest Level Since Start of Iran War](https://www.wsj.com/economy/central-banking/german-investor-confidence-rises-to-highest-level-since-start-of-iran-war-957cb844?mod=rss_socialeconomyfeed)** — *WSJ Economy*
+*Signal:* A genuinely counter-intuitive data point: German sentiment is improving despite elevated energy prices, suggesting markets are pricing the Iran war as a persistent-but-manageable cost rather than an escalating one — consistent with the EU Commission's "resilience" framing from yesterday's digest.
+
+**[Le Pen's Lead in French Election Race Has EU in Scramble for Funding](https://www.wsj.com/world/europe/le-pens-lead-in-french-election-race-has-eu-in-scramble-for-funding-9f4e2001?mod=rss_worldnews)** — *WSJ*
+*Signal:* The EU has a year-end deadline to agree $2.2T in future funding and Ukraine aid before France's presidential election — Brussels is racing to lock in commitments while it still has a French government willing to sign them, a tacit admission that a Le Pen win would change what's possible.
+
+### Platforms & Creator Economy
+
+**[Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)** — *Hacker News*
+*Signal:* A randomized controlled trial across 1,065 Chrome users found AI Overviews cut clicks to external sites by ~40%; desktop click-through on the #1 organic result collapsed from 17.83% to 7.43% over the past year. AI-assistant referral traffic is still tiny — 0.28% of traffic across ~75,000 sites — so the open web isn't being replaced by chatbot traffic, it's losing the click entirely as Google keeps users on-page. This is the structural threat behind the open-web casualties flagged in yesterday's digest (Mem shutting down): the traffic-for-content bargain that funded the free web is breaking because of Google's own AI layer, not competitors'.
+
+**[As Netflix and Disney sniff around, YouTube hypes its creators' "world-class, studio-quality" programming at L.A. Premieres event](https://www.tubefilter.com/2026/11/17/youtube-creator-premieres-2026-new-series/)** — *Tubefilter*
+*Signal:* YouTube staging a film-festival-style event explicitly positioned against Netflix and Disney shows the platform defending its best creators against streamer poaching by marketing them as a content slate, not just individual channels. Paired with yesterday's note on Hearst/Entertainment 360 formalizing creator representation, the creator economy's professionalization is now a two-sided pull — legacy media absorbing creator infrastructure, and platforms fighting to keep top talent from being absorbed by legacy media.
+
+**[Sick of pirates and freebooters? Meta brings its "content protection" tool to Instagram](https://www.tubefilter.com/2026/11/17/meta-content-protection-tool-instagram-reels/)** — *Tubefilter*
+*Signal:* Extending the anti-reupload tool from Facebook to Instagram Reels is a quiet, overdue fix for a problem that's existed as long as short-form video has — platforms are only now building IP-enforcement infrastructure proportional to how much of their value creators actually generate.
+
+### International Institutions Under Strain
+
+**[Rafael Grossi is eyeing the UN's top job. Will US support nuke his chances?](https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The IAEA chief is seen as the technically competent frontrunner, with his reform plans and degree of US backing the open question — one of three data points this week pointing at the same erosion of multilateral authority described in the "piecemeal wars" piece above.
+*Read:* [Can a New Leader Make the U.N. Relevant Again?](https://www.wsj.com/world/can-a-new-leader-make-the-u-n-relevant-again-2893f9ef?mod=rss_worldnews) — *WSJ*
+
+**[World Court to rule on whether Myanmar committed genocide against the Rohingya](https://www.scmp.com/week-asia/people/article/3374827/world-court-rule-whether-myanmar-committed-genocide-against-rohingya)** — *South China Morning Post*
+*Signal:* A seven-year-old ICJ case finally reaches a verdict Thursday, just as the US argues (next item) against subjecting itself to international courts' jurisdiction — the Hague's authority over state conduct is being simultaneously exercised (Myanmar) and rejected (the US/ICC) in the same week.
+
+**[Opinion: Rubio and the Founders Against the ICC](https://www.wsj.com/opinion/rubio-and-the-founders-against-the-icc-71c0938f?mod=rss_worldnews)** — *WSJ*
+*Signal:* Framing US resistance to the ICC as consistent with founding-era sovereignty principles gives intellectual cover to what is, in practice, immunity-seeking for US and allied conduct — worth reading skeptically alongside the ICJ Myanmar ruling and the piecemeal-wars piece above: three outlets independently describing the same erosion of binding international law from different angles.
+
+↳ Together these suggest: multilateral legal and governance institutions are increasingly symbolic venues rather than binding constraints on great-power behavior — exactly the vacuum the "piecemeal wars" framing says state actors are now operating in.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Nvidia's board, not Huang, now sets China policy** — With the Alice Huang/Alibaba sales-team revelation deepening the scandal from personal to institutional, expect no walk-back: Nvidia formalizes a near-total exit from Chinese sales within weeks, and the national-security committee becomes the real approval layer for any future China-adjacent deal, with or without a permanent CEO named.
+> 2. **The Shenzhen trilateral produces symbolism, not a nuclear framework** — Given Beijing's resistance to arms caps that lock in its smaller arsenal and Trump's reported plan to skip Ukraine, expect a joint statement heavy on "stability" and "multipolar" language but no binding commitment — the real story stays the quieter one (chip-export rules, Southeast Asia compute enforcement) rather than the summit photo-ops.
+> 3. **EM central banks tip further into currency-defense mode** — With Indonesia hiking against consensus and Musalem signaling more Fed hikes into spring 2027, expect at least one more surprise EM rate hike in the next two weeks as currency pressure outweighs growth concerns.
+
+---
+*32 items across 7 topics — covering 2026-11-18.*
