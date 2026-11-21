@@ -1,4 +1,4 @@
-Last Digest: 2026-11-20
+Last Digest: 2026-11-21
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -681,3 +681,171 @@ Last Digest: 2026-11-20
 
 ---
 *30 items across 11 topics — covering 2026-11-20.*
+
+## 2026-11-21 — Daily Sweep
+
+### Geopolitics: AI Governance and Nuclear Arms Control, One Step Behind the Summit
+
+**[Xi, Trump agree military AI decisions must involve humans, Bessent says](https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says)** — *South China Morning Post*
+*Signal:* Coming out of the Shenzhen trilateral, this is the first concrete AI-governance commitment the three powers have produced — but "humans should always be involved" is unverifiable and non-binding, the kind of language great powers agree to precisely because it costs nothing to sign.
+
+**[New Satellite Photos Show Expansion of North Korean Uranium-Enrichment Plant](https://www.wsj.com/world/asia/new-satellite-photos-show-expansion-of-north-korean-uranium-enrichment-plant-f23c5512?mod=rss_worldnews)** — *WSJ*
+*Signal:* Fresh imagery of an extension at Yongbyon's main enrichment hall lands the same week Trump, Xi and Putin were photographed discussing nuclear risk reduction — North Korea's bomb-making capacity keeps growing regardless of what the three largest arsenals say to each other on camera.
+
+### Middle East: Two Wars Escalate in Parallel
+
+**[Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled](https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A direct kinetic incident against a US asset, arriving days after yesterday's digest noted Trump pushing any new Iran strike decision past the midterms into 2027 — Tehran is testing how much it can escalate under a US posture that has already signaled it won't retaliate soon.
+
+**[Saudi-led coalition intercepts three Houthi missiles headed for Riyadh](https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Third consecutive night of emergency alerts in Riyadh after the Houthis vowed reprisals for a Saudi "special operation" — Yemen's civil war, reignited over the summer, is now routinely reaching the Saudi capital, a reach it rarely had in prior phases of the conflict.
+*Read:* [Yemen's Houthis launch strikes on Riyadh after Saudi coalition 'special operation'](https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation) — *SCMP*
+
+↳ Together these suggest: the trilateral's nuclear-and-AI reassurances landed in a week when actual proliferation (North Korea) and actual regional war (Iran, Yemen) both intensified — the diplomatic track and the ground-truth track are moving in opposite directions, not converging.
+
+### Europe: Russia's Hybrid War and a Rising Street Movement
+
+**[Denmark Accuses Russia of Trying to Kill Ukrainian Rapper](https://www.wsj.com/world/europe/denmark-accuses-russia-of-trying-to-kill-ukrainian-rapper-a3a5e34c?mod=rss_worldnews)** — *WSJ*
+*Signal:* Copenhagen expelling Russia's defence attache over an alleged assassination plot is the latest in a string of accused Moscow-directed plots on European soil (following Friday's missiles landing in Poland) — Western governments are now treating hybrid attacks inside their own borders as routine enough to name and expel over, rather than quietly manage.
+*Read:* [Denmark expels Russian diplomat over plot to kill Ukraine rapper](https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper) — *SCMP*
+
+**[Gen Z protests sweep Europe over wars, rising costs and climate](https://www.aljazeera.com/video/newsfeed/2026/11/21/gen-z-protests-sweep-europe-over-wars-rising-costs-and-climate?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Simultaneous rallies across 25 countries tying military spending to cost-of-living grievances is a trend, not a one-off — it's the same fiscal tension (guns vs. butter) that's separately driving France's budget standoff and Germany's AfD surge, just expressed on the street instead of in a parliament.
+
+↳ Together these suggest: Russia's war is generating direct domestic costs for European citizens on two tracks at once — assassination plots and missile incidents inside their own borders, and youth-led protests over the military spending and inflation those tensions help drive.
+
+### France: A Reckoning with Race and Policing
+
+**[The Political Taboo Tearing France Apart](https://www.wsj.com/world/europe/france-riots-race-colorblind-1a87e24d?mod=rss_worldnews)** — *WSJ*
+*Signal:* France's longstanding refusal to officially discuss race is colliding with a court ruling the same week that racism was an aggravating factor in a 2020 police assault on a Black music producer — a "colorblind" legal framework is now producing rulings that functionally require naming race anyway, which is its own quiet erosion of the model.
+*Read:* [Three French police officers sentenced over racist assault on Black man](https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss) — *Al Jazeera*
+
+### Israel: Domestic Political Risk Rising
+
+**[Netanyahu is playing with the fire that killed Rabin](https://www.aljazeera.com/opinions/2026/11/21/netanyahu-is-playing-with-the-fire-that-killed-rabin?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The comparison to pre-assassination incitement rhetoric is a strong claim from a single opinion source and should be read as one side of a polarized domestic debate, not a consensus forecast — but it lands alongside a genuinely fragile opposition (Eisenkot's coalition struggling to unite) that would otherwise be positioned to capitalize on Netanyahu's weakest moment.
+
+### Global Macro: Central Banks Turn Hawkish Together, Even as Consumer Mood Improves
+
+**[Fed's Paulson Argues for Deliberate Rate Hikes to Tame Inflation](https://www.bloomberg.com/news/articles/2026-11-20/fed-s-paulson-argues-for-deliberate-rate-hikes-to-tame-inflation)** — *Bloomberg Economics*
+*Signal:* Philadelphia Fed's Paulson floating back-to-back hikes is notable mainly for timing — it lands the same week Governor Lisa Cook said skipping October's hike already put the Fed behind the curve, meaning two different officials are independently pushing the committee toward a faster tightening path than markets had priced.
+*Read:* [Fed governor Lisa Cook said the central bank's decision to skip raising interest rates in October threatened to put the Fed behind the curve in its struggle to tame inflation](https://www.wsj.com/economy/central-banking/lisa-cook-federal-reserve-comments-inflation-44eb3f41?mod=rss_socialeconomyfeed) — *WSJ*
+
+**[ECB Needs December Rate Hike Into Restrictive Zone, Nagel Says](https://www.bloomberg.com/news/articles/2026-11-20/ecb-needs-december-rate-hike-into-restrictive-zone-nagel-says)** — *Bloomberg Economics*
+*Signal:* Nagel's call for a restrictive-zone hike, paired with France's Moulin separately insisting the ECB still has work to do on 2% inflation, shows the ECB's hawks coordinating in public ahead of December — unusual, since this kind of pre-meeting lobbying usually happens quietly.
+
+**[Consumer Sentiment Climbed in November](https://www.wsj.com/economy/consumers/consumer-sentiment-climbed-in-november-3e9563d8?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* US sentiment improving on falling gas prices and better inflation expectations is exactly the kind of data that usually argues against more hikes — the Fed and ECB both leaning hawkish into improving-but-still-fragile sentiment data raises the odds that policy tightens into a turn rather than ahead of one.
+
+**[De Cos Awaits Europe's Call as a Nemesis to the Bond Vigilantes](https://www.bloomberg.com/news/articles/2026-11-21/de-cos-awaits-europe-s-call-as-a-nemesis-to-the-bond-vigilantes)** — *Bloomberg Economics*
+*Signal:* Europe is assembling new crisis-management leadership (De Cos tipped for a top ECB role, Boone picked to run markets, Brunnermeier arriving as chief economist in June) before any crisis has actually hit — preparing the bench while bond markets are calm is the kind of quiet, structural move that matters far more than any single day's yield print.
+
+**[Plan to Alter Unstainable US Debt Trajectory](https://www.bloomberg.com/news/newsletters/2026-11-20/plan-to-alter-unstainable-us-debt-trajectory)** — *Bloomberg Economics*
+*Signal:* A Penn Wharton Budget Model proposal spelling out exactly what it would take to narrow the US fiscal gap is useful mainly as a scale check — it underscores that the adjustments required are politically unpalatable enough that no current proposal in Washington comes close to matching them.
+
+↳ Together these suggest: the Fed and ECB are now hawkish in sync for the first time this cycle, right as US sentiment improves and Europe quietly staffs up for a bond-market crisis it isn't forecasting out loud — central banks are preparing for stress their own public statements don't yet admit to expecting.
+
+### Global Macro: Japan Slips, China's Export Machine Rolls On
+
+**[World Economy Latest: Japan's Economy Slips as Weather Dents Spending](https://www.bloomberg.com/news/articles/2026-11-21/world-economy-latest-japan-s-economy-slips-as-weather-dents-spending)** — *Bloomberg Economics*
+*Signal:* A weather-driven contraction is a weak excuse dressed as data, but it arrives as Japan is simultaneously trying to launch a regional energy-sharing agency — a government managing a shrinking economy has less room to fund new multilateral initiatives than its announcement implied.
+
+**[China's Exports of Robots, Cars, Semiconductors Make Life Hard For Rivals](https://www.bloomberg.com/news/features/2026-11-20/china-s-exports-of-robots-cars-semiconductors-make-life-hard-for-rivals)** — *Bloomberg Economics*
+*Signal:* China converting excess domestic manufacturing capacity into export volume across three strategic sectors at once (robotics, autos, chips) is the structural story underneath every individual tariff fight — rivals are negotiating case-by-case against a single, much larger capacity glut.
+
+### AI/Business: The Nvidia-Huang Saga Keeps Generating New Fronts
+
+**[Nvidia faces further blow after shock US export permit data release: analysts](https://www.scmp.com/tech/big-tech/article/3375287/nvidia-faces-further-blow-after-shock-us-export-permit-data-release-analysts)** — *South China Morning Post*
+*Signal:* The confidential records a House committee released yesterday now carry a hard number — nearly 880,000 advanced AI chips approved for Chinese firms this year — converting Tuesday's transparency stunt into a specific count that both export-control hawks and Nvidia's defenders can now argue over using the same data.
+*Read:* [Trump calls for Nvidia to reinstate 'brilliant' Jensen Huang](https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss) — *Al Jazeera*
+
+**[Trump threatens 'tremendous tax' on US firms building AI data centres overseas](https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas)** — *South China Morning Post*
+*Signal:* A president who wants the AI race won domestically now threatens to tax the exact offshoring (cheaper power, friendlier permitting) that his own hyperscalers have been pursuing abroad — this is a direct collision between "America wins AI" rhetoric and the economics that are already pushing data centers to follow power, not policy.
+
+**[Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now](https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/)** — *TechCrunch*
+*Signal:* Security researchers flagging AI-industry honeypot risk as a live, general threat — not a one-off Huang story — lands the same week an SCMP columnist wrote about being accused of being a "Chinese honeypot" simply for working in the field; espionage paranoia is becoming a tax on the entire industry's international talent pool, not just on one executive's relationships.
+*Read:* [Who are you calling a 'Chinese honeypot'?](https://www.scmp.com/opinion/world-opinion/article/3374874/who-are-you-calling-chinese-honeypot) — *SCMP*
+
+**[American State Capitalism Helped Produce the Nvidia Scandal](https://www.wsj.com/economy/american-state-capitalism-helped-produce-the-nvidia-scandal-56ce6dee?mod=rss_worldnews)** — *WSJ*
+*Signal:* Greg Ip's framing — that Trump-era government and corporate interests have become so intertwined that a scandal like Huang's was structurally inevitable — is the more durable read on this saga than any single week's headlines; the backlash may be the first real test of whether that intertwining actually gets unwound or just rebalanced toward a different executive.
+
+### Cybersecurity: A Rolling Crisis Inside the US Government
+
+**[Trump replaces US cyber chief after outages hit flights, banks and NSA](https://www.scmp.com/news/us/politics/article/3375298/trump-replaces-us-cyber-chief-after-outages-hit-flights-banks-and-nsa)** — *South China Morning Post*
+*Signal:* Kirsten Davies, the Pentagon's CIO, moves in to replace Sean Cairncross — resolving yesterday's open question of who takes over, but not the underlying one (what actually caused the multi-sector outages that got him fired in the first place).
+
+**[FBI reportedly investigating apparent hack of its criminal database](https://www.bbc.com/news/articles/cvze7de86pk3o)** — *Hacker News*
+*Signal:* A breach of the FBI's own criminal records system, surfacing in the same week as a new cyber chief and a transcription vendor used by police exposing bodycam and interview data, is the kind of cluster that stops reading as coincidence and starts reading as a systemic gap in how US law-enforcement data is secured.
+
+**[A transcription firm used by police, prosecutors, and tech giants exposed customer data online](https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/)** — *TechCrunch*
+*Signal:* An unprotected cloud server leaking police interviews and bodycam transcripts is the second AI-adjacent vendor in two days (after Meta's Muse agent) to expose private data through a basic security lapse — "move fast" AI deployment keeps outrunning the access controls that were standard practice in the pre-AI version of the same products.
+
+### AI Markets: Bubble Fears Compound on Anthropic's Second Trading Day
+
+**[Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic's second day](https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off)** — *Hacker News*
+*Signal:* Anthropic's stock dropping another 10% on day two, this time wiping out the Nasdaq's entire 2026 gain, confirms yesterday's prediction faster than expected — the stock is already functioning as the market's AI-bubble barometer, just two trading days after that framing was first floated.
+*Read:* [Anthropic Shares Slide After Banks Exercise 'Greenshoe'](https://www.theinformation.com/briefings/anthropic-shares-slide-banks-exercise-greenshoe) — *The Information*
+
+### Business/Finance: Big Deals and an Old Cartel Resurfaces
+
+**[SoftBank's Masayoshi Son Explored $1 Trillion Moonshot Buyout of SK Hynix](https://www.theinformation.com/articles/softbanks-masayoshi-son-explored-1-trillion-moonshot-buyout-sk-hynix)** — *The Information*
+*Signal:* Even a company spokesperson denying active pursuit of a trillion-dollar memory-chip buyout confirms the scale SoftBank is now willing to float in private — Son testing Wall Street appetite for financing at this size is itself a signal about how much capital the AI-memory bottleneck is attracting, deal or no deal.
+
+**[CrowdStrike in Talks to Buy Zscaler](https://www.theinformation.com/briefings/crowdstrike-talks-buy-zscaler)** — *The Information*
+*Signal:* A potential $32B deal in the middle of a month-long cybersecurity dealmaking frenzy (Palo Alto also reportedly shopping) shows AI-related threats are consolidating the security sector faster than any prior cycle — scale is becoming the defense against AI-accelerated attacks, which favors incumbents over point-solution startups.
+
+**[Bending Spoons buys Mailchimp for $3.68B](https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/)** — *TechCrunch*
+*Signal:* Intuit paid roughly $12B for Mailchimp in 2021; it's changing hands for under a third of that now — a serial-acquirer rollup buying a marquee SaaS brand at this discount is a hard data point on how far email-marketing valuations have actually fallen since the 2021 peak, not just sentiment.
+
+**[A 700% Price Hike on A Key Component in Gaming Consoles? Blame A 25-Year Cartel.](https://www.thebignewsletter.com/p/a-700-price-hike-on-a-key-component)** — *BIG by Matt Stoller*
+*Signal:* A price-fixing conspiracy that sent 15 executives to prison two decades ago appears to have resurfaced and just cleared a legal hurdle — a reminder that cartel behavior in concentrated component markets doesn't get permanently cured by one prosecution generation; it waits out the people who remember why the rules exist.
+
+### AI Infrastructure: Financing Stress Meets the Power Bottleneck
+
+**[SpaceX Closes $32 Billion Debt Deal at Steep Yields](https://www.theinformation.com/briefings/spacex-closes-32-billion-debt-deal-steep-yields)** — *The Information*
+*Signal:* Yields over 8% on investment-scale debt — rarely seen outside distressed credit — for financing Nvidia chip purchases is a concrete market signal, not a sentiment indicator, that lenders are pricing real uncertainty into AI-capex returns even for a borrower as prominent as SpaceX.
+
+**[Chips can survive the space environment — can their financing?](https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/)** — *TechCrunch*
+*Signal:* Lenders balking at financing hardware that might get launched into orbit as collateral is a very specific, very new kind of AI-infrastructure risk — it suggests the most exotic end of the data-center buildout (orbital compute) is colliding with how conventional project finance actually works, well before the engineering question is settled.
+
+**[Super-hot rock geothermal could end data center energy woes](https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/)** — *TechCrunch*
+*Signal:* US geothermal startups chasing the same power bottleneck that's pushing China's Envision Energy to build 800-volt DC architecture (flagged in the 11-16 digest) shows multiple countries independently treating power delivery, not chip supply, as the real constraint on AI buildout.
+
+↳ Together these suggest: capital is flowing into AI infrastructure on two very different terms at once — blue-chip conviction bets (SoftBank/SK Hynix, CrowdStrike/Zscaler) alongside genuinely stressed, exotic financing (SpaceX's 8%+ yields, orbital-collateral hesitancy, speculative geothermal) — a sign the AI capex boom's financing is bifurcating rather than uniformly cooling or uniformly confident.
+
+### AI Capability & Math: A Riemann Hypothesis Claim and Its Skeptics
+
+**[Anthropic Mathematician Says He Proved Riemann Hypothesis](https://www.theinformation.com/briefings/anthropic-mathematician-says-proved-riemann-hypothesis)** — *The Information*
+*Signal:* Levent Alpöge's claim to have proved math's most famous open problem with Claude's help is a genuinely novel capability claim, but the math community's response is the real story here: Scott Aaronson posted public skepticism within hours, and a separate human claimant (Alessandro Masullo) surfaced a competing Generalized Riemann Hypothesis announcement the same day — the verification fight, not the claim itself, is what will actually resolve this.
+*Read:* [Anthropic researcher says Claude AI has solved maths' greatest riddle: Riemann Hypothesis](https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle) — *SCMP*
+
+**[AIs Can Now Outperform Humans at Week-Length Tasks, AI Nonprofit Finds](https://www.theinformation.com/briefings/ais-can-now-outperform-humans-week-length-tasks-ai-nonprofit-finds)** — *The Information*
+*Signal:* METR's headline number (task-completion time horizons doubling every 3.6 months) is the kind of exponential-trend claim that gets quoted without its caveats — MIT Tech Review's same-day companion piece is the necessary corrective, noting models are improving much faster at coding-style tasks than at tasks requiring judgment, which is a meaningfully different and less dramatic trend than the headline graph implies.
+*Read:* [The most misunderstood graph in AI just got a major update](https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/) — *MIT Technology Review*
+
+**[Language Models Can Rewrite Their Own Weights](https://arxiv.org/abs/2611.21885)** — *Hacker News*
+*Signal:* Early weight-editing research is exactly the mechanism Every's 11-16 piece on "artisanal AI" speculated about as a path to user-customizable model perspectives — worth tracking as a leading indicator, since self-modification research tends to move from academic curiosity to product feature faster than most capability research.
+
+↳ Together these suggest: AI capability keeps compounding on hard, legible benchmarks (Riemann claim, METR's week-length tasks, self-editing weights) in the very week markets are pricing in an AI correction — the bubble-fear narrative and the capability-progress narrative are running on separate tracks, and it's not obvious which one the market is actually trading.
+
+### Creator Economy & Platforms: Budgets Shift as AI Mediates Discovery
+
+**[YouTube bows out of World Cup rights race; Netflix might step up](https://www.tubefilter.com/2026/11/20/youtube-fifa-world-cup-streaming-rights-netflix-bid/)** — *Tubefilter*
+*Signal:* YouTube walking away from bidding on the next FIFA World Cup's streaming rights, after investing heavily in creator-driven promo content for this year's tournament, suggests the platform concluded the rights cost didn't pencil out against what creator content alone could deliver — a real data point on how platforms are valuing live sports rights versus owned creator programming.
+
+**[2026 marked a turning point for artificial dye removal from food](https://www.modernretail.co/podcasts/2026-artificial-dye-removal-from-food/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss)** — *Modern Retail*
+*Signal:* Brands and retailers phasing out artificial dyes under combined policy and consumer pressure is a genuine formulation and marketing-claims shift, not a trend piece — reformulation costs and new "clean label" marketing claims will show up in CPG budgets well before most consumers notice the ingredient change.
+
+**[Alibaba and Temu cut marketing as AI engines start handing out coupons](https://ppc.land/alibaba-and-temu-cut-marketing-as-ai-engines-start-handing-out-coupons/)** — *ppc.land*
+*Signal:* Alibaba cutting sales-and-marketing spend 38% and PDD (Temu's owner) cutting 17% while shifting toward AI-agent-distributed coupons is early evidence that agentic shopping (AI Overviews, agentic checkout) is starting to substitute for traditional ad spend, not just supplement it — a structural shift in acquisition economics, arriving right as Black Friday tests whether AI-mediated discovery can actually drive conversion at scale.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Central banks tighten into a turn, not ahead of one** — Paulson, Cook and Nagel all pushing hawkish in the same week consumer sentiment improved but Japan and Canada data softened suggests the Fed and ECB risk raising rates just as global growth data rolls over, repeating the classic late-cycle policy error rather than avoiding it.
+> 2. **The Riemann Hypothesis claim stays unresolved for weeks, and becomes the reference case for AI-assisted proof disputes** — with Scott Aaronson publicly skeptical and a rival human claimant surfacing the same day, expect the verification fight itself (not the proof) to dominate math-world discussion well into December, setting the template for how the field handles the next AI-assisted claim.
+> 3. **AI infrastructure financing keeps bifurcating until something exotic fails publicly** — SpaceX's 8%+ yields and lenders balking at orbital-collateral risk suggest the speculative edge of the AI capex buildout (geothermal, orbital compute) will keep attracting capital until one high-profile financing deal visibly breaks, at which point underwriting standards across the sector tighten fast.
+
+---
+*37 items across 14 topics, covering 2026-11-20–2026-11-21.*
