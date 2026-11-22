@@ -1,9 +1,132 @@
-Last Digest: 2026-11-21
+Last Digest: 2026-11-22
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
 
-## 2026-11-16 — Daily Sweep
+## 2026-11-22 — Daily Sweep
+
+### AI/Business: The Nvidia-Huang Scandal Gets a Named Defendant
+
+**[The Alice Huang Associate Accused of Funneling Nvidia Chips to China](https://www.wsj.com/tech/li-ming-megaspeed-nvidia-chips-china-6260d836?mod=rss_worldnews)** — *WSJ*
+*Signal:* A named defendant tied to Megaspeed — the Singapore-based firm run by Alice Huang, reportedly Jensen Huang's romantic partner (unrelated by surname) — is now accused of helping route Nvidia chips into China, converting weeks of SemiAnalysis-style estimates (up to 240,000 GPUs, roughly $7.5B) into an actual criminal allegation with a face attached. This is the detail that turns a boardroom scandal into a prosecutable one.
+*Read:* [Can Jensen Really Return?](https://www.theinformation.com/articles/can-jensen-return) — *The Information*
+
+**[A tale of two Nvidias](https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/)** — *TechCrunch*
+*Signal:* Nvidia's own earnings report is reportedly strong even as a "war room" of allies pushes to reinstate Huang — the market is being asked to price a company whose fundamentals look fine and whose governance looks increasingly compromised, two signals that normally move together but currently don't.
+
+### US-China: Tech Decoupling Widens Beyond Chips
+
+**[Beijing vows to defend interests as US bars Chinese telecoms from accessing phone numbers](https://www.scmp.com/news/china/diplomacy/article/3375364/beijing-vows-defend-interests-us-bars-chinese-telecoms-accessing-phone-numbers)** — *South China Morning Post*
+*Signal:* The FCC's vote to block Chinese telecom operators from directly accessing US phone numbers is a new decoupling front — telecom numbering infrastructure, not just semiconductors — and Beijing's "safeguard our interests" language signals a retaliation step is coming.
+
+**[New US AI Chip Rules Against China Threaten Pain for Southeast Asia](https://www.bloomberg.com/news/newsletters/2026-11-21/new-us-ai-chip-rules-against-china-threaten-pain-for-southeast-asia)** — *Bloomberg Economics*
+*Signal:* China-linked operators account for a meaningful share of Southeast Asian data-center capacity, so tighter export rules don't just hit Chinese buyers directly — they threaten to strand regional infrastructure built on the assumption of continued chip access.
+
+↳ Together these suggest: the Nvidia-Huang scandal and the FCC telecom ban are the same underlying story told twice — Washington is treating *any* China-adjacent node in US tech infrastructure (chips, numbering systems, cloud capacity) as a security liability simultaneously, not sequentially.
+
+### Middle East: Iran Pressure Campaign Intensifies
+
+**[Bessent confirms he's living on US military base over Iran fears](https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A sitting Treasury Secretary relocating to a military base two weeks after an Israeli warning is a strikingly concrete signal of perceived personal threat at the highest level of the US government — rhetoric about de-escalation is running well ahead of the actual risk assessment inside the administration.
+
+**[Trump's exit strategy may depend on quietly lifting Iran blockade](https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Analysts argue de-escalation requires easing the naval blockade, not just halting strikes — a blockade is comparatively easy to impose and hard to unwind without looking like a concession, which is exactly the trap that tends to prolong wars past the point either side wants them.
+*Read:* [The U.A.E. Is Shuttling Oil Past Iran in Risky Hormuz Operation](https://www.wsj.com/world/middle-east/the-u-a-e-is-shuttling-oil-past-iran-in-risky-hormuz-operation-9150693e?mod=rss_worldnews) — *WSJ*
+
+### Asia-Pacific: Minilateral Deals Fill ASEAN's Gaps
+
+**[Australia-Philippine deal exposes where Asean's architecture is weakest](https://www.scmp.com/opinion/asia-opinion/article/3374878/australia-philippine-deal-exposes-where-aseans-architecture-weakest)** — *South China Morning Post*
+*Signal:* The new Australia-Philippines defence pact, signed on the sidelines of the Manila summit rather than through ASEAN's own machinery, is more evidence that bilateral "minilateral" deals are doing the work ASEAN's consensus model can't — the same pattern as the stalled South China Sea code of conduct talked about in prior digests.
+
+### Europe: A Political Earthquake in Belgrade, a Sixth Weekend in Paris
+
+**[Despite Serbia's political earthquake, China hopes ties will stay rock solid](https://www.scmp.com/news/china/diplomacy/article/3375340/despite-serbias-political-earthquake-china-hopes-ties-will-stay-rock-solid)** — *South China Morning Post*
+*Signal:* The student-led Students' List, which won 140 of 250 seats in October's snap election and ended 14 years of Vučić rule, is now positioned to scrutinize major Chinese-backed projects as its new parliament commits to "fully align" with EU rule-of-law norms — one of China's most reliable European footholds just became politically contestable for the first time in over a decade.
+
+**[Photos: People rally across France over living costs, public services](https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A sixth consecutive weekend of protests, with organizers already planning more, confirms this is a sustained movement rather than a one-off flashpoint — the same guns-vs-butter tension flagged in yesterday's digest (Gen Z protests across 25 countries) is now a specifically French, specifically weekly fixture.
+*Read:* [Clashes erupt across France in another night of protest](https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss) — *Al Jazeera*
+
+↳ Together these suggest: Europe's political volatility is no longer confined to the far right's electoral rise — a student movement just took down a 14-year Serbian incumbency, and France's unrest has outlasted six weekends. Incumbency itself, not any particular ideology, looks like the thing under pressure.
+
+### Russia-Ukraine & North Korea: Diplomacy Lags the Hard Facts
+
+**[Ukraine Is Racing to Keep Its Booming Defense Industry From Stalling](https://www.wsj.com/world/ukraine-is-racing-to-keep-its-booming-defense-industry-from-stalling-7e8f4b8c?mod=rss_worldnews)** — *WSJ*
+*Signal:* Kyiv's reborn defense sector has capacity (seen in the 1,336-drone barrage flagged on Nov 16) but not reliably the capital or the power supply to keep scaling under bombardment — a reminder that drone output is a function of financing and the grid as much as of will.
+
+**[The Russian POW Camp Where Sex Abuse Became Part of the System](https://www.wsj.com/world/europe/the-russian-pow-camp-where-sex-abuse-became-part-of-the-system-465d59ef?mod=rss_worldnews)** — *WSJ*
+*Signal:* Reporting that abuse at Pakino is systematized rather than incidental matters for any eventual peace talks — war-crimes documentation at this level of institutional detail raises the cost of any settlement that doesn't address accountability, which cuts against quick-deal pressure from Washington.
+
+**[How Kim Jong Un Gets Away With Building Nukes and Ghosting Trump](https://www.wsj.com/world/asia/kim-jong-un-north-korea-trump-2920ff49?mod=rss_worldnews)** — *WSJ*
+*Signal:* North Korea's arsenal keeps growing (new satellite imagery of Yongbyon expansion was flagged yesterday) precisely because Washington's bandwidth is consumed by Iran, Ukraine and the Nvidia saga — Pyongyang's strategy of being the quiet, patient proliferator while louder crises absorb attention keeps working.
+
+### Mexico: Cartels Move Into Shadow Banking
+
+**[Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing](https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=rss_worldnews)** — *WSJ*
+*Signal:* Narcotraffickers forcibly taking over small lenders and hiking interest rates is a structural diversification, not a one-off crime story — it lands the same week Mexican forces captured kingpin Fausto "El Chapo Isidro" Meza Flores in an 11-dead firefight, suggesting cartels are hedging against capture risk at the top by building recurring revenue (loan books) that survives any one leader's arrest.
+
+### AI & Society: Capability Keeps Outrunning Trust
+
+**[South Korea's education minister quits amid backlash over anti-cheating exam checks](https://www.scmp.com/news/asia/east-asia/article/3375362/south-koreas-education-minister-quits-amid-backlash-over-anti-cheating-exam-checks)** — *South China Morning Post*
+*Signal:* A national tax-exam top scorer's confession to using a hidden camera and phone to cheat — just days before the all-important Suneung college entrance exam — triggered a political crisis serious enough to cost a cabinet minister his job. AI-assisted cheating is now a governance liability, not just an integrity footnote, in a society where exam results determine life trajectories.
+
+**[Signal restricts mobile screenshots as it confronts 'existential threat' of AI surveillance](https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/)** — *TechCrunch*
+*Signal:* Signal's own framing — "existential threat" — is notable from an app built specifically for secure communication; the concern is that on-device AI agents can now screen-scrape conversations regardless of encryption, which breaks the threat model privacy tools were designed around.
+
+**[The Mythology of Conscious AI](https://www.noemamag.com/the-mythology-of-conscious-ai/)** — *Noema (via Hacker News)*
+*Signal:* As claims about AI sentience and self-modification (see the self-editing weights research flagged yesterday) proliferate, this piece's pushback on premature consciousness narratives is a useful counterweight — the gap between what models can increasingly *do* and what they verifiably *are* keeps widening, and that gap is where most AI-ethics confusion lives.
+
+### AI Infrastructure & Verification: The Receipts Keep Coming
+
+**[Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)** — *Hacker News*
+*Signal:* A formal Lean proof-checker verification effort is now underway for the competing Riemann claims flagged in yesterday's digest (Anthropic's Alpöge vs. independent claimant Masullo) — exactly the "verification fight, not the claim" dynamic predicted, and a template for how AI-assisted proofs will need to clear human skepticism going forward.
+*Read:* [Show HN: The Riemann Proof Handbook](https://github.com/tamnd/riemann-handbook) — *Hacker News*
+
+**[Data Processing Incidents on Inference Providers](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)** — *Hacker News*
+*Signal:* OpenRouter publicly disclosing data-handling incidents among the inference providers it routes to is a quiet but important transparency move — most AI supply-chain trust problems to date have been about model outputs, not about who else's infrastructure your prompts silently pass through.
+
+**[87% of the Anthropic power will come from gas and 11% from coal in 2028](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)** — *Hacker News*
+*Signal:* A concrete breakdown showing a leading AI lab's power mix skewing almost entirely fossil by 2028 undercuts clean-energy marketing from the AI industry broadly — it reinforces the power-bottleneck thread running through this week's digests (Envision Energy's 800V DC architecture, US geothermal startups) with a specific, unflattering number.
+
+### Global Macro: Europe's Budget Fight Finds a Pay-For
+
+**[EU proposes tax on big tech companies to fund budget](https://www.rte.ie/news/europe/2026/1121/1600093-european-union-budget/)** — *RTÉ*
+*Signal:* Council President Costa's revised 2028–2034 budget draft pairs a €204B spending cut with a new 3% levy on digital advertising and data revenue for firms over €750M in global turnover — a direct sequel to yesterday's budget-cuts story, now with the specific revenue mechanism (and the specific lobbying target) attached. Costa wants a deal by December because a slip pushes talks into a multi-country election year.
+
+**[Swiss Inflation Has Been Accelerating, SNB Vice President Martin Says](https://www.bloomberg.com/news/articles/2026-11-22/swiss-inflation-has-been-accelerating-snb-vice-president-martin-says)** — *Bloomberg Economics*
+*Signal:* Switzerland joining the Fed and ECB officials flagged yesterday in leaning hawkish extends the "tightening in sync" pattern to a third major central bank — a coincidence starting to look like a trend across developed-market monetary policy.
+
+### Business: AI Capital Keeps Moving, Even Mid-Correction
+
+**[Amazon Nearing $7.5 Billion Purchase of Decart](https://www.theinformation.com/briefings/amazon-nearing-7-5-billion-purchase-decart)** — *The Information*
+*Signal:* A $7.5B price tag for a three-year-old Israeli video-model startup, in the same week Anthropic's stock keeps sliding on bubble fears, shows real strategic M&A appetite persisting even as public AI valuations wobble — private deals and public sentiment are decoupling.
+
+**[Oracle Says It Has Completed Funding to Fulfil OpenAI Deal](https://www.theinformation.com/briefings/oracle-says-completed-funding-fulfil-openai-deal)** — *The Information*
+*Signal:* Oracle confirming it raised the ~$20B in additional equity and debt it flagged last month closes the financing-risk question around its OpenAI contract — one less thread for AI-bubble skeptics to point to, even as SpaceX's 8%+ yield debt (flagged yesterday) shows financing stress elsewhere in the sector.
+
+**[Wonder Reportedly Looks to Sell Grubhub](https://www.theinformation.com/briefings/wonder-reportedly-looks-sell-grubhub)** — *The Information*
+*Signal:* Marc Lore's Wonder trying to offload Grubhub barely weeks after Amazon dropped it from Prime in favor of Uber Eats is a fast unwind of a $650M acquisition — a sharp signal that food-delivery scale advantages are consolidating around fewer platforms, leaving acquired also-rans to be flipped quickly rather than integrated.
+
+### Climate: COP31 Concedes What It Was Built to Prevent
+
+**[COP31 climate talks on the brink as new draft deal faces scrutiny](https://www.aljazeera.com/news/2026/11/22/fossil-fuel-impasse-pushes-cop31-climate-talks-into-second-day-of-overtime?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The draft would be the first UN climate text to formally acknowledge warming is on course to exceed 1.5°C — pivoting the whole framework from prevention to carbon-removal reversal — while Saudi Arabia and other producers successfully scrubbed direct fossil-fuel phase-out language from the same text. The process is simultaneously admitting defeat on its headline target and still can't name the cause.
+
+### Quiet Trend: A Premium on Human-Made Work
+
+**[AI people are very, very, very, very rich](https://www.noahpinion.blog/p/ai-people-are-very-very-very-very)** — *Noahpinion (Noah Smith)*
+*Signal:* Smith's point that AI-linked wealth concentration is now extreme enough to reshape political economy (not just market indices) is worth reading alongside this week's platform shifts: YouTube, Instagram and TikTok have all recently moved to boost original content and demote reposts/aggregators in their algorithms, and GTA VI's hand-built, non-generative $3.79B launch is being read in some AI-commentary circles as evidence of a "human-made" premium. If capital keeps concentrating around AI builders while attention and discovery infrastructure quietly re-rewards unassisted human work, that's a split worth tracking — not a contradiction, but two different markets (capital vs. attention) pricing AI-adjacency in opposite directions.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Serbia becomes the test case for Chinese influence under new European governments** — with the Students' List committed to EU rule-of-law alignment and empowered to scrutinize Chinese-backed projects, expect at least one high-profile Chinese infrastructure contract in Serbia to be publicly reviewed or renegotiated within 90 days of the new government forming.
+> 2. **The Alice Huang/Megaspeed case becomes the mechanism, not just the motive, for Jensen Huang's exile from Nvidia** — a named criminal defendant gives Nvidia's board a concrete, litigable reason to resist reinstating Huang regardless of how the "war room" campaign plays out, turning a reputational problem into a legal one that outlasts the news cycle.
+> 3. **COP31's 1.5°C concession becomes the template, not the exception, for future COPs** — once one UN climate text formally admits the headline target is lost, expect subsequent COPs to shift rhetorical energy from prevention targets to carbon-removal and adaptation financing, following this draft's structure.
+
+---
+*26 items across 12 topics, covering 2026-11-22.*
 
 ### AI & Tech Industry
 
