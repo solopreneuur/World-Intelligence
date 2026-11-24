@@ -1,4 +1,4 @@
-Last Digest: 2026-11-23
+Last Digest: 2026-11-24
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -111,3 +111,182 @@ Last Digest: 2026-11-23
 
 ---
 *20 items across 7 topics — covering 2026-11-23.*
+
+## 2026-11-24 — Daily Sweep
+
+### AI & Nvidia: Jensen Huang's Reinstatement and the China-Spy Fallout
+
+**[Trump reportedly called into Nvidia board meeting to advocate for Huang's return](https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/)** — *TechCrunch*
+*Signal:* "I spoke to them, let me put it that way… And I convinced them," Trump told CNBC — an extraordinary admission that a sitting president personally pressured a public company's board to reverse a CEO ouster tied to a national-security investigation. Nvidia's board had pushed Huang out just 11 days earlier over an affair with Alice Huang, a Megaspeed executive US officials suspect may have been recruited by China's Ministry of State Security.
+*Read:* [Then and Now: See How Nvidia and the Administration Pivoted on Huang](https://www.wsj.com/business/then-and-now-see-how-nvidia-and-the-administration-pivoted-on-huang-d49b1c1b?mod=rss_worldnews) — *WSJ*
+
+**[Jensen Huang's stunning return in 11 days – 5 key takeaways](https://www.scmp.com/news/us/economy-trade-business/article/3375531/jensen-huangs-stunning-return-11-days-5-key-takeaways)** — *South China Morning Post*
+*Signal:* The reinstatement came with strings: national-security officials reportedly gained greater influence over Nvidia's export-policy decisions, and the board retained explicit oversight powers over Huang going forward. Washington effectively used the scandal as leverage to formalize a supervisory relationship with the one company it needs most for AI competitiveness — a quiet expansion of state power over a nominally private firm.
+
+**[Alice Huang had ties to China's intelligence network. But was she really a spy?](https://www.wsj.com/world/china/alice-huang-us-intel-nvidia-china-34e2404a?mod=rss_worldnews)** — *WSJ*
+*Signal:* The evidence is contested: CNN has reported that US intelligence on Alice Huang stopped short of proving MSS recruitment, officials disagreed internally on how strong the case was, and Beijing calls the allegation "pure fabrication." Worth triangulating — the "suspected spy" framing hardened into treated-as-fact across most coverage within days, even though the underlying intelligence case looks thinner than the headlines suggest.
+
+**[Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO](https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/)** — *TechCrunch*
+*Signal:* Elizabeth Warren called the reinstatement "reckless" and is demanding to know which officials vouched for Huang; Republican Kevin Cramer separately flagged "risk of extortion by a Chinese asset" as reason enough to block the return. Bipartisan anger that can't stop a decision the administration already made is its own signal — Congress has oversight theater, not oversight power, here.
+
+---
+
+### Markets: Asia Rally, Fed Put & the Bubble Question
+
+**[Jensen Huang's Return Sparks Rally in Asia, but Concerns Remain](https://www.wsj.com/finance/stocks/asian-equities-rebound-as-huang-reinstatement-sparks-ai-stock-rally-515acdd2?mod=rss_worldnews)** — *WSJ*
+*Signal:* The Nasdaq rose 6.8%, Nvidia jumped 31% back near its pre-scandal close, and the Kospi and Nikkei posted some of their biggest one-day gains in years — all within 24 hours of a single CEO reinstatement. A market this dependent on one company's leadership continuity carries a concentration risk nobody is pricing separately from the broader "AI bubble" conversation.
+
+**[AI Boost Puts Singapore Economy on Track for Best Performance in Years](https://www.wsj.com/world/asia/ai-boost-puts-singapore-economy-on-track-for-best-performance-in-years-7bb5f426?mod=rss_worldnews)** — *WSJ*
+*Signal:* Three straight quarters of 6%+ growth — Singapore's strongest year since 2011 outside the pandemic rebound — is real GDP evidence that AI capex is translating into actual regional output, not just equity multiples. This is the quiet counter-case to the bubble narrative, showing up in a small trade-exposed economy rather than in US headlines.
+
+**[US Stock Selloff Revives Question of a Fed 'Put,' This Time Under Warsh](https://www.bloomberg.com/news/newsletters/2026-11-23/us-stock-selloff-revives-question-of-a-fed-put-this-time-under-warsh)** — *Bloomberg*
+*Signal:* The pointed framing — "this time under Warsh" — signals a new Fed chair now faces the market's test of whether the central bank will backstop asset prices, continuing yesterday's Bessent-vs-Fed friction. A December rate decision now carries the weight of a leadership transition under live market stress, right as the revenue math underneath the AI trade (below) looks shakier than the price action suggests.
+
+---
+
+### AI Economy & Governance: The Revenue Math Problem
+
+**[Supply and Demand: Finding Equilibrium Inside the AI Economy](https://www.netinterest.co/p/supply-and-demand)** — *Net Interest (Marc Rubinstein)*
+*Signal:* The number that matters: the AI industry needs roughly $3.5 trillion in annual revenue to justify the ~$9 trillion of US data-center investment through 2032, but Anthropic and OpenAI together generate only about $108 billion annualized. Token volumes rose 27% in four weeks while spending rose just 8% — demand is growing, but not fast enough to pay for the capex, and Rubinstein's read is that lenders, not end-demand, are now the ones driving the buildout forward.
+*Read:* [Jevons Paradox in AI: Cheaper Tokens Won't Pay for Capex](https://philippdubach.com/posts/cheaper-ai-tokens-wont-pay-for-capex/) — *Hacker News*; [Sierra doubles valuation to $30B within six months as demand for AI in CX takes off](https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/) — *TechCrunch*
+
+**[AMD's Valuation is Getting Ahead of Its Fundamentals](https://www.theinformation.com/articles/amds-valuation-getting-ahead-fundamentals)** — *The Information*
+*Signal:* AMD stock is up 98% this year even after Friday's selloff, on a bet that Nvidia's turmoil creates room to steal AI-chip market share — a bet running ahead of any confirmed shift in fundamentals. A second data point for the Rubinstein thesis above: equity pricing is decoupling from demonstrated demand across the whole AI chip stack, not just at the model layer.
+
+**[Why Anthropic's Math Breakthrough Matters; Why Palo Alto Networks Bought Applied Compute](https://www.theinformation.com/articles/anthropics-math-breakthrough-matters-palo-alto-networks-bought-applied-compute)** — *The Information*
+*Signal:* Follow-up to yesterday's Lean-formalization item: Anthropic mathematician Levent Alpöge says he and Claude solved the Riemann Hypothesis late Sunday night, then texted Dario Amodei to ask permission to announce it just as Anthropic was making IPO headlines. Independent verification is still pending. Bundled in the same briefing: Palo Alto Networks' $4.5B all-stock purchase of Applied Compute (a post-training/inference platform founded by ex-OpenAI researchers) is a security vendor buying its way into being an AI-native company rather than an AI-adjacent one — expect more cybersecurity players to follow that path rather than build in-house.
+
+**[The Download: AI's judgment problem and carbon removal's crop threat](https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/)** — *MIT Technology Review*
+*Signal:* METR's updated capability index shows some AI capabilities still improving exponentially, but models consistently struggle with open-ended, judgment-dependent tasks — scoring philosophical arguments, designing novel evaluations — exactly the skills needed to automate research and development rather than routine coding. This is the load-bearing caveat under every "AI will replace knowledge work" claim: capability growth is real but uneven, and the uneven part is the part that matters most.
+
+**[A legendary philosopher isn't buying Anthropic's consciousness argument](https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/)** — *MIT Technology Review*
+*Signal:* Anthropic listed AI consciousness as an investor risk factor ahead of its IPO; a leading philosopher of mind is now publicly pushing back on the reasoning. Pairs with yesterday's OpenAI governance story — frontier labs are simultaneously asking regulators to take existential/moral-patienthood risk seriously and asking investors to treat the same claims as a disclosed risk rather than confirmed fact. Both postures can't be fully sincere at once.
+*Read:* [AI Is 'Probably Not' Conscious but Could Be Soon, Says Philosopher Rob Long](https://www.theinformation.com/articles/ai-probably-not-conscious-soon-says-philosopher-rob-long) — *The Information*
+
+**[UN chief calls for world to agree on AI oversight within a year](https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Guterres is setting a one-year deadline for global AI governance as his UN term winds down — a legacy push with no enforcement mechanism behind it. Worth reading against the LeCun critique circulating the same day, that voluntary-restraint rhetoric from labs like Anthropic and OpenAI (see yesterday's digest) is really about locking in competitive advantage under cover of safety language — multilateral oversight calls face the same skepticism the labs' own pledges do.
+*Read:* [Australia warns tech giants of multibillion-dollar fines for online 'harm'](https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss) — *Al Jazeera*; ["Dario is hyping the dangers so OSS models are illegal and he stays in control"](https://twitter.com/ylecun/status/2124550037912920090) — *Yann LeCun, via Hacker News*
+
+---
+
+### US-China Tech War: Blacklist and De-escalation, Same Week
+
+**[AI Slump, Export Controls and Economic Security](https://www.bloomberg.com/news/newsletters/2026-11-23/ai-slump-export-controls-and-economic-security)** — *Bloomberg*
+*Signal:* The framing question — does the administration's national-security priority actively undercut its own economic-security goals — is the throughline for both stories below, playing out within the same 24 hours on opposite sides of the Pacific.
+
+**[Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist](https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/)** — *TechCrunch*
+*Signal:* Commerce is adding the Singapore-based cloud provider to its Entity List over allegations it smuggled Nvidia chips to China, which Megaspeed denies. This enforcement track runs in parallel with Huang's personal rehabilitation: the man gets his job back, but the company his alleged lover ran gets the hammer — letting Washington look tough on China without touching Nvidia's revenue.
+
+**[China approves 2-month suspension extension for select US export restrictions](https://www.scmp.com/economy/global-economy/article/3375609/china-approves-2-month-extension-select-us-export-restrictions)** — *South China Morning Post*
+*Signal:* Beijing extended its own truce on critical-minerals curbs the same week Washington escalated against Megaspeed — both governments are managing the relationship through narrow, reversible moves rather than a comprehensive deal. Neither side wants a rupture, but neither trusts the other enough to lock anything in beyond two months at a time.
+*Read:* [Dutch minister heads to China as Nvidia saga revives US push for tougher ASML curbs](https://www.scmp.com/economy/policy/article/3375565/dutch-minister-heads-china-nvidia-saga-revives-us-push-tougher-asml-curbs) — *SCMP*; [PM Wong vows to stop firms 'exploiting' Singapore for AI chip re-routing](https://www.scmp.com/news/asia/southeast-asia/article/3375560/pm-wong-vows-stop-firms-exploiting-singapore-ai-chip-re-routing) — *SCMP*
+↳ Together these suggest: the chip-export control regime is being enforced at its edges (Megaspeed, Singapore re-routing, Dutch ASML pressure) rather than its center (Nvidia itself) — the structural chokepoints are shifting to the transshipment layer because the core US-China chip relationship is too economically important to actually sever.
+
+---
+
+### Geopolitics: Russia-Ukraine's Expanding Front
+
+**[Why S Korea issued air raid alert after Russian jets flew near its airspace](https://www.aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Russian military aircraft approaching South Korea's air defense zone over the East Sea is a new data point in Russia's pattern of probing NATO and allied airspace far from Ukraine — Seoul scrambled fighters and no violation occurred, but the alert itself shows how much more jumpy US-aligned militaries have become since the Baltic and Polish incursions earlier this year.
+
+**[Russian strike kills two in Ukraine, days after ship attack off Libya](https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Continues the retaliatory pattern flagged in yesterday's digest — Putin's promised "painful" response is materializing as conventional strikes on the front even as both sides keep expanding the unconventional, far-from-the-line campaign (Libya ship attacks, now this).
+
+**[Hacked Russian data suggests nearly 500,000 soldiers dead, reports say](https://www.scmp.com/news/world/russia-central-asia/article/3375557/hacked-russian-data-suggests-nearly-500000-soldiers-dead-reports-say)** — *South China Morning Post*
+*Signal:* If the Rosstat data obtained by hackers holds up, Russian military deaths are approaching half a million — several multiples higher than Moscow's official acknowledgments, and a scale of loss that would normally force a change in strategy, yet Russia's operational posture (expanded strikes, jets probing Korean airspace) shows no sign of corresponding caution. Treat the hacked/unverified provenance with appropriate skepticism, but it's a significant data point if confirmed.
+
+**[Inside the Ukrainian Attack That Sank Russian Warship Docked in Libya](https://www.wsj.com/world/inside-the-ukrainian-attack-that-sank-russian-warship-docked-in-libya-2dbd658b?mod=rss_worldnews)** — *WSJ*
+*Signal:* Kyiv's special forces reportedly studied the Merkury's movements for months before the strike — this wasn't opportunistic, it's a deliberate long-range targeting capability Ukraine has built and is now willing to use thousands of kilometers from its own territory. That capability, not any single strike, is the actual story.
+↳ Together these suggest: Russia's military is simultaneously suffering unacknowledged attrition at massive scale and still projecting power outward (Korean airspace probes), while Ukraine is demonstrating it can plan and execute deniable, long-range strikes well outside the war's traditional geography — both sides are behaving less like two armies locked in a stalemate and more like two actors each betting the other's limits are further out than publicly stated.
+
+---
+
+### Middle East: Hybrid Escalation vs. the Diplomatic Track
+
+**[U.S. Eyes Iran as Possible Culprit in Dozens of New Cyberattacks Against Ships](https://www.wsj.com/politics/national-security/iran-us-cyberattack-suspect-fed78942?mod=rss_worldnews)** — *WSJ*
+*Signal:* As many as 50 ships carrying oil and other explosive cargo have reportedly been hit — if confirmed as Iranian state action, this is a serious escalation in maritime cyber-sabotage with real physical-safety stakes, not just a data-breach story.
+
+**[Tiny Bahrain Is Paying a Big Price for Its Ties to the U.S.](https://www.wsj.com/world/middle-east/tiny-bahrain-is-paying-a-big-price-for-its-ties-to-the-u-s-77f0717a?mod=rss_worldnews)** — *WSJ*
+*Signal:* Regular Iranian bombardment is compounding an already-slumping Bahraini economy — a small US ally absorbing costs that the broader US-Iran standoff doesn't make it into headlines, the kind of quiet attrition that erodes alliance commitment over years rather than in any single dramatic moment.
+
+**[Qatar PM looks to revive US-Iran talks after meeting Rubio](https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Doha is positioning itself as the broker again, right as the cyberattack and Bahrain stories above suggest the covert-pressure track is intensifying — the same bifurcation pattern as Ukraine-Russia: a diplomatic channel staying open in public while a harder, deniable track escalates in parallel underneath it.
+
+---
+
+### Europe: Rate-Hike Bias Meets Election Tax Politics
+
+**[Taxing the Wealthy Has Become an Election Rallying Cry in Europe](https://www.bloomberg.com/news/articles/2026-11-24/taxing-the-wealthy-has-become-an-election-rallying-cry-in-europe)** — *Bloomberg*
+*Signal:* Spain's Sánchez is reaching for a wealth tax ahead of his own re-election fight, joining a broader European pattern — the same fiscal-squeeze backlash flagged in yesterday's digest (Belgium's strikes, Macron's golden rule) finding its electoral expression: governments can't cut spending without backlash, so taxing the wealthy becomes the least politically costly lever left.
+
+**[German Business Outlook Improves for Seventh Straight Month](https://www.bloomberg.com/news/articles/2026-11-24/german-business-outlook-improves-for-seventh-straight-month)** — *Bloomberg*
+*Signal:* Germany's Ifo index keeps climbing, reinforcing yesterday's Franco-German divergence story — but Ifo's own president flagged that this year's ~1.3% growth "will slow down" next year, a reminder that the recovery is being read more optimistically by markets than by the institute measuring it.
+*Read:* [Ifo Warns of Structural Issues as Germany's Growth Rebounds](https://www.bloomberg.com/news/videos/2026-11-24/ifo-warns-of-structural-issues-as-german-growth-rebounds-video) — *Bloomberg*
+
+**[ECB's Simkus Says It's 'Prudent' to Hike as Inflation Broadens](https://www.bloomberg.com/news/articles/2026-11-24/ecb-s-simkus-says-it-s-prudent-to-hike-as-inflation-broadens)** — *Bloomberg*
+*Signal:* A Governing Council member calling a hike "prudent" while price pressure broadens beyond energy is a meaningfully more hawkish signal than the ECB's recent public tone — worth watching whether this is a lone voice or the start of a coordinated shift.
+
+**[BOE's Pill Says Action Needed to Maintain Inflation Credibility](https://www.bloomberg.com/news/articles/2026-11-23/boe-s-pill-says-action-needed-to-maintain-inflation-credibility)** — *Bloomberg*
+*Signal:* The Bank of England's chief economist making the same case as the ECB's Simkus, the same week, looks like a trend rather than a coincidence — Europe's major central banks are converging on a hawkish bias just as their governments converge on redistributive fiscal politics. Monetary tightening and fiscal loosening are now pulling against each other across the whole continent at once.
+
+---
+
+### Energy, Climate & AI's Physical Footprint
+
+**[Meta throws out its net-zero goal — its competitors should be furious](https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/)** — *TechCrunch*
+*Signal:* Meta quietly dropped its 2030 net-zero commitment in its 2026 sustainability report — AI data-center power demand is making climate pledges the first casualty of capacity planning, and because Meta moved first, competitors who stuck with their own pledges now look either more committed or more naive, depending on how this plays out.
+
+**[AI's Power Crunch Is Reviving a Long-Stalled Energy Source](https://www.theinformation.com/articles/ais-power-crunch-reviving-long-stalled-energy-source)** — *The Information*
+*Signal:* Paywalled beyond the headline, but it fits a pattern visible across other outlets this year: nuclear, and increasingly natural gas and coal capacity that would otherwise have retired, are being kept online specifically because data centers need 24/7 baseload power that renewables can't guarantee. The framing — a source "long-stalled" until AI demand revived it — suggests this is about to become a bigger capex line than most grid forecasts assumed.
+
+**[Why using rocks for carbon removal could eventually reduce crop growth](https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/)** — *MIT Technology Review*
+*Signal:* Enhanced rock weathering — spreading crushed basalt or olivine on farmland to capture carbon — is backed by hundreds of millions in Big Tech money, but new research flags a plausible downside for crop yields that hasn't been priced into any of those commitments. A reminder that climate solutions funded primarily by tech capital inherit tech's "ship first, study side effects later" instinct.
+
+**[📈 Monday data: Turbulence is getting weirder, and nobody knows why](https://www.exponentialview.co/p/monday-data-turbulence-is-getting-weirder)** — *Exponential View (Azeem Azhar)*
+*Signal:* Flight turbulence incidents are rising in ways El Niño and standard climate models don't fully explain — a small, easy-to-miss anomaly that may be an early marker of atmospheric dynamics shifting faster than current models capture, the kind of quiet signal that's easy to dismiss until it isn't.
+↳ Together these suggest: climate commitments are losing ground on every front simultaneously right now — corporate pledges (Meta), the physical grid (nuclear/gas revival), carbon-removal science (crop risk), and even baseline atmospheric predictability (turbulence) — none of which made today's headlines the way Cop31's collapse did yesterday, but which collectively describe the same underlying retreat.
+
+---
+
+### Platforms, Creator Economy & Digital Marketing
+
+**[Google just filed a patent for a future without content creators](https://www.tubefilter.com/2026/11/23/google-youtube-my-channel-content-creators/)** — *Tubefilter*
+*Signal:* The "My Channel" patent describes a 24/7 personalized AI-generated video feed with the viewer as protagonist and ads woven directly into the content — Google, which pays out billions to YouTubers, has filed IP for a product designed to need none of them. This is the quiet-but-important story of the day: a structural threat to the entire creator economy, filed as a patent rather than announced as a product, getting a fraction of the attention of the Huang saga.
+
+**[Amazon is buying ChatGPT ads while blocking OpenAI crawlers](https://digiday.com/marketing/amazon-is-buying-chatgpt-ads-while-blocking-openai-crawlers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Amazon wants to reach shoppers inside ChatGPT's answers but won't let OpenAI's crawlers index its own product pages for free — paying to appear in the surface it's simultaneously trying to keep from scraping it. That contradiction is the current state of every incumbent's AI-search strategy: engage offensively, defend defensively, trust neither.
+
+**[Walmart is letting Meta's Muse shop its shelves — but on its own terms](https://digiday.com/marketing/walmart-is-letting-metas-muse-shop-its-shelves-but-on-its-own-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Walmart built a gateway that lets Meta's shopping agent browse and buy, but only through terms Walmart controls — the first real template for how a major retailer negotiates with agentic AI rather than just getting disintermediated by it.
+*Read:* [Ad Tech Briefing: Meta eyes CTV as AppLovin circles Criteo, signs of the squeeze on independent ad tech](https://digiday.com/media-buying/ad-tech-briefing-meta-eyes-ctv-as-applovin-circles-criteo-signs-of-the-squeeze-on-independent-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss) — *Digiday*
+
+**[Why brands are writing no-AI clauses into creator deals](https://digiday.com/future-of-tv/why-brands-are-writing-no-ai-clauses-into-creator-deals/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* Brands are now contractually banning creators from using AI tools in sponsored content — the opposite instinct from Google's "My Channel" bet above. Two incompatible wagers about where audience trust goes next: one side bets viewers won't care if content is AI-made as long as it's personalized; the other bets brand trust depends on proving a human made it.
+
+**[Facebook is paying college creators to post Reels](https://www.tubefilter.com/2026/11/23/facebook-paying-college-creators-to-post-reels/)** — *Tubefilter*
+*Signal:* Meta's Creator Fast Track program — up to $3,000/month for established creators to post Reels — is now expanding to college-age creators specifically, a direct bid to lock in the next generation's platform habits before TikTok or a Google-style AI feed does it first.
+
+**[Whatnot and Meta are taking aim at TikTok Shop's Black Friday crown](https://www.tubefilter.com/2026/11/23/whatnot-and-meta-are-taking-aim-at-tiktok-shops-black-friday-crown/)** — *Tubefilter*
+*Signal:* TikTok Shop's live-shopping dominance (30,000+ streams, millions in creator sales in 2024) is now a template every competitor is explicitly copying rather than trying to counter-position against — live commerce has stopped being a TikTok-specific bet and become table stakes industry-wide heading into this Black Friday.
+↳ Together these suggest: every major platform is racing to either own the creator relationship more tightly (Meta's Reels payments, Whatnot/Meta live commerce) or make the creator optional entirely (Google's AI feed) — there's no middle scenario left on the table, and brands' no-AI clauses look like an early, probably losing, rearguard action against the second path.
+
+---
+
+### Asia & US Politics
+
+**[What's at stake and the battlegrounds to watch as Taiwan heads to the polls](https://www.scmp.com/news/china/politics/article/3375455/whats-stake-and-battlegrounds-watch-taiwan-heads-polls)** — *South China Morning Post*
+*Signal:* Saturday's local elections are being read as a proxy test for the ruling DPP's strength and the opposition's unity heading into the 2028 presidential race — a result either side can spin, but the real signal is turnout and margin specifically in Taipei and New Taipei.
+
+**[Why the New Right is failing](https://www.noahpinion.blog/p/why-the-new-right-is-failing)** — *Noahpinion (Noah Smith)*
+*Signal:* Smith's structural argument is that the New Right's coalition was built on opposition rather than a governing program, and now that it holds power, the lack of a positive agenda is becoming visible in policy outcomes rather than just rhetoric — a trend claim worth tracking against actual legislative results over the coming months, not just one commentator's read.
+
+---
+
+### 🔭 Predictions
+
+> 1. **Huang's Senate testimony becomes a precedent, not a resolution** — the hearing will reveal more about which officials vouched for his reinstatement and why than it will settle the Alice Huang spy question, and its lasting significance will be as a precedent for direct executive intervention in the governance of a company deemed a national AI champion.
+> 2. **The revenue-math story eclipses the scandal story** — within weeks, Rubinstein's $3.5 trillion-needed-versus-$108 billion-generated framing (and more evidence that lenders rather than demand are driving the AI buildout) will do more to move AI-sector sentiment than any further Huang-saga headline, continuing yesterday's prediction that bubble-deflation dynamics are structural, not a one-week blip.
+> 3. **Export-control enforcement keeps hitting the edges, never the center** — expect more Megaspeed-style entity-list actions against transshipment hubs (Singapore, Southeast Asia, possibly a Dutch ASML concession) rather than any move against Nvidia itself, because the core US-China chip relationship is now too enmeshed in Trump's personal political capital to sever.
+
+---
+*39 items across 10 topics — covering 2026-11-24.*
