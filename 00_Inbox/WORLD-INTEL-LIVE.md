@@ -1,4 +1,4 @@
-Last Digest: 2026-11-25
+Last Digest: 2026-11-26
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -454,3 +454,151 @@ Last Digest: 2026-11-25
 
 ---
 *38 items across 10 topics — covering 2026-11-25.*
+
+## 2026-11-26 — Daily Sweep
+
+### AI Research: "A Whole New Continent of Mathematical Truth"
+
+**[Holy shit holy shit holy shit holy shit: The magnitude of what's now happening](https://scottaaronson.blog/?p=10379)** — *Scott Aaronson, via Hacker News*
+*Signal:* Aaronson's own framing is the story: in the space of about a week, AI systems from OpenAI and Anthropic have produced formally verified (Lean) results on the Riemann Hypothesis, an exact value for the matrix-multiplication exponent (ω = 9/4, settling a question open since the late 1960s), a proof that VP ≠ VNP, optimal Fourier-transform bounds, superpolynomial circuit lower bounds, and a deterministic subexponential factoring algorithm. He compares the moment to Galileo's telescope — not one lucky result but a step-change in resolution into "the complexity-theoretic universe" — and says a proof of P ≠ NP "is not far," while flagging but withholding detail on alleged cryptographic implications pending verification. The caution matters as much as the claims: verification capacity is now the bottleneck, not generation.
+*Read:* [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean) — *Hacker News*; [The polynomial Hirsch conjecture is false](https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf) — *Hacker News, via OpenAI*; [Unconditional Integer Factorization in Subexponential Time](https://github.com/google-research/google-research/tree/4a7bc8ab0bc770e71a259b7966c500496b99010a/cogentic_research_papers/integer_factorization) — *Hacker News, via Google Research*
+
+---
+
+### AI Economy & Nvidia Governance: The Bubble Debate Hardens
+
+**[S&P considers Nvidia credit downgrade over governance and 'key man' risks](https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/)** — *TechCrunch*
+*Signal:* S&P's possible AA → AA- move is explicitly about "weak executive oversight and lack of succession planning" after the board's 11-day reversal on Huang — the first time the Huang saga has been priced as a credit (not just equity or political) risk. A downgrade would raise Nvidia's own borrowing costs and ripple into the neoclouds Nvidia backstops with financing guarantees, pushing lenders to demand bigger collateral right as the AI buildout depends on exactly that credit.
+*Read:* [S&P Discovers Nvidia's Governance Lapses](https://www.theinformation.com/articles/s-p-discovers-nvidias-governance-lapses) — *The Information*; [S&P Global Puts Nvidia on 'CreditWatch Negative' Due to Governance Risks](https://www.theinformation.com/briefings/s-p-global-puts-nvidia-creditwatch-negative-due-governance-risks) — *The Information*; [Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it](https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/) — *TechCrunch*
+
+**[AI Crisis Would Collide With Political Mire, Scope Ratings Says](https://www.bloomberg.com/news/articles/2026-11-26/ai-crisis-would-collide-with-political-mire-scope-ratings-says)** — *Bloomberg*
+*Signal:* Scope's specific claim — that governments are too politically paralyzed to mount a coordinated response if an AI-driven unwind turns into a genuine financial crisis — raises the stakes on the S&P downgrade above from "one company's governance mess" to "a macro-prudential blind spot nobody is resourced to fix." The lenders-not-demand framing from this week's Rubinstein piece and this institutional warning are now reinforcing each other.
+*Read:* [Midcaps Hiding 'Historic' AI Bargain: JPMorgan's Leccubarri](https://www.bloomberg.com/news/videos/2026-11-26/midcaps-hiding-historic-ai-bargain-jpm-s-leccubarri-video) — *Bloomberg*
+
+**[Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'](https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/)** — *TechCrunch*
+*Signal:* Amodei is pushing back on rivals' accusations even as Anthropic increasingly automates its own research and model development (see this week's math breakthroughs, credited in part to Claude) — a defense that gets harder to sustain the more Anthropic's own PR leans on AI-authored scientific results as a selling point.
+*Read:* [AI Safety Advocates Sour on Anthropic](https://www.theinformation.com/articles/ai-safety-advocates-sour-anthropic) — *The Information*
+
+**[OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster](https://twitter.com/thsottiaux/status/2125784147889393806)** — *Hacker News*
+*Signal:* A quiet counter-signal to the "chip glut" fear circulating since yesterday: if OpenAI is tightening usage limits on its flagship models, demand for inference compute is still outrunning supply at the frontier even as investors worry the broader chip complex is building too much capacity. Oversupply and scarcity narratives are now running simultaneously, just at different layers of the stack.
+
+**[The AI-driven market rout is showing how much higher the bar has risen for the Federal Reserve to step in](https://www.wsj.com/economy/central-banking/wild-market-swings-are-colliding-with-a-fed-bent-on-taming-inflation-73ccab56?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* Continues Monday's Bessent-vs-Fed friction: a Fed under a new chair (Warsh) now has to decide whether AI-linked equity volatility clears the bar for intervention at all, while Bessent keeps publicly pressuring it not to overtighten. The "Fed put" question raised earlier this week is no longer hypothetical — it's the live policy debate.
+
+---
+
+### US-China: Tariffs Escalate as Washington Also Courts the Chip Industry
+
+**[New Tariffs on China Risk Undermining Trade Truce With U.S.](https://www.wsj.com/economy/trade/u-s-set-to-raise-tariffs-on-china-eu-and-others-e991efdb?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* The administration has proposed new "excess capacity" tariffs of up to 20% on 14 partners — China, the EU, Japan, South Korea, India, Vietnam, Singapore, Taiwan and others — stacking on top of existing duties to push some Chinese goods above 40% total. This lands weeks before the existing US-China truce expires on January 10, and China has already warned of "necessary measures" in response. Follow the money: Trump has already paid a political and economic price for tariffs once this year, and is spending that capital again — a sign the administration values leverage into the truce deadline more than near-term market calm.
+*Read:* [China Vows to Defend Interests as Trump Threatens 40% Tariff](https://www.bloomberg.com/news/articles/2026-11-26/trump-s-china-tariffs-raise-threat-of-new-test-for-trade-truce) — *Bloomberg*; [Japan protests new US tariff rate, allegation of excess capacity](https://www.bloomberg.com/news/articles/2026-11-26/japan-protests-new-us-tariff-rate-allegation-of-excess-capacity) — *Bloomberg*; [Capital Account: Trump has already paid a price for tariffs. Why is he raising them again?](https://www.wsj.com/economy/why-this-is-a-terrible-time-for-new-tariffs-a2e6b1d0?mod=rss_socialeconomyfeed) — *WSJ*
+
+**[Trump to Lead TSMC Arizona Groundbreaking Ceremony After Bringing Huang Back to Nvidia](https://www.theinformation.com/briefings/trump-lead-tsmc-arizona-groundbreaking-ceremony-bringing-huang-back-nvidia)** — *The Information*
+*Signal:* The same administration broadening tariffs against 14 trading partners is personally fronting a December 4 groundbreaking for more US-based chip manufacturing — the "punish broadly, court the chip industry specifically" pattern flagged in prior digests, now extending from enforcement actions to presidential photo-ops.
+
+---
+
+### US-China Tech War: Domestic Chips Pull Ahead of Nvidia's Timeline
+
+**[Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount](https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount)** — *South China Morning Post*
+*Signal:* UBS projects domestic AI-accelerator shipments to rise nearly sixfold by 2030, with Cambricon and Biren as front-runners — a forecast that was already aggressive before this week's Nvidia governance and credit troubles, which further weaken Nvidia's ability to defend share just as Huawei builds a CUDA-style IP moat around its own ecosystem. Supply-side substitution (Huawei, Cambricon) and demand-side US chokes (chip and token access restrictions) are now compounding each other.
+*Read:* [Huawei advances home-grown chip design ecosystem while eyeing global push to rival Nvidia](https://www.scmp.com/tech/big-tech/article/3375902/huawei-advances-home-grown-chip-design-ecosystem-while-eyeing-global-push-rival-nvidia) — *SCMP*; [Chinese AI Firms Confront Dire Future as U.S. Tightens Access to Chips and Tokens](https://www.theinformation.com/articles/chinese-ai-firms-confront-dire-future-u-s-tightens-access-chips-tokens) — *The Information*
+
+---
+
+### China: Anti-Corruption Drive Reaches the Politburo
+
+**[Shanghai party chief's downfall shows reach of anti-corruption drive](https://www.scmp.com/plus/news/china/politics/article/3375916/shanghai-party-chiefs-downfall-shows-reach-anti-corruption-drive)** — *South China Morning Post*
+*Signal:* Chen Jining's removal, flagged as a rumor in yesterday's digest, is now a confirmed investigation for "serious breaches of discipline and law" — the fourth Politburo member toppled this year, ahead of next year's leadership reshuffle. Losing a figure once read as a plausible future leader, right as Beijing is courting foreign tech investment, shows the anti-corruption apparatus still functions as a succession-control mechanism even during a stability-projection push.
+*Read:* [China's anti-corruption campaign tracker](https://www.scmp.com/plus/news/china/politics/article/3375860/chinas-anti-corruption-campaign-tracker) — *SCMP*; [How China's leadership will weigh its choices for picking Shanghai's next party chief](https://www.scmp.com/news/china/politics/article/3375898/how-chinas-leadership-will-weigh-its-choices-picking-shanghais-next-party-chief) — *SCMP*
+
+---
+
+### Trade Data vs. Market Fear: The AI Capex Counter-Case
+
+**[Hong Kong exports post fastest growth in 70 years on AI-related goods](https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375917/hong-kong-exports-post-fastest-growth-70-years-ai-related-goods)** — *South China Morning Post*
+*Signal:* 65.6% year-on-year growth in AI-related electronics exports is hard trade data, not equity-market sentiment — a real-economy echo of Monday's Singapore GDP story, even as fresh US tariffs cloud the outlook ahead.
+
+**[World Trade Flows Surge as AI Boost Overwhelms Barriers](https://www.wsj.com/economy/trade/world-trade-flows-surge-as-ai-boost-overwhelms-barriers-d0a18e21?mod=rss_socialeconomyfeed)** — *WSJ*
+*Signal:* Global trade rose at a rapid pace through September on AI-enabling goods specifically, despite a rising tide of government import restrictions — a second independent data point that AI-driven demand is currently strong enough to push through trade friction, not just hype through a stock ticker.
+↳ Together these suggest: the exact week Nvidia's credit and governance story is deteriorating (S&P, Scope Ratings, above), the hardest available trade data — Hong Kong exports, global trade flows — says AI-linked real-economy demand is still accelerating. The bear case and the bull case are being told from two different data sources (equity/credit markets vs. customs statistics) that haven't yet had to reconcile with each other.
+
+---
+
+### Geopolitics: Russia's Expanding Pressure Campaign
+
+**[Ukraine drone attack kills five in Russian-occupied Zaporizhia](https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Paired with a fresh Russian ballistic-missile strike on Kyiv the same day, this keeps the retaliatory cycle flagged across the last several digests going — both sides trading blows on and off the declared front line with no sign either expects a near-term diplomatic circuit-breaker.
+
+**[Inside the Scramble to Avert Conflict With Russia in the Baltic](https://www.wsj.com/world/europe/inside-the-scramble-to-avert-conflict-with-russia-in-the-baltic-4ec51b82?mod=rss_worldnews)** — *WSJ*
+*Signal:* Two Nordic leaders went around official channels — using an oligarch intermediary — to get a direct line to Putin over NATO-blockade fears in the Baltic. That back-channel approach, running parallel to the Korean-airspace jet probes flagged yesterday, is itself a signal: European governments increasingly doubt formal NATO or US-brokered channels can de-escalate fast enough, so they're building informal ones.
+*Read:* [Why Russian bombers at South Korea's doorstep raise stakes for US-led alliances](https://www.scmp.com/week-asia/politics/article/3375730/why-russian-bombers-south-koreas-doorstep-raise-stakes-us-led-alliances) — *SCMP*
+
+---
+
+### Middle East: Parallel Pressure Tracks
+
+**[Israeli attacks on Gaza kill senior education official, seven other people](https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Netanyahu confirmed the killing of Khaled Abu Nada directly — official acknowledgment rather than denial or ambiguity, worth triangulating against the quieter, less-covered pattern of strikes that don't get the same confirmation.
+
+**[ICC judge Kimberly Prost tries war crimes. She's a target of US sanctions](https://www.aljazeera.com/news/2026/11/26/icc-judge-kimberly-prost-tries-war-crimes-shes-a-target-of-us-sanctions?traffic_source=rss)** — *Al Jazeera*
+*Signal:* A sitting ICC judge locked out of ordinary banking apps and transfers because of US sanctions is quiet leverage in its purest form — Washington doesn't need to defund the court directly when it can make basic financial infrastructure unusable for the people running it, achieving functional obstruction without a headline confrontation.
+
+**[A 'Silent War' Grips Iran as Its Economy Strains Under U.S. Blockade](https://www.wsj.com/world/middle-east/a-silent-war-grips-iran-as-its-economy-strains-under-u-s-blockade-36bfa5d4?mod=rss_worldnews)** — *WSJ*
+*Signal:* Subsidy cuts to fuel and food are straining ordinary Iranians and exposing internal political divides — the slow-burn companion to yesterday's cyberattack-on-shipping story, showing the economic and covert-pressure tracks against Iran intensifying in parallel rather than either one easing.
+
+---
+
+### Europe: Fiscal Strain Meets Electoral Politics
+
+**[Behind France's Unrest Lies a Historic Decline in Spending Power](https://www.wsj.com/world/europe/behind-frances-unrest-lies-a-historic-decline-in-spending-power-ab0c7d65?mod=rss_worldnews)** — *WSJ*
+*Signal:* Real wages falling as inflation rises gives the Belgium-strikes, Macron-golden-rule thread from earlier in the week its underlying economic mechanism — this isn't abstract austerity politics, it's a measurable, historic squeeze on what French households can actually buy.
+
+**[Poland's $1 Trillion Economy Shows Weak Spots as Tusk-Nawrocki Feud Plays Out](https://www.bloomberg.com/news/features/2026-11-26/poland-s-1-trillion-economy-shows-weak-spots-as-tusk-nawrocki-feud-play-out)** — *Bloomberg*
+*Signal:* Poland wants into the G20 while its president and prime minister are locked in open political warfare and its finances deteriorate — a reminder that even the eurozone's genuine growth stories (Poland, Germany) carry their own political fragility that doesn't show up in headline GDP.
+
+**[Who really wants Pedro Sanchez out of power?](https://www.aljazeera.com/opinions/2026/11/26/who-really-wants-pedro-sanchez-out-of-power?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The argument here — that the real threat to Sanchez's agenda comes from Washington rather than Moscow — is worth triangulating rather than accepting outright, but it fits the broader pattern of European governments finding their domestic political fights increasingly entangled with transatlantic friction, not just internal dynamics.
+
+**[BOE Proposes 30 Basis Point Cut to UK Bank Capital Requirements](https://www.bloomberg.com/news/articles/2026-11-26/boe-proposes-30-basis-point-cut-to-uk-bank-capital-requirements)** — *Bloomberg*
+*Signal:* The Bank of England is loosening capital rules for lenders even as it warns that going further "could lead to financial instability" — a narrow, explicitly bounded deregulation move that reads as an attempt to support credit growth without re-running the exact mistake that caused the last crisis.
+↳ Together these suggest: fiscal squeeze is pushing continental Europe toward tax-the-wealthy and street-level backlash (France, and this week's broader pattern), while the UK is instead easing bank capital rules — two different governments responding to overlapping growth anxiety with opposite tools, one fiscal and punitive, one monetary and permissive.
+
+---
+
+### Asia: Central Banks Tighten as the AI Boom Drives Growth
+
+**[BOK Hikes Rate While Sharply Revising Up Growth View on AI Boom](https://www.bloomberg.com/news/articles/2026-11-26/bok-hikes-rate-on-stubborn-inflation-as-ai-boom-drives-growth)** — *Bloomberg*
+*Signal:* South Korea's central bank is raising rates and its growth forecast simultaneously — an unusual combination that signals the semiconductor-driven boom is strong enough to tolerate tightening, continuing the hawkish-bias pattern already visible this week at the ECB and BOE, but here driven by AI-capex strength rather than fiscal-political pressure.
+*Read:* [Hawkish Bank of Japan Member Seeks Quick Rate Hikes on Inflation](https://www.bloomberg.com/news/articles/2026-11-26/hawkish-bank-of-japan-member-seeks-quick-rate-hikes-on-inflation) — *Bloomberg*
+
+**[BOJ's Paper Gains From ETFs Surge as Takaichi Seeks Funding](https://www.bloomberg.com/news/articles/2026-11-26/boj-s-paper-gains-from-etfs-surge-as-takaichi-seeks-funding)** — *Bloomberg*
+*Signal:* The Bank of Japan's ETF holdings just topped ¥100 trillion in paper value — a side effect of years of unconventional easing that Prime Minister Takaichi now wants to tap to fund her own policy agenda, a quiet example of monetary-policy residue becoming a fiscal-policy resource years after the fact.
+
+---
+
+### AI's Physical Footprint: Quiet Backlash in Japan
+
+**['I'll keep fighting until the day I die': data centres ignite revolt in Japan](https://www.scmp.com/news/asia/east-asia/article/3375836/ill-keep-fighting-until-day-i-die-data-centres-ignite-revolt-japan)** — *South China Morning Post*
+*Signal:* A Kashiwa homeowner watching 31-metre data centers replace the grassy field his neighbors used to play on is a small, local story — but it's the lived version of every "AI power demand" statistic in this week's digests (nuclear revival, Meta's net-zero reversal, natural-gas boom). The buildout's social cost is showing up as neighborhood-level grievance years before it shows up in any national energy policy debate.
+
+---
+
+### Platforms & Creator Economy
+
+**[Amazon and Meta reportedly in talks to lift blockade on AI agent Muse](https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/)** — *TechCrunch*
+*Signal:* Two months after Amazon blocked Meta's shopping agent, the two sides are reportedly negotiating terms — following the same template Walmart set this week (letting an AI agent in, but only on negotiated terms) rather than either full access or a permanent block. Agentic commerce access is becoming something retailers bargain over, not something they grant or deny outright.
+
+**[Brands race to systematize how to know what makes creator content worth paying for](https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss)** — *Digiday*
+*Signal:* General Mills and other advertisers are building scoring systems for creator-content shareability — a structural shift from relationship-based creator deals toward something closer to programmatic ad buying, which will favor creators and agencies that can produce legible performance data over those who can't.
+
+---
+
+### 🔭 Predictions
+
+> 1. **The AI-math breakthrough wave becomes a credibility fight, not a clean triumph** — Aaronson's own caution about verification, combined with results (RH, the Hirsch conjecture, factoring) arriving faster than formal review can keep pace, means at least one of this week's headline claims gets partially walked back or heavily qualified within weeks, and that walk-back gets used as ammunition by AI skeptics and AI-safety alarmists alike, for opposite reasons.
+> 2. **Nvidia's credit story becomes the next leg of the bubble narrative** — S&P's 90-day CreditWatch review, read alongside Scope Ratings' systemic framing, pushes the "AI financing fragility" conversation from equity markets into debt markets, forcing lenders financing the neocloud buildout to start pricing Huang-specific key-man risk explicitly rather than treating Nvidia's credit as a given.
+> 3. **The January 10 truce deadline becomes the dominant US-China story, eclipsing Huang** — with Beijing already warning of "necessary measures" against the new 14-country tariff round, expect this fight to escalate through December, either forcing a last-minute Trump-Xi deal or producing the first real rupture since the truce began — overtaking Nvidia governance drama as the defining US-China headline by year-end.
+
+---
+*26 items across 12 topics — covering 2026-11-26.*
