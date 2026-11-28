@@ -1,4 +1,4 @@
-Last Digest: 2026-11-27
+Last Digest: 2026-11-28
 
 <!-- Drop manual items anywhere below with a [MANUAL] tag.
      The daily skill annotates them on its next run. -->
@@ -698,3 +698,148 @@ Last Digest: 2026-11-27
 
 ---
 *16 items across 8 topics — covering 2026-11-27.*
+
+## 2026-11-28 — Daily Sweep
+
+*(Perplexity unavailable today — quota exceeded on all gap-fill calls. Gap-fill below used WebSearch instead; coverage on thinner topics like digital marketing and creator economy is shallower than usual as a result.)*
+
+### Middle East: Ceasefire Erodes in Practice, Iran Pressure Persists
+
+**[Israel kills two MSF staff in targeted strike on Gaza clinic](https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss)** — *Al Jazeera*
+*Signal:* Two watchmen killed brings MSF's Gaza death toll to 17; MSF says the clinic was "clearly marked" and its location known to the Israeli military, which claims without evidence the two were Hamas members. Thirteen months into the October 2025 ceasefire, over 1,700 health workers have died in Gaza since 2023 — this isn't a ceasefire violation in the dramatic sense, it's the steady-state reality the ceasefire was supposed to end.
+
+**[Israeli Report on Soldiers Using Palestinians as Human Shields Ignites National Backlash](https://www.wsj.com/world/middle-east/israeli-report-on-soldiers-using-palestinians-as-human-shields-ignites-national-backlash-6a89f6ca?mod=rss_worldnews)** — *WSJ*
+*Signal:* A domestic Israeli TV investigation, not foreign reporting, is what's generating backlash here — the public reckoning over wartime conduct is happening inside Israeli media first, which matters for how durable any accountability push turns out to be versus if it were externally imposed.
+
+**[U.S. Strikes Vessel Attempting Blockade Run Near Iran](https://www.wsj.com/world/middle-east/u-s-strikes-vessel-attempting-blockade-run-near-iran-338439e4?mod=rss_worldnews)** — *WSJ*
+*Signal:* Direct US military action against a blockade-runner, not sanctions enforcement — a harder edge on the economic-pressure campaign than the "silent war" framing from earlier in the week suggested, right as diplomatic talks (via Qatar) are already stalled.
+
+**[Yemen government forces hit Houthi positions as UN warns of hunger crisis](https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss)** — *Al Jazeera*
+*Signal:* 1.8 million people in emergency-level hunger in government-held Yemen — a reminder that the region's "quiet" conflicts (Yemen's civil war has had no major headline in weeks) keep generating humanitarian costs that don't need an escalation to be severe.
+↳ Together these suggest: every active Middle East front this week is behaving the same way — formal frameworks (Gaza ceasefire, Iran diplomacy, Yemen's low-boil civil war) hold on paper while the substance underneath keeps deteriorating, visible only to whoever is tracking body counts and hunger data rather than ceasefire-violation headlines.
+
+---
+
+### Geopolitics: Russia-Ukraine's Technology-Constrained War
+
+**[How Starlink Limits Force Ukraine to Fight With the Brakes On](https://www.wsj.com/world/how-starlink-limits-force-ukraine-to-fight-with-the-brakes-on-3fd1d605?mod=rss_worldnews)** — *WSJ*
+*Signal:* Ukraine's drone war runs on Starlink connectivity, and Starlink's technical limits — fly too fast and the link drops, too slow and the drone is easier to intercept — are now a hard constraint on battlefield tactics. This is quiet leverage in its purest form: a single commercial satellite company's engineering choices are shaping how Ukraine can and can't fight, with no vote, treaty, or alliance structure involved. Worth reading against Musk's own durable political standing (Read link) — the same infrastructure dependency that gave him leverage over Ukraine in 2022 hasn't gone away just because the headlines moved on.
+*Read:* [Elon Musk can afford a little MAGA amnesia](https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss) — *Al Jazeera*
+
+**[Ukraine says it used laser weapon to shoot down Russian drone for first time](https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time)** — *South China Morning Post*
+*Signal:* A first-of-its-kind laser intercept, developed by Ukraine's own state-backed Brave1 defense-tech program, is a small but genuine capability leap — directed-energy weapons moving from research curiosity to battlefield use is the kind of quiet technological escalation that doesn't change the war's trajectory on its own but compounds with everything else (sea drones, long-range strikes) Ukraine has fielded this year.
+
+**[Opinion: Vladimir Putin, Grandmaster of Stalemate](https://www.wsj.com/opinion/vladimir-putin-grandmaster-of-stalemate-ddd1c304?mod=rss_worldnews)** — *WSJ*
+*Signal:* The argument that Putin will concede nothing regardless of Russia's mounting losses (per this week's hacked-casualty-data story) is the load-bearing assumption behind Kyiv's own strategy — if true, it validates Ukraine's bet on dispersed, deniable pressure over waiting for a negotiated off-ramp that triangulates poorly with Washington's more conciliatory public rhetoric toward Moscow.
+
+---
+
+### US-China: Trade Enforcement Spillover Keeps Widening
+
+**[Why South Korea's chip boom is now a US tariff trap as a US$350b pledge looms](https://www.scmp.com/week-asia/politics/article/3376053/why-south-koreas-chip-boom-now-us-tariff-trap-us350b-pledge-looms)** — *South China Morning Post*
+*Signal:* Washington's new "excess capacity" tariff investigation puts Seoul in a bind — the state-backed industrial policy that built its chip dominance is now the thing the US probe targets, even as South Korea is separately expected to honor a $350 billion US investment pledge. An ally gets squeezed by the same enforcement logic aimed at adversaries, continuing the week's pattern of collateral damage outrunning precision.
+
+**[Opinion: Treasury Aims at China, Hits American Cancer Patients](https://www.wsj.com/opinion/treasury-aims-at-china-hits-american-cancer-patients-c6656739?mod=rss_worldnews)** — *WSJ*
+*Signal:* A proposed federal ban on US-China biotech joint ventures could cut oncology drug development by roughly 20%, per the piece — the clearest evidence yet that China-decoupling policy aimed at national security is now cutting into domains (cancer research) where the entanglement was mutually beneficial, not strategically dangerous.
+*Read:* [Opinion: Nvidia and Failing U.S. Export Controls](https://www.wsj.com/opinion/nvidia-chips-u-s-export-controls-china-jensen-huang-c457c915?mod=rss_worldnews) — *WSJ*
+↳ Together these suggest: the "enforcement hits the edges, not the center" pattern flagged repeatedly this week now has two new edges — an allied chip industry and domestic cancer research — neither of which were the intended target.
+
+---
+
+### China: Politics & Strategic Positioning
+
+**["No warning, no mercy": why China moved fast to topple Chen Jining](https://www.scmp.com/news/china/politics/article/3376088/no-warning-no-mercy-why-china-moved-fast-topple-chen-jining)** — *South China Morning Post*
+*Signal:* Confirms and extends Wednesday's and Thursday's items on the Shanghai party chief's downfall — the speed (struck within days of Xi's return from APEC) is itself the message, and the piece frames it as deliberate vetting ahead of the 2027 party congress rather than a reactive corruption case. The fourth Politburo-adjacent figure toppled this year is a pattern, not an anomaly, in succession-control terms.
+
+---
+
+### Europe: Hawkish ECB Collides With Recession and an Electoral Verdict
+
+**[France Slips Into Recession as Exports Sag](https://www.wsj.com/world/europe/french-economy-slips-into-recession-as-exports-sag-47e934c5?mod=rss_worldnews)** — *WSJ*
+*Signal:* Q3 output contracted as summer heat waves slowed Airbus production — a genuine recession, not just the slowdown flagged earlier in the week, landing the same day S&P revised France's credit outlook to negative. Macron's "golden rule" fiscal pitch (flagged Monday) now has to be sold against an economy that's actually shrinking, not just slowing.
+*Read:* [S&P Revises Outlook on France's Credit Rating to Negative From Stable](https://www.wsj.com/world/europe/s-p-revises-outlook-on-french-credit-rating-to-negative-from-stable-eab7384f?mod=rss_worldnews) — *WSJ*
+
+**[German Budget Passes With €210 Billion in New Borrowing Planned](https://www.bloomberg.com/news/articles/2026-11-27/german-budget-passes-with-210-billion-in-new-borrowing-planned)** — *Bloomberg*
+*Signal:* Berlin approved a €556 billion budget leaning hard on debt for defense and infrastructure — a reminder that Germany's recent growth strength (flagged repeatedly this week) is itself partly a function of loosening fiscal policy, not a free-standing structural improvement.
+
+**[Euro-Zone Inflation Is Seen Weaker for First Time in Five Months](https://www.bloomberg.com/news/articles/2026-11-27/euro-zone-inflation-is-seen-weaker-for-first-time-in-five-months)** — *Bloomberg*
+*Signal:* The first inflation deceleration in five months lands the same week three separate Governing Council members (Nagel, Vujcic, Dolenc) are publicly pushing for another December hike — the ECB's hawkish chorus is now talking past its own incoming data, not just past France's recession.
+*Read:* [ECB's Nagel Signals Need for Another Rate Hike in December](https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-nagel-signals-need-for-another-rate-hike-in-december) — *Bloomberg*; [ECB's Two Rate Hikes to Date Aren't Enough, Dolenc Tells Delo](https://www.bloomberg.com/news/articles/2026-11-27/ecb-s-two-rate-hikes-to-date-aren-t-enough-dolenc-tells-delo) — *Bloomberg*
+
+**[Spain's PM Sanchez makes final bid to head off conservatives and far-right](https://www.scmp.com/news/world/europe/article/3376131/spains-pm-sanchez-makes-final-bid-head-conservatives-and-far-right)** — *South China Morning Post*
+*Signal:* Sunday's snap election is the clearest electoral test yet of the fiscal-squeeze-backlash thread tracked all week (Belgium's strikes, France's unrest, the "tax the wealthy" rallying cry) — polling has Sánchez trailing two parties of the right, which would make Spain the first major test case of whether that backlash actually translates into incumbents losing power, not just street protest.
+*Read:* [Spain faces political shift as far right gains ground](https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss) — *Al Jazeera*
+↳ Together these suggest: the ECB is tightening into a German debt-fueled sugar high and a genuine French recession at the same time Spain may hand Europe's fiscal-squeeze backlash its first real electoral scalp — three different countries are about to test three different theories of how this ends, within days of each other.
+
+---
+
+### US Macro: Soft Landing Signals Ahead of the Fed's December Decision
+
+**[World Economy Latest: US Consumers Temper Spending After Recent Burst](https://www.bloomberg.com/news/articles/2026-11-28/world-economy-latest-us-consumers-temper-spending-after-recent-burst)** — *Bloomberg*
+*Signal:* Consumers pulled back after Q3's spending burst (the one that drove the strongest growth in three years) — not a contraction, but a cooling that gives the Fed's December meeting (nonfarm payrolls land first, per the week-ahead calendar) more room to hold rather than tighten, cutting against the regional-Fed hawkish tilt flagged earlier this week.
+
+**[US Goods-Trade Deficit Widens for Fourth Straight Month](https://www.bloomberg.com/news/articles/2026-11-27/us-goods-trade-deficit-widens-for-fourth-straight-month)** — *Bloomberg*
+*Signal:* Capital-goods imports hit a fresh record even as the deficit widens — more evidence (alongside this week's Hong Kong and global trade-flow data) that AI-linked capex is still pulling hard on trade flows regardless of what AI equities are doing.
+
+---
+
+### AI: Trust Deficit Widens Even as Infrastructure Race Accelerates
+
+**[Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)** — *Hacker News*
+*Signal:* A genuine architecture-level efficiency gain (not just scale) for transformer residual connections — these compound across every model trained on top of them, and matter more for the AI-economics debate (this week's $3.5T-revenue-needed framing) than most single-model announcements, since efficiency gains are the one lever that cuts capex requirements rather than adding to them.
+
+**[States sue SpaceX to stop Grok from generating child sex images, revenge porn](https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform)** — *Hacker News, via Virginia AG*
+*Signal:* State attorneys general suing a frontier AI lab directly over CSAM generation — rather than waiting on federal action — is a notable escalation in how state-level enforcement is approaching AI harms, and lands the same week Apple pulled MiniMax's Talkie app over similar child-safety failures. Expect more state AG suits to become the primary enforcement mechanism while federal AI legislation stays stalled.
+
+**[False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)** — *Hacker News*
+*Signal:* A direct rebuttal to the week's "holy shit" math-breakthrough euphoria (Riemann, matrix multiplication, the Hirsch conjecture) — a reminder, from a credentialed cryptographer, that formally verified doesn't mean correct if the formalization itself encodes the wrong theorem. This is exactly the verification-capacity bottleneck Aaronson flagged Thursday, now showing up as a specific, named failure mode rather than an abstract caveat.
+
+**[Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)** — *Hacker News*
+*Signal:* An AI coding-assistant skill quietly exfiltrating prompts to a third-party server without disclosure is a small case study in the exact trust problem flagged Thursday's digest (the "Claude sabotage" story) — users increasingly can't tell transparent design choices from covert ones in AI tooling, and that ambiguity is now showing up in developer tools, not just frontier-model behavior.
+
+**[OpenAI Countersues Apple In Trade Secrets Battle](https://www.theinformation.com/briefings/openai-countersues-apple-trade-secrets-battle)** — *The Information*
+*Signal:* Four months after Apple sued OpenAI for trade-secret theft, OpenAI countersued — mutual accusations between two companies that are also negotiating how ChatGPT integrates into iOS. The legal fight is now adversarial on both sides even as the commercial relationship keeps deepening, a split-track dynamic matching this week's Amazon/Meta Muse pattern of engaging and litigating simultaneously.
+
+**[Belgium orders Google to stop work on data centre lacking proper permits](https://www.scmp.com/news/world/europe/article/3376094/belgium-orders-google-stop-work-data-centre-lacking-proper-permits)** — *South China Morning Post*
+*Signal:* A regulator halting a 3-hectare Google data center outright over permitting, not just protesting it, is a harder enforcement action than the Japan neighborhood backlash flagged Thursday — European permitting bureaucracy may end up a more binding constraint on AI buildout speed than grid capacity or local sentiment.
+
+**[How Israel is fast-tracking data centres in bid to become 'AI superpower'](https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss)** — *Al Jazeera*
+*Signal:* The mirror image of the Belgium story — a government deliberately fast-tracking data center approval explicitly for military/intelligence as well as commercial AI capacity. Together, Belgium and Israel show governments are no longer treating data-center permitting as a technical zoning question; it's becoming explicit industrial and security policy either way they land.
+
+**[India became an investor haven in AI trade, playing catch-up in data centers](https://www.bloomberg.com/news/newsletters/2026-11-27/india-became-an-investor-haven-in-ai-trade-playing-catch-up-in-data-centers)** — *Bloomberg*
+*Signal:* Indian equities caught a bid as a safe-ish harbor from the AI-stock rout precisely because India has less AI-infrastructure exposure yet — a reminder that "underexposed to the AI trade" is currently being priced as a feature, not a laggard position, by investors nervous about concentration risk elsewhere.
+↳ Together these suggest: the AI trust deficit (Grok CSAM suits, the Convex disclosure failure, contested math proofs) and the AI infrastructure race (Belgium's halt, Israel's fast-track, India's safe-haven status) are running on separate tracks that haven't collided yet — but every government now treats data-center siting as sovereign industrial policy, which is the structural story independent of which individual company's model or scandal is in the headlines.
+
+---
+
+### Creator Economy & Digital Marketing: Consolidation Accelerates
+
+**[Creator economy agency acquisitions hit record 30 in 2026](https://www.world-today-news.com/creator-economy-agency-acquisitions-hit-record-30-in-2026/)** — *World Today News*
+*Signal:* 124 creator-adjacent M&A deals this year (the busiest on record) and creator media budgets projected to hit $44 billion, alongside a separate report that brands will move $116 billion from TV and search budgets into creator/influencer spend in 2026. Read together with this week's Clix-holdco item and General Mills' creator-scoring system: the creator economy's "wild west" phase is closing from multiple directions at once — agencies consolidating, budgets institutionalizing, and individual creators incorporating like media companies, all in the same few weeks.
+*Read:* [Brands are moving TV ad money to influencers, and spending will hit $116 billion this year](https://keyt.com/stacker-business-economy/2026/11/25/brands-are-moving-tv-ad-money-to-influencers-and-spending-will-hit-116-billion-this-year/) — *Stacker, via KEYT*
+
+---
+
+### Energy: A Quiet Battery Breakthrough
+
+**[The coming age of sodium-ion batteries](https://www.noahpinion.blog/p/the-coming-age-of-sodium-ion-batteries)** — *Noahpinion (Noah Smith, guest post by Alex Shoer)*
+*Signal:* Sodium-ion chemistry trades some energy density for using no lithium, cobalt, or nickel — a potential hedge against the exact critical-minerals chokepoints that have been a recurring US-China friction point this week (the truce extensions, the ASML pressure). If it scales, it's the kind of "quiet leverage" shift that could matter more for the next decade's supply-chain geopolitics than any single export-control headline.
+
+---
+
+### Other Geopolitics: UN Diplomat Detention Tests the ICC-Sanctions Pattern
+
+**[UN's Albanese leaves Costa Rica airport after constitutional court verdict](https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss)** — *Al Jazeera*
+*Signal:* UN special rapporteur Francesca Albanese's release follows Costa Rica barring her entry entirely and a court intervening — a direct continuation of Thursday's "ICC judge locked out of banking" item. The same soft-power alignment with Washington and Israel is now visibly constraining a small state's own courts, not just its financial-infrastructure choices.
+*Read:* [UN chief frontrunner urged to speak out over Albanese detention](https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss) — *Al Jazeera*
+
+---
+
+### 🔭 Predictions
+
+> 1. **Spain becomes the fiscal-squeeze backlash's first electoral casualty, not just its loudest protest** — building on this week's pattern (Belgium's strikes, France's unrest, Macron's golden rule), expect Sunday's Spanish election to go further than any prior test case this year and actually remove an incumbent government over the "who pays for the squeeze" question, making Spain the template other 2027 European elections get read against.
+> 2. **The ECB's hawkish chorus gets a hard reality check within weeks** — three Governing Council members pushing for a December hike against softening inflation and an outright French recession is a position that doesn't survive contact with one more weak data print; expect at least one of Nagel, Vujcic, or Dolenc to walk back the "prudent to hike" framing before the December meeting itself.
+> 3. **State AG lawsuits, not federal legislation, become the default AI-harms enforcement channel** — following the Virginia/Oregon suit against Grok and this month's Apple-MiniMax takedown, expect more individual states to file directly against frontier labs over child-safety and CSAM issues specifically, since it requires no federal coordination and produces faster, more visible results than waiting on Congress or the FTC.
+
+---
+*28 items across 10 topics — covering 2026-11-28.*
